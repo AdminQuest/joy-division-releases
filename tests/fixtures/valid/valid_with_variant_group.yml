@@ -1,0 +1,31 @@
+# Variante appartenant a un groupe de sous-variantes : meme pressage
+# bootleg Warsaw LP en 8 couleurs differentes. Le group_id 'BW4'
+# (recycle du code legacy) est partage par les 8 entrees ; ici on en
+# illustre une seule, suffisante pour exercer la validation du champ.
+#
+# L'interface publique pourra agreger les variants partageant ce
+# group_id pour offrir une vue 'Warsaw LP — 8 color variations'
+# tandis que la cotation continue de tracker chaque couleur
+# separement (les vinyls bleu, clear et splatter ne valent pas
+# le meme prix sur le marche secondaire).
+variant_id: BOOT-W-0014
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: W
+country_or_pressing_place: UK
+variant_group:
+  group_id: BW4
+  group_role: color_variation
+  group_description: Warsaw LP UK 2018 release, 8 color variants from the same pressing.
+format_details:
+  type: audio
+  catalog_number: FACT 261
+  label_apparent: Factory
+  supports:
+    - support_type: vinyl
+      count: 1
+      size: '12"'
+      color: Clear
