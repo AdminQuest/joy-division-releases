@@ -49,6 +49,7 @@ USER_AGENT = (
 API_BASE = "https://api.discogs.com"
 RATE_LIMIT_DELAY = 2.5  # secondes entre 2 requetes (anonyme = 25/min)
 BACKOFFS_429 = (5, 10, 20)  # delais en cas de 429, puis abandon
+BACKOFFS_NET = (2, 4, 8)    # delais sur erreur reseau / SSL transitoire
 
 # Pattern unique pour les deux formes d'URL Discogs rencontrees :
 #   .../release/{id}-Slug
@@ -96,25 +97,36 @@ def collect_release_ids() -> tuple[dict[str, list[str]], list[tuple[str, str]]]:
     return by_id, unparseable
 
 
-def http_get(url: str, accept: str) -> tuple[int, dict, bytes]:
-    """GET avec User-Agent. Retourne (status, headers, body).
+def http_get(url: str, accept: str) -> tuple[int, dict, bytes, str]:
+    """GET avec User-Agent. Retourne (status, headers, body, error_msg).
     Les cles de headers sont normalisees en lowercase (Cloudflare et
     d'autres CDN renvoient les headers en lowercase, donc on s'aligne
-    pour avoir un lookup deterministe). Leve sur erreur reseau ; les
-    codes HTTP != 2xx sont retournes via urllib.error.HTTPError.
+    pour avoir un lookup deterministe). Sur HTTPError, retourne le
+    code + body. Sur erreur reseau / SSL transitoire, retry avec
+    backoff (2/4/8 s), puis renvoie status=0 et error_msg renseigne.
     """
     req = urllib.request.Request(
         url,
         headers={"User-Agent": USER_AGENT, "Accept": accept},
     )
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            headers = {k.lower(): v for k, v in resp.headers.items()}
-            return resp.status, headers, resp.read()
-    except urllib.error.HTTPError as e:
-        headers = {k.lower(): v for k, v in (e.headers or {}).items()}
-        body = e.read() if hasattr(e, "read") else b""
-        return e.code, headers, body
+    last_err = ""
+    for attempt in range(len(BACKOFFS_NET) + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                headers = {k.lower(): v for k, v in resp.headers.items()}
+                return resp.status, headers, resp.read(), ""
+        except urllib.error.HTTPError as e:
+            headers = {k.lower(): v for k, v in (e.headers or {}).items()}
+            body = e.read() if hasattr(e, "read") else b""
+            return e.code, headers, body, ""
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            last_err = f"{type(e).__name__}: {e}"
+            if attempt < len(BACKOFFS_NET):
+                wait = BACKOFFS_NET[attempt]
+                print(f"  [net-err] {last_err} -- retry dans {wait}s", flush=True)
+                time.sleep(wait)
+                continue
+            return 0, {}, b"", last_err
 
 
 def get_release_metadata(release_id: str) -> tuple[int, dict | None, str]:
@@ -124,7 +136,9 @@ def get_release_metadata(release_id: str) -> tuple[int, dict | None, str]:
     url = f"{API_BASE}/releases/{release_id}"
     attempt = 0
     while True:
-        status, headers, body = http_get(url, accept="application/json")
+        status, headers, body, net_err = http_get(url, accept="application/json")
+        if net_err:
+            return status, None, f"erreur reseau : {net_err}"
         if status == 200:
             try:
                 return status, json.loads(body), ""
@@ -158,7 +172,9 @@ def download_image(url: str, release_id: str) -> tuple[Path | None, str]:
     """Telecharge l'image et l'enregistre sous COVERS_DIR/{id}.{ext}.
     Retourne (path_local, message_si_echec).
     """
-    status, headers, body = http_get(url, accept="image/*")
+    status, headers, body, net_err = http_get(url, accept="image/*")
+    if net_err:
+        return None, f"erreur reseau : {net_err}"
     if status != 200:
         return None, f"download HTTP {status}"
     ctype = headers.get("content-type", "").split(";")[0].strip().lower()
