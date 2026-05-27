@@ -5,8 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Joy Division — Registre des releases</title>
   <link rel="stylesheet" href="style.css" />
-  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.1/dist/cdn.min.js"></script>
+  <!-- app.js doit etre charge AVANT Alpine pour pouvoir enregistrer le
+       listener 'alpine:init' avant qu'Alpine ne fire l'evenement.
+       Avec deux scripts en defer, l'ordre d'execution = ordre HTML. -->
   <script defer src="app.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.1/dist/cdn.min.js"></script>
 </head>
 <body x-data x-cloak>
   <header class="site-header">
@@ -17,14 +20,14 @@
         <span class="dot">·</span>
         <span x-text="`${$store.registry.data?.total_variants ?? 0} variantes au total`"></span>
         <span class="dot">·</span>
-        <span x-text="`generated ${$store.registry.formattedGeneratedAt}`"></span>
+        <span x-text="`généré le ${$store.registry.formattedGeneratedAt}`"></span>
       </p>
     </div>
   </header>
 
   <main x-show="!$store.registry.loading" class="main">
 
-    <!-- Barre de controles -->
+    <!-- Barre de contrôles -->
     <section class="controls">
       <div class="control-row">
         <input
@@ -38,7 +41,7 @@
           type="button"
           class="toggle-view"
           :class="$store.registry.groupedView ? 'on' : ''"
-          x-text="$store.registry.groupedView ? 'Vue consolidee' : 'Vue eclatee'"
+          x-text="$store.registry.groupedView ? 'Vue consolidée' : 'Vue éclatée'"
           @click="$store.registry.toggleGroupedView()"
         ></button>
       </div>
@@ -99,18 +102,18 @@
             class="link-button"
             @click="$store.registry.resetFilters()"
             x-show="$store.registry.hasActiveFilters"
-          >Reinitialiser</button>
+          >Réinitialiser</button>
         </div>
       </div>
 
       <div class="control-row stats">
         <span class="stat-pill">
           <strong x-text="$store.registry.visibleCount"></strong>
-          <span> resultats</span>
+          <span> résultats</span>
         </span>
         <span class="stat-pill" x-show="$store.registry.groupedView">
           <strong x-text="$store.registry.visibleGroupCount"></strong>
-          <span> lignes consolidees</span>
+          <span> lignes consolidées</span>
         </span>
       </div>
     </section>
@@ -123,7 +126,7 @@
             <th class="col-id">ID</th>
             <th class="col-title">Titre</th>
             <th class="col-type">Type</th>
-            <th class="col-year">Annee</th>
+            <th class="col-year">Année</th>
             <th class="col-country">Pays</th>
             <th class="col-format">Format</th>
             <th class="col-links">Liens</th>
@@ -163,14 +166,14 @@
           </template>
         </tbody>
       </table>
-      <p class="empty" x-show="$store.registry.visibleCount === 0">Aucun resultat ne correspond aux filtres.</p>
+      <p class="empty" x-show="$store.registry.visibleCount === 0">Aucun résultat ne correspond aux filtres.</p>
     </section>
   </main>
 
   <p x-show="$store.registry.loading" class="loading">Chargement du registre…</p>
   <p x-show="$store.registry.loadError" class="error" x-text="$store.registry.loadError"></p>
 
-  <!-- Panneau de detail -->
+  <!-- Panneau de détail -->
   <aside
     class="detail-panel"
     x-show="$store.registry.selectedVariant"
@@ -233,19 +236,19 @@
           </section>
 
           <section class="detail-section" x-show="$store.registry.selectedVariant.edition || $store.registry.selectedVariant.distribution">
-            <h3>Edition</h3>
+            <h3>Édition</h3>
             <dl>
               <template x-if="$store.registry.selectedVariant.edition">
                 <template x-for="(_, i) in [0]">
                   <span style="display: contents;">
                     <dt>edition</dt>
                     <dd>
-                      <span x-text="$store.registry.selectedVariant.edition.is_limited ? 'Limitee' : 'Non limitee'"></span>
+                      <span x-text="$store.registry.selectedVariant.edition.is_limited ? 'Limitée' : 'Non limitée'"></span>
                       <template x-if="$store.registry.selectedVariant.edition.total_copies">
                         <span x-text="` (${$store.registry.selectedVariant.edition.total_copies} copies)`"></span>
                       </template>
                       <template x-if="$store.registry.selectedVariant.edition.numbered">
-                        <span> · Numerotee</span>
+                        <span> · Numérotée</span>
                       </template>
                       <template x-if="$store.registry.selectedVariant.edition.notes">
                         <div class="muted" x-text="$store.registry.selectedVariant.edition.notes"></div>
@@ -313,7 +316,7 @@
 
   <footer class="site-footer">
     <p>
-      Donnees consultees a partir du registre canonique
+      Données consultées à partir du registre canonique
       <a href="https://github.com/adminquest/joy-division-releases" target="_blank" rel="noopener">joy-division-releases</a>.
       Pour signaler une correction, ouvrir une issue ou une PR sur les YAML sources.
     </p>
