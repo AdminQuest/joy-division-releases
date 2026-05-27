@@ -96,6 +96,12 @@
     "notes": {
       "type": ["string", "null"]
     },
+    "variant_group": {
+      "anyOf": [
+        {"type": "null"},
+        {"$ref": "#/$defs/variant_group"}
+      ]
+    },
     "_legacy_code": {
       "type": "object",
       "additionalProperties": true
@@ -161,6 +167,27 @@
     }
   ],
   "$defs": {
+    "variant_group": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["group_id", "group_role"],
+      "properties": {
+        "group_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Identifiant arbitraire mais stable, partage par toutes les sous-variantes d'un meme groupe (typiquement un pressage)."
+        },
+        "group_role": {
+          "type": "string",
+          "enum": ["color_variation", "pressing_variation", "format_variation", "other"],
+          "description": "Nature du regroupement."
+        },
+        "group_description": {
+          "type": ["string", "null"],
+          "description": "Description libre du groupe."
+        }
+      }
+    },
     "edition": {
       "type": "object",
       "additionalProperties": false,
