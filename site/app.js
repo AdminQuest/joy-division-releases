@@ -83,6 +83,10 @@ document.addEventListener("alpine:init", () => {
     data: null,
     loading: true,
     loadError: null,
+    // Compte total des membres par group_id (depuis data.variant_groups,
+    // donc independant des filtres). Permet d'afficher 'K/N variantes'
+    // sur la ligne consolidee quand un filtre reduit la visibilite.
+    groupTotalCounts: {},
 
     // ===== filtres / UI =====
     search: "",
@@ -112,6 +116,10 @@ document.addEventListener("alpine:init", () => {
           return (a.variant_id || "").localeCompare(b.variant_id || "");
         });
         this.data = data;
+        // Build group total-count lookup once for K/N labels.
+        for (const g of data.variant_groups ?? []) {
+          this.groupTotalCounts[g.group_id] = g.count;
+        }
       } catch (err) {
         this.loadError = `Erreur de chargement : ${err.message}`;
       } finally {
@@ -285,6 +293,20 @@ document.addEventListener("alpine:init", () => {
       const first = members[0];
       const expanded = !!this.expandedGroups[gid];
       const store = this;
+      // K = membres du groupe qui passent les filtres courants ;
+      // N = total des membres dans le groupe (data brute).
+      // Label "N variantes" si tous matchent, "K/N variantes" sinon,
+      // singulier si K === 1.
+      const K = members.length;
+      const N = this.groupTotalCounts[gid] ?? K;
+      let memberCountLabel;
+      if (K === N) {
+        memberCountLabel = `${N} variantes`;
+      } else if (K === 1) {
+        memberCountLabel = `1/${N} variante`;
+      } else {
+        memberCountLabel = `${K}/${N} variantes`;
+      }
       return {
         key: `g-${gid}`,
         isGroup: true,
@@ -292,7 +314,9 @@ document.addEventListener("alpine:init", () => {
         variant: null,
         group_id: gid,
         members,
-        memberCount: members.length,
+        memberCount: K,
+        memberCountTotal: N,
+        memberCountLabel,
         expanded,
         title: first.canonical_title,
         release_type: first.release_type,

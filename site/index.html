@@ -141,7 +141,7 @@
               </td>
               <td class="col-title">
                 <strong x-text="row.title"></strong>
-                <span class="badge" x-show="row.isGroup" x-text="`${row.memberCount} variantes`"></span>
+                <span class="badge" x-show="row.isGroup" x-text="row.memberCountLabel"></span>
               </td>
               <td class="col-type">
                 <span class="type-pill" :data-type="row.release_type" x-text="row.release_type"></span>
