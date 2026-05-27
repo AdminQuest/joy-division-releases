@@ -112,10 +112,60 @@ strictement régulier sans introduire de catégorie spéciale, ces titres
 sont regroupés sous la **lettre `0`**. C'est la seule valeur non
 alphabétique acceptée par le pattern (`[A-Z0]`).
 
+## Regroupement de sous-variantes — `variant_group`
+
+Champ **optionnel** du tronc commun. Permet d'exprimer qu'un ensemble
+de variantes partage un même pressage / une même édition source, tout
+en conservant un `variant_id` distinct par sous-variante.
+
+Cas d'usage typique issu de la migration legacy : le bootleg
+*Warsaw LP* UK 2018 (catalog `FACT 261`) circule en 8 couleurs de
+vinyl issues du même pressage. Chaque couleur a sa propre cotation
+sur le marché secondaire (le clear et le splatter ne se vendent pas
+au même prix), donc on conserve 8 `variant_id` indépendants pour le
+suivi de collection et la veille marchande. Le champ
+`variant_group` offre le pont vers une vue consolidée : une interface
+publique peut regrouper ces 8 entrées sous une seule fiche
+"Warsaw LP — 8 color variations".
+
+### Structure
+
+```yaml
+variant_group:
+  group_id: BW4               # arbitraire mais stable, partage par le groupe
+  group_role: color_variation # nature du regroupement
+  group_description: |        # optionnel, texte libre
+    Warsaw LP UK 2018 release, 8 color variants
+    from the same pressing.
+```
+
+### Champs
+
+| Champ               | Type                | Notes                                                                       |
+|---------------------|---------------------|-----------------------------------------------------------------------------|
+| `group_id`          | string (≥1 char)    | Identifiant arbitraire stable. Partagé par toutes les sous-variantes.       |
+| `group_role`        | enum                | `color_variation` / `pressing_variation` / `format_variation` / `other`     |
+| `group_description` | string \| null      | Texte libre décrivant le groupe.                                            |
+
+### Conventions
+
+- **Optionnel** : la majorité des variantes ne sont pas regroupées (pressages distincts, éditions distinctes, etc.) et n'ont pas de `variant_group`.
+- **`group_id` recyclé du legacy** : pour les bootlegs migrés du legacy, on réutilise le préfixe du code legacy (ex. `BW4` pour la série `BW4a` … `BW4h`) — choix arbitraire mais traçable.
+- **Trois `group_role`** :
+  - `color_variation` — même pressage, couleurs de vinyl différentes (Warsaw LP).
+  - `pressing_variation` — pressages différents (UK 1979 vs Italy 1980 d'un même album) ; à utiliser avec parcimonie, ces cas sont déjà naturellement séparés par `variant_id`.
+  - `format_variation` — même édition déclinée en LP + CD + cassette.
+  - `other` — échappatoire pour cas non couverts.
+- **Pas de contrainte d'unicité** sur `group_id` : un seul variant peut porter un `group_id` (groupe d'un membre, en anticipation d'autres) ; deux variants avec le même `group_id` indiquent un groupe constitué.
+
+La fixture `tests/fixtures/valid/valid_with_variant_group.yml` exerce
+ce mécanisme.
+
 ## Extensions typées (`$defs`)
 
 | `$def`             | Rôle                                                                 |
 |--------------------|----------------------------------------------------------------------|
+| `variant_group`    | Regroupement de sous-variantes (cf. section dédiée)                  |
 | `edition`          | Caractérise un tirage limité / numéroté                              |
 | `distribution`     | Canal de distribution (commercial, promo, presse, pressage privé)    |
 | `audio_format`     | Description d'une variante audio (vinyle, CD, cassette…)             |
