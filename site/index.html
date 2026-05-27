@@ -123,6 +123,7 @@
       <table class="variants-table" x-show="$store.registry.visibleCount > 0">
         <thead>
           <tr>
+            <th class="col-cover" aria-label="Pochette"></th>
             <th class="col-id">ID</th>
             <th class="col-title">Titre</th>
             <th class="col-type">Type</th>
@@ -138,6 +139,11 @@
               :class="row.isGroup ? 'group-row' : (row.isMember ? 'group-member' : '')"
               @click="row.isGroup ? row.toggleExpand() : $store.registry.selectVariant(row.variant)"
             >
+              <td class="col-cover">
+                <template x-if="row.cover">
+                  <img :src="row.cover" :alt="`Pochette ${row.title}`" class="cover-thumb" loading="lazy" />
+                </template>
+              </td>
               <td class="col-id">
                 <span x-show="row.isGroup" class="expand-icon" x-text="row.expanded ? '▾' : '▸'"></span>
                 <code x-text="row.isGroup ? `[${row.group_id}]` : row.variant.variant_id"></code>
@@ -197,6 +203,16 @@
 
       <template x-if="$store.registry.selectedVariant">
         <div class="detail-sections">
+
+          <template x-if="$store.registry.coverFor($store.registry.selectedVariant)">
+            <section class="detail-section detail-cover-section">
+              <img
+                :src="$store.registry.coverFor($store.registry.selectedVariant)"
+                :alt="`Pochette ${$store.registry.selectedVariant?.canonical_title}`"
+                class="cover-detail"
+              />
+            </section>
+          </template>
 
           <section class="detail-section">
             <h3>Identification</h3>

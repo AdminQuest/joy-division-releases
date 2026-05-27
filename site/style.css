@@ -248,6 +248,15 @@ body {
 
 .variants-table tbody tr.group-member .col-id code { opacity: 0.7; padding-left: 16px; }
 
+.col-cover { width: 56px; padding: 4px 8px !important; }
+.col-cover .cover-thumb {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  display: block;
+  border-radius: 3px;
+  background: var(--bg-group);
+}
 .col-id { width: 130px; font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 11px; }
 .col-id code { color: var(--accent); }
 .col-title { min-width: 220px; }
@@ -416,6 +425,22 @@ body {
 
 .detail-section dd .muted { color: var(--text-muted); font-size: 12px; margin-left: 4px; }
 
+.detail-cover-section {
+  border-top: none;
+  padding-top: 0;
+  text-align: center;
+}
+
+.cover-detail {
+  max-width: 240px;
+  max-height: 240px;
+  width: auto;
+  height: auto;
+  border-radius: 4px;
+  background: var(--bg-group);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
 .detail-yaml {
   background: var(--bg-group);
   padding: 12px;
@@ -476,6 +501,7 @@ body {
     padding: 8px 12px;
     margin-bottom: 8px;
     background: var(--bg-card);
+    position: relative;
   }
 
   .variants-table td {
@@ -484,6 +510,18 @@ body {
     border: none;
     width: auto !important;
   }
+
+  /* En mode carte, la vignette est ancree en haut a droite pour ne
+     pas perturber l'ordre vertical des champs textuels. */
+  .variants-table td.col-cover {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    padding: 0 !important;
+  }
+  .variants-table td.col-cover .cover-thumb { width: 56px; height: 56px; }
+  /* Reserve de la place pour la vignette sur le titre. */
+  .variants-table td.col-title { padding-right: 64px; }
 
   .variants-table td.col-id   { font-size: 11px; color: var(--accent); }
   .variants-table td.col-title { font-size: 15px; padding-bottom: 4px; }

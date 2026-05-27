@@ -6,6 +6,16 @@
 
 const ARTICLES = ["the ", "a ", "an ", "le ", "la ", "les ", "l'", "un ", "une "];
 
+// Extrait l'ID Discogs (release ou master) depuis une URL.
+// Couvre les deux formes : .../release/{id}-Slug et .../Slug/release/{id}.
+const RELEASE_ID_RE = /\/(?:release|master)\/(\d+)/;
+
+function extractReleaseId(url) {
+  if (!url) return null;
+  const m = RELEASE_ID_RE.exec(url);
+  return m ? m[1] : null;
+}
+
 function sortKey(title) {
   if (!title) return "";
   let s = String(title).toLowerCase().trim();
@@ -87,6 +97,9 @@ function registerRegistryStore() {
     // donc independant des filtres). Permet d'afficher 'K/N variantes'
     // sur la ligne consolidee quand un filtre reduit la visibilite.
     groupTotalCounts: {},
+    // Mapping release_id -> chemin de cover (relatif a site/), charge
+    // depuis data/covers-index.json. Pris en charge par coverFor().
+    coversIndex: {},
 
     // ===== filtres / UI =====
     search: "",
@@ -100,13 +113,19 @@ function registerRegistryStore() {
 
     async init() {
       try {
-        const resp = await fetch("data/all-variants.json");
-        if (!resp.ok) {
-          this.loadError = `HTTP ${resp.status} en chargeant data/all-variants.json`;
+        // all-variants.json est requis ; covers-index.json est facultatif
+        // (s'il manque, on degrade en n'affichant pas de vignette plutot
+        // que d'echouer le chargement complet).
+        const [variantsResp, coversResp] = await Promise.all([
+          fetch("data/all-variants.json"),
+          fetch("data/covers-index.json").catch(() => null),
+        ]);
+        if (!variantsResp.ok) {
+          this.loadError = `HTTP ${variantsResp.status} en chargeant data/all-variants.json`;
           this.loading = false;
           return;
         }
-        const data = await resp.json();
+        const data = await variantsResp.json();
         // Sort variants once at load for stable ordering.
         data.variants.sort((a, b) => {
           const ka = sortKey(a.canonical_title);
@@ -120,11 +139,23 @@ function registerRegistryStore() {
         for (const g of data.variant_groups ?? []) {
           this.groupTotalCounts[g.group_id] = g.count;
         }
+        if (coversResp && coversResp.ok) {
+          this.coversIndex = await coversResp.json();
+        }
       } catch (err) {
         this.loadError = `Erreur de chargement : ${err.message}`;
       } finally {
         this.loading = false;
       }
+    },
+
+    // Retourne le chemin de la cover Discogs d'une variante, ou null.
+    // Joint via discogs_url -> release_id -> coversIndex.
+    coverFor(variant) {
+      if (!variant?.discogs_url) return null;
+      const rid = extractReleaseId(variant.discogs_url);
+      if (!rid) return null;
+      return this.coversIndex[rid] ?? null;
     },
 
     // ===== actions UI =====
@@ -286,11 +317,16 @@ function registerRegistryStore() {
         year: v.year,
         country: v.country_or_pressing_place,
         formatSummary: formatSummary(v),
+        cover: this.coverFor(v),
       };
     },
 
     _groupRow(gid, members) {
+      // Cover representative : premier membre du groupe qui en a une
+      // (fallback sur le 1er membre meme sans cover, pour les autres
+      // champs derives).
       const first = members[0];
+      const coverMember = members.find(m => this.coverFor(m)) ?? first;
       const expanded = !!this.expandedGroups[gid];
       const store = this;
       // K = membres du groupe qui passent les filtres courants ;
@@ -323,6 +359,7 @@ function registerRegistryStore() {
         year: first.year,
         country: first.country_or_pressing_place,
         formatSummary: formatSummary(first),
+        cover: this.coverFor(coverMember),
         toggleExpand() { store.toggleGroup(gid); },
       };
     },
