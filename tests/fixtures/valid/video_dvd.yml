@@ -1,0 +1,41 @@
+variant_id: VID-H-0003
+release_type: video
+canonical_title: Here Are The Young Men
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: H
+release_date: "2007-09-24"
+country_or_pressing_place: United Kingdom
+edition:
+  is_limited: false
+  total_copies: null
+  numbered: false
+  notes: null
+distribution:
+  channel: commercial
+  notes: null
+sources:
+  - "Discogs master release 12345"
+format_details:
+  type: video
+  catalog_number: 5051442-3849-2-3
+  supports:
+    - support_type: dvd
+      count: 1
+      region: "0"
+      video_format: PAL
+      aspect_ratio: "4:3"
+      duration_minutes: 60
+      languages:
+        - en
+      subtitles: []
+  content:
+    chapters:
+      - position: 1
+        title: Warsaw, T.J. Davidson Rehearsal Room
+      - position: 2
+        title: Shadowplay, Granada Reports
+      - position: 3
+        title: Love Will Tear Us Apart, BBC Something Else
+    global_notes: Compilation of TV appearances and live footage.

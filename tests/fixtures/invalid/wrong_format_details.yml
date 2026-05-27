@@ -1,0 +1,13 @@
+# Doit ECHOUER : release_type "video" exige un format_details de type video,
+# or ici on lui passe un format_details "audio".
+variant_id: VID-X-0001
+release_type: video
+canonical_title: Wrong Format Test
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: stub
+format_details:
+  type: audio
+  supports:
+    - support_type: vinyl
+      count: 1

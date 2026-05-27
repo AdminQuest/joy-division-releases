@@ -1,0 +1,20 @@
+# Doit ECHOUER : isbn_13 ne commence pas par 978 ou 979 et ne respecte pas
+# le motif "97[89]-...".
+variant_id: BOOK-Z-0001
+release_type: livre
+canonical_title: Fake Book
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: stub
+format_details:
+  type: book
+  isbn_13: 123-4567890123
+  isbn_10: null
+  authors:
+    - Anonymous
+  publisher: Imaginary Press
+  publication_year: 2001
+  language: en
+  format_physical: hardcover
+  illustrations: false
+  has_appendices: false
