@@ -1,0 +1,13 @@
+# Doit ECHOUER : variant_id ne respecte pas le motif (prefixe BOOT2 inexistant,
+# minuscule dans la lettre, et seulement 3 chiffres au lieu de 4).
+variant_id: BOOT2-a-042
+release_type: bootleg
+canonical_title: Some Live Tape
+canonical_artist: Joy Division
+year: 1979
+documentation_quality: stub
+format_details:
+  type: audio
+  supports:
+    - support_type: cassette
+      count: 1

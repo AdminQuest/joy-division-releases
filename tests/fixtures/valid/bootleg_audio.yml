@@ -1,0 +1,56 @@
+variant_id: BOOT-A-0042
+release_type: bootleg
+canonical_title: At The High Hall, Birmingham 1980
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: needs_review
+joydiv_letter: A
+joydiv_url: null
+discogs_release_id: null
+discogs_url: null
+release_date: null
+country_or_pressing_place: Italy
+edition:
+  is_limited: true
+  total_copies: 300
+  numbered: false
+  notes: Stamped sleeves
+distribution:
+  channel: private_pressing
+  notes: Collector circles only
+sources:
+  - "Joy Division Central, vinyl bootlegs index, 2018"
+notes: Audience recording, mono, fair quality.
+format_details:
+  type: audio
+  label_apparent: null
+  catalog_number: HH-80
+  supports:
+    - support_type: vinyl
+      count: 1
+      size: '12"'
+      speed: 33
+      color: black
+      weight_grams: 140
+      matrices:
+        - HH-80-A1
+        - HH-80-B1
+  content:
+    tracklist:
+      - side: A
+        tracks:
+          - position: 1
+            title: Dead Souls
+            duration: "4:55"
+            source_session: live
+          - position: 2
+            title: The Eternal
+            duration: "6:20"
+            source_session: live
+      - side: B
+        tracks:
+          - position: 1
+            title: Decades
+            duration: "6:10"
+            source_session: live
+    global_notes: Side B contains a long encore.

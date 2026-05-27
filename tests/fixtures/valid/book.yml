@@ -1,0 +1,40 @@
+variant_id: BOOK-T-0011
+release_type: livre
+canonical_title: Touching From A Distance
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: verified
+joydiv_letter: T
+release_date: "1995-04-20"
+country_or_pressing_place: United Kingdom
+edition:
+  is_limited: false
+  total_copies: null
+  numbered: false
+  notes: null
+distribution:
+  channel: commercial
+  notes: null
+sources:
+  - "British Library catalog"
+notes: Reprinted multiple times since first edition.
+format_details:
+  type: book
+  isbn_13: 978-0571173655
+  isbn_10: 0571173659
+  authors:
+    - Deborah Curtis
+  publisher: Faber and Faber
+  publication_year: 1995
+  page_count: 240
+  language: en
+  format_physical: softcover
+  dimensions_mm:
+    width: 130
+    height: 197
+    depth: 18
+  illustrations: true
+  has_appendices: true
+  catalog_number: null
+  content:
+    table_of_contents: Foreword; Childhood; Macclesfield; Warsaw; Joy Division; Aftermath; Discography.
