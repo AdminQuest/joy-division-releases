@@ -1,1 +1,199 @@
-{}
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/adminquest/joy-division-releases/schema/variant.schema.json",
+  "title": "Joy Division release variant",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "variant_id",
+    "release_type",
+    "canonical_title",
+    "canonical_artist",
+    "year",
+    "documentation_quality",
+    "format_details"
+  ],
+  "properties": {
+    "variant_id": {
+      "type": "string",
+      "pattern": "^(OFF|PIR|BOOT|VID|BOX|BOOK|PARA)-[A-Z0]-[0-9]{4}$"
+    },
+    "release_type": {
+      "type": "string",
+      "enum": [
+        "officiel",
+        "pirate",
+        "bootleg",
+        "video",
+        "coffret",
+        "livre",
+        "para"
+      ]
+    },
+    "canonical_title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_artist": {
+      "type": "string",
+      "default": "Joy Division"
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1976,
+      "maximum": 2030
+    },
+    "documentation_quality": {
+      "type": "string",
+      "enum": ["verified", "needs_review", "stub"]
+    },
+    "format_details": {
+      "type": "object"
+    },
+    "joydiv_letter": {
+      "type": ["string", "null"],
+      "pattern": "^[A-Z0]$"
+    },
+    "joydiv_url": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "discogs_release_id": {
+      "type": ["string", "null"]
+    },
+    "discogs_url": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "other_sources": {
+      "type": "array",
+      "items": {"type": "string", "format": "uri"},
+      "default": []
+    },
+    "release_date": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "country_or_pressing_place": {
+      "type": ["string", "null"]
+    },
+    "edition": {
+      "anyOf": [
+        {"type": "null"},
+        {"$ref": "#/$defs/edition"}
+      ]
+    },
+    "distribution": {
+      "anyOf": [
+        {"type": "null"},
+        {"$ref": "#/$defs/distribution"}
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "items": {"type": "string"},
+      "default": []
+    },
+    "notes": {
+      "type": ["string", "null"]
+    },
+    "_legacy_code": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "release_type": {"enum": ["officiel", "pirate", "bootleg"]}
+        },
+        "required": ["release_type"]
+      },
+      "then": {
+        "properties": {
+          "format_details": {"$ref": "#/$defs/audio_format"}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"release_type": {"const": "video"}},
+        "required": ["release_type"]
+      },
+      "then": {
+        "properties": {
+          "format_details": {"$ref": "#/$defs/video_format"}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"release_type": {"const": "coffret"}},
+        "required": ["release_type"]
+      },
+      "then": {
+        "properties": {
+          "format_details": {"$ref": "#/$defs/box_format"}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"release_type": {"const": "livre"}},
+        "required": ["release_type"]
+      },
+      "then": {
+        "properties": {
+          "format_details": {"$ref": "#/$defs/book_format"}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"release_type": {"const": "para"}},
+        "required": ["release_type"]
+      },
+      "then": {
+        "properties": {
+          "format_details": {"$ref": "#/$defs/para_format"}
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["is_limited", "numbered"],
+      "properties": {
+        "is_limited": {"type": "boolean"},
+        "total_copies": {
+          "anyOf": [
+            {"type": "null"},
+            {"type": "integer", "minimum": 0}
+          ]
+        },
+        "numbered": {"type": "boolean"},
+        "notes": {"type": ["string", "null"]}
+      }
+    },
+    "distribution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["channel"],
+      "properties": {
+        "channel": {
+          "type": "string",
+          "enum": ["commercial", "promo", "press", "private_pressing"]
+        },
+        "notes": {"type": ["string", "null"]}
+      }
+    },
+    "audio_format": {"type": "object"},
+    "video_format": {"type": "object"},
+    "box_format": {"type": "object"},
+    "book_format": {"type": "object"},
+    "para_format": {"type": "object"}
+  }
+}
