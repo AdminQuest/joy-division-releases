@@ -1,0 +1,36 @@
+variant_id: PIR-L-0022
+release_type: pirate
+canonical_title: Licht Und Blindheit  (also known as) Sordide Sentimental
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lub.htm
+country_or_pressing_place: ??
+notes: 'Picture disc released 2019
+
+  Limited edition 10 copies
+
+  No band name, title, or song titles on either side of disc just images from the original French 1980 Licht Und Blindheit
+
+  The only text printed on the back of the disc is: "Collectors edition picture disc no. -/10 Propre et Gentil 112"
+
+  Clear plastic sleeve
+
+  No matrix numbers'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

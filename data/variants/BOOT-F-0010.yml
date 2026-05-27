@@ -1,0 +1,41 @@
+variant_id: BOOT-F-0010
+release_type: bootleg
+canonical_title: Factory By The Moonlight
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F10.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BF2
+  group_role: color_variation
+notes: 'V2 : Andiamo Musica Italia - 2012 US repress of the above with different matrix numbers
+
+  Same sleeve and track listing as above
+
+  Labels: light grey with black text.
+
+  Black, green, blue or red vinyl - 50 copies of each (200 in total)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: blue
+    matrices:
+    - 'Matrix / Runout (Side A): JOYOUS D-A'
+    - 'Matrix / Runout (Side B): JOYOUS D-B'
+    - 'Matrix / Runout (Side C): JOYOUS D-C'
+    - Side D has no matrix number
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '2'
+  - g
+  reconstructed: BF2g
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - F.xlsx

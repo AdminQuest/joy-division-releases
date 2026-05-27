@@ -1,0 +1,33 @@
+variant_id: BOOT-P-0001
+release_type: bootleg
+canonical_title: Paradiso
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P8.htm
+country_or_pressing_place: Europe
+notes: 'European LP released 2012
+
+  Black vinyl
+
+  One picture label.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 25 -A-'
+    - 'Matrix / Runout: 25 -B-'
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '1'
+  - null
+  reconstructed: BP1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - P.xlsx

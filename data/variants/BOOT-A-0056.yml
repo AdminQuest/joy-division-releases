@@ -1,0 +1,32 @@
+variant_id: BOOT-A-0056
+release_type: bootleg
+canonical_title: Atrocity Exhibition
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A4.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BA16
+  group_role: color_variation
+notes: Edition with white labels (and mummy without swastika) and outer copied darker than the previous 2 editions
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode (Runout side A): JD-1'
+    - 'Barcode (Runout side B): JD-2'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '16'
+  - c
+  reconstructed: BA16c
+  has_suffix: false
+  source_row: 79
+  source_xlsx: Bootlegs - A.xlsx

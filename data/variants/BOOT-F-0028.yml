@@ -1,0 +1,33 @@
+variant_id: BOOT-F-0028
+release_type: bootleg
+canonical_title: Futurama 2 / Futurama 83
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: F
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF11
+  group_role: pressing_variation
+notes: 'V3 (2016) counterfeit of 1985 (n°169/500) : Limited Edition of 500 Numbered Copies.
+
+  Copies Numbered 1-100 Include Poster +5 Cards. Glossy sleeve, unlike the original. Printed black labels, the original had
+  plain white labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - The matrix numbers have been scratched out.
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '11'
+  - e
+  reconstructed: BF11e
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - F.xlsx

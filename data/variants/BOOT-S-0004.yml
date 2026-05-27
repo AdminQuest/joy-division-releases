@@ -1,0 +1,29 @@
+variant_id: BOOT-S-0004
+release_type: bootleg
+canonical_title: Shadowplay
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S2.htm
+country_or_pressing_place: Sweden
+variant_group:
+  group_id: BS3
+  group_role: color_variation
+notes: This is probably the "Daffy Disc" LP above.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '3'
+  - b
+  reconstructed: BS3b
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - S.xlsx

@@ -1,0 +1,44 @@
+variant_id: OFF-U-0008
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/585146
+country_or_pressing_place: Australia
+notes: '[x]Factory ‎– FACOZ 1003 --> CBS Records Australia. Inner sleeve has a sticker near the bottom which reads: "M & D
+  by CBS Records Australia Ltd.". There is no mention of EMI on the outer or inner sleeve. The cat.no is FACOZ I003. Matrix
+  numbers (FACOZ I003) crossed out, as well as FACT 10 INSIDE / FACT 10 OUTSIDE.
+
+
+  FACO1 1003 --> UK style labels. Matrix FAC02 1003 OUTSIDE / INSIDE. Inner sleeve also refers to GAP / EMI
+
+
+  A Factory Records Product
+
+  Published by Fractured Music
+
+  Recorded at Strawberry Studios, Stockport.
+
+  Released In Australia By GAP Records Under Licence. Manufactured and Distributed by EMI Australia Ltd.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FACOZ 1003 A (Outside) Otto'
+    - 'Matrix / Runout (Runout side B): FACOZ 1003 B (Inside) Otto'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

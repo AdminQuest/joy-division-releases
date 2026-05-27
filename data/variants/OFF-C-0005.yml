@@ -1,0 +1,48 @@
+variant_id: OFF-C-0005
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Italy
+notes: 'Factory ‎– FACT XXV
+
+  Back cover :
+
+  PRODOTTO: BASE RECORD Via Castiglione 109 Bologna tel 051/237528.
+
+  Inner sleeve :
+
+  Printed with the same layout as the UK pressings.
+
+  Stamped with "S.I.A.E.".
+
+  First editions list address as ''Via Castiglione''.
+
+  Silver on black labels. Labels state "Made in Italy 1980".
+
+  Double B-side label misprint.
+
+  Misprint : typo : label : tracklist was printed on the wrong side of the record.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A etch): FACT XXV / A'
+    - 'Matrix / Runout (Side B etch): FACT XXV / B'
+    - 'Rights Society: S.I.A.E.'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - Closer.xlsx

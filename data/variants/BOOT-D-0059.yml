@@ -1,0 +1,35 @@
+variant_id: BOOT-D-0059
+release_type: bootleg
+canonical_title: Different Colors Different Shades
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://joydiv.org/D17.htm
+country_or_pressing_place: USA
+notes: 'The Record Company Usa
+
+  Total 50 Copies, 5 Colour Variables, some 15, some 6'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: orange splatter
+    matrices:
+    - '(Side A): DJ 79 A'
+    - '(Side B): DJ 79 B'
+    - '(Side C): DJ79 C'
+    - '(Side D): DJ79 D'
+  label_apparent: The Record Company Usa
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 60
+  source_xlsx: Bootlegs - D.xlsx

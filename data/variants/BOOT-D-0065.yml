@@ -1,0 +1,48 @@
+variant_id: BOOT-D-0065
+release_type: bootleg
+canonical_title: Disordered
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://joydiv.org/D16.htm
+country_or_pressing_place: Europe
+notes: '(Limited Edition Hand Numbered on Blue & White Vinyl)
+
+  European LP - Released 12 August 2024
+
+  Label: Stylus Groove
+
+  Catalogue number: SGVNY129
+
+  Pressed on blue and white vinyl
+
+  500 hand-numbered copies, the individual number is written inside a white square in the bottom left corner on the back cover:
+  "This edition ___/500".
+
+  Barcode on back cover:  5 060918814422
+
+  Copies numbered 01-10 issued with a certificate of authenticity inside a plain white envelope with only the number stamped
+  on the front.
+
+  Back cover states: "The legendary performance Les Bains Douches 18th December 1979"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - SGVNY129  1
+    - V56568 B1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 66
+  source_xlsx: Bootlegs - D.xlsx

@@ -1,0 +1,30 @@
+variant_id: OFF-P-0020
+release_type: officiel
+canonical_title: Preston 28 February 1980
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/preston.htm
+country_or_pressing_place: Italy
+notes: 'Drastic Plastic US - DPRLP 104
+
+  imited rainbow splatter vinyl LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Splatter
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Officiels et pirates - Preston 28 february 1980.xlsx
+  op_inferred_from_filename: true

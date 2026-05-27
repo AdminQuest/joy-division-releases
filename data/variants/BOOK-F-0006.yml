@@ -1,0 +1,28 @@
+variant_id: BOOK-F-0006
+release_type: livre
+canonical_title: 'Fast Forward: Confessions of a Post-Punk Percussionist: Volume II'
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: F
+country_or_pressing_place: UK
+format_details:
+  type: book
+  authors:
+  - Stephen Morris
+  publisher: Constable
+  publication_year: 2020
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 50
+  source_xlsx: Livres -.xlsx

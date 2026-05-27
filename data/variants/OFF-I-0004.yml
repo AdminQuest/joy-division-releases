@@ -1,0 +1,38 @@
+variant_id: OFF-I-0004
+release_type: officiel
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: Japan
+notes: 'V3.2 : Japanese(?) pressing, 1990s(?)
+
+  2nd(?) fake reissue of the official 7" release on Enigma.
+
+  Plain white labels, black vinyl, smooth shiny/glossy folder cover
+
+  Slightly different from the other fake reissues as the matrix numbers are different, and the cover only folds out once with
+  the band picture on the inner left and the soldier picture on the inner right - ie the sleeve is 7" tall and 14" wide, printed
+  on both sides, and then folded in half.
+
+  (The official 7" release was printed on one side of a 14" x 14" piece of card and then folded twice to make the sleeve)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - JOY DIVI A (side A)
+    - JOY DIVI B (side B)
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

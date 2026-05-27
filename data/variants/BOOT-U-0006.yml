@@ -1,0 +1,47 @@
+variant_id: BOOT-U-0006
+release_type: bootleg
+canonical_title: Unknown Pleasures live
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/U5.htm
+country_or_pressing_place: ??
+notes: 'Factory (FACTLIV 10) - Not A Factory Records Product
+
+  Spanish LP released 2021
+
+  Pirate edition of Unknown Pleasures featuring live versions of the tracks on the album
+
+  Black vinyl
+
+  Label: "Not a Factory Records Product"
+
+  Cat.no.: FACT LIVE X
+
+  Resealable outer plastic sleeve with round white sticker on the front
+
+  Non-glossy card picture sleeve
+
+  Limited edition of 500 copies
+
+  Some copies issued in generic brown card sleeve with colour inserts glued on'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout, etched, side A): DIV 03 A'
+    - 'Matrix / Runout (Runout, etched, side B): DIV 03 B'
+_legacy_code:
+  segments:
+  - B
+  - U
+  - '3'
+  - null
+  reconstructed: BU3
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - U.xlsx

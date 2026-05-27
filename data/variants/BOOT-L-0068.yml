@@ -1,0 +1,33 @@
+variant_id: BOOT-L-0068
+release_type: bootleg
+canonical_title: Live in Blackpool 1979
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L22.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BL25
+  group_role: pressing_variation
+notes: "JDUK 001. \n[]300 black copies / white label\nComes with an A4 insert."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: JDUK001 A'
+    - 'Matrix / Runout: JDUK001 B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '25'
+  - a
+  reconstructed: BL25a
+  has_suffix: false
+  source_row: 71
+  source_xlsx: Bootlegs - L.xlsx

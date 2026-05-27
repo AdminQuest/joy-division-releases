@@ -1,0 +1,29 @@
+variant_id: BOOT-A-0058
+release_type: bootleg
+canonical_title: The Atrocity Exhibition
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: A
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BA17
+  group_role: color_variation
+notes: Nippon Communications ‎– NB01. Numbered limited edition of 100 copies. n°100/100 du digipack
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 6 68024 44392 2'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '17'
+  - a
+  reconstructed: BA17a
+  has_suffix: false
+  source_row: 81
+  source_xlsx: Bootlegs - A.xlsx

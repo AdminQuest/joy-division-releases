@@ -1,0 +1,39 @@
+variant_id: OFF-L-0028
+release_type: officiel
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L17.htm
+country_or_pressing_place: UK & Europe
+notes: "London Records ‎– FAC23, Warner Bros. Records ‎– FAC23. \nA side plays at 45 RPM\nB side plays at 33 ⅓ RPM\nA Fractured\
+  \ Music • A Factory Record\nPrint on A side label: FOR AHW\nPrint on B side label: 18/4/80\nThe photograph of the steel\
+  \ plate has been re-photographed - making the titles look smaller.\nThis 7\" does not have the original groove notations.\n\
+  The Factory style label has a dedication \"FOR AHW\" printed where the date would normally be. Tony Wilson died in August\
+  \ 2007.\nThe B-Side of the single credits both tracks - the original didn't\nBack sleeve is a generic white with the usual\
+  \ London print typeface and info."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Barcode (Text): 5 051442 418071'
+    - 'Barcode (Scanned): 5051442418071'
+    - 'Rights Society: GEMA/BIEM'
+    - 'Rights Society (UK): GEMA/MCPS'
+    - 'Label Code: LC00253'
+    - 'Matrix / Runout (A-side): FAC 23 A-1'
+    - 'Matrix / Runout (B-side): FAC 23 B-1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

@@ -1,0 +1,37 @@
+variant_id: BOOT-W-0105
+release_type: bootleg
+canonical_title: We Were Strangers
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W8.htm
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BW12
+  group_role: color_variation
+notes: "2018, FH261 Fun House Music, Asia\n[x]clear vinyl 80 copies. Discrepancy Records in Melbourne, Australia, claim the\
+  \ pressing is limited to 80 copies in this colour, whilst Heartland Records, also in Melbourne, puts the figure at 60 copies.\
+  \ \n[]clear with red splatter 15 copies\n[]clear with blue splatter 15 copies\n[]clear with white splatter 15 copies\n[]Clear\
+  \ with multicolour red/white/blue splatter 10 copies\nReissued 2019 on:\n[]White vinyl \n[]Multicoloured red/white/blue/grey/black\
+  \ vinyl\n[]Picture disc"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Splatter blue
+    matrices:
+    - 'Matrix / Runout: 13499-94857 A'
+    - 'Matrix / Runout: 13499-94857 B'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '12'
+  - c
+  reconstructed: BW12c
+  has_suffix: false
+  source_row: 107
+  source_xlsx: Bootlegs - W.xlsx

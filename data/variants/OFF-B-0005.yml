@@ -1,0 +1,28 @@
+variant_id: OFF-B-0005
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2003
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/1513076-Joy-Division-Les-Bains-Douches-18-December-1979
+country_or_pressing_place: UK
+notes: "Re-released as a CD on Alchemy Records. 2003 cat.no: FACD 2.61. \nWarning: As a general rule this version has gaps\
+  \ between tracks. However, we do know of at least one copy that doesn't. Maybe it was fixed on a later pressing."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

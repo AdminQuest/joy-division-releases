@@ -1,0 +1,37 @@
+variant_id: BOOT-R-0016
+release_type: bootleg
+canonical_title: A Retrospective - Part II
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R3.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BR7
+  group_role: color_variation
+notes: "Stick-and-Role-Records ‎– HAWKEYE 06\n1987, Vinyl VG+ / Cover VG Stick And Roll RecordsHawkeye 06 -1987 Original Edition\
+  \ Hawkeye 06 VINYL VG+ COVER Good. European LP. Black and white pic sleeve. Sound-quality varies depending on the recording\
+  \ from very distorted to good. Source: live & studio. \n\nIncorrect tracklisting printed on sleeve:\nAs above except:\n\
+  Tracks 12 and 13 labelled W ilderness and 24 Hours supposedly from one of the Shadowplay LPs - live at the Rainbow Theatre,\
+  \ London, Nov. 10th 1979 To further confuse things that LP is actually from Rainbow Theatre, London, Nov. 9th 1979\nTrack\
+  \ 15: Labelled You're No Good For Me supposedly from the Warsaw demo - there is no track 15 on this LP"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: HAWKEY 06 A'
+    - 'Matrix / Runout: HAWKEY 06 B'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '7'
+  - a
+  reconstructed: BR7a
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Bootlegs - R.xlsx

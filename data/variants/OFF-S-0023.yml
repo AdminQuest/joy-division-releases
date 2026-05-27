@@ -1,0 +1,33 @@
+variant_id: OFF-S-0023
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/615476
+country_or_pressing_place: UK
+notes: London Records ‎– 3984 28222-2 - WMME Pressing
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Printed): 6 39842 82222 0'
+    - 'Barcode (Scanned): 639842822220'
+    - 'Label Code (On Back): LC02275'
+    - 'Label Code (On CD): LC7654'
+    - 'Mould SID Code (Variant ??): IFPI 0570'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,35 @@
+variant_id: BOOT-E-0006
+release_type: bootleg
+canonical_title: Electric Music
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E11.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BE4
+  group_role: color_variation
+notes: 'Trade Mark Of Quality ‎– TMQ - JDEM 001. Comes in a neutral cardboard-sleeve with on pink paper printed 12" cover-sheet.
+
+  Limited Edition coloured vinyl possibly 50 copies pressed on pink vinyl.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout (Runout Side A "etched"): JDEM 001 A2'
+    - 'Matrix / Runout (Runout Side B "etched"): JDEM 001 B2'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '4'
+  - a
+  reconstructed: BE4a
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - E.xlsx

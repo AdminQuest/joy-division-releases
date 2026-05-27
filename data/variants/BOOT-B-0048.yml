@@ -1,0 +1,35 @@
+variant_id: BOOT-B-0048
+release_type: bootleg
+canonical_title: A Buzz in Guildford
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: http://joydiv.org/G7.htm
+country_or_pressing_place: ??
+notes: 'Released 2021
+
+  Format: colour splatter vinyl LP with clear base - 5 versions with 15 copies in each colour.
+
+
+  Printed picture labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter clear
+    matrices:
+    - 15678-122771 A
+    - 15678-122771 B
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 50
+  source_xlsx: Bootlegs - B.xlsx

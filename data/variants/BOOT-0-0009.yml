@@ -1,0 +1,29 @@
+variant_id: BOOT-0-0009
+release_type: bootleg
+canonical_title: 1979 Radio Sessions
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/N2.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: B+3
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+_legacy_code:
+  segments:
+  - B
+  - +
+  - '3'
+  - b
+  reconstructed: B+3b
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - +-1.xlsx

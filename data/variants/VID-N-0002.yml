@@ -1,0 +1,22 @@
+variant_id: VID-N-0002
+release_type: video
+canonical_title: New Order Finsbury Park 9th June 02
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: N
+notes: NewOrder 511
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

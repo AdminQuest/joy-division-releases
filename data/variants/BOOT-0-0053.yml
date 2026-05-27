@@ -1,0 +1,21 @@
+variant_id: BOOT-0-0053
+release_type: bootleg
+canonical_title: (Warsaw) An Ideal for Living, the Demos
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: '0'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - W.xlsx

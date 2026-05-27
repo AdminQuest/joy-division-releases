@@ -1,0 +1,29 @@
+variant_id: OFF-B-0004
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/13095612-Joy-Division-Les-Bains-Douches-18-December-1979-
+country_or_pressing_place: China
+notes: 'NMC Music – BG-R-0197
+
+  Released with an additional cardboard sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

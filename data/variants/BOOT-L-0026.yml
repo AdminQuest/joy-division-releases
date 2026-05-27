@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0026
+release_type: bootleg
+canonical_title: Live and Obscure
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L23.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BL11
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: grey
+    matrices:
+    - 'Matrix / Runout: Q-9017-A'
+    - 'Matrix / Runout: Q-9017-B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '11'
+  - g
+  reconstructed: BL11g
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - L.xlsx

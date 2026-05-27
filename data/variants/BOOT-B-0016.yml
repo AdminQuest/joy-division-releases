@@ -1,0 +1,33 @@
+variant_id: BOOT-B-0016
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2017
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: Australia
+notes: 'V5 : Australian CD
+
+  Released 2017
+
+  Slim gatefold/digipak card sleeve
+
+  Same CD as included in the 2010 and 2014 releases above'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix number: ICE AGE DISC 2'
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - o
+  reconstructed: BB2o
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Bootlegs - B.xlsx

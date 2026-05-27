@@ -1,0 +1,30 @@
+variant_id: BOOK-A-0001
+release_type: livre
+canonical_title: Les années New Wave 1978-1983
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: needs_review
+joydiv_letter: A
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - JD Beauvallet
+  publisher: Inconnu
+  publication_year: 2022
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '2377971083'
+  page_count: 224
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Livres -.xlsx

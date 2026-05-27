@@ -1,0 +1,45 @@
+variant_id: BOOT-L-0061
+release_type: bootleg
+canonical_title: Live at University of London Union, February, The 8th 1982
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNgTD7vTJDKw7u74gdlhOuKJV8dPqUcWEFq_Ke5?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: UK
+variant_group:
+  group_id: BL21
+  group_role: pressing_variation
+notes: 'Radio Looploop – RLL073
+
+  2021 UK pressing on Radio Looploop label
+
+  Same picture sleeve as the original, but now colour tinted, and a different label credited.
+
+  Black vinyl
+
+  Catalogue number: RLL073
+
+  New barcode on back cover: 5 060672 886734
+
+  Note: The full concert was released on the official 2007 re-release of the Closer CD'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Code-barres: 5 060672 886734'
+    - 'Informations sur la matrice: 110230E1/E'
+    - 'Informations sur la matrice: 110230E2/D'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '21'
+  - c
+  reconstructed: BL21c
+  has_suffix: false
+  source_row: 64
+  source_xlsx: Bootlegs - L.xlsx

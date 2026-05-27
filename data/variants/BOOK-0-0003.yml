@@ -1,0 +1,43 @@
+variant_id: BOOK-0-0003
+release_type: livre
+canonical_title: È mia la colpa. La vita dei Joy Division
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: needs_review
+joydiv_letter: '0'
+joydiv_url: http://joydiv.org/bk109.htm
+country_or_pressing_place: Italie
+notes: 'Nella storia della musica rock c’è una linea d’ombra. Quella tracciata dai Joy Division nella loro vita così breve,
+  eppure mai finita. Bernard Sumner, Peter Hook, Stephen Morris e Ian Curtis, soprattutto lui, sono stati – e lo sono ancora
+  oggi, sempre di più, per le nuove generazioni – poeti maledetti, che hanno raccontato tormento ed estasi di quella cosa
+  chiamata gioventù, da cui nessuno riesce in fondo mai a uscire. Questa graphic novel si muove in parallelo sui binari della
+  ricostruzione, attenta e dettagliata, e dell’evocazione, suggestiva e commovente. Per conoscere chi sono stati i Joy Division
+  e perché la loro grandezza non smette mai di crescere, fuori e dentro di noi
+
+
+  In the history of rock music there is a shadow line. The one traced by Joy Division in their very short, yet never-ending
+  life. Bernard Sumner, Peter Hook, Stephen Morris and Ian Curtis, especially him, were – and still are today, more and more,
+  for the new generations – cursed poets, who have recounted the torm'
+format_details:
+  type: book
+  authors:
+  - Mattia Tassaro
+  - Lorenzo Coltellacci
+  publisher: Feltrinelli
+  publication_year: 2024
+  language: it
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-8807551635
+  page_count: 144
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 134
+  source_xlsx: Livres -.xlsx

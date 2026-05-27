@@ -1,0 +1,30 @@
+variant_id: BOOT-W-0074
+release_type: bootleg
+canonical_title: Warsaw the Complete Recordings
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: http://joydiv.org/w2cd.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BW6
+  group_role: color_variation
+notes: 'Transmission Recordings T013710 2008
+
+  Australian release in Digipak sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '6'
+  - a
+  reconstructed: BW6a
+  has_suffix: false
+  source_row: 76
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,28 @@
+variant_id: BOOK-N-0005
+release_type: livre
+canonical_title: NME
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: needs_review
+joydiv_letter: N
+notes: Ian Curtis, 30 years on, Anniversary
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 2010
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 90
+  source_xlsx: Livres -.xlsx

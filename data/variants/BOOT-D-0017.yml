@@ -1,0 +1,35 @@
+variant_id: BOOT-D-0017
+release_type: bootleg
+canonical_title: Day of The Lords
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D12.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BD5
+  group_role: color_variation
+notes: "V1 : JD 180180. Released on the following vinyl colours: Solid / non-transparent green ; Transparent green / yellow\
+  \ ; Clear / grey ; Clear with brownish / red tint ; Blue-green (turquoise) \nMine : green"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'V1 :'
+    - JD 180180-A
+    - JD 180180-B
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '5'
+  - a
+  reconstructed: BD5a
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - D.xlsx

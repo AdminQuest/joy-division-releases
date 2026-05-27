@@ -1,0 +1,31 @@
+variant_id: BOOT-W-0032
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Japan
+notes: 'V11 cardboard : FAC PRO 8425 late 1980s : Brown cardboard cover: Stamped "Warsaw" on the front. Individually numbered
+  (stamped) and glued on insert with song titles and the words "NUMBERED EDITION OF 500". Factory replica labels. No record
+  company'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - FAC PRO 8425 A
+    - FAC PRO 8425 B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - u
+  reconstructed: BW4u
+  has_suffix: false
+  source_row: 34
+  source_xlsx: Bootlegs - W.xlsx

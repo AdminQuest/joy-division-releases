@@ -1,0 +1,33 @@
+variant_id: OFF-A-0029
+release_type: officiel
+canonical_title: Atmosphere 1979
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos7.htm
+country_or_pressing_place: UK
+notes: 'Factory ‎– Facd213. Packaged in slimcase with 2 sided J-card insert.
+
+  Track 2 was recorded on 13 July 1979.
+
+  Track 3 is the alternative version featured on the B-side of the original Love Will Tear Us Apart 7" single, sometimes referred
+  to as the Pennine version.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Printed): 5 016839 602136'
+    - 'Matrix / Runout: FACD 213 128931 01 %'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 7_ - Atmosphere 1979.xlsx

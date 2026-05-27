@@ -1,0 +1,33 @@
+variant_id: BOOT-L-0072
+release_type: bootleg
+canonical_title: Live in Holland
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L30.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BL27
+  group_role: color_variation
+notes: "2015, DOL DOR2020H, neuf \n(à ne pas confondre avec le DOL DOR2020HC 2019 RSD, sur vinyle bleu)\n\nUnofficial LP on\
+  \ the DOL label\n180g black vinyl\nCover sticker (on shrink wrap) 180 Gram Heavyweight Vinyl"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A etching; typed): 103828E1/A'
+    - 'Matrix / Runout (Side B etching; typed): 103828E2/A'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '27'
+  - a
+  reconstructed: BL27a
+  has_suffix: false
+  source_row: 75
+  source_xlsx: Bootlegs - L.xlsx

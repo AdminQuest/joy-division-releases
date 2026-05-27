@@ -1,0 +1,39 @@
+variant_id: OFF-S-0002
+release_type: officiel
+canonical_title: She's Lost Control (US Single)
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/slc12.htm
+country_or_pressing_place: USA
+notes: "Factory (US) ‎– FACUS 2. version inversée au single Atmosphere\nblack :  Black / opaque vinyl. Labeled in cream on\
+  \ dark green ground.\nTranslucent :  Dark red, light brown or teal translucent vinyl (only visible when a bright light is\
+  \ shined through the vinyl). Labeled in cream on dark green ground. \nFirst released in August 1980 in the US on Factory\
+  \ (US) as She's Lost Control b/w Atmosphere.\nIn October 1980 released in the UK as Facus 2 (UK), with Atmosphere on side\
+  \ A and She's Lost Control on side B (apparently 25p cheaper than the US imports).\nUS copies:\nSome copies were pressed\
+  \ in dark red, light brown or teal translucent vinyl (manufacturing variations only). Dark green labels with white typography.\n\
+  UK copies:\nSome copies were pressed in dark red translucent vinyl (manufacturing variation only).\nWhite labels with olive\
+  \ green typography.\nLicensed editions are from 1981 or later.\nSide A etching either has 1 dot in the top left quadrant\
+  \ of the + or 2 dots in the top quadrants.\nSide B e"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: translucent red
+    matrices:
+    - 'Black vinyl :'
+    - 'Matrix / Runout (Runout side A, variation 1): FACTUS 2A L•2473'
+    - 'Matrix / Runout (Runout side B, variation 1): FACTUS 2B L-2473'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - S
+  - '2'
+  reconstructed: O12S2
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 12_ - She_s Lost Control.xlsx

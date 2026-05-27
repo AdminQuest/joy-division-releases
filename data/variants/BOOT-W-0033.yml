@@ -1,0 +1,34 @@
+variant_id: BOOT-W-0033
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Germany
+notes: 'V12 Geboo : Geboo Geboo Records.  German LP released 1985. Record label: Geebo Geebo Records. No catalogue number
+  on packaging or label. Sleeve: no "Warsaw" on spine. Labels: Side A: White label "Geebo Geebo" in black text ; Side B: Black
+  label "Geebo Geebo" in white text. Most copies didn''t include an EP. A few apparently came with an EP very similar to release
+  No 6 above. There''s also a Warsaw LP in a colour cover with the same matrix numbers'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'LP matrix numbers:'
+    - ^^ RZM 200 A
+    - ^^ RZM 200 B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - v
+  reconstructed: BW4v
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Bootlegs - W.xlsx

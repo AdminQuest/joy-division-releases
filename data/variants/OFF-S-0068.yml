@@ -1,0 +1,35 @@
+variant_id: OFF-S-0068
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/7132351
+notes: "Repressage 2015 (2LP Warner Records 90 Ltd Cat.no.: FACT 250R) (also as Rhino R1 183937 in the US) \nFactory ‎– Fact250R.\
+  \ Reissue, Remastered, 180 Gram.  2015 reissue \nExpanded replica of original Factory 1988 release Label: Warner Records\
+  \ 90 Ltd. \nIncludes download code for MP3 version of the album (some copies are missing the download cards).\nReplicating\
+  \ original album artwork, cut from the 2010 '+-' audio remasters\nIncludes two printed heavy inner sleeves."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout (Variant 4, Side A, etched): BE72478-01 A1 F.A. ABBEY ROAD FACT 250 R VIT'
+    - Matrix / Runout (Variant ??, Side B, etched):BE72478-01 B1 FACT 250 R FRANK - ABBEY ROAD V=I
+    - 'Matrix / Runout (variant ??, Side C, etched): BF79083-01 C1'
+    - 'Matrix / Runout (variant ??, Side D, etched): BF79083-01 D1 F.A. ABBEY ROAD V++'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - '10'
+  reconstructed: OAS10
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

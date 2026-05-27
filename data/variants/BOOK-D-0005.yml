@@ -1,0 +1,31 @@
+variant_id: BOOK-D-0005
+release_type: livre
+canonical_title: Deo Po Deo - Pol Morli
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: needs_review
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/bk58.htm
+notes: Serbian edition of "Piece By Piece - Writing about Joy Division 1977-2007"
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Kontrast
+  publication_year: 2019
+  language: sr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-86-6036-019-1
+  page_count: 492
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 119
+  source_xlsx: Livres -.xlsx

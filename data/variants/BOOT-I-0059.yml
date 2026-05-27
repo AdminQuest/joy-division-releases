@@ -1,0 +1,32 @@
+variant_id: BOOT-I-0059
+release_type: bootleg
+canonical_title: Isolation
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I8.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BI15
+  group_role: color_variation
+notes: "[]V1 (???) : FAC 111. Plain white sleeve. Joy Division / New Order – Isolation\nThis album has holes in the cover\
+  \ so you can see the labels. \nThe labels are silver \"Factory like\" \nSome copies may have 2 inserts"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): ISOLATION-A'
+    - 'Matrix / Runout (Runout side B): ISOLATION-B'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '15'
+  - a
+  reconstructed: BI15a
+  has_suffix: false
+  source_row: 67
+  source_xlsx: Bootlegs - I.xlsx

@@ -1,0 +1,34 @@
+variant_id: BOOT-L-0044
+release_type: bootleg
+canonical_title: Live at The Apollo Manchester October 1979
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L25.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BL17
+  group_role: pressing_variation
+notes: "FACTORY LIVE RECORDS 2009 vinyle EX- Sleeve VG++ Speed 33 RPM not 45 RPM as shown on the label \nReleased on\n[blue\
+  \ marbled"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue marbled
+    matrices:
+    - 'Matrix / Runout: 666-1 A.'
+    - 'Matrix / Runout: 666-1-B.'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '17'
+  - a
+  reconstructed: BL17a
+  has_suffix: false
+  source_row: 47
+  source_xlsx: Bootlegs - L.xlsx

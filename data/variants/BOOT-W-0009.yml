@@ -1,0 +1,46 @@
+variant_id: BOOT-W-0009
+release_type: bootleg
+canonical_title: Warsaw 7''
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w27.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BW3
+  group_role: color_variation
+notes: 'V2 : RZM Production 1981. Matrix No: RZM-100. Black vinyl in plain sleeve, reissued in orange vinyl in a plain sleeve
+  and blue vinyl in a printed sleeve. Poor sound quality
+
+  Also reissued / re-pressed in different sleeves as She''s Lost Control and Joy Division see below.
+
+
+  Repress of the EP that came with the first version of Warsaw LP + 7". The matrix numbers are in large letters.
+
+
+  There have been several repressings of this 7" on black vinyl. They all have the same matrix number but aren''t always pressed
+  from the same plates as the way the number is written varies.
+
+
+  There is also a clear vinyl, unlabelled pressing, this appears to be identical with the 7" that came with the clear vinyl
+  Warsaw LP+7" issue, but was also issued on its own (supposedly in a limited edition of 100 copies).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: Blue
+    matrices:
+    - 'Matrix / Runout (Runout side A (Hand Etched)): RZM I00 A'
+    - 'Matrix / Runout (Runout side B (Hand Etched)): RZM I00 B'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '3'
+  - d
+  reconstructed: BW3d
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - W.xlsx

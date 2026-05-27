@@ -1,0 +1,52 @@
+variant_id: OFF-C-0024
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Brasil
+notes: 'Factory ‎– FACT.25, Factory ‎– 992 527-1
+
+  Distribuido no Brasil por Estudio Eldorado Ltda.
+
+  Fabricado por Polygran (sic) do Brasil Ltda.
+
+  Licenciado por Stiletto.
+
+  There is a bonus track : Love Will Tear Us Apart
+
+  Some copies have a promo sticker on the back cover: Estudio Eldorado Invendavel Material De Divulgaçao Tributado
+
+  Catalogue numbers:
+
+  FACT XXV - Back Cover & Spine.
+
+  FACT.25 - Disc Label.
+
+  992 527-1 - Disc Label.
+
+  Promo copies exist with a square sticker on the rear sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode: none'
+    - 'Matrix / Runout (Printed on A side label): 992 527-1/A'
+    - 'Matrix / Runout (Printed on B side label): 992 527-1/B'
+    - 'Matrix / Runout (Runout groove side A): 992 527 1 1 01 ℗ 1987 200'
+    - 'Matrix / Runout (Runout groove side B): 992 527 1 2 01 ℗ 1987 200'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - Closer.xlsx

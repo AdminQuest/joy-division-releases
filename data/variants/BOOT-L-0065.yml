@@ -1,0 +1,26 @@
+variant_id: BOOT-L-0065
+release_type: bootleg
+canonical_title: Live in Amsterdam 1980
+canonical_artist: Joy Division
+year: 1992
+documentation_quality: verified
+joydiv_letter: L
+variant_group:
+  group_id: BL24
+  group_role: color_variation
+notes: 'V2 (1992) : Re release of Live in Amsterdam 1980 on Rarities and Few - with a different back cover'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '24'
+  - b
+  reconstructed: BL24b
+  has_suffix: false
+  source_row: 68
+  source_xlsx: Bootlegs - L.xlsx

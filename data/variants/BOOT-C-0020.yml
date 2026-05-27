@@ -1,0 +1,32 @@
+variant_id: BOOT-C-0020
+release_type: bootleg
+canonical_title: Ceremony
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C12.htm
+country_or_pressing_place: USA
+notes: 'V3 : Factory 2019 ‎– 14306-103435 : Black vinyl copy of the 10" above, almost certainly from the same run, in a different
+  sleeve. 13 hand numbered copies. White labels with "TEST PRESSING", "Customer", "Date", "Cat no", "Operator" and "QC CHECKED"
+  printed on them, A-side label has "4" hand written on it after "Customer" and "14306-103435" hand-written after "Cat no
+  ».'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    matrices:
+    - 14306-103435 A3
+    - 14306-103435 B
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '3'
+  - p
+  reconstructed: BC3p
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Bootlegs - C.xlsx

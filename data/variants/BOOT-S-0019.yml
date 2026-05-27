@@ -1,0 +1,40 @@
+variant_id: BOOT-S-0019
+release_type: bootleg
+canonical_title: Singles 1979-1980
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: http://joydiv.org/P9.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BS5
+  group_role: pressing_variation
+notes: 'Side A indicated as III
+
+  Side B indicated as IV
+
+
+  Singles 1979-1980 is the second LP featuring a Kevin Cummins photo (TJ Davidson''s 19 August 1979) from the inside of the
+  2019 gatefold sleeve.
+
+
+  Both LPs have the same catalogue number as the 2019 release; IC 051880.
+
+  Both LPs have a transparent ''Made in Poland'' sticker, on the shrink wrap, in the bottom right corner on the back.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '5'
+  - d
+  reconstructed: BS5d
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - S.xlsx

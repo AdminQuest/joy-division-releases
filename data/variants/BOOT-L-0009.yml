@@ -1,0 +1,30 @@
+variant_id: BOOT-L-0009
+release_type: bootleg
+canonical_title: Leigh Rock Festival
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L24.htm
+country_or_pressing_place: UK
+notes: 2008, Dandelion Records Ozit 8796, Limted edition 1000 numbered copies gatefold sleeve. N°215/300 vinyles noirs.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: (Side A): OZITLP8796-A 79683E1/A'
+    - 'Matrix / Runout: (Side B): OZITLP8796-B 79683E2/A'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '3'
+  - null
+  reconstructed: BL3
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - L.xlsx

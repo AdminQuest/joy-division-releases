@@ -1,0 +1,25 @@
+variant_id: PARA-U-0001
+release_type: para
+canonical_title: UNCUT MAGAZINE
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: needs_review
+joydiv_letter: U
+notes: JOY DIVISION & NEW ORDER ULTIMATE MUSIC GUIDE
+format_details:
+  type: para
+  parent_object: magazine
+  object_description: 'Magazine: UNCUT MAGAZINE'
+  embedded_supports: []
+  parent_title: UNCUT MAGAZINE
+  parent_year: 2019
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 88
+  source_xlsx: Livres -.xlsx

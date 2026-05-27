@@ -1,0 +1,36 @@
+variant_id: BOOT-C-0022
+release_type: bootleg
+canonical_title: Ceremony
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C12.htm
+country_or_pressing_place: USA
+notes: 'V4 : FAC.33C Factory 2021
+
+  This is a reissue of the 2019 green sleeve version above.
+
+  Limted to 50 copies.
+
+  Only the sleeve is different, the four colour splatter vinyl 10"s are the same and the matrix numbers match.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    color: clear
+    matrices:
+    - 14306-103435 A3
+    - 14306-103435 B
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '3'
+  - r
+  reconstructed: BC3r
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Bootlegs - C.xlsx

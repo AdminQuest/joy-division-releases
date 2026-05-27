@@ -1,0 +1,34 @@
+variant_id: BOOT-K-0013
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BK1
+  group_role: color_variation
+notes: 'V9 : Joy Division Records Product 01. Glossy sleeve with JD 01 in top right corner. The labels are on the wrong sides
+  (side A should be side B etc)
+
+  Labels are different from the original; black with silver/grey text.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - J.D.01-A
+    - J.D.01-B.
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - j
+  reconstructed: BK1j
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - K.xlsx

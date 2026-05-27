@@ -1,0 +1,32 @@
+variant_id: BOOT-T-0003
+release_type: bootleg
+canonical_title: Le Terme *Part II*
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/L4.htm
+country_or_pressing_place: Netherlands
+notes: 'Hawk 016 Hawkeye 1985 - FAB XXIX
+
+
+  2e exemplaire'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: HAWK 016 A'
+    - 'Matrix / Runout: HAWK 016 B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '5'
+  - null
+  reconstructed: BL5
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,36 @@
+variant_id: PIR-L-0023
+release_type: pirate
+canonical_title: Live in Holland
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Live-In-Holland/release/13486985
+country_or_pressing_place: Europe
+notes: "DOL ‎– DOR2020HC Concerto. Attention à ne pas conforme la version RSD (DOL 2019) et la version DOL 2015.  Bootlegs\
+  \ I-L - Joy Division \nNo official release this year but an unofficial release on Concerto records appeared on the official\
+  \ Record Store Day web site (Netherlands only) for a period of time.\nThe listing was pulled before Record Store Day, presumably\
+  \ because of copyright reasons, but the record was still released."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Blue
+    matrices:
+    - 'Barcode (Text): 8 89397 10807 6'
+    - 'Barcode (Scanned): 889397108076'
+    - 'Matrix / Runout (Side A runout, stamped): 103828E1/D'
+    - 'Matrix / Runout (Side B runout, stamped): 103828E2/B'
+_legacy_code:
+  segments:
+  - P
+  - A
+  - R
+  - '1'
+  reconstructed: PAR1
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - RSD.xlsx

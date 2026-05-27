@@ -1,0 +1,36 @@
+variant_id: BOOT-W-0045
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V21 réécrit RZM Australian bootleg released 2006. No catalogue number on packaging or label. Matrix: WARSAW. This
+  may have the same matrix number (Warsaw) as the LP above but it''s a different pressing - there is a slight difference in
+  the way the matrix numbers are written.
+
+  ma variante : pas de matrice'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - WARSAW
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - ah
+  reconstructed: BW4ah
+  has_suffix: false
+  source_row: 47
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,38 @@
+variant_id: BOOT-H-0002
+release_type: bootleg
+canonical_title: Hand of Doom
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H9.htm
+discogs_url: https://www.discogs.com/fr/release/3439605-Joy-Division-Hand-Of-Doom
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BH1
+  group_role: color_variation
+notes: 'German LP released 2012
+
+  Issued in black vinyl and white vinyl
+
+  Black and white picture labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: White marbled
+    matrices:
+    - '(Side A ): 001-A (Handwritten)'
+    - '(Side B ): 001-B (Handwritten)'
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '1'
+  - b
+  reconstructed: BH1b
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - H.xlsx

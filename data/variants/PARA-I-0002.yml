@@ -1,0 +1,26 @@
+variant_id: PARA-I-0002
+release_type: para
+canonical_title: 'Les Inrockuptibles #1292'
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: I
+notes: « Comme un soleil noir »
+format_details:
+  type: para
+  parent_object: magazine
+  object_description: 'Magazine: Les Inrockuptibles #1292'
+  embedded_supports: []
+  parent_title: Les Inrockuptibles
+  parent_issue: '#1292'
+  parent_year: 2020
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Livres -.xlsx

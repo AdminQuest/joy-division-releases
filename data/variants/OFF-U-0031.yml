@@ -1,0 +1,33 @@
+variant_id: OFF-U-0031
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/13673112
+country_or_pressing_place: UK & Europe
+notes: 'London Records ‎– 3984 28223-2. The back inlay only features the barcode, Artist and Title. There is no cat # on the
+  spine.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    color: Misprint
+    matrices:
+    - 'Barcode (Text): 6 39842 82232 9'
+    - 'Matrix / Runout: [Warner Music Logo] 398428223-2.2 V01 RCR'
+    - 'Label Code: LC7654'
+    - 'Price Code: EW 809'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

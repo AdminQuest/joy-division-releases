@@ -1,0 +1,68 @@
+variant_id: OFF-S-0016
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/1466071-Joy-Division-Still
+country_or_pressing_place: Spain
+notes: 'Nuevos Medios – 36-005 A, Nuevos Medios – 36-005, Factory – FACT 40
+
+  Original Spanish pressing.
+
+  Grey cardboard gatefold sleeve that opens towards the center. White but non-embossed lettering.
+
+  Comes with matching card inner sleeves with a rounded corner.
+
+  Labels are printed grey text on white.
+
+  From the labels:
+
+  date : 1/8/81
+
+  · A Fractured Music · A Factory Record ·
+
+  On the labels of side 2 and side 4 :
+
+  Fabricado en Espana por COFASA
+
+  From the back sleeve:
+
+  Nuevos Medios logo
+
+  Grafica Industria
+
+  Fact 40 A Factory Records Product
+
+  Graficas Luis Perez / Madrid
+
+  NM / Salustiano Olozaga 12 / Madrid
+
+  36-005 A'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - S.G.A.E.
+    - M-10427-82
+    - '(Runout side A): 850 36 005*1*1'
+    - '(Runout side B): 850 36 005*2*1'
+    - '(Runout side C): 850 36 005*3*1'
+    - '(Runout side D): 850 36 005*4*1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

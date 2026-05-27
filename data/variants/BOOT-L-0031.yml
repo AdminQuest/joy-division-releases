@@ -1,0 +1,45 @@
+variant_id: BOOT-L-0031
+release_type: bootleg
+canonical_title: Live at Leigh Rock Festival
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L19.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BL15
+  group_role: color_variation
+notes: 'Support CDr (CD enregistrable)
+
+
+  Interstate Records ‎– 10796
+
+  []CDr : Pressing plant produced 2 CDR set. Numbered limited edition. Audio quality is poor. The pack contains 2 CDRs, an
+  A3 photocopied sheet of press clippings, and a 10 side folded glossy insert.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Barcode (Scanned): 5033531079622'
+    - 'Barcode (Text): 5 033531 079622 >'
+    - 'Rights Society: MCPS'
+    - 'Matrix / Runout (CD1): INTERS107961 01'
+    - 'Mastering SID Code (CD1): IFPI L135'
+    - 'Mould SID Code (CD1 Outerring): IFPI 04AL'
+    - 'Mould SID Code (CD1 Innerring): IFPI 0440'
+    - 'Matrix / Runout (CD2): INTERS107962 01 MADE IN THE UK'
+    - 'Matrix / Runout (CD2): IFPI L135'
+    - 'Mastering SID Code (CD2): IFPI 0483'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '15'
+  - a
+  reconstructed: BL15a
+  has_suffix: false
+  source_row: 34
+  source_xlsx: Bootlegs - L.xlsx

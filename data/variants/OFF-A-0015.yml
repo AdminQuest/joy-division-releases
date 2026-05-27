@@ -1,0 +1,45 @@
+variant_id: OFF-A-0015
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: UK
+notes: 'Factory ‎– Fac213
+
+  First edition, cut at The Townhouse, London.
+
+  Inner sleeve: ''Plus en Min'' (detail) by Jan Van Munster, 1988 Jan Van Munster/DACS
+
+  Published by Fractured Music / Zomba Music.
+
+  A Factory Record
+
+  ℗ 1988 Factory Communications Limited
+
+  © 1988 Factory Communications Limited'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode (Printed): 5 016839 202138'
+    - 'Matrix / Runout (Runout side A): FAC-213-12-A1 ✱ TOWNHOUSE MAX'
+    - 'Matrix / Runout (Runout side B): FAC-213-12-B1 ✱ TOWNHOUSE MAX'
+    - 'Matrix / Runout (Label side A): Fac213a'
+    - 'Matrix / Runout (Label side B): Fac213b'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

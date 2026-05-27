@@ -1,0 +1,35 @@
+variant_id: BOOT-S-0015
+release_type: bootleg
+canonical_title: Singles 1978-1980
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/P9.htm
+country_or_pressing_place: UK ?
+variant_group:
+  group_id: BS5
+  group_role: pressing_variation
+notes: "[x]V1 : Double LP released 2011. Pirate copy of the official 2010 7\" & CD box-sets \nIncludes two inserts; a double-sided\
+  \ one and a large 10\" sticker."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout: JOYDIVLP 001 A-1'
+    - 'Matrix / Runout: JOYDIVLP 001 B-1'
+    - 'Matrix / Runout: JOYDIVLP 001 C-1'
+    - 'Matrix / Runout: JOYDIVLP 001 D-1'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '5'
+  - a
+  reconstructed: BS5a
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Bootlegs - S.xlsx

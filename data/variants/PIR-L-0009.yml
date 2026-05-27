@@ -1,0 +1,30 @@
+variant_id: PIR-L-0009
+release_type: pirate
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L17.htm
+country_or_pressing_place: USA
+notes: 'V1 : 2011 Cleopatra ‎– CLP 3673-1 []white'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: white
+    matrices:
+    - 'Matrix / Runout (A): R-21623-A RE1'
+    - 'Matrix / Runout (B): R-21624-B RE1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

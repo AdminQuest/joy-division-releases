@@ -1,0 +1,38 @@
+variant_id: BOOK-I-0005
+release_type: livre
+canonical_title: Ian Curtis Joy Division
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk28.htm
+notes: 'Bilingual paperback lyrics book (in Portuguese and English)
+
+  Features song lyrics in Portuguese and English and a discography.
+
+  No pictures.
+
+  Reprinted 1989
+
+  Publisher: Assirio & Alvim, Portugal'
+format_details:
+  type: book
+  authors:
+  - Pedro S. Costa
+  - Paulo Da Costa Domingos
+  publisher: Assirio & Alvim
+  publication_year: 1983
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 53
+  source_xlsx: Livres -.xlsx

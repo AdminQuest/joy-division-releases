@@ -1,0 +1,31 @@
+variant_id: OFF-L-0019
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Europe
+notes: Factory ‎– FAC·XXIII·XII  Reissue, Remastered, Stereo, 180g
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode (Scanned from sticker): 190295269449'
+    - 'Barcode (text): 0 190295 269449'
+    - 'Matrix / Runout (Side A etched): BK01862-01 A₁ x=ᛚ F.A.'
+    - 'Matrix / Runout (Side B etched): BK01862-01 B₁ F.A.'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

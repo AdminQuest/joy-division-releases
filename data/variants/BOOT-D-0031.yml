@@ -1,0 +1,59 @@
+variant_id: BOOT-D-0031
+release_type: bootleg
+canonical_title: Death Trip
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D6.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BD10
+  group_role: color_variation
+notes: 'VO : Best.-Nr.91123. West-German LP 1987. Black, red, blue or clear vinyl. We think the original version of this LP
+  was on black vinyl and came in the black and white sleeve.
+
+  This version has the following printed on the labels:
+
+  SLOW DEATH TRIP - The Natural Course Of History
+
+  A1. Manchester Blues 4:57
+
+  A2. Outsight (Oui, oui, c''est la guerre...) 4:06
+
+  A3. Metal Shadows 4:30
+
+  A4. The Angels Of Chaos (No Room For The Weak!) 4:28
+
+  A5. 24 Hours To Live (Slow Death) 4:02
+
+  B1. Facing An Incredible Down 3:30
+
+  B2. Oriental Invasion (European Decline) 2:55
+
+  B3. Forward To The End! 2:45
+
+  B4. The Eternal Law Of Blood 7:30
+
+  B5. Glorious Decades (For Heart & Soul) 4:05'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Informations sur la matrice: 647.010 A G. Pauler'
+    - 'Informations sur la matrice: 647.010 B G. Pauler'
+    - 'Code-barres: 4 000908 004427'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '10'
+  - a
+  reconstructed: BD10a
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - D.xlsx

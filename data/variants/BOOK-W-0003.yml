@@ -1,0 +1,29 @@
+variant_id: BOOK-W-0003
+release_type: livre
+canonical_title: 'We Were Strangers: Stories inspired by Unknown Pleasures'
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: W
+format_details:
+  type: book
+  authors:
+  - Richard Hirst (sous la direction de)
+  publisher: Inconnu
+  publication_year: 2018
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-0995596610
+  page_count: 173
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 85
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,30 @@
+variant_id: BOOT-F-0027
+release_type: bootleg
+canonical_title: Futurama 2 / Futurama 82
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: F
+variant_group:
+  group_id: BF11
+  group_role: pressing_variation
+notes: '(probably unreleased)
+
+  Probably intended to be a reissue of "Futurama 79".
+
+  Apparantly Hawkeye intended to release this LP but only got as far as printing up the covers. Any more information would
+  be greatly appreciated.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '11'
+  - d
+  reconstructed: BF11d
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - F.xlsx

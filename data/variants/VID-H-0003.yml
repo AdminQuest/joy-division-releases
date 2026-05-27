@@ -1,0 +1,22 @@
+variant_id: VID-H-0003
+release_type: video
+canonical_title: HERE ARE THE YOUNG MEN
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/hatym.htm
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

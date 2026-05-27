@@ -1,0 +1,35 @@
+variant_id: BOOK-S-0003
+release_type: livre
+canonical_title: Shadowplay
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: http://joydiv.org/bk7.htm
+country_or_pressing_place: Germany
+notes: 'With chapters on the band''s history, the music, Factory Records, Martin Hannett, various gig reviews, lyrics etc.
+  With lots of images from bootleg sleeves throughout it comes across as a book version of the various Joy Division fanzines
+  that were around at the time.
+
+
+  Contains some rarely seen black & white pictures.'
+format_details:
+  type: book
+  authors:
+  - Martin Drichel
+  publisher: ReadyMade Publishing, Germany
+  publication_year: 1988
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 74
+  source_xlsx: Livres -.xlsx

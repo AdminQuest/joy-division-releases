@@ -1,0 +1,35 @@
+variant_id: BOOT-S-0039
+release_type: bootleg
+canonical_title: The Sound Of Music vol.1
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S15.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BS13
+  group_role: pressing_variation
+notes: '[]US LP : This is identical to LP 1 from the 2LP/3LP+2CD released in 2012. Release date unknown. This is most likely
+  a leftover LP from the 2012 set in a different sleeve. Marble sleeve with silver print, supposedly very few copies. Three
+  different vinyl colours; marbled light blue, lightly marbled purple, and marbled light grey vinyl.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled
+    matrices:
+    - '1 US LP :'
+    - SOM-A
+    - SOM-B
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '13'
+  - e
+  reconstructed: BS13e
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - S.xlsx

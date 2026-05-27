@@ -1,0 +1,36 @@
+variant_id: PIR-U-0001
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1054271
+country_or_pressing_place: Europe
+notes: 'N° 1 : Fact 10 2005. European pirate edition of Unknown Pleasures released December 2005. Spine has "JOY DIVISIONUNKNOWN
+  PLEASURE" (missing the "S"). No matrix numbers. Inside label has a double dip and more like a not-so-white background
+
+  How to tell this from the genuine article - the pirate has the song titles on the back cover and it credits "Fractur Music"
+
+  Reissued in 2008 (P4)
+
+  There is a mispress of this LP featuring side B of Unknown pleasures on side A, and Side B of Closer on side B'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - No matrix numbers
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

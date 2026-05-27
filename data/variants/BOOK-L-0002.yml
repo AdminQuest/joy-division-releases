@@ -1,0 +1,33 @@
+variant_id: BOOK-L-0002
+release_type: livre
+canonical_title: Los placeres desconocidos de Ian Curtis
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: http://joydiv.org/bk110.htm
+country_or_pressing_place: Espagne
+notes: Spanish language booklet
+format_details:
+  type: book
+  authors:
+  - Sergi Atencia Sánchez
+  publisher: 'Pano Art Books Music Series, "Rock en Blanco y Negro"
+
+    RRP'
+  publication_year: 2024
+  language: es
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 52
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 136
+  source_xlsx: Livres -.xlsx

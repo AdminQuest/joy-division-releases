@@ -1,0 +1,30 @@
+variant_id: OFF-C-0034
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: UK & Europe
+notes: 'Repressage 2015 (LP Warner Records 90 Ltd FACT 25) (also as Rhino R1-56282 in the US) Factory ‎– FACT∙XXV, FACT. 25R.
+  Reissue, Remastered, 180 Gram. Barcode (Text - sticker): 8 25646 18391 3 / Barcode (Scanned - sticker): 825646183913'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A runout, variant 3): 0825646183913 BE77814-01 A1'
+    - 'Matrix / Runout (Side B runout, variant ??): 0825646183913 BE77814-01 B1 V+X'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Officiels et pirates - Closer.xlsx

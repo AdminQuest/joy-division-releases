@@ -1,0 +1,35 @@
+variant_id: OFF-C-0040
+release_type: officiel
+canonical_title: Complete BBC recordings - Before and After, the BBC Sessions
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/co.htm
+discogs_url: https://www.discogs.com/fr/New-Order-Joy-Division-Before-After-The-BBC-Sessions/release/2539691
+country_or_pressing_place: USA
+notes: New Order & Joy Division, Before & After, the BBC sessions - Fuel 2000 ‎– 302 061 213 2, Varèse Sarabande.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Barcode (Box): 0 30206 12132 2'
+    - 'Barcode (Joy Division CD): 0 30206 10842 2'
+    - 'Barcode (New Order CD): 0 30206 10852 1'
+    - 'Matrix / Runout (Disc 1): 3020610842 1F 11'
+    - 'Mastering SID Code (Disc 1): IFPI L240'
+    - 'Barcode (Disc 2): 3020610852 2H 11'
+    - 'Barcode (Disc 2): IFPI L238'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

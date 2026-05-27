@@ -1,0 +1,34 @@
+variant_id: PIR-C-0004
+release_type: pirate
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: ??
+notes: Pirate 2011 Stiletto ‎– 992 527-1 (Pirate version of the Brazilian Closer release from 1987, including the bonus track
+  "Love Will Tear Us Apart »). Stiletto ‎– 992 527-1, Factory ‎– FACT. 25, Factory ‎– FACT∙XXV, Factory ‎– FACLP 25. Unofficial
+  Release, Salmon Pink. First and 2nd cat# on labels, 3rd on sleeve (spine and back cover), 4th from runouts. This pressing
+  has tan background labels, and the colour of the vinyl is semi transparent marbled salmon pink. Front cover includes the
+  band name.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Pink
+    matrices:
+    - 'Matrix / Runout (Runout side A (Hand etched)): FACLP-25 A-1'
+    - 'Matrix / Runout (Runout side B (Hand etched)): FACLP-25 B-1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Officiels et pirates - Closer.xlsx

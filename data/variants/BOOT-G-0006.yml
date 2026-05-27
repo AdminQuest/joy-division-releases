@@ -1,0 +1,30 @@
+variant_id: BOOT-G-0006
+release_type: bootleg
+canonical_title: Greatest Hits
+canonical_artist: Joy Division
+year: 1998
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G4.htm
+country_or_pressing_place: Poland
+variant_group:
+  group_id: BG4
+  group_role: color_variation
+notes: 'CD) # 0-42282-80352-8 PR 00001
+
+  CD. No "label" credited on the cover or disc'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '4'
+  - b
+  reconstructed: BG4b
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - G.xlsx

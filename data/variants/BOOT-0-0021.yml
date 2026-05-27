@@ -1,0 +1,40 @@
+variant_id: BOOT-0-0021
+release_type: bootleg
+canonical_title: 'A 30 Year Anniversary Tour 45
+
+  Joy Division / Buzzcocks - No Love lost (demo) / Whatever Happened To ?'
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/A12.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BA1
+  group_role: color_variation
+notes: "Feral Child Recordings ‎– FERAL-2\nSleeve reads: JOY DIVISION side: \"NO LOVE LOST\" (demo) recorded either 3/4 may\
+  \ 1978. (uniq.synth/kraut/can like intro)\nBUZZCOCKS side: \"WHATEVER HAPPENED TO?\"\nslightly different mix unique to the\
+  \ french UA version from 1977, where the wrong master was used!\nSupposedly limited 150 hand numbered copies but a large\
+  \ number of  copies exist with \"Promo/100\" on the labels instead of a number \nStiff card folder cover with band pictures\
+  \ on the inside. Pressed on greenish, blueish and orangey multicoloured vinyl, possibly be other colour variations too.\
+  \ Plain white labels with big centre hole"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: marbled
+    matrices:
+    - FERAL-2-A
+    - FERAL-2-B1
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '1'
+  - c
+  reconstructed: BA1c
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - A.xlsx

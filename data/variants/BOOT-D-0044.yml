@@ -1,0 +1,60 @@
+variant_id: BOOT-D-0044
+release_type: bootleg
+canonical_title: Die Kalten Winde Des Winters
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D11.htm
+country_or_pressing_place: Germany
+notes: 'Digital Music ‎– Digital-01. Double LP released May 2004. Limited edition of 200 copies
+
+  Pressed on the following vinyl colours:
+
+  - transparent (orangey-)yellow / transparent greenish-yellow (there appear to be some colour differences between the various
+  "yellow" copies!)
+
+  - transparent (orangey-)yellow / transparent green
+
+  - clear / clear
+
+  - transparent red / transparent red (pale red/pinkish colour)
+
+  - dark (purplish-)blue / dark (purplish-)blue
+
+  We''ve also seen a clear (LP1) / transparent red (LP2) version, although we''re not sure if this version was released that
+  way or if someone switched the LPs around, either by accident or deliberately.
+
+  We''ve also been informed of these seemingly different versions but we''ve never seen these ourselves.
+
+  - pale green / pale green
+
+  - pale blue / dark blue
+
+  - clear / marble
+
+  Plain black labels with a single letter in gothic typeface (A, B, C & D). Features the complete concert.
+
+  This is not a high quality recording. Apparently the person who issued this relea'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: transparent red
+    matrices:
+    - 'Side A: IW 10740A-1'
+    - 'Side B: XXJD-B'
+    - 'Side C: XXJD-C'
+    - 'Side D: XXJD-D'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '14'
+  - null
+  reconstructed: BD14
+  has_suffix: false
+  source_row: 45
+  source_xlsx: Bootlegs - D.xlsx

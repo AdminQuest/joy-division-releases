@@ -1,0 +1,33 @@
+variant_id: BOOT-G-0005
+release_type: bootleg
+canonical_title: Greatest Hits
+canonical_artist: Joy Division
+year: 1998
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G4.htm
+country_or_pressing_place: Poland
+variant_group:
+  group_id: BG4
+  group_role: color_variation
+notes: '(K7, 1998) # 0-42282-80352-8 PR 00001. The sound qualtiy is like you''d expect from an official release. The label
+  is plain black, it says "DIVISION" in capital pink letters and Greatest Hits in smaller grey letters. As the cover picture
+  is from the 1998 Heart and Soul box set it''s probably a 1998 release. L’annonce de la K7 disait « 1992 Poland M Records
+  »'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - AGD 016/98 IFPI 6A
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '4'
+  - a
+  reconstructed: BG4a
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - G.xlsx

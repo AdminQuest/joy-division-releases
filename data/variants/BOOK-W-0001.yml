@@ -1,0 +1,32 @@
+variant_id: BOOK-W-0001
+release_type: livre
+canonical_title: Welcome to the Atrocity Exhibition
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: needs_review
+joydiv_letter: W
+joydiv_url: http://joydiv.org/bk87.htm
+country_or_pressing_place: UK
+notes: Produced by Glenn Bennett ("Benno") and features Joy Division's song lyrics. The pages are loose folded sheets, not
+  stapled or glued, and only about 30 copies were made.
+format_details:
+  type: book
+  authors:
+  - Glenn Bennett
+  publisher: Inconnu
+  publication_year: 1982
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 42
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 83
+  source_xlsx: Livres -.xlsx

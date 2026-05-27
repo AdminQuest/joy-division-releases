@@ -1,0 +1,38 @@
+variant_id: OFF-U-0018
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/5861937
+country_or_pressing_place: Ireland
+notes: 'Factory ‎– FACT 10
+
+  Textured sleeve with printed inner with square corners.
+
+  Early ''80s repress, medium weight vinyl (120g), double dipped labels. The vinyl looks translucent when held up to the light.
+  This is indicative of a Carlton Productions pressing.
+
+  Recorded at Strawberry Studios, Stockport.
+
+  FACT 10 A Factory Records Product.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side runout, etched, TOWN HOUSE stamped): FACT 10 A2 GG2 TOWN HOUSE'
+    - 'Matrix / Runout (B side runout, etched, TOWN HOUSE stamped): FACT 10 B2 GG2 TOWN HOUSE'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

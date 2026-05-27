@@ -1,0 +1,34 @@
+variant_id: BOOT-B-0005
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BB2
+  group_role: color_variation
+notes: 'V2a : Australian LP. Limited edition (number unspecified)
+
+  Released 2010. Off-white vinyl. Black labels with only a capital letter "A" (or "B").'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - No matrix numbers
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - d
+  reconstructed: BB2d
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - B.xlsx

@@ -1,0 +1,46 @@
+variant_id: OFF-T-0010
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: Italy
+notes: 'A Fractured Music • A Factory Record
+
+  Published by Fractured Music
+
+  Made in Italy
+
+  FACTORY RECORDS-DEC.80-JD-FAC 13.12-A (front cover)
+
+  FACTORY RECORDS-DEC.80-JD-FAC 13.12-B (back cover)
+
+  Date on label: 12/9/80
+
+  A Factory Record
+
+  Base Record Via Castiglione 109, Bologna tel 051/237528 - 534697 - ITALY'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Label side A): FAC 13 X 12A'
+    - 'Matrix / Runout (Label side B): FAC 13 X 12B'
+    - 'Matrix / Runout (Runout side A): FACT 13 / 1'
+    - 'Matrix / Runout (Runout side B): FACT 13 B / 2'
+    - 'Rights Society: S.I.A.E.'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

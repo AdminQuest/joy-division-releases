@@ -1,0 +1,35 @@
+variant_id: BOOK-J-0025
+release_type: livre
+canonical_title: JD/NO - A Checklist of Records and Tapes
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk26.htm
+notes: 'Published: 1987
+
+  The Netherlands
+
+  Booklet
+
+  Written by G. Dawelaar'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1987
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 103
+  source_xlsx: Livres -.xlsx

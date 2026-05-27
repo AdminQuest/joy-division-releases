@@ -1,0 +1,39 @@
+variant_id: BOOT-A-0062
+release_type: bootleg
+canonical_title: Au Plan K
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://joydiv.org/A19.htm
+country_or_pressing_place: USA
+notes: 'US release 2025
+
+  No record label identified
+
+  Au Plan K sleeve and poster as above but the records themselves are the 2021 Plan K LP (labels state "Plan K" not "Au Plan
+  K")
+
+  Three different splatter colour vinyl variants: blue multi, clear multi, purple multi
+
+  Postcard insert (unnumbered)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - JD_BENELUX B  JH
+    - JD_BENELUX C  JH
+    - JD_BENELUX D  JH
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 85
+  source_xlsx: Bootlegs - A.xlsx

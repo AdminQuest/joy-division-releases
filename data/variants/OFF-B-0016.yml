@@ -1,0 +1,37 @@
+variant_id: OFF-B-0016
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Les-Bains-Douches/release/14024792
+country_or_pressing_place: Europe
+notes: 'Re-released by DOL / Concerto as a 300 copy single blue vinyl LP in 2019. Cat.no.: DOR2019H
+
+  Sticker on shrink wrap calls the LP Live in Paris. This is probably because they have released the Amsterdam tracks as a
+  single LP called Live in Holland'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Blue
+    matrices:
+    - 'Barcode: 889397108120'
+    - 'Matrix / Runout (Side A & B labels): DOR2019H'
+    - 'Matrix / Runout (Side A runout): 141939E1/C'
+    - 'Matrix / Runout (Side B runout): 141939E2/B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

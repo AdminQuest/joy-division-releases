@@ -1,0 +1,46 @@
+variant_id: BOOT-L-0075
+release_type: bootleg
+canonical_title: Live in Koln (Die Kalten Winde Des Winters)
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L39.htm
+country_or_pressing_place: Asia
+notes: 'Digital Music K22LP 2022 Test Pressing
+
+  2022 Asian Double LP
+
+  ''Test Pressing''
+
+  15 numbered copies on black vinyl
+
+  Label: Digital Music
+
+  Catalogue Number: K22LP
+
+  Test pressing labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'LP1:'
+    - 16718-132354 A2
+    - 16718-132354 B
+    - 'LP2:'
+    - 16718-132354 C
+    - 16718-132354 D
+  label_apparent: voir aussi à Die Kalten
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '28'
+  - null
+  reconstructed: BL28
+  has_suffix: false
+  source_row: 78
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,38 @@
+variant_id: BOOK-J-0018
+release_type: livre
+canonical_title: Joy Division and the making of Unknown Pleasures
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk3.htm
+country_or_pressing_place: UK
+notes: 'Book #9 of the Vinyl Frontier series.
+
+
+  The Vinyl Frontier series of books looks at the making of seminal recordings, music that was both revolutionary in its time,
+  and of long-term lasting impact. In this book Jake Kennedy assesses not only each track recorded in the sessions for the
+  debut, but every single attempt the band laid down in the studio prior to that release. The progress of the group is detailed
+  not only through their singles, but also through compilation tracks and TV and radio appearances.'
+format_details:
+  type: book
+  authors:
+  - Jake Kennedy
+  publisher: Unanimous Ltd
+  publication_year: 2006
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 1-903318-80-7
+  page_count: 215
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 61
+  source_xlsx: Livres -.xlsx

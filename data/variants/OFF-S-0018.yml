@@ -1,0 +1,37 @@
+variant_id: OFF-S-0018
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/12323741-Joy-Division-Still
+country_or_pressing_place: UK
+notes: 'Grey heavy cardboard standard gatefold sleeve with embossed printing. Inners are same heavy grey cardboard as cover,
+  with four rounded corners and no die cut center holes.
+
+  Pressed 1984 or 1985.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - FACT 40 A1 DW THE CHICKEN WON'T STOP
+    - FACT 40 B1 DW -< -< -< -< -< -<
+    - FACT 40 C1 DW -< -< -< -<
+    - FACT 40 D1 DW THE CHICKEN STOPS HERE
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

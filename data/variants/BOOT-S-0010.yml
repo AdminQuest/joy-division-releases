@@ -1,0 +1,34 @@
+variant_id: BOOT-S-0010
+release_type: bootleg
+canonical_title: Shadowplay
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S2.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BS3
+  group_role: color_variation
+notes: '[]4th issue/3rd reissue(?), barcoded, matrix 991950002143 3105-A 8 page stapled booklet. Same matrix as above. Printing
+  quality of booklet & back insert about the same as the original issue. Contains catalogue up to release 9103, plus "Templar
+  Record Works" label releases up to TCD 015. No talk about royalty deposits.
+
+  No signs of "CD rot".'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - matrix 991950002143 1021
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '3'
+  - h
+  reconstructed: BS3h
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - S.xlsx

@@ -1,0 +1,29 @@
+variant_id: BOOT-W-0002
+release_type: bootleg
+canonical_title: Waiting for Our Sight
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W9.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BW1
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Clear
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '1'
+  - b
+  reconstructed: BW1b
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,39 @@
+variant_id: BOOK-J-0015
+release_type: livre
+canonical_title: 'Joy Division + New Order : Decades'
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk94.htm
+country_or_pressing_place: UK
+notes: First, there was Joy Division. Their music reflected both the barren urban landscape of their native Manchester in
+  the late 1970s and singer Ian Curtis's heart of darkness. They remain forever defined by both the suicide of their extraordinary
+  and extraordinarily volatile singer and two albums as close to perfection as music can come. From the ashes of Joy Division
+  came New Order - their globally popular music bridged the chasm between indie and dance and inspired a generation. Having
+  conquered the world and maintained their credibility, they snatched defeat from the jaws of victory and imploded in a tsunami
+  of recrimination, while still making fabulous music. It's a tale of death, destroyed friendships and bungled finances, but
+  the story of Joy Division and New Order is also the saga of two bands who made extraordinary music which defined their times
+  and overturned the musical landscape.
+format_details:
+  type: book
+  authors:
+  - John Aizlewood
+  publisher: Palazzo Editions Ltd
+  publication_year: 2021
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 178675116X
+  page_count: 240
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 58
+  source_xlsx: Livres -.xlsx

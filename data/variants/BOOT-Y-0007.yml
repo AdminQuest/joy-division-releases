@@ -1,0 +1,32 @@
+variant_id: BOOT-Y-0007
+release_type: bootleg
+canonical_title: YMCA 2-8-80
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: Y
+country_or_pressing_place: UK
+notes: 'Also released as a promo version :
+
+  Plain white sleeve, glued insert (beige) on plain white sleeve. Labels: A-side plain white, B-side plain black. No poster
+  insert'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: ADLP 1099 A MPO'
+    - 'Matrix / Runout: ADLP 1099 B MPO'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - Y.xlsx

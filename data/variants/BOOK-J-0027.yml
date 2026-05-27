@@ -1,0 +1,31 @@
+variant_id: BOOK-J-0027
+release_type: livre
+canonical_title: Joy Division & New Order - Entre Tinieblas
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk21.htm
+notes: A glossy affair mainly devoted to New Order with some colour pictures of the band. The information about Joy Division
+  appears to be rather superficial. Apart from a couple of poster inserts, a New Order band photo and one of the album covers
+  (including a couple of Joy Division sleeves), there's nothing special about this book. Hardly worth buying.
+format_details:
+  type: book
+  authors:
+  - Daniel Grau
+  publisher: Editorial La Mascara/Collecion Imagenes De Rock
+  publication_year: 1995
+  language: es
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 120
+  source_xlsx: Livres -.xlsx

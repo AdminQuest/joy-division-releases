@@ -1,0 +1,33 @@
+variant_id: BOOT-I-0032
+release_type: bootleg
+canonical_title: Inside The Line
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I10.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI9
+  group_role: color_variation
+notes: 'V4 : Reissued on brown vinyl subtle semi-translucent marbling effect in 2008'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: brown
+    matrices:
+    - None of the releases have matrix numbers or groove notations
+    - 'Barcode: 4 005546 102009'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '9'
+  - e
+  reconstructed: BI9e
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Bootlegs - I.xlsx

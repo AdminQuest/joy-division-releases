@@ -1,0 +1,53 @@
+variant_id: BOOT-B-0021
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: USA
+notes: 'V6a : American LP released 2020
+
+  This is a new pressing, not a reissue of the 2014/2016 versions, with slightly different matrix numbers. No hyphens either
+  side of A or B
+
+  Gold foil print sleeve
+
+  Includes double-sided insert with a band picture on one side, and a postcard.
+
+  Limited numbered edition; hand-written top left corner on the generic clear plastic inner sleeve.
+
+  Plain black labels with a capital A or B printed in white
+
+  Coloured vinyl, at least 10-12 copies made in each colour:
+
+  - grey/black splatter, cloudy-clear base
+
+  - pink splatter with a little bit of black, cloudy-clear base
+
+  - blue & pink splatter, cloudy-clear base
+
+  - yellow splatter with a little bit of red, cloudy-clear base
+
+  - red splatter with a little bit of blue & black, cloudy-clear base'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter yellow
+    matrices:
+    - JD_BOTE A
+    - JD_BOTE B
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - t
+  reconstructed: BB2t
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Bootlegs - B.xlsx

@@ -1,0 +1,49 @@
+variant_id: OFF-C-0011
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Germany
+notes: 'Factory ‎– 0060.361, Factory ‎– FACT XXV
+
+  Produced at Britannia Row
+
+  Published by Fractured Music
+
+  P. 1980 Factory Records
+
+  Im Vertrieb der Metronome Musik GmbH
+
+  Made in W.-Germany
+
+  Back cover has non-ink embossed stamp "PRS Hannover".
+
+  Issued with printed inner sleeve (track titles, few credits).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Label Code: LC 6636'
+    - 'Matrix / Runout (Label side A): 0703.948 S 1'
+    - 'Matrix / Runout (Label side B): 0703.948 S 2'
+    - 'Matrix / Runout (Runout side A, stamped, variant 1): 0060 361 S 1 0703 948 S 1 320 1 B'
+    - 'Matrix / Runout (Runout side B, stamped, variant 1): 0060 361 S 2 0703 948 S 2 320 1 Ʌ'
+    - 'Matrix / Runout (Runout side A, stamped, variant 2): 0060 361 S 1 0703 948 S 1 320 W 1/\ (''W'' rotated 90° west)'
+    - 'Matrix / Runout (Runout side B, stamped, variant 2): 0060 361 S 2 0703 948 S 2 320 0 1 (last ''0'' rotated 90°)'
+    - 'Rights Society: GEMA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - Closer.xlsx

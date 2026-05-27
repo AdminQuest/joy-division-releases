@@ -1,0 +1,32 @@
+variant_id: OFF-I-0015
+release_type: officiel
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: USA
+notes: "V3.4 : USA pressing, 2005. Fake reissue of the official 7\" release on Enigma. Plays at 33 ⅓ rpm. \nIn 2006 an orange\
+  \ (sometimes referred to as gold or yellow) vinyl version appeared. This was a limited edition of 250 copies, and is probably\
+  \ just a repressing of the picture disc as the matrix numbers, sleeve etc are identical. \nAnother repressing, this time\
+  \ on blue vinyl (colour is more pale blue-greenish than the blue vinyl UK pressing listed above) was released in 2006, 150\
+  \ copies. \nA green vinyl version appeared in 2006, 5 copies, and a purple one in 2007. \n2008 saw re-releases in clear,\
+  \ spring green, army green, and grey vinyl. \nReissued on mauve vinyl in 2011. \n\nThe poster sleeve is very smooth and\
+  \ shiny\n\n[x]2006, 7\" orange pirate AN IDEAL FOR LIVING (7\")"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: green
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

@@ -1,0 +1,44 @@
+variant_id: PIR-I-0012
+release_type: pirate
+canonical_title: An Ideal For Living 12''
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: UK
+notes: '2011 UK.counterfeit version of the official 12" single. - Black vinyl - like the original
+
+  Sleeves and labels very similar to the original
+
+  Hand-written band name, title and catalogue number on the spine
+
+  How to tell it apart from the original:
+
+  Sleeve: The white border is whiter and wider than the original. The sleeve is glossier.
+
+  Same cover and labels as the original 12", same hand-written band name, title and label name on the spine.
+
+  Only the runout groove is missing the original "Don''t ever let it fade away" (A side) / "Feel it closing in" (B side) from
+  the "Digital" lyrics.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - ANON 1 A-A-1
+    - ANON 1 A-B-1
+    - Groove notations "DON'T EVER LET IT FADE AWAY" etc are missing and the run out grooves are noticeably wider than on
+      the original.
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - A
+  - '8'
+  reconstructed: P12A8
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - 12_ - An Ideal For Living.xlsx

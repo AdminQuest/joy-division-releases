@@ -1,0 +1,30 @@
+variant_id: BOOK-S-0008
+release_type: livre
+canonical_title: Shadowplayers, The Rise and Fall of Factory Records
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: S
+country_or_pressing_place: UK
+format_details:
+  type: book
+  authors:
+  - James Nice
+  publisher: Faber & Faber
+  publication_year: 2025
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-0571395408
+  page_count: 608
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 140
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,29 @@
+variant_id: VID-S-0004
+release_type: video
+canonical_title: SUBSTANCE 1978-1988
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: http://joydiv.org/subsvid.htm
+notes: "Double disc set featuring Here Are The Young Men and Substance. \nThis is a home made compilation on DVDR. We don't\
+  \ normally report on DVDRs but this one sold in large numbers on Ebay. \n\nThe Here Are The Young Men disc features track\
+  \ selection via a main menu. The short clip of silent footage from Plan K that featured on the original video has been removed.\
+  \ Picture quality is pretty much as good as the original video.\n\nThe Substance disc appears to be a straightforward copy\
+  \ of a pirate video. No menu but Chapters have been used so you can skip to the beginning of the next track. Picture quality\
+  \ of the live clips is OK but the TV Clips are definitely pirate video quality. The Wired TV documentary suffers the most\
+  \ in terms of quality but is watchable."
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 2
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

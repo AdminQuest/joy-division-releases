@@ -1,0 +1,38 @@
+variant_id: BOOT-L-0099
+release_type: bootleg
+canonical_title: Love Will Tear Germany Apart
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BL38
+  group_role: color_variation
+notes: 'Digital Music – Digital-01
+
+  Live At The Basement Club, Koln, Germany, 15.1.1980. Limited to 100 copies.
+
+  Audio is different to the 2004 vinyl release, 5 different colours'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: red splatter
+    matrices:
+    - 16718-132354 A
+    - 16718-132354 B
+    - 16718-132354 C
+    - 16718-132354 D
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '38'
+  - c
+  reconstructed: BL38c
+  has_suffix: false
+  source_row: 102
+  source_xlsx: Bootlegs - L.xlsx

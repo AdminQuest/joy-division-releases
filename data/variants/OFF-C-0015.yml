@@ -1,0 +1,55 @@
+variant_id: OFF-C-0015
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: USA
+notes: 'Factory (US) ‎– FACTUS 6 - Comes in a thick textured rough cardboard cover with textured printed inner sleeve having
+  rounded corners at the top.
+
+  Back cover:
+
+  FACTUS VI A Factory Records US Product
+
+  Spine:
+
+  Joy Division FACTUS VI A Factory Records US Product Closer
+
+  Inner sleeve:
+
+  Distributed by Rough Trade
+
+  Produced at Brittania Row
+
+  The vinyl for this release has several variations (hold up to a light source to see): Purple translucent or red translucent
+  or green translucent or brown translucent.
+
+  The colors are the result of formulations used for the original pressings, with the purple believed to be the very first
+  pressing. The red-tinted version was apparantly more widely distributed.
+
+  Runouts on side A and side B have a monster head etched after matrix references.
+
+  Was reissued in a smooth cardboard cover with a paper printed inner sleeve having straight corners.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAC US 6 A 11142 (3) +'
+    - 'Matrix / Runout (Runout side B): FAC US 6 B 11143 (3) +'
+    - 'Rights Society: ASCAP'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Officiels et pirates - Closer.xlsx

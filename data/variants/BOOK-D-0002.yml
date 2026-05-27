@@ -1,0 +1,34 @@
+variant_id: BOOK-D-0002
+release_type: livre
+canonical_title: Dreams Never End
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: needs_review
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/bk18.htm
+country_or_pressing_place: UK
+notes: "This book looks like it could be a close relative to \"Pleasures And Wayward Distractions\", issued by the same publishers\
+  \ some years earlier, even if it's written by a different person. \n\nIt's a nice introduction to the world of JD and New\
+  \ Order. The New Order section is quite comprehensive, and there are chapters devoted to the side projects Electronic, Revenge\
+  \ and The Other Two. There are many photos throughout, and some are in colour (though none of the JD ones are). All in all\
+  \ a very nice effort. Je l'ai en numérique"
+format_details:
+  type: book
+  authors:
+  - Claude Flowers
+  publisher: Omnibus Press
+  publication_year: 1995
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 44
+  source_xlsx: Livres -.xlsx

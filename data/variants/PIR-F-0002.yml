@@ -1,0 +1,41 @@
+variant_id: PIR-F-0002
+release_type: pirate
+canonical_title: A Factory Sample
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F9.htm
+country_or_pressing_place: 'USA ?
+
+  Greece ?'
+notes: 'Pirate copy of the official Factory Sample double 7" EP - released as a 12".
+
+  We think this is probably a Greek pressing. We think it''s probably a bootleg.
+
+  This counterfeit is easy to spot as it is a 12" single instead of 2x7"
+
+
+  The cover is more or less the same as the original: front cover is both front and back of the original. The back cover is
+  like the inside cover of the original fold out, except it is regrouped (side 1 and 2 of the original above side 3 and 4)
+  to fit a 12" cover.
+
+  The labels are the "Use no hearing protection" logo with the band names on each side.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A runout etched): L•31596 FAC-2-A'
+    - 'Matrix / Runout (side B runout etched): L•31596•X FAC-2-B'
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - null
+  - null
+  reconstructed: P12
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 7_ - A Factory Sample.xlsx

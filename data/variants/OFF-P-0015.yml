@@ -1,0 +1,36 @@
+variant_id: OFF-P-0015
+release_type: officiel
+canonical_title: Preston 28 February 1980
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/preston.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Preston-28-February-1980/release/4656920
+country_or_pressing_place: Italy
+notes: 'Released on LP by Get Back Records (Italy) 180g black vinyl 2006, non gatefold sleeve. cat no: GET 69 Barcode: 8 013252
+  316913 discogs indique 2000
+
+  (et pas DOL ‎– DOR2018H 180 Gram Barcode: 0889397520182 2015)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'Barcode: 8 013252 316913'
+    - 'Matrix / Runout: AE47813/A'
+    - 'Matrix / Runout: AE47814/A'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - Preston 28 february 1980.xlsx
+  op_inferred_from_filename: true

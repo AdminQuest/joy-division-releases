@@ -1,0 +1,22 @@
+variant_id: OFF-B-0020
+release_type: officiel
+canonical_title: Les Bains Douches Paris 1979
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

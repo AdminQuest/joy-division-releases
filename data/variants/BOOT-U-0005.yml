@@ -1,0 +1,26 @@
+variant_id: BOOT-U-0005
+release_type: bootleg
+canonical_title: "Unknown Pleasures \n\nvoir la page albums"
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/U2.htm
+country_or_pressing_place: ??
+notes: Pirate Stiletto 2010-2012-2014 ?, cloudy-clear white
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear white
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - U.xlsx

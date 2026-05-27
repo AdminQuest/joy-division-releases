@@ -1,0 +1,27 @@
+variant_id: OFF-C-0035
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Europe
+notes: FACT. 25, Factory ‎– FACT·XXV·MMXX -  Limited Edition, Reissue, Remastered, Repress, Stereo, Crystal Clear, 180 Gram
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: Clear
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Officiels et pirates - Closer.xlsx

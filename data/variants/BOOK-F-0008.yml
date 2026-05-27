@@ -1,0 +1,46 @@
+variant_id: BOOK-F-0008
+release_type: livre
+canonical_title: Factsheet
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: http://joydiv.org/bk38.htm
+notes: 'Factsheet 1A
+
+  November 1983
+
+  A5 12pp
+
+  Out of print
+
+
+  Factsheet 2A
+
+  1984
+
+  A5 28pp
+
+  Came in a green or red cover. Otherwise the versions are identical.
+
+  Out of print'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1983
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 99
+  source_xlsx: Livres -.xlsx

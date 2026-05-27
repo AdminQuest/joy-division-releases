@@ -1,0 +1,31 @@
+variant_id: BOOT-L-0064
+release_type: bootleg
+canonical_title: Live in Amsterdam 1980
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L9.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BL24
+  group_role: color_variation
+notes: "V1 (1990) : Italian CD. 1000 copies. Variable sound quality. Concert is misdated as Nov. 1st., 1980 \nTrack 2 is mislisted\
+  \ as Wildness \nTrack 4 is mislisted as Day Of Hards"
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: RMCD 1112 PHC'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '24'
+  - a
+  reconstructed: BL24a
+  has_suffix: false
+  source_row: 67
+  source_xlsx: Bootlegs - L.xlsx

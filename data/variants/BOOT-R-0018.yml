@@ -1,0 +1,39 @@
+variant_id: BOOT-R-0018
+release_type: bootleg
+canonical_title: A Retrospective On The Vinyl Pain And Pleasure of Joy Division Volume III
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://joydiv.org/R13.htm
+country_or_pressing_place: USA
+notes: 'Factory Communications   2025
+
+  US release 2025
+
+  No catalgue number
+
+  A repressing of Alternate Still with the same matrix numbers
+
+  Features live and alternate studio versions of the tracks on the official Still LP
+
+  45 copies on different colours and splatter vinyl
+
+  The front cover echoes the original Hawkeye Retrospective LPs from the 1980''s, only with a different Cummins photo'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: splatter
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - R.xlsx

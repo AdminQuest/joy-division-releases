@@ -1,0 +1,31 @@
+variant_id: OFF-C-0013
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Scandinavia
+notes: 'Factory ‎– FACT XXV, Factory ‎– FACT.25 : with ''Printed by Garrod and Lofthouse Limited'' printed on inner sleeve  ;
+  without'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A, stamped): FACT-25-A//485 07-1Y'
+    - 'Matrix / Runout (Side B, stamped): FACT-25-B//485 08-1Y'
+    - 'Rights Society: n©b'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - Closer.xlsx

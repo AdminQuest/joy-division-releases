@@ -1,0 +1,52 @@
+variant_id: BOOT-V-0004
+release_type: bootleg
+canonical_title: The Visitor Box
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: V
+joydiv_url: https://www.joydiv.org/V2.htm
+country_or_pressing_place: Germany
+notes: 'Variously referred to as Single Box, Mater Dolorosa Box Set, or The Visitor Box Set, depending on whether you read
+  the front of the box,
+
+  the back of the box, or assume the records inside are all variants on The Visitor.
+
+
+  Limited edition of 12 numbered box sets containing five copies of the single listed above in five different sleeves, plus
+  inserts.
+
+
+  The box is made of light grey / white card and it''s stapled together. The cover image is glued on.
+
+
+  It contains copies of the singles listed above in either the same sleeves or similar sleeves, a folded numbered insert,
+  and a photo insert with
+
+  "This box is limited of 12 sets. Dedicated to Ian Curtis" written on the back.
+
+
+  Confusingly the folded numbered inserts are numbered out of 35 when there are only 12 box sets. The 35 refers
+
+  to the number of inserts made, meaning some were given away outside the box set, presumably with some of the
+
+  7" singles listed above
+
+
+  The set includes the following sleeves, which are either the same as the listin'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - V
+  - '3'
+  - null
+  reconstructed: BV3
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - V.xlsx

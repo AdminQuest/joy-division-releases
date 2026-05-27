@@ -1,0 +1,26 @@
+variant_id: BOOT-O-0004
+release_type: bootleg
+canonical_title: Out Of The Room
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: O
+joydiv_url: https://www.joydiv.org/O3.htm
+country_or_pressing_place: ??
+notes: 2006, LP, Cover versions, Jam Sessions & Soundchecks.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - O
+  - '3'
+  - null
+  reconstructed: BO3
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - O.xlsx

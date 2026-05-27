@@ -1,0 +1,28 @@
+variant_id: BOOT-L-0094
+release_type: bootleg
+canonical_title: Love, Fear, Isolation
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L20.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BL36
+  group_role: color_variation
+notes: "JD-1. \nTwo CD set. Some in digipak some in regular jewel case"
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '36'
+  - a
+  reconstructed: BL36a
+  has_suffix: false
+  source_row: 97
+  source_xlsx: Bootlegs - L.xlsx

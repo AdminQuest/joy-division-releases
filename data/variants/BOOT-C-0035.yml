@@ -1,0 +1,29 @@
+variant_id: BOOT-C-0035
+release_type: bootleg
+canonical_title: Concert 18 Jan Effenaar
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C2.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BC11
+  group_role: color_variation
+notes: 'V1 : JD 1880. Blue cover with black and white photos.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '11'
+  - a
+  reconstructed: BC11a
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - C.xlsx

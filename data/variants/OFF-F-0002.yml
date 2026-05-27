@@ -1,0 +1,32 @@
+variant_id: OFF-F-0002
+release_type: officiel
+canonical_title: Factory Records Communications 1978-92
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+discogs_url: https://www.discogs.com/fr/release/4493803-Various-Factory-Records-Communications-1978-92
+country_or_pressing_place: UK, Europe & USA
+notes: 'Rhino Records ‎– 2564646834. 2013 - VARIOUS ARTISTS - FACTORY RECORDS COMMUNICATIONS 1978 - 92 10" Rhino Records /
+  Warner Music UK Ltd 2564646834 2013. 4 track 10" EP released for Record Store Day April 20th 2013. Same title as the 2010
+  release. Label: Rhino Records / Warner Music UK Ltd. Limited to 3,000 copies worldwide including 1,000 in the US'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, stamped/etched): 106255N1/A UNITY'
+    - 'Matrix / Runout (Runout side B, stamped): 106255N2/A'
+_legacy_code:
+  segments:
+  - O
+  - null
+  - null
+  - null
+  reconstructed: O
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - RSD.xlsx

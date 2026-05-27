@@ -1,0 +1,43 @@
+variant_id: OFF-C-0010
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: France
+notes: 'Factory ‎– FACT XXV, Factory ‎– 201882
+
+  Produced at Britannia Row.
+
+  Published by Fractured Music.
+
+  A Factory Records Product.
+
+  ℗ 1980 Factory.
+
+  Release includes inner sleeve with tracklisting.
+
+  Representation Exclusive Virgin France S.A.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 201882 A 81_6'
+    - 'Matrix / Runout: 201882 B 81_6'
+    - 'Price Code: AE 260'
+    - 'Rights Society: SACEM SACD SDRM SGDL'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - Closer.xlsx

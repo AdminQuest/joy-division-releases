@@ -1,0 +1,32 @@
+variant_id: OFF-S-0036
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/1695889-Joy-Division-Substance
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Société des droits d''auteur: SACEM SACD SDRM SGDL'
+    - 'Code-barres: 3 268440 706143'
+    - 'Informations sur la matrice: 70614 A 21 M9 359772 2'
+    - 'Informations sur la matrice: 70614 B 21 M9 359773 2'
+    - 'Code de prix: PM 262'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

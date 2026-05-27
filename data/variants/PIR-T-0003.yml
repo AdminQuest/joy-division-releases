@@ -1,0 +1,36 @@
+variant_id: PIR-T-0003
+release_type: pirate
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T5.htm
+country_or_pressing_place: USA
+notes: 'FAC 13 - Textured sleeve
+
+  Issued in red, pink, blue, grey and marbled purple vinyl
+
+  Counterfeit copy of Transmission 7"
+
+  How to spot the counterfeit : It''s on coloured vinyl ; Sleeve opens on the side - the original opened on the top'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: pink
+    matrices:
+    - 'Matrix / Runout (Side A): FAC 13A "AND HOW I''LL NEVER KNOW" A PORKY PRIME CUT'
+    - 'Matrix / Runout (Side B): FAC 13-B "JUST WHY OR UNDERSTAND" A PORKY PRIME CUT'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 7_ - Transmission.xlsx

@@ -1,0 +1,34 @@
+variant_id: BOOT-A-0018
+release_type: bootleg
+canonical_title: Amsterdam
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A1.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BA6
+  group_role: color_variation
+notes: '(CD)  JDACD01 2018
+
+  US CD released 2018
+
+  White card folder cover
+
+  This CD was later included in the 1980 4 X CD box set'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '6'
+  - c
+  reconstructed: BA6c
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - A.xlsx

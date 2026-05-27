@@ -1,0 +1,36 @@
+variant_id: BOOT-A-0051
+release_type: bootleg
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A3.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BA13
+  group_role: color_variation
+notes: 'V2 : Australian reissue of the one above and almost identical except: Catalogue number "ATMOS 104" printed on bottom
+  right hand corner of sleeve
+
+  Spine is white with black writing, on the version above it''s the same colour as the rest of the sleeve
+
+  White text on black labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, hand-etched): ATMOS-1-A1'
+    - 'Matrix / Runout (Runout side B, hand-etched): ATMOS-1-B1'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '13'
+  - b
+  reconstructed: BA13b
+  has_suffix: false
+  source_row: 74
+  source_xlsx: Bootlegs - A.xlsx

@@ -1,0 +1,32 @@
+variant_id: BOOT-S-0003
+release_type: bootleg
+canonical_title: Shadowplay
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S2.htm
+country_or_pressing_place: Czechoslovakia
+variant_group:
+  group_id: BS3
+  group_role: color_variation
+notes: "V1 : The Amazing Daffy Disc ‎– TADD 002. Very rare. Gatefold sleeve. \nSide A begins with thunder and rain sound effects,\
+  \ then a scratching sound (as the needle is roughly sliding across the grooves), and then some mad laughter followed by\
+  \ a \"welcome!\". \nSide B features, dialogue taken from (or later used in) an Apollonia Six (Prince offshoot) album spoken\
+  \ word track called Ooo She She Wa Wa at the beginning and the end."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '3'
+  - a
+  reconstructed: BS3a
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - S.xlsx

@@ -1,0 +1,32 @@
+variant_id: BOOT-A-0052
+release_type: bootleg
+canonical_title: Atrocity Exhibition - The Visitor
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+country_or_pressing_place: ??
+notes: 'R7. Limited edition of 100 copies. White or grey cover version
+
+  The sleeve is the same as two of the sleeves in the Mater Dolorosa box set - except that it''s not marbled. It has a quote
+  from "Little Dead" (N.Order''s "Denial") on the back cover.
+
+  This single has been released under different names as a 7" single and in box sets which contain multiple copies of the
+  single. See the Visitor, Visitor Box Set, Mater Dolorosa box set
+
+  It appears that this single was the first to be released - possibly about a year before the other versions came out.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '14'
+  - null
+  reconstructed: BA14
+  has_suffix: false
+  source_row: 75
+  source_xlsx: Bootlegs - A.xlsx

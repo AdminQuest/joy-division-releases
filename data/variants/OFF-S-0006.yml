@@ -1,0 +1,41 @@
+variant_id: OFF-S-0006
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/1075277
+country_or_pressing_place: UK
+notes: "Hardback' pressing in hessian folder with white ribbon\nStill was an attempt to sweep up any unreleased tracks along\
+  \ with a live recording of Joy Division's last concert. It was released partly in response to the number of Joy Division\
+  \ bootlegs that had appeared and the title alludes to this; the original bootleggers used stills to distil liquor during\
+  \ the prohibition era. \nPlanned for August 1981, it was eventually released on October 8th that year. The first pressing\
+  \ was 5000 copies in a hessian sleeve.\nA number of the studio recordings have added post production, including over-dubs\
+  \ by the surviving members of the band.\nReleased in clothbound \"hessian\" gatefold cover with a white ribbon. Inner-sleeves\
+  \ are die-cut cardboard. The labels are grey on white. A limited number with blue on white labels exist, too. There also\
+  \ are editions with a pale blue ribbon existing.\nAs no US edition was ever pressed at the time of first release, UK copies\
+  \ were imported to the USA via independent record"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - '"The chicken won''t stop" (side A), chicken tracks across the grooves (sides B & C), "The chicken stops here" (side
+      D).'
+    - '"The chicken won''t stop" is from the Werner Herzog "Stroszek" movie.'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - X
+  - '1'
+  reconstructed: OAX1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

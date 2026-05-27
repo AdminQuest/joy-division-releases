@@ -1,0 +1,31 @@
+variant_id: OFF-B-0013
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Les-Bains-Douches/release/4540602
+country_or_pressing_place: Italy
+notes: 'Re-released as a double pic disc LP set Get Back Records (Italy) 300 copies 2008 cat.no: GET 79'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Picture disc
+    matrices:
+    - 'Barcode: 8 013252 317910'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,31 @@
+variant_id: OFF-C-0033
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: UK
+notes: 'Upfront ‎– UPJOYD001, Rhino Records (2) ‎– UPJOYD001, The Times ‎– UPJOYD001
+
+  Packaged in card sleeve, free with The Times newspaper. Copyright is shown incorrectly on disc and sleeve as London Records
+  80 Ltd.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 478007 UPJOYD001'
+    - 'Mastering SID Code: IFPI LTZZ'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Officiels et pirates - Closer.xlsx

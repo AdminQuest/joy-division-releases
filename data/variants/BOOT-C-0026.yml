@@ -1,0 +1,39 @@
+variant_id: BOOT-C-0026
+release_type: bootleg
+canonical_title: Ceremony LP
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C13.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BC4
+  group_role: color_variation
+notes: 'Disorder Records – Joy 2. Italian LP released 2014. Black vinyl, also limited edition 200 copy clear vinyl. Black
+  & white picture folder cover. Front cover live picture is from Liverpool University 2 October 1979 by Kevin Cummins, back
+  cover picture is from the correct gig; Birmingham University 2 May 1980 by Mick Emerson. Printed labels, including one picture
+  label. Also available with plain white/tan labels.
+
+  Some copies include a 34.5 x 48.5 cm folded poster of Ian Curtis London Lyceum 29 February 1980 by Chris Mills with a copy
+  of his signature'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+    matrices:
+    - 'Matrix / Runout: JOY 2 A'
+    - 'Matrix / Runout: JOY 2 B'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '4'
+  - b
+  reconstructed: BC4b
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Bootlegs - C.xlsx

@@ -1,0 +1,30 @@
+variant_id: BOOT-A-0053
+release_type: bootleg
+canonical_title: Atrocity Exhibition (Warsaw)
+canonical_artist: Joy Division
+year: 1999
+documentation_quality: verified
+joydiv_letter: A
+country_or_pressing_place: ??
+notes: 'Limited edition of 500 copies on blue vinyl.
+
+  N°67/500'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix / Runout: U25285M'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '15'
+  - null
+  reconstructed: BA15
+  has_suffix: false
+  source_row: 76
+  source_xlsx: Bootlegs - A.xlsx

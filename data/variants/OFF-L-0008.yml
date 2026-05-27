@@ -1,0 +1,41 @@
+variant_id: OFF-L-0008
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: France
+notes: 'Factory ‎– 80042, Factory ‎– FAC•XXIII•XII
+
+  Released in glossy sleeve with plain white die-cut inner.
+
+  ℗ 1980 Factory Records
+
+  A Factory Records Product
+
+  Representation exclusive Virgin France S.A.
+
+  Printed in France'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Stamped A side runout, end hand-etched corrected): ⩓ 81 7 V 6̶0̶0̶ ̶2̶0̶8̶ ̶A̶ 80042 A'
+    - 'Matrix / Runout (Stamped B side runout, end hand-etched corrected): ⩓ 81 7 V 6̶0̶0̶ ̶2̶0̶8̶ ̶B̶ 80042 B'
+    - 'Rights Society: SACEM SACD SDRM SGDL'
+    - 'Price Code: PM 132'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

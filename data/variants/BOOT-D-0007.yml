@@ -1,0 +1,38 @@
+variant_id: BOOT-D-0007
+release_type: bootleg
+canonical_title: Dante's Inferno
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BD3
+  group_role: color_variation
+notes: "USA 1987 : Whole In Your Head Music ‎– PL 0883. High gloss pro printed sleeve with no mention of Joy Division anywhere.\
+  \ Note the alternate titles, band and record label on the lp labels, listed as: \"Dawn & The Dirge Makers / \"Gala Girl\
+  \ » » \nSeparation between tracks. \"Gala Girl\" is a reference to the 1985 issue on the Italian Gala label. Lots of phoney\
+  \ info on the sleeve like \"Recorded on Acme double mobiles using state of the art Ampex equipment\". According to the labels\
+  \ the record company is \"Artemis record works, the band name is \"Dawn & the Dirge Makers\"and the album is entitled \"\
+  Gala girl\"."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'V3 :'
+    - 'Matrix / Runout: PL 0883-A'
+    - 'Matrix / Runout: PL 0883-B'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '3'
+  - c
+  reconstructed: BD3c
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - D.xlsx

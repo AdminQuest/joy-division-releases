@@ -1,0 +1,29 @@
+variant_id: BOOT-D-0029
+release_type: bootleg
+canonical_title: Dead Souls, Exercise One
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D4.htm
+country_or_pressing_place: Europe
+notes: 'CP - Production ‎– RS 901. Black and white wraparound cover. Limited edition. Cover is a reprint of the Sordide cover
+  with the letters J.D. on the front.
+
+  "Exercise" is spellt "exersice" both on the back cover and the label.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '8'
+  - null
+  reconstructed: BD8
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - D.xlsx

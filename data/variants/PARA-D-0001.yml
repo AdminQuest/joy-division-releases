@@ -1,0 +1,32 @@
+variant_id: PARA-D-0001
+release_type: para
+canonical_title: Decades fanzine
+canonical_artist: Joy Division
+year: 1994
+documentation_quality: needs_review
+joydiv_letter: D
+joydiv_url: http://joydiv.org/bk36.htm
+notes: 'One issue only
+
+  Autumn 1994
+
+  Published by Richard Lewis, Cardiff
+
+  A5 28pp'
+format_details:
+  type: para
+  parent_object: fanzine
+  object_description: 'Fanzine: Decades fanzine'
+  embedded_supports: []
+  parent_title: Decades fanzine
+  parent_year: 1994
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 98
+  source_xlsx: Livres -.xlsx

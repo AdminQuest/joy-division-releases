@@ -1,0 +1,43 @@
+variant_id: OFF-U-0014
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/4233748
+country_or_pressing_place: New Zealand
+notes: 'Factory ‎– FACT 10
+
+  This record was delivered to the (then) Radio Northland 1ZN station (part of the Radio New Zealand network) in Whangarei
+  (approx 100 miles north of Auckland, New Zealand where RTC where based), as one of many promo records for selected airplay.
+
+  The vinyl pressing is essentially identical to the RTC first NZ retail release here. It maintains the same labels, spine
+  ridge spacing and structure, track listing and vinyl weight.
+
+  It differs in the following key respects:
+
+  * The outer sleeve is textured and contains no publishing or manufacturing company details whatsoever, just simply: FACT
+  10 · A Factory Records Product.
+
+  * There is no printed inner sleeve included, just a plain clear plastic record sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FACT 10 A.. Я'
+    - 'Matrix / Runout: FACT 10 B.. Я'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

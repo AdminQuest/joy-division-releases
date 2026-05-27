@@ -1,0 +1,39 @@
+variant_id: BOOT-L-0004
+release_type: bootleg
+canonical_title: ln A Lonely Place
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/I13.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI6
+  group_role: color_variation
+notes: 'LP LANGE1914MARCK 2012
+
+  Released 2012.
+
+  German LP on black or yellow vinyl
+
+  Picture labels with song titles'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Yellow
+    matrices:
+    - 'Matrix / Runout (Runout Side A "etched"): 001-A'
+    - 'Matrix / Runout (Runout Side B "etched"): 001-B'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '6'
+  - b
+  reconstructed: BI6b
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Bootlegs - I.xlsx

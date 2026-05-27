@@ -1,0 +1,29 @@
+variant_id: BOOT-K-0010
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BK1
+  group_role: color_variation
+notes: "V6 : Joy Division Records Product 01. 1990s reissue of the original LP in a different cover. \nSame tracklist as the\
+  \ original."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - g
+  reconstructed: BK1g
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Bootlegs - K.xlsx

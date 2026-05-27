@@ -1,0 +1,63 @@
+variant_id: BOOT-L-0063
+release_type: bootleg
+canonical_title: Live! From Eindhoven, Holland
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L8.htm
+country_or_pressing_place: ??
+notes: 'FM 0057
+
+  The actual print on the cd is titled:
+
+  Fun Multiplication III
+
+  There are alternate names printed on the cd for the songs:
+
+  1. Response
+
+  2. Foundation
+
+  3. Mary Carlson
+
+  4. Time Is Short
+
+  5. Like In Hell
+
+  6. Ice
+
+  7. Capitol Town
+
+  8. Penman
+
+  9. Rocket Love
+
+  10. Darkness
+
+  11. Chamber
+
+  12. Anorexian
+
+  13. Out Of Zone
+
+  14. Final Coment
+
+  The cover sleeve and back insert sleeve have the correct names for the songs.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Mirrored): "MANUFACTURED BY AMERICAN HELIX" *CD01217* W.O.# E30145-1 FM0057'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '23'
+  - null
+  reconstructed: BL23
+  has_suffix: false
+  source_row: 66
+  source_xlsx: Bootlegs - L.xlsx

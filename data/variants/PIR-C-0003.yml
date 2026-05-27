@@ -1,0 +1,36 @@
+variant_id: PIR-C-0003
+release_type: pirate
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Europe
+notes: 'Pirate edition without insert, comes in different colors.
+
+  First cat# from back cover, 2nd on labels and from the spine, 3rd from the runouts!
+
+  Some copies have been stickered with a fake barcode (9991001099708).
+
+  imprimé sur la pochette : limited edition, coloured vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Clear Green
+    matrices:
+    - 'Matrix / Runout (Runout side A (Hand etched)): F 25 A'
+    - 'Matrix / Runout (Runout side B (Hand etched)): F 25 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Officiels et pirates - Closer.xlsx

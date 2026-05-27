@@ -1,0 +1,32 @@
+variant_id: BOOT-W-0023
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+notes: 'V4 Walker Brothers : GTLP014 : Pressed on chocolate brown vinyl. Australia / New Zealand issue from 1980 / 1981. Plain
+  sleeve with glued on photocopied insert featuring the Walker Brothers (which wraps around covering part of the back cover).
+  We have only heard of two copies in this sleeve. The brown vinyl LPs are the same pressing as the top listing on this page.
+  One of the two copies also included a blue vinyl version of the EP with the Peel Session II.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Dark brown
+    matrices:
+    - RZM-200-A
+    - RZM-200-B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - l
+  reconstructed: BW4l
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Bootlegs - W.xlsx

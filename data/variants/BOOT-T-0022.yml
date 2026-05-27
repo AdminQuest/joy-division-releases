@@ -1,0 +1,41 @@
+variant_id: BOOT-T-0022
+release_type: bootleg
+canonical_title: That’ll be the End
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T10.htm
+country_or_pressing_place: Spain
+variant_group:
+  group_id: BT4
+  group_role: color_variation
+notes: 'Spanish LP, reissue of the above - Gato Gordo ‎– 12343 JD1
+
+  No record label or catalogue number
+
+  Colour picture cover
+
+  Printed picture inner
+
+  Picture labels (these look like proper labels and not poorly glued on ones like the 2014 version)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Side A: JD-1-A1'
+    - 'Side A: JD-1-B1'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '4'
+  - g
+  reconstructed: BT4g
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - T.xlsx

@@ -1,0 +1,43 @@
+variant_id: OFF-L-0023
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: Spain
+notes: 'Edigsa ‎– 19P0095
+
+  The original pack was made up of 3 items:
+
+  1) An outer white envelope sleeve
+
+  2) Inside this was a 7" picture sleeve with the front cover design lifted from the original 12" issue sleeve.
+
+  Some copies have a blue "DE MAXIMO INTERES" stamp on the back.
+
+  3) Also included were 5" size inserts with pictures of the Love Will Tear Us Apart (12") and Closer sleeves.
+
+  Over the years many copies have lost their inserts and / or one of the sleeves. Complete copies are very rare.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 19-P-0095-A'
+    - 'Matrix / Runout: 19-P-0095-B'
+    - 'Rights Society: SGAE'
+    - 'Depósito Legal: B. 5201-1981'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

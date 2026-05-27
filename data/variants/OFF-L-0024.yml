@@ -1,0 +1,33 @@
+variant_id: OFF-L-0024
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: UK
+notes: 'Repress 1983 (UK Glossy sleeve, no cut-out and straight glue-flaps). 45 tours face A (LWTUA) / 33 tours face B (These
+  Days + LWTUA non crédité sur la pochette) - Groove notations (UK version only): "Don''t disillusion me" (side A), and "I''ve
+  only got record shops left" (side B).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Etched, side A, variant 1): DON''T DISILLUSION ME FAC 23 A1 MVSS11'
+    - 'Matrix / Runout (Etched, side B, variant 1): I''VE ONLY GOT RECORD SHOPS LEFT FAC 23 B1 MVSS12'
+    - 'Matrix / Runout (Etched, side A, variant 2 (the "7" is at a right angle)): DON''T DISILLUSION ME FAC 23 A1 MVS S2 7'
+    - 'Matrix / Runout (Etched, side B, variant 2): I''VE ONLY GOT RECORD SHOPS LEFT FAC 23 B.1 MVS S4'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

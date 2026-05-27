@@ -1,0 +1,26 @@
+variant_id: BOOT-K-0015
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+year: 2026
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: clear
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - l
+  reconstructed: BK1l
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Bootlegs - K.xlsx

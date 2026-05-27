@@ -1,0 +1,32 @@
+variant_id: OFF-S-0038
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/3737616-Joy-Division-Substance
+notes: Different version Joy Division - Substance with 'Benelux by Megadisc' print on back sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Société des droits d''auteur: GEMA'
+    - 'Code du label: LC 5661'
+    - 'Informations sur la matrice (Side A, etched): RTD 70 A G. Pauler'
+    - 'Informations sur la matrice (Side B, etched): RTD 70 B G. Pauler'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

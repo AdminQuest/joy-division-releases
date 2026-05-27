@@ -1,0 +1,37 @@
+variant_id: BOOT-U-0011
+release_type: bootleg
+canonical_title: Unreleased Pleasures
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/U6.htm
+country_or_pressing_place: USA
+notes: 'WASTE MANAGEMENT RECORDS TONY004.
+
+  US bootleg LP released 2022
+
+  Label: Waste Management
+
+  Catalogue number: TONY004
+
+  Clear vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: Clear
+    count: 1
+    matrices:
+    - No matrix number.
+_legacy_code:
+  segments:
+  - B
+  - U
+  - '5'
+  - null
+  reconstructed: BU5
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Bootlegs - U.xlsx

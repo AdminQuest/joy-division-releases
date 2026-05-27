@@ -1,0 +1,42 @@
+variant_id: BOOK-R-0004
+release_type: livre
+canonical_title: Record Play Pause
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: needs_review
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/bk76.htm
+country_or_pressing_place: UK
+notes: 'Stephen Morris has had a distinguished career, spanning nearly forty years, as a pivotal member of Joy Division and
+  New Order with his trademark machine-like drumming. After the death of Joy Division''s singer, Ian Curtis, in 1980, Bernard
+  Sumner, Peter Hook, Morris and his wife Gillian formed New Order, one of the most critically acclaimed and influential bands
+  of the late twentieth century. New Order became the flagship band for Tony Wilson''s Factory Records and, alongside him,
+  opened the infamous Hacienda nightclub, the centre of the acid house movement. In 2015, after a ten-year hiatus, New Order
+  released Music Complete; which charted at #2 in its first week of release (the band''s highest position in over twenty years).
+
+
+  Stephen''s book isn''t that typical music autobiography, which tends to be high on mischief and low on the music. Part memoir,
+  part aural history, it''s a hybrid memoir in Stephen''s wry and witty voice. Stephen weaves a dual narrative of growing
+  up in the North West du'
+format_details:
+  type: book
+  authors:
+  - Stephen Morris
+  publisher: Constable
+  publication_year: 2019
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '1472126203'
+  page_count: 352
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 49
+  source_xlsx: Livres -.xlsx

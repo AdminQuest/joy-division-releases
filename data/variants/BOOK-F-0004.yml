@@ -1,0 +1,30 @@
+variant_id: BOOK-F-0004
+release_type: livre
+canonical_title: 'Factory Fairy-Tailes : Joy Division, New Order, Factory Records, The Hacienda & Me'
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: F
+format_details:
+  type: book
+  authors:
+  - Ged Duffy (Author)
+  - Gary 'Mani' Mounfield (Introduction)
+  - Peter Hook (Foreword)
+  publisher: Inconnu
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-1909360914
+  page_count: 346
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 47
+  source_xlsx: Livres -.xlsx

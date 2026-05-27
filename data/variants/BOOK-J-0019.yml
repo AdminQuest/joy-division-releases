@@ -1,0 +1,48 @@
+variant_id: BOOK-J-0019
+release_type: livre
+canonical_title: Joy Division at Strawberry Studios
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk80.htm
+country_or_pressing_place: UK
+notes: 'Limited edition 1250 copy hardback photo book signed by Paul Slattery with three Joy Division postcards and an Ian
+  Curtis badge.
+
+  To mark the fortieth anniversary of Joy Division’s seminal album Unknown Pleasures, celebrated rock photographer, Paul Slattery,
+  travelled back in time to Saturday 28 July 1979.
+
+  His book features the iconic images of the photo session of the band which he took on the streets around Strawberry Studios
+  in Stockport, where the band recorded the album, and later that day at the legendary Stuff The Superstars gig at The Mayflower
+  Club in Gorton.
+
+  It also includes photos taken at the Electric Ballroom 26 October 1979.
+
+  This limited edition hardback is the first time all the images have been published in one volume. Paul shares his memories
+  of the day, and the photographic locations, along with some never-before-published images.
+
+  The limited edition author-signed copies of the book came with three postcard sized prints and an exclusive Joy Division
+  badge – while stock'
+format_details:
+  type: book
+  authors:
+  - Paul Slattery
+  publisher: Legends Publishing
+  publication_year: 2019
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-1-906796-41-9
+  page_count: 44
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 62
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,34 @@
+variant_id: BOOT-S-0018
+release_type: bootleg
+canonical_title: Singles 1978-1979
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: http://joydiv.org/P9.htm
+notes: 'These are the two records from the 2019 Double LP above re-released as two separate LPs:
+
+
+  Record label: Transmission Records
+
+  Catalogue No: IC 051880
+
+  Black vinyl
+
+  No matrix numbers
+
+  Singles 1978-1979 is LP1 from the 2019 double LP with similar front cover but on a black background.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - S.xlsx

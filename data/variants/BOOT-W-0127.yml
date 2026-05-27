@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0127
+release_type: bootleg
+canonical_title: With Love From Brussels Vol 2
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://joydiv.org/L41.htm
+discogs_url: https://www.discogs.com/fr/release/26454857-Joy-Division-With-Love-From-Brussels-Vol-2
+country_or_pressing_place: USA
+variant_group:
+  group_id: BW16
+  group_role: color_variation
+notes: Mustard Splatter
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD Benelux C
+    - JD Benelux D
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '16'
+  - e
+  reconstructed: BW16e
+  has_suffix: false
+  source_row: 129
+  source_xlsx: Bootlegs - W.xlsx

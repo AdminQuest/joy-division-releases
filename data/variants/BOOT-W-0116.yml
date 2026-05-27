@@ -1,0 +1,48 @@
+variant_id: BOOT-W-0116
+release_type: bootleg
+canonical_title: With Love From Brussels Vol 1
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: http://joydiv.org/L41.htm
+discogs_url: https://www.discogs.com/fr/release/26455121-Joy-Division-With-Love-From-Brussels-Vol-1
+country_or_pressing_place: USA
+variant_group:
+  group_id: BW15
+  group_role: color_variation
+notes: 'No record label identified
+
+  Limited edition 70 copies
+
+  Black and white picture sleeve
+
+  Printed on back cover in addition to the song titles: Recorded live at Plan K Brussels, Belgium 17.01.1980  Limited edition  All
+  rights reserved
+
+  The spine has the band name & title, and also the cat.no printed on it: B8001
+
+  White labels with marble effect and only the title and SIDE A  and SIDE B printed on them
+
+  Splatter coloured vinyl, various colours
+
+  Clear With Purple/Green Splatter'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD Benelux A
+    - JD Benelux B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '15'
+  - a
+  reconstructed: BW15a
+  has_suffix: false
+  source_row: 118
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,34 @@
+variant_id: VID-K-0001
+release_type: video
+canonical_title: Known Pleasures
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: http://joydiv.org/knownpleasuresdvd.htm
+country_or_pressing_place: Australia
+notes: '4 X DVD Madman MMB768, Australia 2011
+
+  Australia only 4 DVD boxed set
+
+  Region 4 discs
+
+  Standard clamshell cases inside a card slipcase
+
+
+  Features Control, the Grant Gee Joy Division documentary and 24 Hour Party People'
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 4
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

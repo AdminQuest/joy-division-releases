@@ -1,0 +1,33 @@
+variant_id: OFF-P-0012
+release_type: officiel
+canonical_title: Preston 28 February 1980
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/preston.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Preston-28-February-1980/release/1244052
+country_or_pressing_place: Italy
+notes: 'Re-released on LP by Get Back Records (Italy) 140g red vinyl 2004 cat no: GET90069'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Red
+    matrices:
+    - 'Matrix / Runout (Runout Side A): AE47813/A'
+    - 'Matrix / Runout (Runout Side B): AE47814/A'
+    - 'Barcode: 8013252900693'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - Preston 28 february 1980.xlsx
+  op_inferred_from_filename: true

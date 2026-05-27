@@ -1,0 +1,31 @@
+variant_id: BOOK-J-0032
+release_type: livre
+canonical_title: Joy Division Broken Heart Romance
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk66.htm
+notes: A book about Ian's lyrics, song by song.
+format_details:
+  type: book
+  authors:
+  - Marco di Marco
+  publisher: Arcana
+  publication_year: 2008
+  language: it
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '8862310013'
+  page_count: 317
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 128
+  source_xlsx: Livres -.xlsx

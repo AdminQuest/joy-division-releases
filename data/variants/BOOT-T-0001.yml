@@ -1,0 +1,34 @@
+variant_id: BOOT-T-0001
+release_type: bootleg
+canonical_title: Le Terme
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/L3.htm
+country_or_pressing_place: Sweden
+variant_group:
+  group_id: BL4
+  group_role: color_variation
+notes: '[x]FAB XXXVIII Fabrique Disques 1981 Swedish LP. Black and white cover with insert. 1400 numbered copies (number is
+  on insert). n° 19/3/1 (je n''ai pas l''insert)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FAB-38-A IL FAUT MOURIR JEUNE...'
+    - 'Matrix / Runout: FAB-38-B ...AUSSI TORD QUE POSSIBLE'
+    - 'Rights Society (Fake): SACEM'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '4'
+  - a
+  reconstructed: BL4a
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - L.xlsx

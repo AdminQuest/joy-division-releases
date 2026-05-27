@@ -1,0 +1,36 @@
+variant_id: BOOT-W-0058
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: France
+notes: 'V27 Planet Marseille : 2016, Planet Claire Marseille : Réédition de la Baby Face de 2007. French bootleg released
+  2016 Reissue of the LP above with different sleeve and labels. Pressed on heavy black vinyl Record label: Planet Claire
+  Records. Catalogue number: PC-375. Glossy sleeve different to LP above, "WARSAW" on front cover and all 17 songs listed
+  on the back. States: "Planet Claire Records, 11, la canebière . CS 603340-13211 Marseille Cedex OI. France" - actually the
+  address of the the Marseille Office of Tourism and Conventions. WARSAW on the spine. A-side label (which is plain black
+  on the other version) lists all the 17 songs ("This side" and "That side"), the B-side label is the same as on the other
+  version (wavy lines front cover image detail). No insert.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - WARS A
+    - WARS B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - au
+  reconstructed: BW4au
+  has_suffix: false
+  source_row: 60
+  source_xlsx: Bootlegs - W.xlsx

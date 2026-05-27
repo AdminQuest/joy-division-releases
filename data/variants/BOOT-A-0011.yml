@@ -1,0 +1,31 @@
+variant_id: BOOT-A-0011
+release_type: bootleg
+canonical_title: Ajanta Theatre Derby UK April 19th 1980 FM Broadcast
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: http://joydiv.org/A17.htm
+notes: 'Tape It Dee Dee - TPTDD 011
+
+  The cover states it''s from an FM broadcast. However, it''s more likely from the longer of the two audience recordings which
+  includes Colony and some of the encore jam
+
+
+  See also Dance to The Radio, Ajanta Cinema Derby, UK April 19th 1980 - FM Broadcast LP from 2023 and Ajanta Cinema, Derby,
+  UK April 19th 1980 LP from 2015'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Bootlegs - A.xlsx

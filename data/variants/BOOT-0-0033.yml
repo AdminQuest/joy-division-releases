@@ -1,0 +1,39 @@
+variant_id: BOOT-0-0033
+release_type: bootleg
+canonical_title: (Warsaw) An Ideal for Living, Pre Joy Division Demos
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/I16.htm
+variant_group:
+  group_id: BI5
+  group_role: pressing_variation
+notes: 'TPTDD004 Tape It Dee Dee  2023
+
+  Cassette bootleg released 2023
+
+  Country of origin unclear
+
+  Clear cassette shell with black labels and white letters
+
+  Limited to 250 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Label: Tape It Dee Dee'
+    - 'Cat.no.: TPTDD004'
+    - 'Barcode: 0 637013 850738'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '5'
+  - b
+  reconstructed: BI5b
+  has_suffix: false
+  source_row: 54
+  source_xlsx: Bootlegs - A.xlsx

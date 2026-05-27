@@ -1,0 +1,29 @@
+variant_id: BOOT-D-0030
+release_type: bootleg
+canonical_title: Death
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D5.htm
+country_or_pressing_place: Italy
+notes: "(LP) P1 (this could be read as P7- we're not sure!). \nItalian LP. Black and white cover. 500 copies."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: P1-A'
+    - 'Matrix / Runout: P1-B'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '9'
+  - null
+  reconstructed: BD9
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - D.xlsx

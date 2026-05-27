@@ -1,0 +1,30 @@
+variant_id: BOOT-A-0014
+release_type: bootleg
+canonical_title: Alternate Unknown Pleasures
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/U3.htm
+country_or_pressing_place: UK
+notes: No record label credited, Features live and alternate studio versions of the 10 tracks on the official Unknown Pleasures
+  LP
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): JD-ALT-UNP A'
+    - 'Matrix / Runout (Runout side B): JD-ALT-UNP B'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '5'
+  - null
+  reconstructed: BA5
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - A.xlsx

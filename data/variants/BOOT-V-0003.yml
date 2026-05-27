@@ -1,0 +1,28 @@
+variant_id: BOOT-V-0003
+release_type: bootleg
+canonical_title: The Visitor
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: V
+joydiv_url: https://www.joydiv.org/V1.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BV2
+  group_role: color_variation
+notes: Black & white sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - V
+  - '2'
+  - b
+  reconstructed: BV2b
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - V.xlsx

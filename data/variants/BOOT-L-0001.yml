@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0001
+release_type: bootleg
+canonical_title: Live ! Bowdon Vale Youth Club, Altringham 14.3.79
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/B4.htm
+country_or_pressing_place: Germany
+notes: 'Comes in a plastic sleeve with a photocopied glued-on single sheet insert cover.
+
+  Both sides of the record are recorded fast, therefore they must be pitched down.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Matrix / Runout (Side A): JD-I-AI'
+    - 'Matrix / Runout (Side B): JD-I-B'
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '6'
+  - null
+  reconstructed: BB6
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - B.xlsx

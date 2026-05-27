@@ -1,0 +1,27 @@
+variant_id: VID-S-0005
+release_type: video
+canonical_title: Shadowplayers
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: http://joydiv.org/shadowplayers.htm
+country_or_pressing_place: UK
+notes: 'Various Artists, ''Shadowplayers'' (Les Temps Modernes)
+
+  DVD [LTM_2391] UK'
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

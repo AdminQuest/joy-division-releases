@@ -1,0 +1,39 @@
+variant_id: BOOT-S-0017
+release_type: bootleg
+canonical_title: Singles 1978-1980
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: S
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BS5
+  group_role: pressing_variation
+notes: '[x]V3 (2019) : IC ‎– 051880. European double LP released 2019
+
+  Record label: Trannmission Records
+
+  Catalogue No: IC 051880
+
+  Black vinyl, Thick gatefold cover, No matrix numbers.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout: JOYDIVLP 001 A-1'
+    - 'Matrix / Runout: JOYDIVLP 001 B-1'
+    - 'Matrix / Runout: JOYDIVLP 001 C-1'
+    - 'Matrix / Runout: JOYDIVLP 001 D-1'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '5'
+  - c
+  reconstructed: BS5c
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - S.xlsx

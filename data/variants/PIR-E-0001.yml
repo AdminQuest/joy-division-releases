@@ -1,0 +1,38 @@
+variant_id: PIR-E-0001
+release_type: pirate
+canonical_title: Earcom 2
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: E
+country_or_pressing_place: '?'
+notes: 'Fast 9P 2012
+
+  2012 pirate issue of the official 12"
+
+  Format: 45rpm 12”EP / mini-LP picture disc
+
+  Label: Fast Product
+
+  Catalogue number: Fast 9P
+
+  In generic clear plastic outer sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - FB 9P A-1  EG  HEY PEEL KICK OUT THE JAMS!  X007
+    - FB 9P B-1  EG  I THOUGHT OF BANANAS TILL YOU PLAYED IT  X X007  PORKY
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 12_ compilations - Short Circuit & Earcom2.xlsx

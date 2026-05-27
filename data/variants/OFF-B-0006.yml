@@ -1,0 +1,32 @@
+variant_id: OFF-B-0006
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/785772-Joy-Division-Les-Bains-Douches-18-December-1979
+country_or_pressing_place: UK
+notes: "Re-released as a double CD on Alchemy Records (same as the Refractured box issue, disc 2 features the Paradiso gig)\
+  \ 2004 cat.no: FACD 2.61 - same as above. \nWarning: This version has gaps between tracks."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Code-barres: 800945900225'
+    - 'Informations sur la matrice (CD1): B18319 FACD 2.61'
+    - 'Informations sur la matrice (CD2): B18320 FACD 2.61'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

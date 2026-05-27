@@ -1,0 +1,40 @@
+variant_id: OFF-I-0024
+release_type: officiel
+canonical_title: An Ideal For Living
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+discogs_url: https://www.discogs.com/fr/release/5605571-Joy-Division-An-Ideal-For-Living
+country_or_pressing_place: Europe
+notes: '2014, Warner Music JDPM11, European pressing. 12" EP released for Record Store Day April 19th 2014 Limited to 6,000
+  copies of which 1,500 sold in the UK. New cover inspired by the original 12" scaffold sleeve
+
+  Total worldwide pressing volume confirmed as 13,500, with confirmed release quantities of 7,500 in the US and 1,500 in the
+  UK, leaving 4,500 RoW.
+
+  Actual US vs EU pressing quantities (totaling 13,500) currently unconfirmed. Both pressing variants confirmed as sold simultaneously
+  on release day in RSD supporting record stores in New Zealand and Australia, meaning actual US pressing number may be higher
+  than 7,500.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A - final 3 is hand-etched over a crossed out 5): 98822 1A 825646321438 DON''T EVER LET IT FADE
+      AWAY'
+    - 'Matrix / Runout (Side B - final 3 is hand-etched over a crossed out 5): 98822 1B 825646321438 F.A. ABBEY ROAD I FEEL
+      IT CLOSSING IN'
+_legacy_code:
+  segments:
+  - O
+  - null
+  - null
+  - null
+  reconstructed: O
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - RSD.xlsx

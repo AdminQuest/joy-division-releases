@@ -1,0 +1,38 @@
+variant_id: PIR-F-0011
+release_type: pirate
+canonical_title: A Factory Sample
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F9.htm
+country_or_pressing_place: ??
+notes: 'Counterfeit copy of A Factory sample (V3)
+
+
+  Counterfeit reissue of the 2008 pirate above. Released 2016. Black vinyl. Black and yellow fold-out cover
+
+  Unlike the 2008 version above, this has a regular 2 panel folder cover in yellow and black, not a grey & black 4 panel fold-out.
+  The sheet of 4 stickers and one loose Factory sticker are the same.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 2
+    color: yellow
+    matrices:
+    - FAC-2-A "EVERYTHING"
+    - FAC-2-B "IS REPAIRABLE"
+    - FAC-2-C "EVERYTHING"
+    - FAC-2-D "IS BROKEN"
+_legacy_code:
+  segments:
+  - P
+  - '7'
+  - null
+  - null
+  reconstructed: P7
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - 7_ - A Factory Sample.xlsx

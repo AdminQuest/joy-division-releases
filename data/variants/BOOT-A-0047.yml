@@ -1,0 +1,42 @@
+variant_id: BOOT-A-0047
+release_type: bootleg
+canonical_title: Asylum Doors
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A14.htm
+country_or_pressing_place: USA ?
+notes: 'V3 : JDL80 Warehouse Communications USA 2021
+
+  Single LP reissue featuring LP1 of the double LPs above
+
+  Transparent yellow vinyl with red splatter
+
+  Unnumbered sleeve, with "For promotional use only" printed on the back.
+
+  "Warehouse Communications USA 2001"
+
+  Catalogue number: JDL80
+
+  Black labels with "FOR PROMOTIONAL USE ONLY" printed on them in white.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter yellow
+    matrices:
+    - JD-AD A
+    - JD-AD B
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '10'
+  - n
+  reconstructed: BA10n
+  has_suffix: false
+  source_row: 70
+  source_xlsx: Bootlegs - A.xlsx

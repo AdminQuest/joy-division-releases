@@ -1,0 +1,40 @@
+variant_id: BOOK-J-0012
+release_type: livre
+canonical_title: Joy Division - by Kevin Cummins
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk68.htm
+country_or_pressing_place: UK
+notes: 'German edition published 2011
+
+  Hard cover
+
+  208 pages
+
+  Publisher: Edel
+
+  German language'
+format_details:
+  type: book
+  authors:
+  - Kevin Cummins
+  publisher: Edel
+  publication_year: 2011
+  language: de
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-3-8419-0037-1
+  page_count: 208
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 55
+  source_xlsx: Livres -.xlsx

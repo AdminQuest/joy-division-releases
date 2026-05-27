@@ -1,0 +1,57 @@
+variant_id: BOOK-I-0014
+release_type: livre
+canonical_title: 'Ian Curtis: Memento Mori'
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: I
+country_or_pressing_place: UK
+notes: 'To commemorate the 40th anniversary of the passing of Joy Division''s Ian Curtis, legendary photographer Kevin Cummins
+  has created — in collaboration with Tangerine Press — a bible-style photobook called Ian Curtis: Memento Mori.
+
+
+  Over the past six years, Mr Cummins has been photographing items left on Ian’s ‘grave’, all the while with this most unusual
+  project in the back of his mind.
+
+
+  The book contains full colour photos of 65 of these items, along with other photos of Macclesfield Crematorium. There is
+  a frontispiece photo of Ian (the famous one in his coat, smoking) and an essay about loss/permanence by Dr Gail Crowther.
+  There is a final, iconic image of Ian to ''book-end'' the run.
+
+
+  130 Numbered/signed copies
+
+  Bible-style handbound photobook
+
+  Leatherette covered boards
+
+  Book dimensions approx. 125mm/5" wide x 185mm/7 1/4" tall
+
+  Extent: 160 pages
+
+  Front cover and spine embossed in gold by hand on Tangerine''s own 1960s Marshall Embosser
+
+  Fabriano Tiziano vibrant red endpapers
+
+  Indigo printed '
+format_details:
+  type: book
+  authors:
+  - Kevin Cummins
+  publisher: Tangerine Press
+  publication_year: 2020
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 160
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 138
+  source_xlsx: Livres -.xlsx

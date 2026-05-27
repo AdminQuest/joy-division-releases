@@ -1,0 +1,35 @@
+variant_id: BOOK-I-0006
+release_type: livre
+canonical_title: Index
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: http://joydiv.org/bk35.htm
+notes: 'Written by CS Wood - who later did ''Form & Substance''
+
+  November 1982
+
+  100 copies
+
+  A5 28pp'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1982
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 101
+  source_xlsx: Livres -.xlsx

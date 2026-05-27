@@ -1,0 +1,31 @@
+variant_id: OFF-U-0016
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/release/11633589-Joy-Division-Unknown-Pleasures
+country_or_pressing_place: Scandinavia
+notes: '- no specific logo at the bottom of the labels / "Garrod & Lofthouse" on the back of the non-textured sleeve (this
+  edition)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FACT-10-A//48505-1Y'
+    - 'Matrix / Runout (Runout side B): FACT-10-B//48506-1Y'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

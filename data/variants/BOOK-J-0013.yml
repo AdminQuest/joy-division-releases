@@ -1,0 +1,32 @@
+variant_id: BOOK-J-0013
+release_type: livre
+canonical_title: Joy Division - by Mike West
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk11.htm
+country_or_pressing_place: UK
+notes: Written by Mike West. This book tells the story of Joy Division, and has some nice black & white photos by Kevin Cummins.
+  There's also a "vinyl check-list" and information about the equipment used by the various band members. Recommended. (This
+  book is out of print).
+format_details:
+  type: book
+  authors:
+  - Mike West
+  publisher: Babylon Books
+  publication_year: 1984
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 56
+  source_xlsx: Livres -.xlsx

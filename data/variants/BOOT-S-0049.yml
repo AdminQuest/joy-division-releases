@@ -1,0 +1,30 @@
+variant_id: BOOT-S-0049
+release_type: bootleg
+canonical_title: The Sun Ain't Gonna Shine anymore
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S10.htm
+country_or_pressing_place: Germany
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix / Runout (Runout Side A): 647.006 A G.P.'
+    - 'Matrix / Runout (Runout Side B): 647.006 B G.P.'
+    - 'Matrix / Runout (Matrix Label Sides A and B): 647 006'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '19'
+  - null
+  reconstructed: BS19
+  has_suffix: false
+  source_row: 50
+  source_xlsx: Bootlegs - S.xlsx

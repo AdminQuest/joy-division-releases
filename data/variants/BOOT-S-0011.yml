@@ -1,0 +1,29 @@
+variant_id: BOOT-S-0011
+release_type: bootleg
+canonical_title: She's Lost Control
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S13.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BS4
+  group_role: color_variation
+notes: '[]V1 : JD 02. A priori il contient 2 tracks de New Order (Ceremony / In a Lonely Place). Live: Forum Ballroom, Kentish
+  Town, London 6 May 1981'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '4'
+  - a
+  reconstructed: BS4a
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Bootlegs - S.xlsx

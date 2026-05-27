@@ -1,0 +1,33 @@
+variant_id: BOOK-J-0006
+release_type: livre
+canonical_title: Joy Division Control
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk85.htm
+country_or_pressing_place: France
+notes: '80 pages couleurs illustrées (160 photos inédites) + le DVD du film d''Anton Corbijn "Control"
+
+  Editeur : Gm Editions, Collection : Rock''N''Soul.'
+format_details:
+  type: book
+  authors:
+  - Christophe Comte
+  publisher: Gm Editions
+  publication_year: 2018
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 80
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,27 @@
+variant_id: BOOK-J-0037
+release_type: livre
+canonical_title: Joy Division & New Order, album by album
+canonical_artist: Joy Division
+year: 2026
+documentation_quality: needs_review
+joydiv_letter: J
+format_details:
+  type: book
+  authors:
+  - Mayer Nissim
+  publisher: Inconnu
+  publication_year: 2026
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 141
+  source_xlsx: Livres -.xlsx

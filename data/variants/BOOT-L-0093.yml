@@ -1,0 +1,25 @@
+variant_id: BOOT-L-0093
+release_type: bootleg
+canonical_title: Lost Treasures
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L13.htm
+country_or_pressing_place: Europe
+notes: ESJDLT 510
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '35'
+  - null
+  reconstructed: BL35
+  has_suffix: false
+  source_row: 96
+  source_xlsx: Bootlegs - L.xlsx

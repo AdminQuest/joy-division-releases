@@ -1,0 +1,28 @@
+variant_id: BOOT-W-0115
+release_type: bootleg
+canonical_title: Winter Gardens
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W7.htm
+country_or_pressing_place: Australia
+notes: JDWG01/02
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Matrix / Runout (CD1): garden 1'
+    - 'Matrix / Runout (CD2): garden 2'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '14'
+  - null
+  reconstructed: BW14
+  has_suffix: false
+  source_row: 117
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,40 @@
+variant_id: BOOK-A-0005
+release_type: livre
+canonical_title: Anime Transparenti
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: needs_review
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/bk47.htm
+notes: 'This Italian book covers four different artists including Ian Curtis.
+
+
+  Apart from some reproduced lyrics everything is written in Italian.
+
+  Pages 31-51 are devoted to Ian Curtis, with some lyrics excerpts, four small black & white pictures, and a brief history
+  of Joy Division.
+
+
+  There''s also a discography section at the back which covers Unknown Pleasures, Closer, Still, and Substance.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Edizione Grafiche Lo Vecchio
+  publication_year: 2000
+  language: it
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 88-87404-80-1
+  page_count: 144
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 116
+  source_xlsx: Livres -.xlsx

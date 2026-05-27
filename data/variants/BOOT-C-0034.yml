@@ -1,0 +1,31 @@
+variant_id: BOOT-C-0034
+release_type: bootleg
+canonical_title: Colony Of Dead Souls
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C9.htm
+country_or_pressing_place: Europe
+notes: 'Captain Sound Records ‎– CSR 009. Released March 2007.
+
+  Picture CD states "Made in Japan" but is a European release.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Fake): 4 4 042 90 0'
+    - 'Other (Rights Society - Fake): JASRAC'
+    - 'Matrix / Runout: CSR 009'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '10'
+  - null
+  reconstructed: BC10
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Bootlegs - C.xlsx

@@ -1,0 +1,37 @@
+variant_id: PIR-U-0017
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/release/4076441-Joy-Division-Unknown-Pleasures
+country_or_pressing_place: Germany
+notes: 'N° 6 : Tonpress KAW SX-T 107 2012. 2012 German reissue of the above
+
+  Includes a single sheet double-sided printed insert with song lyrics
+
+  Issued on marbled coloured vinyl: reddish-brown, olive green
+
+  Label credit, cat.no, label and sleeve (apart from the pink colour) copied from the 1980s Polish Tonpress UP LP; "Tonpress
+  KAW SX-T 107"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Grey marbled
+    matrices:
+    - pas trouvé
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 51
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

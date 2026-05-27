@@ -1,0 +1,37 @@
+variant_id: BOOT-B-0040
+release_type: bootleg
+canonical_title: Box File
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B5.htm
+country_or_pressing_place: USA
+notes: 'JD 01, RZM-200, FAB-38. US Bootleg. Original issue of 1000 copies. Plain black box with semi glossy insert (29 X 29
+  cm). Original 1st edition, plain black box with semi glossy insert (29 x 29 cm). 1000 red stamped, numbered copies.
+
+  Containing the unofficial releases :
+
+  * Komackino (JD 01, blank light blue labels): A1 to B5
+
+  * Warsaw (RZM-200, the matrix JDW-1 is crossed out on both sides, blank white labels): C1 to D5
+
+  * Le Terme (FAB-38, blank white labels): E1 to F6'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 3
+    matrices:
+    - ref JD 01, RZM-200, FAB-38
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 42
+  source_xlsx: Bootlegs - B.xlsx
+  version_marker: V1

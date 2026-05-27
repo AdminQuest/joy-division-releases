@@ -1,0 +1,26 @@
+variant_id: PIR-L-0019
+release_type: pirate
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L17.htm
+country_or_pressing_place: USA
+notes: '[x]Halloween Edition, Cleopatra Records CLO2045EP. Orange limited edition.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: Orange
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

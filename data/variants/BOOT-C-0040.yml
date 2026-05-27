@@ -1,0 +1,30 @@
+variant_id: BOOT-C-0040
+release_type: bootleg
+canonical_title: Confession
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C5.htm
+country_or_pressing_place: UK
+notes: 'This tape features a cassette of a live performance from 1980.
+
+  It comes in a custom silver box (9.5 cm /12.5 cm / 2.5 cm) which includes the cassette and a little fold-open leaflet with
+  a pic of Ian Curtis, song titles and some credits.
+
+  Very limited and released in a very small edition supposedly just for fan club members.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '12'
+  - null
+  reconstructed: BC12
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - C.xlsx

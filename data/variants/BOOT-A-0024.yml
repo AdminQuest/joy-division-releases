@@ -1,0 +1,28 @@
+variant_id: BOOT-A-0024
+release_type: bootleg
+canonical_title: Amsterdam 1980
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: A
+country_or_pressing_place: UK
+variant_group:
+  group_id: BA7
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: purple translucent
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '7'
+  - f
+  reconstructed: BA7f
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Bootlegs - A.xlsx

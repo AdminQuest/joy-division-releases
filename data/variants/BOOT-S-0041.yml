@@ -1,0 +1,39 @@
+variant_id: BOOT-S-0041
+release_type: bootleg
+canonical_title: Stroszek's Last Stand
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S9.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BS15
+  group_role: color_variation
+notes: '[]V1 : Released early 1980s
+
+  Record label: Porpak
+
+  Insert sleeve
+
+  Plain white labels
+
+  Catalogue number: 15101'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 15101-A
+    - 15101-B
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '15'
+  - a
+  reconstructed: BS15a
+  has_suffix: false
+  source_row: 42
+  source_xlsx: Bootlegs - S.xlsx

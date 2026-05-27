@@ -1,0 +1,33 @@
+variant_id: BOOT-P-0036
+release_type: bootleg
+canonical_title: Peel Sessions
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P6.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BP6
+  group_role: color_variation
+notes: '[]Half-and-half white and green vinyl, USA, 2010?'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - The matrix numbers look very similar to the original pressing, On the counterfeit there is an additional short wavy
+      line after the last "B" in the matrix on side 2 which is not present on the original.
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '6'
+  - j
+  reconstructed: BP6j
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Bootlegs - P.xlsx

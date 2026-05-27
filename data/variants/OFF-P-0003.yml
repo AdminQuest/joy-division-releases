@@ -1,0 +1,32 @@
+variant_id: OFF-P-0003
+release_type: officiel
+canonical_title: Permanent
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/per.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Permanent-Joy-Division-1995/release/7324851
+country_or_pressing_place: USA
+notes: Warner Bros. Records ‎– 9 45979-2.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 093624597926'
+    - 'Rights Society: ASCAP'
+    - 'Matrix / Runout: [Specialty ''S'' Logo] 1 45979-2 SRC##01 M1S5'
+    - 'Mould SID Code: IFPI 2U3D'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - P
+  - '2'
+  reconstructed: OAP2
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - Permanent.xlsx
+  op_inferred_from_filename: true

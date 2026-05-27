@@ -1,0 +1,37 @@
+variant_id: OFF-S-0048
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/470320-Joy-Division-Substance
+notes: 'Qwest Records – 9 25747-1, Qwest Records – 1-25747
+
+  Allied Pressing
+
+  Some copies have a gold promo stamp top left on front cover.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Code-barres: 0 7599-25747-1 6'
+    - 'Informations sur la matrice (Side A, variant 1): 1-25747-A-SH1 [Allied ''ɑ'' Logo] B-31572-SHI △ 20965 1-1'
+    - 'Informations sur la matrice (Side B, variant 1): 1-25747-B-SH2 [Allied ''ɑ'' Logo] B-31573-SH2 1-1 △ 20965 X'
+    - 'Informations sur la matrice (Side A, variant 2): 1-25747-A-SH2 [Allied ''ɑ'' Logo] B-31572-SH2 △ 20965 1-1'
+    - 'Informations sur la matrice (Side B, variant 2): 1-25747-B-SH1 [Allied ''ɑ'' Logo] B-31573-SH1 1-1 △ 20965-X 1-1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

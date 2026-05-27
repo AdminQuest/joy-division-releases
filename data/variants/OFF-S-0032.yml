@@ -1,0 +1,30 @@
+variant_id: OFF-S-0032
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/4315820
+notes: Factory ‎– Fact250 first pressing.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FACT 250 - A1 * MAX Townhouse'
+    - 'Matrix / Runout: FACT 250 - B3 * MAX Townhouse'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - '1'
+  reconstructed: OAS1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

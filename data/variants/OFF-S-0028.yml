@@ -1,0 +1,29 @@
+variant_id: OFF-S-0028
+release_type: officiel
+canonical_title: Still
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S16.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/5149726
+country_or_pressing_place: UK
+notes: pic disc  FACTXX 005
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Picture disc
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

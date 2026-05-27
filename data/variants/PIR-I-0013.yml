@@ -1,0 +1,42 @@
+variant_id: PIR-I-0013
+release_type: pirate
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: Belgium
+notes: 'V1 : Pirate copy of the official 12" release on Enigma.
+
+  The sleeve is a reproduction of the original 12" cover. The back sleeve (see scan) is different from the original. The record
+  came with labels with the band name of "The Dallars". There were some "cut-lick&stick" red insert labels with "Joy Division"
+  and the track titles on - you had to stick these labels over the top of the "Dallars" ones.
+
+  Bootleg 7" copy of the 12" issue. Red label, band name as The Dallars. Fold over thin card cover.
+
+  Comes with loose set of labels with band name Joy Division and correct titles and
+
+  "A limited edition re-issue 1982".
+
+  Label as erased (scan), illegible'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): DOLLARS - A1 8201 A'
+    - 'Matrix / Runout (Runout side B): DOLLARS - BI'
+    - 'Rights Society (Fake): SABAM'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

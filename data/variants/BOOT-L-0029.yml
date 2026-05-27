@@ -1,0 +1,42 @@
+variant_id: BOOT-L-0029
+release_type: bootleg
+canonical_title: Live at Bowden Youth Club Altrincham
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: http://joydiv.org/L37.htm
+country_or_pressing_place: ??
+notes: '- LIVE AT BOWDEN YOUTH CLUB ALTRINCHAM CHESHIRE MARCH 14TH 1979 7" FAC1 2022
+
+  7" picture disc released 2022
+
+  Two tracks live at Bowdon Vale Youth Club 14 March 1979
+
+  Limited numbered edition - at least 350 copies
+
+  Generic plastic sleeve sealed with a printed sticker including ''FAC1'' and a bar code printed on one side, and hand-written
+  number on the other
+
+  Bowdon Vale is spelt incorrectly
+
+  B-side features live picture of Ian & Hooky from the Bowdon Vale Youth Club gig by photographer Martin O''Neill.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - JD01 A
+    - JD01 B
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '13'
+  - null
+  reconstructed: BL13
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - L.xlsx

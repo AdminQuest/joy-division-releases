@@ -1,0 +1,33 @@
+variant_id: BOOT-I-0066
+release_type: bootleg
+canonical_title: Isolation
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I8.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BI15
+  group_role: color_variation
+notes: 'V2-b : A negative cover (what is black on the normal cover is white and what is white is black) on black vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: JD-1'
+    - 'Matrix / Runout: JD-II'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '15'
+  - h
+  reconstructed: BI15h
+  has_suffix: false
+  source_row: 74
+  source_xlsx: Bootlegs - I.xlsx

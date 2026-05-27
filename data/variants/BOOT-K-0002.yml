@@ -1,0 +1,36 @@
+variant_id: BOOT-K-0002
+release_type: bootleg
+canonical_title: Kings Chamber Volume Two
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: K
+country_or_pressing_place: USA
+notes: 'US double LP
+
+  Plain white sleeve with glued on inserts
+
+  Gold vinyl
+
+  LP1 has white labels. LP2 has black labels
+
+  Limited to 4 (four) copies
+
+
+  This is the same pressing as The King''s Chamber Volume 3 in Tote Bag Version 2 above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - K.xlsx

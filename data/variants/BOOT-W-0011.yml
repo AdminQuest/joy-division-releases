@@ -1,0 +1,35 @@
+variant_id: BOOT-W-0011
+release_type: bootleg
+canonical_title: Warsaw 7''
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w27.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BW3
+  group_role: color_variation
+notes: 'Matrix No: JD 02 A/B
+
+  Yellow vinyl in plain sleeve
+
+  Source: The label states the first Peel Session - but the single actually has two live New Order tracks see below..'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: Yellow
+    matrices:
+    - 'Matrix No: JD 02 A/B'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '3'
+  - f
+  reconstructed: BW3f
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - W.xlsx

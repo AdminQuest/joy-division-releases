@@ -1,0 +1,28 @@
+variant_id: OFF-B-0007
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/874951-Joy-Division-Les-Bains-Douches
+country_or_pressing_place: Italy
+notes: 'Re-released as a CD on Dynamic/Abraxas label (Italy) - digipak sleeve 2004 cat.no: FACD 2.61 (no gaps between tracks)'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    color: Digipack
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

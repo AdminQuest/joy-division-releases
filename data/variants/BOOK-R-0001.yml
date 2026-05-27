@@ -1,0 +1,31 @@
+variant_id: BOOK-R-0001
+release_type: livre
+canonical_title: Rock Critics
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: needs_review
+joydiv_letter: R
+country_or_pressing_place: France
+notes: article de Bayon sur JD
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Don Quichotte
+  publication_year: 2010
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-2359490169
+  page_count: 528
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Livres -.xlsx

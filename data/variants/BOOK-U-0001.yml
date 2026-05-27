@@ -1,0 +1,31 @@
+variant_id: BOOK-U-0001
+release_type: livre
+canonical_title: 'Unknown Pleasures : Joy Division, vu de l''intérieur'
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: needs_review
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/bk69.htm
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - Peter Hook
+  publisher: Le Mot Et Reste
+  publication_year: 2013
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '2360540742'
+  page_count: 380
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Livres -.xlsx

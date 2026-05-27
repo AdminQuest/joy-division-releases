@@ -1,0 +1,23 @@
+variant_id: BOOT-E-0012
+release_type: bootleg
+canonical_title: Eric’s, Liverpool 11 August 1979
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: E
+country_or_pressing_place: Japan
+notes: inconnu sur Discogs.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '8'
+  - null
+  reconstructed: BE8
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Bootlegs - E.xlsx

@@ -1,0 +1,45 @@
+variant_id: BOOT-L-0073
+release_type: bootleg
+canonical_title: Live in Holland
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L30.htm
+country_or_pressing_place: The Netherlands
+variant_group:
+  group_id: BL27
+  group_role: color_variation
+notes: 'DOL DOR2020HC
+
+  Unofficial LP on the DOL label
+
+  Released in the Netherlands on Record Store Day 2019
+
+  Listing was withdrawn from the official Record Store Day Netherlands web site prior to RSD but the album was released on
+  the day
+
+  Reissue of the above on 180g blue vinyl
+
+  Limited to 300 hand-numbered copies with sticker (on shrinkwrap) on the front'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix: numbers:'
+    - 103828E1/D
+    - 103828E2/B
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '27'
+  - b
+  reconstructed: BL27b
+  has_suffix: false
+  source_row: 76
+  source_xlsx: Bootlegs - L.xlsx

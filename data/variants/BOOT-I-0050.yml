@@ -1,0 +1,33 @@
+variant_id: BOOT-I-0050
+release_type: bootleg
+canonical_title: An Interview With Ian Curtis
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I6.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI11
+  group_role: color_variation
+notes: 'Lyn 14134-14 ICB 33 RPM picture disc. 5000 copies.
+
+  Also released on Interview 12" and the Under Review DVD - with subtitles.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - '"LYN - 14134 - 1U Z"'
+    - '"P - LYN - 14135 - 1U Z"'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '11'
+  - a
+  reconstructed: BI11a
+  has_suffix: false
+  source_row: 57
+  source_xlsx: Bootlegs - I.xlsx

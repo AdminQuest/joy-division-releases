@@ -1,0 +1,33 @@
+variant_id: PIR-S-0017
+release_type: pirate
+canonical_title: Sordide Sentimental
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S5.htm
+country_or_pressing_place: USA
+notes: "Identical to 2007 pirate but no foldout sleeve. Hardly any copies exists suggesting  more records than sleeves were\
+  \ made in in 2007 and  new sleeves were made the overstock\nLabel Identical to 2007 pirate\nNo serrated ridge        \n\
+  No fold out cover.\n7\" x 7\" size card insert cover in a clear resealable plastic sleeve with clear Sordide Sentimental\
+  \ stickers\nNo inserts\n7\" x 7\" insert sleeve ; no glue\nSmaller 7\" x 7\"resealable clear plastic sleeve with clear Sordide\
+  \ Sentimental stickers"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: gold
+    matrices:
+    - SS 33002 A t SS 33002 - B - t Hand written
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

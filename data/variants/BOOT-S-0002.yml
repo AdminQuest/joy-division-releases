@@ -1,0 +1,41 @@
+variant_id: BOOT-S-0002
+release_type: bootleg
+canonical_title: Shades Of Division - the Black Souls mispressing album
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S1.htm
+country_or_pressing_place: Belgium
+notes: 'Mega Records A/B 1984
+
+  Brussels LP released November 1984
+
+  Mega Records
+
+  Glued on insert cover - either white or blue (white is better quality)
+
+  50 copies
+
+  This album was a mispress of the Black Souls LP
+
+  It was later reissued as Space'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): A'
+    - 'Matrix / Runout (Side B): B'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '2'
+  - null
+  reconstructed: BS2
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - S.xlsx

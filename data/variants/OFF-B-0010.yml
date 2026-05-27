@@ -1,0 +1,43 @@
+variant_id: OFF-B-0010
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/875914-Joy-Division-Les-Bains-Douches-Vol-2
+country_or_pressing_place: Italy
+notes: 'LP 2 separate red.
+
+  Re-released as two separate LPs by Get Back Records (Italy) both on red vinyl 2004 cat.nos:
+
+  [x]GET90079-1 Get Back ‎– get 90079-1 Second in a series of two, though sticker on sleeve. Has "Vol. 1" printed on it. Pressed
+  on maroon red vinyl.
+
+  [x]GET90079-2 GET90079-2'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Red
+    matrices:
+    - GET90079-1
+    - 'Barcode: 8013252900792'
+    - 'Matrix / Runout (A Side Runout - Machine Stamped ): AE 47827/B www.gzvinyl.com'
+    - 'Matrix / Runout (B Side Runout - Machine Stamped): AE 47828/A'
+    - GET90079-2
+    - 'Barcode: 8 013252 990793'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

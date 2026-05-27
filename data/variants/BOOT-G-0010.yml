@@ -1,0 +1,34 @@
+variant_id: BOOT-G-0010
+release_type: bootleg
+canonical_title: Gruftgesaenge
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G3.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BG6
+  group_role: color_variation
+notes: 'Variation: We have discovered a clear vinyl version which is the same as the first issue in every respect apart from
+  the vinyl colour and the sleeve. It has hyphens in the matrix number and Shadowplay as the last track on side 2 so it is
+  presumably pressed from the same plates.. However, the sleeve is different - it is in the second cover (the one used for
+  the "first set of re-issues" listing below which doesn''t have the max price and Ertl comment). The labels are plain white.
+  We believe this version came out in the early 1980s.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: clear
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '6'
+  - b
+  reconstructed: BG6b
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Bootlegs - G.xlsx

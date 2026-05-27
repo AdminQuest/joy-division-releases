@@ -1,0 +1,40 @@
+variant_id: BOOT-V-0002
+release_type: bootleg
+canonical_title: The Visitor
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: V
+joydiv_url: https://www.joydiv.org/V1.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BV2
+  group_role: color_variation
+notes: 'R7 Demon Records. Originally issued in a limited yellow sleeve (some with a photo insert) and reissued in a black
+  and white sleeve (without photo insert).
+
+  1.Rare yellow sleeve with "For promotion only. Not for Sale" stamp and poor quality semi glossy Ian Curtis photo insert
+  which is printed on a slant
+
+
+  Subtitle on rear cover: 20 Million Miles To Earth. Green labels. 500 copies, not numbered. Folder cover. Supposedly all
+  numbered - but some aren’t. Some yellow sleeve copies (maybe all) have a photo insert
+
+  This single has been released under different names as a 7" single and in box sets which contain multiple copies of the
+  single. See Visitor Box Set, Atrocity Exhibition 7", Mater Dolorosa box set'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - V
+  - '2'
+  - a
+  reconstructed: BV2a
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - V.xlsx

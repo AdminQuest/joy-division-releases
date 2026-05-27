@@ -1,0 +1,33 @@
+variant_id: OFF-S-0015
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/377919-Joy-Division-Still
+country_or_pressing_place: Portugal
+notes: 'VFACT 111-19/20, Vimúsica – VFACT 111-19/20
+
+  Grey card inner sleeves.
+
+  Editado sob licença por Vimúsica.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

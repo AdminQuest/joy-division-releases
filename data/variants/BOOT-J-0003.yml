@@ -1,0 +1,45 @@
+variant_id: BOOT-J-0003
+release_type: bootleg
+canonical_title: Joy Division
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: verified
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/J3.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BJ3
+  group_role: color_variation
+notes: 'V1 : (=Non in vendita + livre) 1988, SCONC 001 Stampa Alternativa ; Italian lyric book (in Italian and English) with
+  7'''' EP. 14000 books with the 7"
+
+  Documento sonoro supplemento al N. 6 di Stampa Alternativa - Free 7" enclosed in book #6 of Stampa Alternativa.
+
+  This edition come in die-cut blank sleeve with a biographic 108-page which contains history, discography and lyrics. Non
+  In Vendita. Not For Sale. Made in Italy
+
+  Total pressing of 14000 copies, some in Joy Division - Untitled blue vinyl.
+
+  Nearly identical to Joy Division - Joy with exception of Side B label image.
+
+  Also released as Joy Division - Untitled, a 3" mini CD in 1988.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Rights Society: SIAE'
+    - 'Matrix / Runout: [Hand Etched] SCONC 001 B WE ARE THE MS'
+    - 'Matrix / Runout: [Hand Etched] SCONC 001 A ART AND SOUL MS'
+_legacy_code:
+  segments:
+  - B
+  - J
+  - '3'
+  - a
+  reconstructed: BJ3a
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - J.xlsx

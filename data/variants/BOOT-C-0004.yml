@@ -1,0 +1,30 @@
+variant_id: BOOT-C-0004
+release_type: bootleg
+canonical_title: A Christmas Of Joy (Division)
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C1.htm
+country_or_pressing_place: Sweden
+variant_group:
+  group_id: BC2
+  group_role: color_variation
+notes: 'Swedish picture disc. 3 versions exist:
+
+  3) SC002-CUP 4 : Green vinyl with Ian Curtis on side A + side B within the bonus track ''You''re No Good For Me'''
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: green
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '2'
+  - c
+  reconstructed: BC2c
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - C.xlsx

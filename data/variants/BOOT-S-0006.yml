@@ -1,0 +1,32 @@
+variant_id: BOOT-S-0006
+release_type: bootleg
+canonical_title: Shadowplay
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S2.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BS3
+  group_role: color_variation
+notes: 'V3 : The Amazing Kornyfone Record Label ‎– TAKRL 1404. 500 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'V3 :'
+    - 'Matrix / Runout: TAKRL 1404-A'
+    - 'Matrix / Runout: TAKRL 1404-B'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '3'
+  - d
+  reconstructed: BS3d
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - S.xlsx

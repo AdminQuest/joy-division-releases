@@ -1,0 +1,26 @@
+variant_id: OFF-C-0036
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: China
+notes: Qwest Records – Y-1694, 上海声像 – Y-1694
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Code-barres: 0 7599 25841 2 8'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Officiels et pirates - Closer.xlsx

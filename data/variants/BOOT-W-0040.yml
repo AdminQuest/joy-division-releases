@@ -1,0 +1,32 @@
+variant_id: BOOT-W-0040
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V18 P&F : Australian bootleg. Black vinyl. White label with black text. No catalogue number on packaging or label'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - Warsaw Ⓐ P&F
+    - Warsaw Ⓑ P&F
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - ac
+  reconstructed: BW4ac
+  has_suffix: false
+  source_row: 42
+  source_xlsx: Bootlegs - W.xlsx

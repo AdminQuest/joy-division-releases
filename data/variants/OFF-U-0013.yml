@@ -1,0 +1,42 @@
+variant_id: OFF-U-0013
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/2468514
+country_or_pressing_place: New Zealand
+notes: 'Factory ‎– FACT 10
+
+  Textured cover with RTC Logo & "Marketed by RTC, P.O. Box 3825 Auckland" on the rear.
+
+  Printed inner sleeve.
+
+  Recorded at Strawberry Sudios, Stockport.
+
+  A Factory Records Product.
+
+  The Sounds Unlimited stores were giving away free t-shirts with every copy.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, Variant 1): FACT 10 A.. Я'
+    - 'Matrix / Runout (Runout side B, Variant 1): FACT 10 B.. Я'
+    - 'Matrix / Runout (Runout side A, Variant 2): FACT 10 A. Я'
+    - 'Matrix / Runout (Runout side B, Variant 2): FACT 10 B... Я'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

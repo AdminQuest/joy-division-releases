@@ -1,0 +1,27 @@
+variant_id: BOOT-S-0034
+release_type: bootleg
+canonical_title: The Sound of Joy Division
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.discogs.com/fr/Joy-Division-The-Sound-Of-Joy-Division/release/12555928
+country_or_pressing_place: USA
+notes: 'All information from the rear is more or less copied from Joy Division - Permanent: Joy Division 1995.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: AMCE 6054-1'
+    - 'Barcode (Fake): 4988029605443'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '12'
+  - null
+  reconstructed: BS12
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Bootlegs - S.xlsx

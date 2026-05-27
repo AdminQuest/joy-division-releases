@@ -1,0 +1,33 @@
+variant_id: BOOK-I-0008
+release_type: livre
+canonical_title: In Control
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk60.htm
+notes: The story of the making of CONTROL as captured by its director. When the project began it was conceived as a diary
+  of 42 snapshots - one for each day of the shoot. Ultimately it evolved into something different but IN CONTROL remains the
+  definitive account of the making of CONTROL.
+format_details:
+  type: book
+  authors:
+  - Anton Corbijn
+  publisher: Inconnu
+  publication_year: 2008
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-3-8296-0290-7
+  page_count: 136
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 112
+  source_xlsx: Livres -.xlsx

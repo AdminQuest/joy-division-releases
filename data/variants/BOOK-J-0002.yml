@@ -1,0 +1,38 @@
+variant_id: BOOK-J-0002
+release_type: livre
+canonical_title: Joy Division, Lumière & Ténèbres
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk17.htm
+country_or_pressing_place: France
+notes: 'First published 1992, édition de 2005
+
+  Original edition of 500 copies, later editions each had different covers, slightly different sets of photos, and different
+  authors credited.
+
+  All photos in this edition are by Philippe Carly.'
+format_details:
+  type: book
+  authors:
+  - "Fabien Ralon \n(Sébastien Raizer"
+  - Fabrice Revolon)
+  publisher: Camion Blanc
+  publication_year: 2005
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 2-910196-23-2
+  page_count: 194
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Livres -.xlsx

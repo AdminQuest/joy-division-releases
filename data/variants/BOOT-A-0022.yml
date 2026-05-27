@@ -1,0 +1,35 @@
+variant_id: BOOT-A-0022
+release_type: bootleg
+canonical_title: Amsterdam 1980
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/J8.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BA7
+  group_role: color_variation
+notes: "V1 : FAC (PRO2). Full colour artwork, 12\" cardboard poster inside, \n25 copies on blue vinyl\n238 copies on pink\
+  \ vinyl\n237 copies on turquoise vinyl\n--> 100 copies on greyish marble (well, mostly grey with a bit of purple and pink)\
+  \ vinyl (mine)\nMarbled green\n12\" \"poster\" insert"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled
+    matrices:
+    - 'Side A: PRO FAC-2-A "in memory…"'
+    - 'Side B: PRO FAC-2-B "NO LOVE LOST!"'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '7'
+  - d
+  reconstructed: BA7d
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - A.xlsx

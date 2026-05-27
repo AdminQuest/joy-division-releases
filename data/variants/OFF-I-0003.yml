@@ -1,0 +1,32 @@
+variant_id: OFF-I-0003
+release_type: officiel
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: Australia
+notes: 'V3.1 : probably Australian, mid/late 1980s
+
+  1st(?) fake reissue of the official 7" release on Enigma.
+
+  Black vinyl, non-glossy/not shiny fold-out sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - PSS 139 EP A1 (side A)
+    - PSS 139 EP B1 (side B)
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

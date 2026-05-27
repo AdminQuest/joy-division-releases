@@ -1,0 +1,29 @@
+variant_id: BOOK-W-0002
+release_type: livre
+canonical_title: When We Were Young
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: W
+joydiv_url: http://joydiv.org/bk32.htm
+country_or_pressing_place: UK
+format_details:
+  type: book
+  authors:
+  - Simon Barber
+  publisher: Inconnu
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 72
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 84
+  source_xlsx: Livres -.xlsx

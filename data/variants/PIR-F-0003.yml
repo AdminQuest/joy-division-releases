@@ -1,0 +1,64 @@
+variant_id: PIR-F-0003
+release_type: pirate
+canonical_title: A Factory Sample
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F9.htm
+country_or_pressing_place: UK
+notes: 'Counterfeit copy of A Factory sample (V2)
+
+  Released 2008
+
+  Originally on black vinyl.
+
+  Later reissued on colour vinyl:
+
+  One on solid pale mint green / one on black vinyl
+
+  One on clear vinyl / one on transparent green vinyl
+
+  One on orangey-red vinyl / one on black vinyl
+
+  One on marbled light grey / one on marbled greenish-grey vinyl
+
+  One on solid pale mint green / one  on transparent green vinyl
+
+  One on clear vinyl / one  on black vinyl
+
+  One on orangey-red vinyl / one  on transparent green vinyl
+
+
+
+  1) This set comes in a poster sleeve. The original was gatefold and doesn''t open up into a 14" x 14" square.
+
+  2) This set is not shrink wrapped (although it comes in a resealable plastic bag). Original was shrink wrapped in thin crinkly
+  plastic. Like a food bag.
+
+  3) Matrix etchings in slightly larger writing than the original.
+
+  4) This counterfeit copy has no raised serrated vinyl edge around the label - the original does.
+
+  5) The stickers are a perfect copy but they look `new`. They do not have `fasprint ` '
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: black
+    matrices:
+    - FAC-2-A   "EVERYTHING"
+    - FAC-2-B  "IS REPAIRABLE"
+    - FAC-2-C  "EVERYTHING"
+    - FAC-2-D  "IS BROKEN"
+_legacy_code:
+  segments:
+  - P
+  - '7'
+  - null
+  - null
+  reconstructed: P7
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 7_ - A Factory Sample.xlsx

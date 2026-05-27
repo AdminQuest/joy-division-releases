@@ -1,0 +1,43 @@
+variant_id: BOOT-S-0036
+release_type: bootleg
+canonical_title: The Sound Of Music
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S15.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BS13
+  group_role: pressing_variation
+notes: '[]2 LP, 2012 : 2012 US reissue of the above in the same sleeve. Pressed on three different sets of coloured vinyl:
+
+  LP1: Dark pink LP2: Plum
+
+  LP1: Marbled blue LP2: Dark brown
+
+  LP1: Purple (pinkish-red) LP2: Light brown
+
+  Black printed labels, different to the original'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - '2LP :'
+    - SOM-A
+    - SOM-B
+    - SOM-C
+    - SOM-D-1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '13'
+  - b
+  reconstructed: BS13b
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Bootlegs - S.xlsx

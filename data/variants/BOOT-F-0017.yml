@@ -1,0 +1,26 @@
+variant_id: BOOT-F-0017
+release_type: bootleg
+canonical_title: FM Broadcast 11/1/80
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F2.htm
+country_or_pressing_place: ??
+notes: Soundsville International ‎– none. Picture disc released 1987. Black and white pictures and text on white background.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '6'
+  - null
+  reconstructed: BF6
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - F.xlsx

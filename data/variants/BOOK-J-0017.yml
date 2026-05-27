@@ -1,0 +1,30 @@
+variant_id: BOOK-J-0017
+release_type: livre
+canonical_title: 'Joy Division Albums, Including: Closer (Joy Division Album), Unknown Pleasures, (etc)'
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk71.htm
+country_or_pressing_place: UK
+notes: Slim paperback, 54 pages, based on Wikipedia articles, gives details of 14 different Joy Division albums and 3 EPs.
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Hephaestus Books, Lightning Source UK Ltd.
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 54
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 60
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,31 @@
+variant_id: BOOT-C-0045
+release_type: bootleg
+canonical_title: A Cry for Help
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C15.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BC14
+  group_role: color_variation
+notes: --> version moonchild cheloue
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 29102013950'
+    - 'Matrix / Runout: G.R. 950'
+    - 'Rights Society: GEMA'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '14'
+  - b
+  reconstructed: BC14b
+  has_suffix: false
+  source_row: 46
+  source_xlsx: Bootlegs - C.xlsx

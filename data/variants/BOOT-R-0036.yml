@@ -1,0 +1,33 @@
+variant_id: BOOT-R-0036
+release_type: bootleg
+canonical_title: Russell Club - June 13 1979 Manchester
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R5.htm
+country_or_pressing_place: Europe
+notes: BLACK vinyl; black labels with the Unknown Pleasures front cover art (wavey white lines) and "JOY DIVISION RUSSELL
+  CLUB", "SIDE 1" (or "2"), "c 1980 Factory Records" and "M-LP 150" printed on them in white. No sticker or limited edition
+  notice on sleeve
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'V5 :'
+    - LP-150 A DMM G.P.
+    - LP-150 B.
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '10'
+  - o
+  reconstructed: BR10o
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Bootlegs - R.xlsx

@@ -1,0 +1,37 @@
+variant_id: BOOT-W-0041
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V19 Limited edition colour vinyl : RZM 1990/1. Australian bootleg released 1990 or 1991 Black vinyl released 1990/91,
+  and later reissues on white vinyl with sticker on cover saying "Limited edition COLOURED VINYL » No catalogue number on
+  packaging or label. Glossy sleeve. Labels: Some copies have white labels with black print, others have black labels with
+  white print. No single. Nothing on spine. White or orange sticker on cover saying "Limited edition COLOURED VINYL"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - WARSAW-A
+    - WARSAW-B
+    - There's also a line "-" above both the last "A" and "B" in the matrix.
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - ad
+  reconstructed: BW4ad
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Bootlegs - W.xlsx

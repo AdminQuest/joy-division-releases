@@ -1,0 +1,29 @@
+variant_id: BOOT-D-0062
+release_type: bootleg
+canonical_title: Disorder
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D8.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BD16
+  group_role: color_variation
+notes: '[]V2 : A4 photocopied insert cover. We don''t think this insert cover was done by the original bootlegger. This one
+  turned up many years later so we reckon someone bought a second hand copy and decided to make their own.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '16'
+  - b
+  reconstructed: BD16b
+  has_suffix: false
+  source_row: 63
+  source_xlsx: Bootlegs - D.xlsx

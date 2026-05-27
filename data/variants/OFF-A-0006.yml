@@ -1,0 +1,39 @@
+variant_id: OFF-A-0006
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Canada
+notes: 'Factory ‎– FACUS 2
+
+  Date on label: 2/9/80
+
+  Published by Fractured Music
+
+  A Factory Records Product
+
+  Manufactured by PolyGram Inc and distributed by PolyGram Distribution Inc., 6000 Cote de Liesse, St. Laurent, Quebec. Made
+  In Canada.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A runout): FACUS-2-̶B̶ A SNB AlD-230 DM 2'
+    - 'Matrix / Runout (Side B runout): FACUS-2-̶A̶ B SNB AlD-230 DM 3'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

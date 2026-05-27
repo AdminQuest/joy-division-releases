@@ -1,0 +1,31 @@
+variant_id: BOOT-M-0005
+release_type: bootleg
+canonical_title: Manchester Apollo 1979
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.discogs.com/fr/Joy-Division-Manchester-Apollo-1979/release/9844239
+country_or_pressing_place: UK
+notes: 'Support CDr (CD enregistrable)
+
+
+  Street Dogs Records
+
+  Card sleeve, innersleeve, Vinyl CD.
+
+  The only Apollo Live 1979 CD format released.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '2'
+  - null
+  reconstructed: BM2
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - M.xlsx

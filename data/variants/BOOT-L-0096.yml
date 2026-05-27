@@ -1,0 +1,33 @@
+variant_id: BOOT-L-0096
+release_type: bootleg
+canonical_title: Love Will Tear Us Apart (LP)
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/J2.htm
+country_or_pressing_place: ??, ??, LP
+notes: 'Insert with picture of the band, band name, album title, track listing and the text "7706,5C" and "alfac" at the bottom..
+
+  Plain white labels.
+
+  sorti sous divers noms (cf à côté). These were some of the first JD boots released and are extremely rare (and amateurish).
+  See note at top of this page.
+
+  See also the Enigma LP which was issued much later but has the same tracks as the ones on this page'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    matrices:
+    - No matrix numbers.
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '37'
+  - null
+  reconstructed: BL37
+  has_suffix: false
+  source_row: 99
+  source_xlsx: Bootlegs - L.xlsx

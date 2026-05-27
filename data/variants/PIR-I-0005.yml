@@ -1,0 +1,33 @@
+variant_id: PIR-I-0005
+release_type: pirate
+canonical_title: An Ideal For Living 12''
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: Greece
+notes: '664 A F/B F Anonymous Records - Greek pressing from the same people who did The Short Circuit 12", The Ideal Beginning
+  12", and Buzzcocks "Spiral Scratch »
+
+  Identical to then 12" above but with "Ltd Edition" note on cover and different matrix/groove numbers'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Hand written matrix numbers:'
+    - 664 A F
+    - 664 B F
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - A
+  - '6'
+  reconstructed: P12A6
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 12_ - An Ideal For Living.xlsx

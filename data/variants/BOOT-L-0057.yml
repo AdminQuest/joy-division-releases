@@ -1,0 +1,31 @@
+variant_id: BOOT-L-0057
+release_type: bootleg
+canonical_title: Live At Town Hall High Wycombe, 20th february 1980
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: http://joydiv.org/L33.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BL20
+  group_role: pressing_variation
+notes: "2019, DBQP 26. \nEuropean LP released 2019\nBlack vinyl, 500 copies"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode on back cover: 8 89397 00426 2'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '20'
+  - a
+  reconstructed: BL20a
+  has_suffix: false
+  source_row: 60
+  source_xlsx: Bootlegs - L.xlsx

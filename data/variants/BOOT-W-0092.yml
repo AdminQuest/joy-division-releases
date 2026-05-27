@@ -1,0 +1,34 @@
+variant_id: BOOT-W-0092
+release_type: bootleg
+canonical_title: Warsaw The Lost, Complete 1977 Recordings
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W10.htm
+country_or_pressing_place: USA
+notes: 'Repressing of the 2LP above with the same sleeve, matrix numbers etc
+
+  Issued on various vinyl colours'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Splatter blue
+    matrices:
+    - WAR-A 1 (upside-down) . (dot) 1 COWARD ZE7268A
+    - WAR-B 1 (upside-down) . (dot) 1 COWARD ZE7268B
+    - WAR-C 1 (upside-down) . (dot) 1 COWARD ZE7268C
+    - WAR-D 1 (upside-down) . (dot) 1 COWARD ZE7268D
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '8'
+  - l
+  reconstructed: BW8l
+  has_suffix: false
+  source_row: 94
+  source_xlsx: Bootlegs - W.xlsx

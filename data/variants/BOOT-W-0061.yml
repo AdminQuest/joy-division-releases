@@ -1,0 +1,37 @@
+variant_id: BOOT-W-0061
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: UK
+notes: 'V29 Outsider : Outsider Records – OUTS01
+
+  Released on Outsider Records 2021
+
+  Cat.no.: OUTS01
+
+  Silver vinyl
+
+  Similar cover to No 28 above but same tracks as 26 and 27'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Grey
+    matrices:
+    - 'Code-barres: 0712221921278'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - aw
+  reconstructed: BW4aw
+  has_suffix: false
+  source_row: 63
+  source_xlsx: Bootlegs - W.xlsx

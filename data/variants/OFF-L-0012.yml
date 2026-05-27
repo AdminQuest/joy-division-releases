@@ -1,0 +1,36 @@
+variant_id: OFF-L-0012
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Japan
+notes: 'Factory ‎– FAC•XXIII•XII, Factory ‎– YW-7421-AX : Promo sticker on the back sleeve and Sample printed on the label.
+  Includes sleeve obi.
+
+  Factory ‎– FAC•XXIII•XII, Factory ‎– YW-7421-AX : Includes sleeve obi.
+
+  A Fractured Music
+
+  A Factory Record'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: YW-7421-A-1'
+    - 'Matrix / Runout: YW-7421-B-1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

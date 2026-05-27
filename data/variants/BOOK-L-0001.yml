@@ -1,0 +1,37 @@
+variant_id: BOOK-L-0001
+release_type: livre
+canonical_title: Lyrics / Discography
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/bk44.htm
+notes: 'A5 size booklet
+
+
+  52 stapled pages, includes lyrics, discography (official and bootlegs up to December 1984), some music paper/magazine cuttings,
+  pictures, gig guide (some of this looks identical to the material in the A History In Cuttings books)
+
+
+  No credits / publishing details or year of release provided (ca 1985?)'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1985
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 52
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 105
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,37 @@
+variant_id: BOOT-L-0028
+release_type: bootleg
+canonical_title: Live at Bournemouth
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: Australia
+notes: 'Test pressing
+
+  Hand-numbered, 15 copies in total
+
+  Plain sleeve, loose A4 size front insert titled Live at Bournemouth featuring an Ian Curtis photo (by Anton Corbijn from
+  the TJ Davidson''s 28/4/80 LWTUA promo video shoot) and a track listing
+
+  Plain white labels
+
+  No record label or catalogue number'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - BWG 79 A
+    - BWG 79 B
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,35 @@
+variant_id: BOOT-D-0061
+release_type: bootleg
+canonical_title: Disorder
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D8.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BD16
+  group_role: color_variation
+notes: '[]V1 : MNL 3527. Colour cover.
+
+  Australian bootleg-reissue of "Live Transmission...Dance To The Radio ». This album was mispressed. The side two tracks
+  are actually on side one and vice versa.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): MNL-3527-A'
+    - 'Matrix / Runout (Side B): MNL-3527-B'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '16'
+  - a
+  reconstructed: BD16a
+  has_suffix: false
+  source_row: 62
+  source_xlsx: Bootlegs - D.xlsx

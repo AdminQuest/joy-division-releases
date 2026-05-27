@@ -1,0 +1,31 @@
+variant_id: OFF-L-0017
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: UK
+notes: 'London Records ‎– YOJXDJ1
+
+  Record comes in a black cardboard sleeve with a small round promotional sticker.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A, etched): YOJX-DJ-1-A ORLAKE'
+    - 'Matrix / Runout (Side B, etched): YOJX-DJ-1-B ORLAKE'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

@@ -1,0 +1,31 @@
+variant_id: BOOT-F-0029
+release_type: bootleg
+canonical_title: Futurama 2 / Futurama 84
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNrVvT9VAd4Et16oxiMtqlfz-4PYZE07KFw1Txt?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF11
+  group_role: pressing_variation
+notes: Nos 101 - 200 have a sticker on the front cover, and an A3 size live colour picture insert
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - The matrix numbers have been scratched out.
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '11'
+  - f
+  reconstructed: BF11f
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - F.xlsx

@@ -1,0 +1,28 @@
+variant_id: BOOK-M-0002
+release_type: livre
+canonical_title: Maximum Joy Division
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: M
+joydiv_url: http://joydiv.org/M7.htm
+notes: Unauthorised spoken audio book on CD
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 67
+  source_xlsx: Livres -.xlsx

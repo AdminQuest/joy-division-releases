@@ -1,0 +1,25 @@
+variant_id: BOOT-B-0051
+release_type: bootleg
+canonical_title: Les Bains Douches Paris 1979
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNQqkarlcS558hgE7MqX6ixwGwQcX5nC97Xq_sx?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: ??
+notes: Tape It Dee Dee
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '7'
+  - null
+  reconstructed: BL7
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - L.xlsx

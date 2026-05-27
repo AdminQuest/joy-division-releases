@@ -1,0 +1,43 @@
+variant_id: PIR-U-0045
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.joydiv.org/U2.htm
+country_or_pressing_place: Europe
+notes: 'N° 14 : European pressing
+
+  Sleeve and labels copied from official 1980s German pressing:
+
+  White design on black label, black design on white label
+
+  Black vinyl
+
+  Glossy sleeve, front cover image looks more faded than the original
+
+  No printed inner, the back cover has the details from the original inner sleeve (song titles with track timings etc) printed
+  in white
+
+  Labels have "1980 Factory Records" printed on them.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 0060 362 S 1 0703 949 S1 320 1P
+    - 0060 362 S 1 0703 949 S2 320 1K
+    - These match one of the official German Metronome pressings (but the sleeve and labels don't)
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 81
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

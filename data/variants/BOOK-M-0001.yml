@@ -1,0 +1,29 @@
+variant_id: BOOK-M-0001
+release_type: livre
+canonical_title: 'Manchester music city 1976-1996 : Buzzcocks, Joy Division, The Fall, New Order, The Smiths, The Stone Roses,
+  Happy Mondays, Oasis,...'
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: needs_review
+joydiv_letter: M
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - John Robb
+  publisher: Rivages
+  publication_year: 2012
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,27 @@
+variant_id: OFF-S-0021
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/808041-Joy-Division-Still
+country_or_pressing_place: UK
+notes: FACT 40C 2 K7 box set.  Cassettes come in a oversized purple box with two inserts.
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 2
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

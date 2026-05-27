@@ -1,0 +1,36 @@
+variant_id: PIR-L-0020
+release_type: pirate
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L17.htm
+country_or_pressing_place: USA
+notes: 'Cleopatra – CLO2483
+
+  Limited Edition, Reissue, Silver
+
+  Alternate versions mastered from the Martin Hannett tapes 1980.
+
+  "Made in Canada" printed on outer plastic.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: silver
+    matrices:
+    - 'Code-barres (Sticker - Text): 889466248344'
+    - '(Runout, side A): CLO2483 SP A LAB MOG'
+    - '(Runout, side B): CLO2483 SP B LAB MOG'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

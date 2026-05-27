@@ -1,0 +1,35 @@
+variant_id: BOOT-L-0020
+release_type: bootleg
+canonical_title: Live and Obscure
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L23.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BL11
+  group_role: color_variation
+notes: "2008 repress of the second LP of the original Hawkeye Concert 18 Jan Effenaar 2LP\n100 copies pressed in total. \n\
+  50 copies on colour vinyl and the rest on multicoloured. \nSeveral different colours of each.\nPlain white sleeve with an\
+  \ A4 size colour insert glued to the front, this looks like it's been printed on a computer and comes in a variety of colours"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green
+    matrices:
+    - 'Matrix / Runout: Q-9017-A'
+    - 'Matrix / Runout: Q-9017-B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '11'
+  - a
+  reconstructed: BL11a
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Bootlegs - L.xlsx

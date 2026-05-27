@@ -1,0 +1,31 @@
+variant_id: BOOK-A-0003
+release_type: livre
+canonical_title: 'Archivum: Vintage Joy Division Prints'
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: needs_review
+joydiv_letter: A
+joydiv_url: http://joydiv.org/bk103.htm
+country_or_pressing_place: UK
+format_details:
+  type: book
+  authors:
+  - Kevin Cummins
+  publisher: Paul Stolper
+  publication_year: 2022
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-1-916023-34-5
+  page_count: 144
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 86
+  source_xlsx: Livres -.xlsx

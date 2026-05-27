@@ -1,0 +1,30 @@
+variant_id: BOOT-A-0049
+release_type: bootleg
+canonical_title: At last
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A2.htm
+country_or_pressing_place: Denmark
+notes: This is the Try to cure yourself LP (same labels and matrix number) but the labels have been amended in felt tip in
+  an attempt to pass it off as a different record.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: SK-0038 - A'
+    - 'Matrix / Runout: SK-0038 - B'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '12'
+  - null
+  reconstructed: BA12
+  has_suffix: false
+  source_row: 72
+  source_xlsx: Bootlegs - A.xlsx

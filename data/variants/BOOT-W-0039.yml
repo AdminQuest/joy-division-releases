@@ -1,0 +1,35 @@
+variant_id: BOOT-W-0039
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V17 Grey Marble : 159088 : This LP has different tracks from all the other Warsaw LPs on this page. Grey marble vinyl.
+  Plain white labels, plain white sleeve with a 21,5 x 15 cm glued-on picture on the front. Approximately 20 copies made.
+  This appears to be a copy of the Retropop Warsaw LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Grey marbled
+    matrices:
+    - 159088 A
+    - 159088 B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - ab
+  reconstructed: BW4ab
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,45 @@
+variant_id: OFF-C-0020
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Japan
+notes: 'Factory ‎– YX-7338-AX, Factory ‎– FACT XXV
+
+  Features green obi- strip with pricing and release informations. Also includes lyric sheet in Japanese and English.
+
+  4 page insert including short biography and lyrics in Japanese and English.
+
+  This was released in July 1984.
+
+  Promo copies are identified by a tiny red sticker - normally on the rear sleeve.
+
+  ℗ 1984.7
+
+  Made in Japan by Nippon Columbia Co., Ltd.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runouts side A): FAC 25 A'
+    - 'Matrix / Runout (Runouts side B): FACT 25 B'
+    - 'Matrix / Runout (Center label A side): FACT 25-A'
+    - 'Matrix / Runout (Center label B side): FACT 25-B'
+    - 'Pressing Plant ID (Rear cover): MT 11657'
+    - 'Pressing Plant ID (On labels): A/A 11657'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Officiels et pirates - Closer.xlsx

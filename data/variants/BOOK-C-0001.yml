@@ -1,0 +1,31 @@
+variant_id: BOOK-C-0001
+release_type: livre
+canonical_title: Chapter and Verse - New Order, Joy Division and Me - Bernard Sumner
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: needs_review
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/bk73.htm
+country_or_pressing_place: UK
+format_details:
+  type: book
+  authors:
+  - Bernard Sumner
+  publisher: Bantam Press
+  publication_year: 2014
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '593073177'
+  page_count: 352
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 42
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,46 @@
+variant_id: OFF-H-0001
+release_type: officiel
+canonical_title: Heart and Soul (4 CD set)
+canonical_artist: Joy Division
+year: 1997
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/heart.htm
+country_or_pressing_place: UK
+notes: 1997 box set. This set includes a nice 84 page booklet.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 4
+    matrices:
+    - 'Barcode: 0 42282 89682 7'
+    - 'Label Code: LC7654'
+    - 'Matrix / Runout (CD1, Variants 1, 2): 8289682/1 10496021 01 % MADE IN THE UK BY PMDC'
+    - 'Mastering SID Code (CD1, Variants 1, 2): IFPI L132'
+    - 'Mould SID Code (CD1, Variant 1): IFPI 0452'
+    - 'Mould SID Code (CD1, Variant 2): IFPI 0432'
+    - 'Matrix / Runout (CD2, Variants 1, 2): 8289682/2 20496021 01 & MADE IN THE UK BY PMDC'
+    - 'Mastering SID Code (CD2, Variants 1, 2): IFPI L134'
+    - 'Mould SID Code (CD2, Variant 1): IFPI 0400'
+    - 'Mould SID Code (CD2, Variant 2): IFPI 0446'
+    - 'Matrix / Runout (CD3, Variants 1, 2): 8289682/3 30496021 01 % MADE IN THE UK BY PMDC'
+    - 'Mastering SID Code (CD3, Variants 1, 2): IFPI L132'
+    - 'Mould SID Code (CD3, Variant 1): IFPI 0452'
+    - 'Mould SID Code (CD3, Variant 2): IFPI 0462'
+    - 'Matrix / Runout (CD4, Variants 1, 2): 8289682/4 40496021 01 % MADE IN THE UK BY PMDC'
+    - 'Mastering SID Code (CD4, Variants 1, 2): IFPI L132'
+    - 'Mould SID Code (CD4, Variant 1): IFPI 0432'
+    - 'Mould SID Code (CD4, Variant 2): IFPI 0454'
+    - 'Price Code: PY914'
+    - 'Rights Society: BIEM/MCPS'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - B
+  - '1'
+  reconstructed: OAB1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - Best of.xlsx

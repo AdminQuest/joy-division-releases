@@ -1,0 +1,31 @@
+variant_id: BOOK-U-0002
+release_type: livre
+canonical_title: 'Unknown Pleasures: Inside Joy Division'
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: needs_review
+joydiv_letter: U
+country_or_pressing_place: UK
+notes: 'VF : Unknown Pleasures : Joy Division, vu de l''intérieur'
+format_details:
+  type: book
+  authors:
+  - Peter Hook
+  publisher: Simon & Schuster Ltd
+  publication_year: 2012
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '857202154'
+  page_count: 318
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 82
+  source_xlsx: Livres -.xlsx

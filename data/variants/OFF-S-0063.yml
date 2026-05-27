@@ -1,0 +1,32 @@
+variant_id: OFF-S-0063
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/4181423-Joy-Division-Substance
+notes: 'London Records – WPCR-14758
+
+  Ultra Best 2013'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Code-barres: 4 943674 128952'
+    - 'Informations sur la matrice: WPCR-14758 MT 962'
+    - 'Société des droits d''auteur: JASRAC'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

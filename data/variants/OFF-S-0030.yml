@@ -1,0 +1,36 @@
+variant_id: OFF-S-0030
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/7224528
+country_or_pressing_place: UK
+notes: Repressage 2015 (LP Warner Records 90 Limited FACT.40) (also as Rhino R1-183920 in the US)  Factory ‎– FACT.40. Reissue,
+  Remastered, 180 Gram. 2015 rerelease of original 1981 Factory release (standard gatefold issue, not the Hessian cloth cover
+  edition with ribbon) Warner Records 90 Limited.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - 'Matrix / Runout (Side A): 0825646183920-01 BF80311-01 A1 F.A. ABBEY ROAD'
+    - 'Matrix / Runout (Side B): 0825646183920-01 BF80311-01 B1'
+    - 'Matrix / Runout (Side C): 0825646183920-02 VII BF80311-02 C1'
+    - 'Matrix / Runout (Side D): 0825646183920-02 IIεI BF80311-02 D1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

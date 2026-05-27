@@ -1,0 +1,43 @@
+variant_id: BOOT-W-0075
+release_type: bootleg
+canonical_title: Warsaw the Complete Recordings
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: http://joydiv.org/w2cd.htm
+country_or_pressing_place: Greece
+variant_group:
+  group_id: BW6
+  group_role: color_variation
+notes: 'Transmission Recordings T013710 2009. CD wooden box set with CD + TShirt + photos
+
+  2009 Greek reissue of the CD above, in a variety of different book style sleeves
+
+  Issued as:
+
+  25 copy, hand numbered, wooden box set including CD in black fabric / linen sleeve with red print, TShirt, 3 band photos
+  and a numbered certificate
+
+  25 copy, hand numbered edition, in black fabric / linen sleeve with red print (as in the boxed version)
+
+  25 copy, hand numbered edition, in black fabric / linen sleeve with gold print
+
+  Red card sleeve, unnumbered
+
+  The sleeve design is similar to the listing above and contains all the same information'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '6'
+  - b
+  reconstructed: BW6b
+  has_suffix: false
+  source_row: 77
+  source_xlsx: Bootlegs - W.xlsx

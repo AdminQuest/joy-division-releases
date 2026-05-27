@@ -1,0 +1,33 @@
+variant_id: BOOT-F-0012
+release_type: bootleg
+canonical_title: The Factory Manchester 6-7-79
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F7.htm
+country_or_pressing_place: ??
+notes: 'Stroszek Sound Company Ltd. JD-23. The LP has no cover, but front and rear inserts. See notes below. Live: Russel
+  Club, Manchester July 13 1979.
+
+
+  This appears to be a rerelease of Unknown Martyrs with inserts instead of a sleeve.
+
+  The sound quality is much better than the Russel Club album'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - introuvable sur Discogs
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '3'
+  - null
+  reconstructed: BF3
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - F.xlsx

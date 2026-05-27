@@ -1,0 +1,37 @@
+variant_id: BOOT-D-0032
+release_type: bootleg
+canonical_title: Death Trip
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D6.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BD10
+  group_role: color_variation
+notes: 'R1 : All issues have plain labels in various colours. It would appear that any sleeve could have any colour vinyl
+  inside.
+
+  Reissued on red, blue and clear vinyl with at least 5 different covers'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Informations sur la matrice: 647.010 A G. Pauler'
+    - 'Informations sur la matrice: 647.010 B G. Pauler'
+    - 'Code-barres: 4 000908 004427'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '10'
+  - b
+  reconstructed: BD10b
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - D.xlsx

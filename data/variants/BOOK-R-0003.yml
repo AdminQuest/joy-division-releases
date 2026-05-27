@@ -1,0 +1,28 @@
+variant_id: BOOK-R-0003
+release_type: livre
+canonical_title: Rock & Folk
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: R
+notes: Ian Curtis, rockeur foudroyé
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 2007
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Livres -.xlsx

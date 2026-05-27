@@ -1,0 +1,32 @@
+variant_id: PIR-A-0001
+release_type: pirate
+canonical_title: Atmosphere 1979
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos7.htm
+country_or_pressing_place: UK
+notes: Atmosphere / Decades Green vinyl pirate. Factory – Fac213/7.  Transparent spring green (and slightly marbled) vinyl,
+  tri-fold out poster with a very rare Ian Curtis photo as seen on Anton Corbijn's 1988 video of "Atmosphere". The poster
+  is printed on linen cloth paper.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: Green transparent
+    matrices:
+    - 'Matrix / Runout (Runout Side A): FAC-2I3-A RE'
+    - 'Matrix / Runout (Runout Side B): FAC-2I3-B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - 7_ - Atmosphere 1979.xlsx

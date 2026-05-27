@@ -1,0 +1,36 @@
+variant_id: BOOT-M-0013
+release_type: bootleg
+canonical_title: Martin Hannett Personal Mixes
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M8.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BM5
+  group_role: color_variation
+notes: Repressed on blue vinyl 450+700 copies, red vinyl 500 copies, purple 500 copies
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: purple
+    matrices:
+    - '2 LP :'
+    - 'Matrix / Runout: OZITLP8797-A 74109E1/B'
+    - 'Matrix / Runout: OZITLP8797-B 74109E2/B'
+    - 'Matrix / Runout: OZITLP8797-C 74109E3/B'
+    - 'Matrix / Runout: OZITLP8797-D 74109E4/B'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '5'
+  - g
+  reconstructed: BM5g
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Bootlegs - M.xlsx

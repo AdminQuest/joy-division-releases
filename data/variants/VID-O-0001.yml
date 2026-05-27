@@ -1,0 +1,32 @@
+variant_id: VID-O-0001
+release_type: video
+canonical_title: ONCE WAS THE YOUNG MAN
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: needs_review
+joydiv_letter: O
+joydiv_url: http://joydiv.org/O4.htm
+notes: 'Apocalypse Sound AS 81 2006
+
+  The first commercially produced silver DVD Joy Division bootleg.
+
+  Features many, but not all, of the videos on the Here Are The Young Men and Substance compilations.
+
+  Tri-folded digipak sleeve.
+
+  Reissued in 2007 as The Eternal in a different cover. Matrix on disc is different but contents are the same'
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

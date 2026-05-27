@@ -1,0 +1,44 @@
+variant_id: BOOT-W-0062
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: W
+country_or_pressing_place: Europe
+notes: 'V30 - Vinyl Passion – VP 90152
+
+  Marketed as a limited editionon 180gm vinyl, however an unknown amount of copies were pressed.
+
+  Appears to be a reissue of the 2007 release on Vinyl Passion above (listing 24)
+
+  Pressed on 180gm black vinyl
+
+  Label: Vinyl Passion
+
+  Cat.no.: VP 90152
+
+  Back cover states "© 2024 Sound Factory.B.V.    Made in The Netherlands"
+
+  Barcode on back cover: 8 719039 006694'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'Barcode (Text): 8 719039006694'
+    - 21911 1A VP 90053
+    - 21911 1B VP 90053
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 64
+  source_xlsx: Bootlegs - W.xlsx

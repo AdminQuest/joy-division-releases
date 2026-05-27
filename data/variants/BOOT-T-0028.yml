@@ -1,0 +1,33 @@
+variant_id: BOOT-T-0028
+release_type: bootleg
+canonical_title: They Keep Calling Me
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T3.htm
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BT5
+  group_role: color_variation
+notes: "Graphica Industries Pty Ltd FACTUS ULU 80 2002. Australian LP released December 2002. \nAvailable in red, blue or\
+  \ yellow \"marbled\" vinyl. 100 copies of each, not 500 as the sleeve states."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Yellow marbled
+    matrices:
+    - JD 2
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '5'
+  - a
+  reconstructed: BT5a
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Bootlegs - T.xlsx

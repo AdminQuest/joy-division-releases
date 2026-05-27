@@ -1,0 +1,45 @@
+variant_id: BOOT-0-0017
+release_type: bootleg
+canonical_title: 24 hours
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/T9.htm
+notes: 'V2 : 2021 copy of the above
+
+  Sleeve: as above but different colours, pinkish-red on black foil print. Catalogue No: Stiff 01
+
+  Printed labels as listing above but pink on black
+
+  Limited to 50 hand-numbered copies
+
+  11 splatter variants (not six as stated) some are similar some not. The fifty numbered sleeves are not synchronized but
+  randomized with the splatter variants.
+
+  Not such as the brown/gold release...#02-10 splatter variant 1, #11-20 splatter variant 2...
+
+  The quantity of splatters is randomized, too. Some one-offs, then 2-10 copies each splatter.
+
+  mine : purple/yellow/black
+
+  others : pink/blue splatter ; pink/blue/white/yellow ; pink/black/yellow ; pink/yellow/white ; blue/yellow splatter'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - M80 A
+    - M80 B
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - +-1.xlsx
+  version_marker: V2

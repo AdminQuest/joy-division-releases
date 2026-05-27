@@ -1,0 +1,29 @@
+variant_id: BOOT-A-0059
+release_type: bootleg
+canonical_title: The Atrocity Exhibition
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: A
+country_or_pressing_place: ??
+variant_group:
+  group_id: BA17
+  group_role: color_variation
+notes: '2010 : jewelcase non-limited'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 6 68024 44392 3'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '17'
+  - b
+  reconstructed: BA17b
+  has_suffix: false
+  source_row: 82
+  source_xlsx: Bootlegs - A.xlsx

@@ -1,0 +1,30 @@
+variant_id: BOOK-S-0002
+release_type: livre
+canonical_title: Still - Un Hommage à Joy Division
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: https://joydiv.org/bk113.htm
+format_details:
+  type: book
+  authors:
+  - Ludwig W. R. Von Zeeger
+  publisher: Independently published
+  publication_year: 2025
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 979-8308690993
+  page_count: 146
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Livres -.xlsx

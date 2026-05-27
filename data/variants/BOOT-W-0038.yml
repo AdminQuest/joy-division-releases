@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0038
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V16 Retropop : Warsaw Retropop ‎–159088. This LP has different tracks from all the other Warsaw LPs. No single. This
+  is an LP isssue of the Retropop Warsaw CD. The front cover is the same as the CD. The back cover is slightly different.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 159088 A
+    - 159088 B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - aa
+  reconstructed: BW4aa
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - W.xlsx

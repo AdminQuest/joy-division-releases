@@ -1,0 +1,43 @@
+variant_id: BOOT-L-0070
+release_type: bootleg
+canonical_title: Live in England 1977/1978
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipOFb9guAcjTi9smHWXnUUwY2TWwXLzkX8XDMPQ0?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: UK ?
+notes: 'translucent black/grey splattered vinyl LP
+
+  Splattervin (SV 98326)
+
+  3 may 2025
+
+  This LP deviates from the name "Warsaw" but has the same track-listing as the more recent issues above
+
+  Transparent vinyl + grey / black splatter
+
+  Label: Splattervin
+
+  Cat.no.: SV98326
+
+  Barcode: 8717662598326'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: translucent black
+    matrices:
+    - D VPR0071701A04
+    - D VPR0071802A05
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 73
+  source_xlsx: Bootlegs - L.xlsx

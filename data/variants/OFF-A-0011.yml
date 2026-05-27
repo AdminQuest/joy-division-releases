@@ -1,0 +1,44 @@
+variant_id: OFF-A-0011
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: The Netherlands
+notes: 'Factory ‎– FACUS 2/UK, Factory (US) ‎– Facus 2, Factory ‎– VR 22496
+
+  Labels:
+
+  A Factory Records (U.S.) Inc. Product
+
+  re-released in the United Kingdom
+
+  The version of ''She''s Lost Control'' on this pressing has 4 extra drumbeats before the start of the song. This is unique
+  to this release only.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Label Side A): FACUS 2/UK A'
+    - 'Matrix / Runout (Label Side B): FACUS 2/UK B'
+    - 'Matrix / Runout (Runout Side A - variants 1, 2): 08-22496-1B-1 A NL'
+    - 'Matrix / Runout (Runout Side B - variant 1): 08-22496-2A-1 B NL'
+    - 'Matrix / Runout (Runout Side B - variant 2): 08-22496-2A-1 A NL'
+    - 'Other (Printed on both labels): 2/9/80'
+    - 'Rights Society: STEMRA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

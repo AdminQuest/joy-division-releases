@@ -1,0 +1,22 @@
+variant_id: VID-C-0002
+release_type: video
+canonical_title: 'Control: The Ian Curtis film'
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/these.htm
+format_details:
+  type: video
+  supports:
+  - support_type: bluray
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

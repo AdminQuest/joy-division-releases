@@ -1,0 +1,44 @@
+variant_id: PIR-U-0044
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2017
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/9829564
+country_or_pressing_place: Europe
+notes: 'N°13 : FACT 10 Factory 2017. European pressing
+
+  Sleeve, as UK original but very dark grey rather than black, semi textured with: "JOY DIVISION – UNKNOWN PLEASURES FACT
+  10 – A FACTORY RECORDS PRODUCT" printed on spine
+
+  and "Printed and made in Great Britain by Garrod & Lofthouse Ltd" printed in the bottom right corner on back cover
+
+  Same labels as original UK pressing, white design on black label, black design on white label
+
+  No printed inner, no insert
+
+  Black vinyl
+
+  No song titles on sleeve or labels
+
+  Run out area considerably wider then the original official UK pressing'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - No matrix numbers
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 80
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

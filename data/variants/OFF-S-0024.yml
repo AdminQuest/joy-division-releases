@@ -1,0 +1,38 @@
+variant_id: OFF-S-0024
+release_type: officiel
+canonical_title: Still
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S16.htm
+discogs_url: https://www.discogs.com/fr/release/1064008-Joy-Division-Still
+country_or_pressing_place: Europe
+notes: 'Fact 40 - European pirate edition of Still released 2006
+
+  This is a copy of first LP from the Still double LP
+
+  Matrix numbers: FACT 40 - A - and Fact 40 - B
+
+  How to tell this from the genuine article - it''s a single LP.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - FACT 40 - A
+    - FACT 40 - B
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

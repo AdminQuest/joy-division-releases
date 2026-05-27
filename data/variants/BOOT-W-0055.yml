@@ -1,0 +1,34 @@
+variant_id: BOOT-W-0055
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: UK
+notes: 'V25 Hulme : 2012 : UK release. No record label identified. No catalogue No. 24" x 36" fold-out poster sleeve. Generic
+  plain white inner sleeve. Black vinyl with plain white labels; green/lightly marbled yellow / orangey-red vinyl with plain
+  black labels; and cloudy clear (sometimes described as "neon" or "glow in the dark") vinyl available both with plain black
+  labels and also with printed picture labels (front cover image with the Unknown Pleasures wavy lines over it). The front
+  cover features a Kevin Cummins'' Manchester City Centre photo from January 1979.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Orange
+    matrices:
+    - WARSAW-A1
+    - WARSAW-B1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - ar
+  reconstructed: BW4ar
+  has_suffix: false
+  source_row: 57
+  source_xlsx: Bootlegs - W.xlsx

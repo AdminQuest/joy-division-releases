@@ -1,0 +1,36 @@
+variant_id: BOOT-M-0020
+release_type: bootleg
+canonical_title: Mater Dolorosa
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M1A.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BM6
+  group_role: color_variation
+notes: '(5 x 7" Box set) Demon Records ‎– R7. This box contains 5 copies of "The Visitor" 7" in five different sleeves
+
+  box : Limited edition of 12 numbered copies. With insert and "semi-glossy" 12.6 x 17.8 cm photo.
+
+  One of the versions from The Vistor box set above was released on its own. Consists of five singles of "The Visitor" / "Mater
+  Dolorosa". The singles are all identical, only the covers are different. All singles have been sold individually. Someone
+  gathered the five singles together and released them as a box set. However, not all sets may include all five covers. Limited
+  edition of 35 numbered copies. With photo inserts.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 5
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '6'
+  - a
+  reconstructed: BM6a
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Bootlegs - M.xlsx

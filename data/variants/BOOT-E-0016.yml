@@ -1,0 +1,39 @@
+variant_id: BOOT-E-0016
+release_type: bootleg
+canonical_title: Europa
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E13.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BE9
+  group_role: color_variation
+notes: "14489-105246 JDE2LP19\n2019, 11/50, édition limitée 50 copies sur vinyle splatter bleu, concert à Effenaar d’Eindhoven,\
+  \ 18 janvier 1980. \nDouble LP on coloured vinyl released 2019\nLabel: Warehouse Productions USA - JDE2LP19\nBlack labels\
+  \ with white print\n50 hand numbered copies on the following vinyl colurs (10 of each):\n- multicoloured: white/red/blue/purple\n\
+  - white base with blue splatter\n- white base with purple splatter\n- white base with red splatter\n- white\nThis is a coloured\
+  \ vinyl version of the 2LPs in the Eindhoven set in a different sleeve"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: white
+    matrices:
+    - 'Matrix / Runout: 14489-105246 A2'
+    - 'Matrix / Runout: 14489-105246 B3'
+    - 'Matrix / Runout: 14489-105246 C'
+    - 'Matrix / Runout: 14489-105246 D'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '9'
+  - d
+  reconstructed: BE9d
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - E.xlsx

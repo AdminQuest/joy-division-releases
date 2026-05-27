@@ -1,0 +1,37 @@
+variant_id: BOOT-F-0013
+release_type: bootleg
+canonical_title: Failures
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF4
+  group_role: color_variation
+notes: "V1 : Tropo Records ‎– TROPO 315. \nAt least one copy came with this insert - which may have been added later. It looks\
+  \ more modern\n\nAll the songs on this LP are from the RCA sessions 3rd & 4th May 1978, apart from \"You're No Good For\
+  \ Me\" which is an early Warsaw demo from the Pennine Sound Studios session 18 July 1977.\n\nThis LP was later reissued\
+  \ as the 2nd LP of A Darkness In My Soul - exactly the same LP but with different labels ... and then copies of A Darkness\
+  \ In My Soul LP2 were reissued as Failures with an insert sleeve"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - TROPO-315-A L-32054
+    - TROPO-315-B L-32054 X
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '4'
+  - a
+  reconstructed: BF4a
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Bootlegs - F.xlsx

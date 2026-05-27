@@ -1,0 +1,58 @@
+variant_id: BOOT-W-0087
+release_type: bootleg
+canonical_title: Warsaw The Lost, Complete 1977 Recordings
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W10.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BW8
+  group_role: color_variation
+notes: 'Idem précédent, splatter 10x4 exemplaires ? (green, pink, yellow, silver/yellow)
+
+  US reissue of the above in a different sleeve, a shorter title, and the matrix numbers aren''t crossed out
+
+  Gold foil sleeve with track listing on the back
+
+  First set of reissues:
+
+  - Purple & grey (LP1) & red & grey (LP2) vinyl, white printed labels with black text including the cat. no. WCR20 (/5 copies)
+
+  - Pink vinyl with grey & white splatter, white printed labels with black text including the cat. no. WCR20 ( /10 copies)
+
+  - Half grey & half yellow with black splatter vinyl (both), white printed labels with black text including the cat. no.
+  WCR20 (--/10 copies)
+
+  - Yellow vinyl with black splatter, white printed labels with black text including the cat. no. WCR20 (/10 copies)
+
+  - Green vinyl with black & red splatter, white printed labels with black text including the cat. no. WCR20 ( /10 copies)
+
+  - Green / Yellow splatter ( /10 copies)
+
+  Most recent reissues;
+
+  - Mixed black & white vinyl, white printed labels with b'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Splatter green
+    matrices:
+    - WAR-A 1 (upside-down) . (dot) 1 COWARD ZE7268A
+    - WAR-B 1 (upside-down) . (dot) 1 COWARD ZE7268B
+    - WAR-C 1 (upside-down) . (dot) 1 COWARD ZE7268C
+    - WAR-D 1 (upside-down) . (dot) 1 COWARD ZE7268D
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '8'
+  - g
+  reconstructed: BW8g
+  has_suffix: false
+  source_row: 89
+  source_xlsx: Bootlegs - W.xlsx

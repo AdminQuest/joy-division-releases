@@ -1,0 +1,39 @@
+variant_id: BOOK-I-0011
+release_type: livre
+canonical_title: 'In Aeternum, Joy Division: a busca afetiva por uma imagems'
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk75.htm
+country_or_pressing_place: Brazil
+notes: "This book presents a deep investigation and tells the story of Joy Division, being based on the relationship of the\
+  \ experienced author and photographer Arlindo Gonçalves and his discovery of the English band since the early 1980s up to\
+  \ this day. As a fan and collector, Arlindo, in addition to collecting records and souvenirs, has also read assiduously\
+  \ great part of what was written about the group, revisited the profile of some personalities that lived with the members\
+  \ of the band and, along with Luciana Fátima, his companion and also a Joy Division fan, made a mystical journey to England,\
+  \ visiting the fateful residence where Ian Curtis put an end to his life, as well as his memorial in his hometown cemetery.\
+  \ There, in meditation, Arlindo asked permission to publish this affective biography. So on Barton Street, Macclesfield\
+  \ – echoing all the songs of Joy Division – has reverberated its approval of this work, which is dedicated to Ian Curtis,\
+  \ the band and all their fans.\n \nIn the cours"
+format_details:
+  type: book
+  authors:
+  - Arlindo Gonçalves
+  publisher: Inconnu
+  publication_year: 2018
+  language: pt
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-85-99279-92-2
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 123
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,36 @@
+variant_id: BOOT-R-0003
+release_type: bootleg
+canonical_title: Radio Transmissions
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: http://joydiv.org/R11.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BR2
+  group_role: color_variation
+notes: '2022 reissue of the above
+
+  The images on the sleeve have been reversed, and it has a generic white inner sleeve, otherwise it''s identical to the 2021
+  release above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Different, stamped, matrix numbers:'
+    - DIV01 A
+    - DIV01 B
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '2'
+  - b
+  reconstructed: BR2b
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - R.xlsx

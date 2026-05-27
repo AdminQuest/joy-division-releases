@@ -1,0 +1,30 @@
+variant_id: BOOT-Y-0003
+release_type: bootleg
+canonical_title: The Youth Club
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: Y
+joydiv_url: https://www.joydiv.org/Y2.htm
+country_or_pressing_place: Europe
+notes: "CD : The Godfatherecords ‎– G.R. 209\nIssued in a tri-fold cardboard sleeve. \nTrack 9 given as Ice-Age.\n\nLP : Casino\
+  \ Records Entertainment\nLimited Edition of 300 copies\nNumbers 1-150 = Gold vinyl\nNumbers 151-300 = Crystal vinyl"
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Fake): 13062007209'
+    - 'Matrix / Runout: G.R.209'
+    - 'Rights Society (Fake): GEMA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - Y.xlsx

@@ -1,0 +1,37 @@
+variant_id: OFF-U-0009
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1830367
+country_or_pressing_place: Benelux
+notes: 'Factory Benelux ‎– FACT 10, Factory ‎– FACT 10
+
+  Printed inner sleeves.
+
+  Factory Benelux logo on labels.
+
+  FACT 10 • A Factory Records Product (on spine, back and inner sleeve).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FACT-10-A//48505-1Y'
+    - 'Matrix / Runout (Runout side B): FACT-10-B//48506-1Y'
+    - 'Rights Society: BIEM/SABAM TM'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

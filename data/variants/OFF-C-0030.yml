@@ -1,0 +1,31 @@
+variant_id: OFF-C-0030
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1999
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: UK & Europe
+notes: London Records ‎– 3984 28219 2 - WMME Pressing
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Text): 6 39842 82192 6'
+    - 'Label Code (Disc): LC 7654'
+    - 'Label Code (Sleeve): LC 02275'
+    - 'Price Code: EW 809'
+    - 'Mould SID Code (Variant 5): IFPI 05D1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Officiels et pirates - Closer.xlsx

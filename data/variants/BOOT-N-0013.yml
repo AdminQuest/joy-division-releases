@@ -1,0 +1,31 @@
+variant_id: BOOT-N-0013
+release_type: bootleg
+canonical_title: Non In Vendita (Joy)
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: verified
+joydiv_letter: N
+joydiv_url: https://www.joydiv.org/J3.htm
+country_or_pressing_place: Italy
+notes: 'EP + livre 1988, SCONC 001 Stampa Alternativa ; Italian lyric book (in Italian and English) with 7'''' EP. Limited
+  edition: 14000 books with the 7" : "Incubation *1" = « Incubation » ; "Incubation *2" = "As you said"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: black
+    matrices:
+    - '[Hand Etched] SCONC 001 B WE ARE THE MS'
+    - '[Hand Etched] SCONC 001 A ART AND SOUL MS'
+_legacy_code:
+  segments:
+  - B
+  - J
+  - '3'
+  - a
+  reconstructed: BJ3a
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - N.xlsx

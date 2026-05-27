@@ -1,0 +1,34 @@
+variant_id: BOOT-I-0024
+release_type: bootleg
+canonical_title: Incubation
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I15.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BI7
+  group_role: color_variation
+notes: 'V1 : Stiff Kittens Rec 2013. Pic disc. Generic plastic sleeve "Limited to 200 copies ». Tracks A1 - A7 + B1 are from
+  the gig (Interzone fades out), the rest are from the soundcheck and are not necessarily complete versions, 24 Hours is just
+  the bass-line.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JOY-D A
+    - JOY D B
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '7'
+  - a
+  reconstructed: BI7a
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - I.xlsx

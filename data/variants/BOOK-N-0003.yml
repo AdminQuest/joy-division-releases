@@ -1,0 +1,33 @@
+variant_id: BOOK-N-0003
+release_type: livre
+canonical_title: New Order + Joy Division - Pleasures And Wayward Distractions
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: needs_review
+joydiv_letter: N
+joydiv_url: http://joydiv.org/bk12.htm
+country_or_pressing_place: UK
+notes: "The history of Joy Division and (early) New Order told once again, with less emphasis on details about live gigs like\
+  \ Mark Johnson's An Ideal For Living, this book might be a better read for the more casual fan. Recommended.\nThis book\
+  \ looks like it's related to New Order+Joy Division - Dreams Never End\n\nRevised Edition  \nOmnibus Press 1988 (paperback).\n\
+  Has additional information about New Order."
+format_details:
+  type: book
+  authors:
+  - Brian Edge
+  publisher: Inconnu
+  publication_year: 1984
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 73
+  source_xlsx: Livres -.xlsx

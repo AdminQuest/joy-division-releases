@@ -1,0 +1,41 @@
+variant_id: BOOK-R-0005
+release_type: livre
+canonical_title: Redescobrir Joy Division
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: needs_review
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/bk49.htm
+notes: 'Portuguese publication
+
+  125 page A4 photocopied book
+
+  Published by Tomb Factory 2005
+
+
+  Compiled by Carlos Pereira
+
+
+  Listings for concerts, bootlegs, lyrics etc in Portuguese. Much of the information is compiled from the internet (including
+  this site) and is presented in a clear, well laid out format.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 2005
+  language: pt
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 125
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 107
+  source_xlsx: Livres -.xlsx

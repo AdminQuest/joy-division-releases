@@ -1,0 +1,31 @@
+variant_id: BOOT-C-0033
+release_type: bootleg
+canonical_title: Collector's Item
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/J3.htm
+country_or_pressing_place: Greece
+notes: "Année inconnue, 33RPM EP which doesn't have a proper name on the sleeve. Greek pressing. BLACK 33-132 F (side A) /\
+  \ RED 33-132 F (side B). \nThis is a bootleg version of the \"An Ideal For Living\" EP with the two tracks from \"Earcom\
+  \ 2: Contradiction\" added as bonus (tracks 3 and 6).\nThe track-listing on the sleeve is wrong, it places \"No love lost\"\
+  \ before \"Warsaw\"."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Black Side): BLACK 33 - 132 F'
+    - 'Matrix / Runout (Red Side): RED 33 - 132 F'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '9'
+  - null
+  reconstructed: BC9
+  has_suffix: false
+  source_row: 34
+  source_xlsx: Bootlegs - C.xlsx

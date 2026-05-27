@@ -1,0 +1,29 @@
+variant_id: OFF-I-0001
+release_type: officiel
+canonical_title: An Ideal For Living
+canonical_artist: Joy Division
+year: 1978
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/aifl12.htm
+country_or_pressing_place: UK
+notes: Anonymous Records – ANON1. 12" reissue of the Joy Division - An Ideal For Living (Original 7" EP).  Limited to 1200
+  copies.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A etched): A-NON-1-A LYN 5782-1M DON''T EVER LET IT FADE AWAY MAX'
+    - 'Matrix / Runout (Side B etched): ANON-1-B LYN 5783-1M I FEEL IT CLOSING IN MAX'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - A
+  - '1'
+  reconstructed: O12A1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 12_ - An Ideal For Living.xlsx

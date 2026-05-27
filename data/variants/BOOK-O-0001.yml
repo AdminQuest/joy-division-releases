@@ -1,0 +1,43 @@
+variant_id: BOOK-O-0001
+release_type: livre
+canonical_title: Our vision touched the sky - Fenomenologia dei Joy Division
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: needs_review
+joydiv_letter: O
+joydiv_url: http://joydiv.org/bk102.htm
+notes: 'A book to cross and reconstruct the work of Joy Division analyzed in an interdisciplinary perspective able to range
+  from social sciences to music, from textual analysis to cultural influences, from philosophical tension to mass consumption,
+  from literature to social networks, from the cinema to the graphic line. A transversal and polyphonic path. A reconstruction
+  of an imaginary in the form of writing to find, once again, the band from Salford.
+
+
+  Alfonso Amendola is professor of Sociology of cultural processes at the University of Salerno. He deals with the sociology
+  of arts, entertainment and literature with particular attention to avant-garde cultures, mass consumption, digital innovations.
+
+
+  Linda Barone is Professor of English Linguistics and Translation at the University of Salerno. He deals with textual linguistics,
+  multimodality, didactics of the English language, literary translation and audiovisual translation.e'
+format_details:
+  type: book
+  authors:
+  - Alfonso Amendola
+  - Linda Barone
+  publisher: Rogas edizioni
+  publication_year: 2021
+  language: it
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-8899700843
+  page_count: 295
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 70
+  source_xlsx: Livres -.xlsx

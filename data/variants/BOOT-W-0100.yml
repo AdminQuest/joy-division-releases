@@ -1,0 +1,40 @@
+variant_id: BOOT-W-0100
+release_type: bootleg
+canonical_title: Warsaw Middelsbrough 14th september 1977 / Joy Division Manchester 28th september 1979
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W28.htm
+country_or_pressing_place: Europe
+notes: 'DBQP 2023 European bootleg released 2023
+
+  Black vinyl
+
+  Label: DBQP
+
+  Catalogue number on spine & labels: DBQP63
+
+  Barcode: 8 89397 00463 7
+
+  "Made in Europe" printed on the back cover'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 259143E1/A
+    - 259143E2/A
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '9'
+  - null
+  reconstructed: BW9
+  has_suffix: false
+  source_row: 102
+  source_xlsx: Bootlegs - W.xlsx

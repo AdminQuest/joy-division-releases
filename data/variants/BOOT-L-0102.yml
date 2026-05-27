@@ -1,0 +1,29 @@
+variant_id: BOOT-L-0102
+release_type: bootleg
+canonical_title: The Lowdown
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.discogs.com/fr/Joy-Division-The-Lowdown/release/3427491
+country_or_pressing_place: UK, 2007, 2 CD
+notes: 'SXYCD011, Sexy Intellectual ‎– 978 1 84240 428 7
+
+  Joy Division: The Lowdown is a 2 CD audio-biography and interview set, providing the full story of Joy Division, Ian Curtis
+  and New Order - the band that emerged after Curtis''s tragic suicide in 1980. Complete with booklets, posters and rare photographs,
+  this package is a fitting tribute to a group so far ahead of their time, that their true legacy is still being unravelled
+  today.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '39'
+  - null
+  reconstructed: BL39
+  has_suffix: false
+  source_row: 105
+  source_xlsx: Bootlegs - L.xlsx

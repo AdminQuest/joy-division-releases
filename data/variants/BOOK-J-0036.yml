@@ -1,0 +1,45 @@
+variant_id: BOOK-J-0036
+release_type: livre
+canonical_title: 'JOY DIVISION: illustrated discography'
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: needs_review
+joydiv_letter: J
+notes: 'The melodies of Joy Division transcend mere sound, evoking dark, emotionally charged landscapes, vibrating as deep
+  narratives in the ether, permeated with intense layerings and dark nuances. This collection is a visual tribute, a bold
+  intersection of raw post-punk creativity and the avant-garde of artificial intelligence.
+
+
+  This work is a courageous and sophisticated attempt to capture the restless spirit that characterizes each Joy Division
+  track, transforming it into visual form.
+
+
+  My journey was not just an artistic exercise. I delved into the entire repertoire of the band, establishing a synesthetic
+  dialogue between my artistic vision, artificial intelligence, and the intense melodies of Joy Division. The result? A series
+  of images that do not merely emulate, but reinterpret and reprocess the soul and tone of each song, offering a novel and
+  innovative visual perspective.
+
+
+  Each piece is a visual echo, a reflection of the band’s complex sonic textures. It’s a passionate invitation to e'
+format_details:
+  type: book
+  authors:
+  - Mirco Tangherlini
+  publisher: Independently published
+  publication_year: 2024
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 979-8870168838
+  page_count: 36
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 135
+  source_xlsx: Livres -.xlsx

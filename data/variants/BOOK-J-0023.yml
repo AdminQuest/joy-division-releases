@@ -1,0 +1,55 @@
+variant_id: BOOK-J-0023
+release_type: livre
+canonical_title: Juvenes - The Joy Division photographs of Kevin Cummins
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk59.htm
+country_or_pressing_place: UK
+notes: 'imited edition of 226 copies
+
+  Embossed patterned cloth cover hardback book housed inside a cloth clamshell box.
+
+  26 copies lettered A-Z with signed and lettered gelatin-silver photo print of Ian Curtis
+
+  200 copies numbered 1 - 200
+
+  All copies signed by Kevin Cummins *
+
+  192 pages
+
+  Publisher: To Hell With Publishing, London, 2007.
+
+  Designed by FUEL, printed in Belgium.
+
+  The book consists of Kevin''s selection of pictures from his Joy Division archive accompanied by short personal essays by
+  several writers. These include: Ian Rankin, Simon Armitage, David Peace.
+
+  The forward is by Natalie Curtis
+
+  * In response to an unsigned copy coming up for sale in 2021 Kevin Cummins tweeted "No copies were unsigned, apart from
+  slightly marked or damaged copies that the erm, slightly untrustworthy publisher, assured me had been pulped. Clearly he
+  sold a few on without my knowledge"'
+format_details:
+  type: book
+  authors:
+  - Kevin Cummins
+  publisher: Cassell
+  publication_year: 2021
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '1788402715'
+  page_count: 256
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 66
+  source_xlsx: Livres -.xlsx

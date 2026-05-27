@@ -1,0 +1,41 @@
+variant_id: BOOT-P-0002
+release_type: bootleg
+canonical_title: Paris
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P3.htm
+country_or_pressing_place: USA
+notes: 'Trade Mark Of Quality ‎– TMQ 72126
+
+  Limited Edition of 500 copies
+
+  Side D features 3 songs from the first radio broadcast of this concert.
+
+  The track list is not mentioned on the cover or the labels, but some copies contain a folded insert on blue paper, listing
+  all the releases from TMQ, including track listings.
+
+
+  Poorer sounding copy of the Live In Paris 2LP with two tracks missing'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout: 72126-A'
+    - 'Matrix / Runout: 72126-B'
+    - 'Matrix / Runout: 72126-C'
+    - 'Matrix / Runout: 72126-D'
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '2'
+  - null
+  reconstructed: BP2
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - P.xlsx

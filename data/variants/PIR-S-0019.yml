@@ -1,0 +1,34 @@
+variant_id: PIR-S-0019
+release_type: pirate
+canonical_title: Sordide Sentimental
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S5.htm
+country_or_pressing_place: Italy
+notes: "Pirate copy of the \"Licht Und Blindheit\" single & magazine. \n[x]Italy 2020 : SS 33 002. black vinyl, Medusa head,\
+  \ no serrated ridge, no inserts, background women & infant,  Bootleg limited edition. Labels have a 'colour' Medusa's head.\
+  \ Nouvelle presse 2020 Édition Limitée À 500\nlabel Medusa's head\nNo serrated ridge\nCovers not numbered\nNo inserts\n\
+  Brown background image, women and infant\nGlue is clear\nPlastic pocket is triangle shaped\nShrink wrapped\nNo outer plastic\
+  \ bag"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Stamped matrix numbers:'
+    - 216628H1/A
+    - 216628H2/B.
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

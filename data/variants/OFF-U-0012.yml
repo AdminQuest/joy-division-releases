@@ -1,0 +1,42 @@
+variant_id: OFF-U-0012
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/683817
+country_or_pressing_place: Germany
+notes: 'Factory ‎– 0060.362, Metronome ‎– FACT 10
+
+  First pressings come with a textured sleeve
+
+  Inner sleeve with titles included. Labels similar to UK with catalogue number and "GEMA" overprinted
+
+  Im Vertrieb der Metronome Musik GmbH.
+
+  The spine text misprints the title "Unknown Pleasure"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Label Code (On labels and back sleeve): LC 6636'
+    - 'Rights Society: GEMA'
+    - 'Matrix / Runout (Label A): 0703.949 S 1'
+    - 'Matrix / Runout (Label B): 0703.949 S 2'
+    - 'Matrix / Runout (Runout A, stamped, variant 1): 0060 362 S 1 0703 949 S 1 320 1 F'
+    - 'Matrix / Runout (Runout B, stamped, variant 1): 0060 362 S 2 0703 949 S 2 320 1 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

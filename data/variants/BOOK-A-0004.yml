@@ -1,0 +1,40 @@
+variant_id: BOOK-A-0004
+release_type: livre
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: needs_review
+joydiv_letter: A
+joydiv_url: http://joydiv.org/bk43.htm
+notes: 'A5 fanzine / booklet
+
+  32 stapledpages
+
+  No publishing credits etc
+
+
+
+  Possibly German
+
+  Possibly 2005'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 2005
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 32
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 94
+  source_xlsx: Livres -.xlsx

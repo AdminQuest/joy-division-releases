@@ -1,0 +1,26 @@
+variant_id: PARA-E-0001
+release_type: para
+canonical_title: 'Elegy #49'
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: E
+notes: Dossier Joy Division The Eternal
+format_details:
+  type: para
+  parent_object: magazine
+  object_description: 'Magazine: Elegy #49'
+  embedded_supports: []
+  parent_title: Elegy
+  parent_issue: '#49'
+  parent_year: 2007
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Livres -.xlsx

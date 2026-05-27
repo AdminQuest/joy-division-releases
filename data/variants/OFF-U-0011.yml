@@ -1,0 +1,44 @@
+variant_id: OFF-U-0011
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1626707
+country_or_pressing_place: France
+notes: 'Factory ‎– 201883, Factory ‎– FACT 10
+
+  Published by Fractured Music
+
+  Recorded at Strawberry Studios, Stockport.
+
+  A Factory Records Product
+
+  Issued in a textured sleeve, printed inner sleeve.
+
+  Representation exclusive Virgin France S.A.
+
+  Pressed in September 1981.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: V 81 9 201883 A'
+    - 'Matrix / Runout: 81 9 2 01 8 83 B V'
+    - 'Rights Society: SACEM SACD SDRM SGDL'
+    - 'Price Code: AE 260'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

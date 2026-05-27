@@ -1,0 +1,44 @@
+variant_id: BOOT-L-0033
+release_type: bootleg
+canonical_title: Live At Malvern Winter Gardens, April 5th 1980
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L34.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BL16
+  group_role: pressing_variation
+notes: 'American LP released 2019
+
+  Black vinyl
+
+  10 hand numbered copies
+
+  Sleeve: Silver on black
+
+  Plain white labels with "Malvern A" hand written on side A
+
+  When released this was stated to be the test pressing for the Twenty Four Hours LP - released under a different title.
+
+  test pressing de 24 Hours (2019)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: M80 A'
+    - 'Matrix / Runout: M80 B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '16'
+  - a
+  reconstructed: BL16a
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,30 @@
+variant_id: OFF-K-0002
+release_type: officiel
+canonical_title: Komakino
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/kom7.htm
+country_or_pressing_place: USA
+notes: 'Factory (US) – FAC 28
+
+  Note the" Evatone Soundsheets" logo which shows this is the US version
+
+  The US pressing wasn''t issued in a picture sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: flexi
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 7_ flexi - Komakino.xlsx

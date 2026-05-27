@@ -1,0 +1,43 @@
+variant_id: BOOT-N-0003
+release_type: bootleg
+canonical_title: A New Dawn Fades
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: N
+joydiv_url: http://joydiv.org/N6.htm
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BA8
+  group_role: color_variation
+notes: '16343 - 130464
+
+  2022 Asian release
+
+  No record company identified
+
+  Catalogue number: NDF79. Black picture sleeve
+
+  Pressed on white, or splatter vinyl. Printed black labels
+
+  The back cover says "Made in France", but it''s really an Asian pressing.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter green
+    matrices:
+    - 16343 - 130464 A
+    - 16343 - 130464 B
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '8'
+  - b
+  reconstructed: BA8b
+  has_suffix: false
+  source_row: 45
+  source_xlsx: Bootlegs - A.xlsx

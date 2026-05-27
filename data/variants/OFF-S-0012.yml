@@ -1,0 +1,41 @@
+variant_id: OFF-S-0012
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/1860431
+country_or_pressing_place: Italy
+notes: "Factory ‎– FACT 40 Wrong Master, Gatefold Sleeve\nInitial Italian pressing with wrong mastering: Studio version of\
+  \ \"Digital\" is included in the place of \"Glass\" on side A; while \"Walked in line\" and \"Dead Souls\" are switched\
+  \ on side B; and there are some different mixing of standard issue tracks. At the end of \"Exercise One\" Ian can be heard\
+  \ talking to the control room. Sleeve and labels have the standard tracklist. \nGatefold sleeve with top opening. \nAddress\
+  \ on the rear sleeve is 'Base Record Via Castiglione' (instead of 'Via Collamarini' as on later pressings). However, this\
+  \ address does not guarantee a wrong master pressing. The wrong master pressing has matrix numbers FACT 40 1/FACT 40 2.\
+  \ On copies with corrected tracks it's FACT 1/FACT 2."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - 'Matrix / Runout: FACT 40 1'
+    - 'Matrix / Runout: FACT 40 2'
+    - 'Matrix / Runout: FACT 40 3'
+    - 'Matrix / Runout: FACT 40 4'
+    - 'Rights Society: S.I.A.E.'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

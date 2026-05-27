@@ -1,0 +1,44 @@
+variant_id: BOOK-I-0009
+release_type: livre
+canonical_title: 'I Swear I Was There: The Gig That Changed the World'
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk62.htm
+notes: 'On June 4, 1976, four young men took the stage of a tiny upstairs hall in Manchester for a gig that, quite literally,
+  changed the world. In front of a handful of people they played one of the most important live sets of all time. Alongside
+  Woodstock and Live Aid, the Sex Pistols performance at the Lesser Free Trade Hall has been named by critics as one of the
+  most pivotal performances in music history … not necessarily because of the quality of the music - but because of the effect
+  the music had on the audience.
+
+
+  The crowd were mesmerized by the power and possibilities of punk - and it inspired them to create their own music that would
+  shape the sound of rock music for decades to come. Members of Joy Division and New Order, the Smiths, the Fall and Buzzcocks
+  were there that night as well as Tony Wilson, a key player in the story of Factory records, the Hacienda, Madchester and
+  beyond. This was truly a gig that changed the world.
+
+
+  The truth behind that gig - plus the Pistols repeat perf'
+format_details:
+  type: book
+  authors:
+  - David Nolan
+  publisher: Inconnu
+  publication_year: 2001
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-0954970499
+  page_count: 208
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 113
+  source_xlsx: Livres -.xlsx

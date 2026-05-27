@@ -1,0 +1,38 @@
+variant_id: BOOT-C-0036
+release_type: bootleg
+canonical_title: Concert 18 Jan Effenaar
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C2.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BC11
+  group_role: color_variation
+notes: 'V2 (USA) : Hawkeye ‎– 008, Q-9016/17 : 2 LP. Numbered edition of 500. Black and white sleeve with photos from the
+  concert. See also Effanaar LP and Effenaar Concert 18.01.80 LPs - which are the first two sides of this bootleg issued in
+  a plain sleeve with an insert.
+
+  The second LP in this set was repressed from original plates in 2008 and reissued as Live and Obscure'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout (Runout side A): Q-90I6-A'
+    - 'Matrix / Runout (Runout side B): Q-90I6-B'
+    - 'Matrix / Runout (Runout side C): Q-90I7-A J-2-C'
+    - 'Matrix / Runout (Runout side D): Q-90I7-B J-2-C'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '11'
+  - b
+  reconstructed: BC11b
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Bootlegs - C.xlsx

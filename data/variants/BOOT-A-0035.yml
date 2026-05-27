@@ -1,0 +1,45 @@
+variant_id: BOOT-A-0035
+release_type: bootleg
+canonical_title: Asylum Doors
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A14.htm
+country_or_pressing_place: USA ?
+variant_group:
+  group_id: BA10
+  group_role: color_variation
+notes: 'V1 : (2LP) JDL80 Warehouse Communications USA 2019
+
+  US double LP released 2019 (cover says 2001)
+
+  "Warehouse Communications USA 2001"
+
+  Back sleeve states this is a limited edition of 50 copies on splattered vinyl
+
+  5 splatter colour versions, 10 copies of each, all with clear base;
+
+  - "aqua splatter" (green/blue/white/purple)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: splatter
+    matrices:
+    - JD-AD A
+    - JD-AD B
+    - JD-AD C
+    - JD-AD D
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '10'
+  - b
+  reconstructed: BA10b
+  has_suffix: false
+  source_row: 58
+  source_xlsx: Bootlegs - A.xlsx

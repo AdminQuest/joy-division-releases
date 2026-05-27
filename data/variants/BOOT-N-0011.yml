@@ -1,0 +1,31 @@
+variant_id: BOOT-N-0011
+release_type: bootleg
+canonical_title: No Love Lost (untitled)
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: N
+joydiv_url: https://www.joydiv.org/J3.htm
+country_or_pressing_place: Greece
+notes: 'idem collector’s item
+
+  This is a bootleg version of the "An Ideal For Living" EP with the two tracks from "Earcom 2: Contradiction" added as bonus
+  (tracks 3 and 6).
+
+  The track-listing on the sleeve is wrong, it places "No love lost" before "Warsaw".'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '9'
+  - null
+  reconstructed: BC9
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - N.xlsx

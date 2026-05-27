@@ -1,0 +1,37 @@
+variant_id: BOOT-H-0017
+release_type: bootleg
+canonical_title: House Of Prayer
+canonical_artist: Joy Division
+year: 2003
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H5.htm
+discogs_url: https://www.discogs.com/fr/release/20373055-Joy-Division-House-Of-Prayer
+country_or_pressing_place: ??
+variant_group:
+  group_id: BH7
+  group_role: color_variation
+notes: "World Broadcasting Corporation 2003. Limited edition of 150 numbered copies. \nWhite sleeve with glued-on inserts\
+  \ front and back. Also has a 12\" picture insert."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Grey
+    matrices:
+    - STIFF KITTENS A
+    - STIFF KITTENS B
+    - STIFF KITTENS C
+    - STIFF KITTENS D
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '7'
+  - c
+  reconstructed: BH7c
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - H.xlsx

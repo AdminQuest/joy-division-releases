@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0060
+release_type: bootleg
+canonical_title: Live at University of London Union, February, The 8th 1981
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNN31uDIQMLoTuRr4IFcZrd1RLo4qpi_q0VSrEO?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BL21
+  group_role: pressing_variation
+notes: "2019, DBQP18, Neuf. \nNote: The full concert was released on the official 2007 rerelease of the Closer CD"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 110230E1/C'
+    - 'Matrix / Runout: 110230E2/C'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '21'
+  - b
+  reconstructed: BL21b
+  has_suffix: false
+  source_row: 63
+  source_xlsx: Bootlegs - L.xlsx

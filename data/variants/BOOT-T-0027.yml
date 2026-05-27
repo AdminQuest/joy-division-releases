@@ -1,0 +1,27 @@
+variant_id: BOOT-T-0027
+release_type: bootleg
+canonical_title: That’ll be the End
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T10.htm
+country_or_pressing_place: Spain
+notes: Gato Gordo - GG 01
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled pink
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Bootlegs - T.xlsx

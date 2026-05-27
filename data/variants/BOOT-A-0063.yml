@@ -1,0 +1,30 @@
+variant_id: BOOT-A-0063
+release_type: bootleg
+canonical_title: Aus Grauer Städte Mauern
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A6.htm
+country_or_pressing_place: Germany ?
+notes: 'A copy of Live Malvern Eric''s in a different sleeve (same matrix numbers)
+
+  The title means something like "Out of grey cities walls ». This LP was also released as "Isolation" in 1984. Clear vinyl
+  with red insert'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '19'
+  - null
+  reconstructed: BA19
+  has_suffix: false
+  source_row: 86
+  source_xlsx: Bootlegs - A.xlsx

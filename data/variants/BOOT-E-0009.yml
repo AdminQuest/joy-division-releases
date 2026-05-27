@@ -1,0 +1,31 @@
+variant_id: BOOT-E-0009
+release_type: bootleg
+canonical_title: End Live In England 80
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: E
+country_or_pressing_place: ??
+variant_group:
+  group_id: BE6
+  group_role: pressing_variation
+notes: '[x]introuvable sur Discogs.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: JD-ZY-A'
+    - 'Matrix / Runout: JD-ZY-B'
+    - 'Matrix / Runout: JX A'
+    - 'Matrix / Runout: JX B'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '6'
+  - b
+  reconstructed: BE6b
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - E.xlsx

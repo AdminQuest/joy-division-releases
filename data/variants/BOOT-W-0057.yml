@@ -1,0 +1,35 @@
+variant_id: BOOT-W-0057
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Europe
+notes: 'V26 Petit Pulsar : Probably a European bootleg released 2016, Pressed on heavy vinyl. No record label identified.
+  No catalogue number on packaging or label. Glossy sleeve. Front cover looks like most of these Warsaw sleeves, but the pulsar
+  image is slightly smaller than before. Back cover lists the usual 11 songs, but in one single row unlike the original sleeve,
+  and this version actually has 17 songs, as detailed on the insert. "Warsaw" printed on the spine. Black vinyl. Insert: single-sided
+  black sheet with the full track listing and Warsaw photo by Kevin Cummins, from Rafters 30 June 1977. One plain black label
+  and one with only a detail of the front cover pulsar image "wavy lines".'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - WARS A
+    - WARS B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - at
+  reconstructed: BW4at
+  has_suffix: false
+  source_row: 59
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,31 @@
+variant_id: OFF-W-0001
+release_type: officiel
+canonical_title: Warsaw
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+country_or_pressing_place: ??
+notes: "Vinyl Passion - The following release appeared on the official Record Store Day 2018 web site but was removed after\
+  \ a few weeks and long before the actual Record Store Day. Towards the end of March 2018 rumours appeared that the record\
+  \ company would be releasing it anyway.\nThis appeared to be planned as a reissue of the unofficial 'Baby Face' 2007 Warsaw\
+  \ release on the same record label. \nLate April 2018 some Warsaw bootlegs appeared on Ebay with claims they were RSD releases.\n\
+  However these were copies of a \"straightforward\" bootleg which made no such claims, and was available elsewhere for a\
+  \ tenth of the price."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - RSD.xlsx

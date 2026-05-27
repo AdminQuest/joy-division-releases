@@ -1,0 +1,31 @@
+variant_id: BOOT-O-0002
+release_type: bootleg
+canonical_title: On TV
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: O
+joydiv_url: https://www.joydiv.org/O5.htm
+country_or_pressing_place: ??
+notes: 'JDTV-001. 7" Single. Black vinyl.
+
+  Released 2010'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: JDTV 001 A-1'
+    - 'Matrix / Runout: JDTV 001 B-1'
+_legacy_code:
+  segments:
+  - B
+  - O
+  - '1'
+  - null
+  reconstructed: BO1
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - O.xlsx

@@ -1,0 +1,32 @@
+variant_id: BOOK-J-0035
+release_type: livre
+canonical_title: Joy Division / New Order Nada é Mera Coincidência
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk50.htm
+country_or_pressing_place: Brazil
+notes: 'Translation: "Nothing is a Simple Coincidence"'
+format_details:
+  type: book
+  authors:
+  - Helena Uehara
+  publisher: Landy Editora
+  publication_year: 2006
+  language: pt
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 85-7629-084-7
+  page_count: 137
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 131
+  source_xlsx: Livres -.xlsx

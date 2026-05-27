@@ -1,0 +1,33 @@
+variant_id: BOOT-F-0019
+release_type: bootleg
+canonical_title: Form And Substance
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F3.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF7
+  group_role: color_variation
+notes: '[x]The Dark Side : IZ 90102 Interzone Records 1990. Mono. (Paradiso + Russell Club).'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'The Dark Side :'
+    - 'Matrix / Runout: 01 IZ 0647 90102'
+    - 'Rights Society (Fake): SIAE'
+    - 'SPARS Code: AAD'
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '7'
+  - b
+  reconstructed: BF7b
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - F.xlsx

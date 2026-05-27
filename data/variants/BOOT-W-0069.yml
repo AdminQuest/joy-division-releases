@@ -1,0 +1,30 @@
+variant_id: BOOT-W-0069
+release_type: bootleg
+canonical_title: Warsaw CDs
+canonical_artist: Joy Division
+year: 1994
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w2cd.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BW5
+  group_role: color_variation
+notes: 'V5 diamonds : # A156 Aulica 1994
+
+  The sound-quality is worse than the older editions (see above).'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '5'
+  - e
+  reconstructed: BW5e
+  has_suffix: false
+  source_row: 71
+  source_xlsx: Bootlegs - W.xlsx

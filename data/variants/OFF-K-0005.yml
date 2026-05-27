@@ -1,0 +1,48 @@
+variant_id: OFF-K-0005
+release_type: officiel
+canonical_title: Komakino
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K3.htm
+country_or_pressing_place: USA
+notes: 'USA pressing by Eva-Tone Soundsheets
+
+  Bundled free with an issue of the "The Öther Söund" fanzine, probably #2 probably early 1983.
+
+  Black & white individually numbered folder cover - highest number we''ve seen is 450
+
+  The Öther Söund'' fanzine requested permission to house a bunch of the Evatone flexis in special sleeves and give them away
+  with
+
+  their fanzine. Factory gave its blessing to the idea so long as no money was made from the record. Buyers got a fanzine
+  plus a flexi
+
+  disc in a black and white, number stamped, folded paper cover in a sealed plastic bag with a printed piece of paper along
+  the top.
+
+  The paper label along the top said "JOY DIVISION" and "$3.99". The package also included a "Sleep Chamber" loose promo sticker.
+
+  Some copies were issued with the same individually numbered folder cover, but without the fanzine or Sleep Chamber insert
+  sticker.
+
+  Same plastic bag and printed piece of paper along the top.'
+format_details:
+  type: audio
+  supports:
+  - support_type: flexi
+    size: 7"
+    count: 1
+    matrices:
+    - EV-412825 ASD- EV-412825 BST-
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 7_ flexi - Komakino.xlsx

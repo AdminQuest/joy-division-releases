@@ -1,0 +1,34 @@
+variant_id: BOOT-E-0034
+release_type: bootleg
+canonical_title: Exercise One
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: http://joydiv.org/E14.htm
+country_or_pressing_place: USA
+notes: '[x]V2 : Circo Music EX1LP Italy 2020. US bootleg released 2020. Picture sleeve. Limited edition on coloured vinyl:
+  x15 white, x15 white/black splatter, x15 white/green splatter, x15 white/blue splatter, x15 white/black/green/blue splatter,
+  x10 gold, x10 gold/black splatter (mine)
+
+  The test pressing of this LP was released in it''s own right as Nashville Ballroom'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: gold
+    matrices:
+    - 14802-108859 A
+    - 14802-108859 B
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '12'
+  - null
+  reconstructed: BE12
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - E.xlsx

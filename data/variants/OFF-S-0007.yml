@@ -1,0 +1,34 @@
+variant_id: OFF-S-0007
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/4289929
+country_or_pressing_place: UK
+notes: UK original, gatefold sleeve
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - 'Matrix / Runout (Variation 3, side 1 etched / stamped): FACT 40 A-1 EG P3 THE CHICKEN WONT STOP TOWN HOUSE'
+    - 'Matrix / Runout (Variation 3, side 2 etched / stamped): FACT 40 B EG P3 -< -< -< -< -< -< TOWN HOUSE'
+    - 'Matrix / Runout (Variation 3, side 3 etched / stamped): FACT 40 C1 -< -< -< -< EG TOWN HOUSE'
+    - 'Matrix / Runout (Variation 3, side 4 etched / stamped): FACT 40 D1 EG P3 THE CHICKEN STOPS HERE TOWN HOUSE'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

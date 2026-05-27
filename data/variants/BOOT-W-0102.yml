@@ -1,0 +1,39 @@
+variant_id: BOOT-W-0102
+release_type: bootleg
+canonical_title: Warszawa
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W5.htm
+country_or_pressing_place: ??
+notes: 'RZM200 Western Sculpture recordings Inc.
+
+  A version of Warsaw in a different sleeve
+
+  Plain white labels
+
+  Matrix numbers are the same as the original and first re-pressings of Warsaw'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'LP:'
+    - RZM-200-A
+    - RZM-200-B
+    - '7":'
+    - RZM-100-A
+    - RZM-100-B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '11'
+  - null
+  reconstructed: BW11
+  has_suffix: false
+  source_row: 104
+  source_xlsx: Bootlegs - W.xlsx

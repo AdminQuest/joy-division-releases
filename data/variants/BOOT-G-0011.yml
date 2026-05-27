@@ -1,0 +1,43 @@
+variant_id: BOOT-G-0011
+release_type: bootleg
+canonical_title: Gruftgesaenge
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G3.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BG6
+  group_role: color_variation
+notes: 'V2 : Colour vinyl:
+
+  Both LPs yellow
+
+  Both LPs blue
+
+  LP1 splattered red, LP2 splattered orange
+
+  Blank labels, LP1 plain white, LP2 plain black.
+
+  Glossy/shiny sleeve. Black stripe along the bottom on the front cover, no max price or Ertl note on back cover.
+
+  There is also an early clear vinyl issue (see "Variation" notice above).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: yellow
+    matrices:
+    - New matrix numbers (without hyphens)
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '6'
+  - c
+  reconstructed: BG6c
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - G.xlsx

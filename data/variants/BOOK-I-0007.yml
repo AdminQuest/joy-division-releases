@@ -1,0 +1,30 @@
+variant_id: BOOK-I-0007
+release_type: livre
+canonical_title: I remember Nothing - Bowdon Vale Photos
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: I
+notes: Published by photographer Martin O'Neill this booklet contains all 26 of the photos he took at the Bowdon Vale Youth
+  Club 14th March 1979.
+format_details:
+  type: book
+  authors:
+  - Martin O'Neill
+  publisher: Inconnu
+  publication_year: 2007
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 12
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 102
+  source_xlsx: Livres -.xlsx

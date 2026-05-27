@@ -1,0 +1,36 @@
+variant_id: BOOT-L-0006
+release_type: bootleg
+canonical_title: Last Order
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BL1
+  group_role: color_variation
+notes: 'Raven Records, Inc – RV 81241
+
+  []V2 : orange vinyl with two different sleeves: a proper delux cover, and an insert cover (front only). All of these had
+  plain white labels with "6-80/I" and "6-80/II" printed on them.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: orange
+    matrices:
+    - 'Matrix / Runout: FAC-13030-A'
+    - 'Matrix / Runout: FAC-13030-B'
+    - 'Rights Society (Fake): S.I.A.E.'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '1'
+  - b
+  reconstructed: BL1b
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - L.xlsx

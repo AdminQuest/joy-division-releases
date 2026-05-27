@@ -1,0 +1,41 @@
+variant_id: OFF-L-0014
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: New Zealand
+notes: 'FAC•XXIII•XII, Factory ‎– FAC 2312
+
+  A Fractured Music
+
+  A Factory Record
+
+  Side A: FOR∙ML
+
+  Side B: 27∙6∙80
+
+  Marketed by RTC P.O. Box 3825 Auckland
+
+  Identical to other RTC issue but marked as limited edition of 2000 (sticker on front cover).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FAC 2312 A'
+    - 'Matrix / Runout: FAC 2312 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

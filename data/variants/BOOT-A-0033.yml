@@ -1,0 +1,52 @@
+variant_id: BOOT-A-0033
+release_type: bootleg
+canonical_title: As Darkness Falls
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://joydiv.org/A20.htm
+country_or_pressing_place: USA
+notes: 'US double LP
+
+  Released 2025
+
+  Previously released as Live at the London Lyceum (2018) and Asylum Doors  (2019) with the same matrix numbers
+
+  A Factus Product
+
+  Catalogue No: XXIV
+
+  Appears to be a very limited release
+
+  Splatter vinyl: clear, and clear and black
+
+  Plain white cover with loose A4 size front insert on green paper with the Fractured "f" logo
+
+  Loose back insert also on green paper with the title, a track listing, recording details and "A Factus Product XXIV"
+
+  There are two inserts; a square 15 x 15 cm / 6" x 6" sized photo featuring another band picture from this gig, and another
+  photo of the flyer.
+
+  Plain white labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - JD-AD A
+    - JD-AD B
+    - JD-AD C
+    - JD-AD D
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 56
+  source_xlsx: Bootlegs - A.xlsx

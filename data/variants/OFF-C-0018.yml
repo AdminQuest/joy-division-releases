@@ -1,0 +1,35 @@
+variant_id: OFF-C-0018
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: France
+notes: FACT XXV, Factory ‎– 70162
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Rights Society: SACEM SACD SDRM SGDL'
+    - 'Matrix / Runout (Stamped A side): 2̶0̶1̶8̶8̶2̶ ̶A̶ ̶8̶1̶_̶6̶'
+    - 'Matrix / Runout (Stamped B side): 2̶0̶1̶8̶8̶2̶ ̶B̶ ̶8̶1̶_̶6̶'
+    - 'Matrix / Runout (Hand-etched A side): 70162 A E̶X̶P̶'
+    - 'Matrix / Runout (Hand-etched B side): 70162 B E̶X̶P̶'
+    - 'Matrix / Runout (Printed on A side label): 70162/ A'
+    - 'Matrix / Runout (Printed on B side label): 70162/ B'
+    - 'Price Code: PM 254'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - Closer.xlsx

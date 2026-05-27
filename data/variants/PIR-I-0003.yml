@@ -1,0 +1,35 @@
+variant_id: PIR-I-0003
+release_type: pirate
+canonical_title: Ideal For Living 12''
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: USA
+notes: 'Fac XXV Anonymous Records
+
+  Released 1978.
+
+  Insert sleeve, later reissued in a proper sleeve
+
+  White labels with black text (opposite of the genuine article).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - W/N-1-A (Side A)
+    - W/N-1-B (Side B)
+    - Different matrix to pic disc above - extra hyphen, different hadwriting
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - A
+  - '4'
+  reconstructed: P12A4
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 12_ - An Ideal For Living.xlsx

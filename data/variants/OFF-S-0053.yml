@@ -1,0 +1,33 @@
+variant_id: OFF-S-0053
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/22581446-Joy-Division-Substance
+notes: Longbox CD Qwest Records ‎– 9 25747-2.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    color: Longbox
+    matrices:
+    - 'Code-barres (Text): 0 7599-25747-2 3'
+    - 'Code-barres (Scanned): 075992574723'
+    - 'Informations sur la matrice: 1 25747-2 SRC-05 M1S1'
+    - 'Code mastering IFPI: none'
+    - 'Code du moule IFPI: none'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - '3'
+  reconstructed: OAS3
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

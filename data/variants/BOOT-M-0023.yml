@@ -1,0 +1,30 @@
+variant_id: BOOT-M-0023
+release_type: bootleg
+canonical_title: A Means To An End
+canonical_artist: Joy Division
+year: 1992
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M2.htm
+country_or_pressing_place: Czechoslovakia
+notes: '(CD) GZ B82206 1590 85 Retropop 159085
+
+  Sound quality: Excellent Stereo. Picture CD.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: GZ B82206 1590 85'
+    - 'SPARS Code: AAD'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '8'
+  - null
+  reconstructed: BM8
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Bootlegs - M.xlsx

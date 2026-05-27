@@ -1,0 +1,36 @@
+variant_id: BOOT-I-0026
+release_type: bootleg
+canonical_title: Incubation
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I15.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BI7
+  group_role: color_variation
+notes: '[]V3 : CVL Recards 2014. Identical to the LP above but in a different sleeve, released in 2014
+
+  Black vinyl. 50 hand-numbered copies (the number is written on the back cover and also on the generic white inner). Black
+  & white folder cover features Ian Curtis at Brussels, Plan K by Philippe Carly. Some copies include a folded 34.5 cm x 48
+  cm Ian Curtis picture poster (London Lyceum 29 February 1980 by Chris Mills) and two 10 x 15 cm picture cards'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JOY-D A
+    - JOY D B
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '7'
+  - c
+  reconstructed: BI7c
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - I.xlsx

@@ -1,0 +1,35 @@
+variant_id: BOOK-J-0021
+release_type: livre
+canonical_title: Joy Division Songbook
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk67.htm
+country_or_pressing_place: UK
+notes: 'A5 book with thick card cover printed on thick paper
+
+
+  Includes song lyrics, discography, and a few pictures.
+
+  Supposedly 2500 numbered copies but this book rarely surfaces suggesting the actual number is much lower.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Dead Souls Ltd. England
+  publication_year: 1985
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 64
+  source_xlsx: Livres -.xlsx

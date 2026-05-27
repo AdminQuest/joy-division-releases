@@ -1,0 +1,43 @@
+variant_id: BOOT-M-0040
+release_type: bootleg
+canonical_title: Misplaced (Rare and unreleased Rehearsals 1977-1980)
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M11.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BM10
+  group_role: color_variation
+notes: 'Warehouse Productions USA MIS 2022
+
+  2022 double LP reissue of the 2014 2LP above
+
+  Same track listing and matrix numbers but different sleeve, labels, and vinyl colours
+
+  Limited pressing of 100 copies in numbered sleeves: approx 30 copies on white vinyl with plain black labels
+
+  Silver foil sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: white
+    matrices:
+    - MISA
+    - MISB
+    - MISC3
+    - MISD2
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '10'
+  - a
+  reconstructed: BM10a
+  has_suffix: false
+  source_row: 42
+  source_xlsx: Bootlegs - M.xlsx

@@ -1,0 +1,34 @@
+variant_id: PIR-U-0019
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/6431721
+country_or_pressing_place: Germany
+notes: 'N° 7 : 2014 German reissue of the above
+
+  Includes a folded poster and lyrics insert
+
+  Sleeve as above listing but without pink tint'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JDUP 01 SIDE-A-
+    - JDUP 01 SIDE-AB-
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 53
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

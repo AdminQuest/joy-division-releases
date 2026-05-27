@@ -1,0 +1,32 @@
+variant_id: BOOT-W-0068
+release_type: bootleg
+canonical_title: Warsaw CDs
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w2cd.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BW5
+  group_role: color_variation
+notes: 'V4 Retropop : 159088 Retropop 1991
+
+  German picture CD.
+
+  Later released on a Retropop LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '5'
+  - d
+  reconstructed: BW5d
+  has_suffix: false
+  source_row: 70
+  source_xlsx: Bootlegs - W.xlsx

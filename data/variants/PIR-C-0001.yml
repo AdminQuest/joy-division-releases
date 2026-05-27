@@ -1,0 +1,27 @@
+variant_id: PIR-C-0001
+release_type: pirate
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Poland
+notes: Takt Music ‎– 1184
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Rights Society: BIEM/ZAIKS'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Officiels et pirates - Closer.xlsx

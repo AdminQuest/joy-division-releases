@@ -1,0 +1,30 @@
+variant_id: BOOT-P-0057
+release_type: bootleg
+canonical_title: Preston 28 February 1980
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: http://joydiv.org/P12.htm
+country_or_pressing_place: Europe
+notes: "Preston 28 February 1980 Translucent Blue Vinyl Edition \nOutsider Records OUTS016\n2022 European bootleg LP\nClear\
+  \ blue vinyl - \"Limited clear vinyl\" hype sticker on the shrink-wrap\nLive picture of Ian Curtis & Bernard Sumner from\
+  \ Altrincham 14 March 1979 by photographer Martin O'Neill\non the front, and Ian Curtis, Bernard Sumner & Peter Hook from\
+  \ London Moonlight Club April 1980 by Peter\nAnderson on the back\nvoir aussi Discographie officielle divers"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: translucent blue
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '9'
+  - null
+  reconstructed: BP9
+  has_suffix: false
+  source_row: 58
+  source_xlsx: Bootlegs - P.xlsx

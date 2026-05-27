@@ -1,0 +1,46 @@
+variant_id: BOOT-T-0002
+release_type: bootleg
+canonical_title: Le Terme
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/L3.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BL4
+  group_role: color_variation
+notes: '[]Re pressed in America - all numbered as 0894. US copy in clear vinyl also available. Limited to 100 copies. No insert
+
+  The black vinyl US copy is very similar to the original but if you compare the two sleeves you can see it''s been copied
+  - there is less detail in the cover picture because some of the grey tones have been changed to black.
+
+  How to tell the black vinyl US copy from the original:
+
+  The Original has the Title, Artist and catalogue number on the spine. The copy doesn''t.
+
+  The original has the matrix numbers stamped by machine and has the following groove notations: Side 1: " IL FAUT MOURIR
+  JEUNE..." Side 2: "...AUSSI TORD QUE POSSIBLE. These notations are quite faint - so look carefully.
+
+  The copy has hand written matrix numbers.
+
+  Have a look at the insert - the copy was made from number 0894 of the original batch - so all the inserts have this number.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAB-38-A'
+    - 'Matrix / Runout (Runout side B): FAB-38-B'
+    - 'Rights Society (Fake): SACEM'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '4'
+  - b
+  reconstructed: BL4b
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - L.xlsx

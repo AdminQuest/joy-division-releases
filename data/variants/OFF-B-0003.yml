@@ -1,0 +1,35 @@
+variant_id: OFF-B-0003
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/5843211-Joy-Division-Les-Bains-Douches-18-December-1979
+country_or_pressing_place: Japan
+notes: 'NMC Music – FACD 2.61, MSI (2) – MSIF 3809
+
+  Imported version for the Japanese market. Packaged in clear jewel case with 2 sided back tray, 8-page booklet, obi strip
+  and extra liner notes in Japanese. Retail price printed in obi ¥2,700.
+
+  There is a mastering error/stutter on track 3 at 1.08.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Code-barres (Printed in obi): 4938167009832'
+    - 'Code-barres (Printed in back tray): 8 00945 90022 5'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

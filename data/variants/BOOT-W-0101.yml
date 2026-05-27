@@ -1,0 +1,28 @@
+variant_id: BOOT-W-0101
+release_type: bootleg
+canonical_title: Warsaw Studio Demos
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W3.htm
+country_or_pressing_place: ??
+notes: It's not unusual for concerts to be rebooted and released under another name, but this one is slightly different. The
+  CD is identical to the WARSAW CD - complete with the words FUN MULTIPLICATION II and bogus track names but the cover has
+  been changed. See also Live! From Eindhoven, Holland 18/1/80 CD - a "reissue" of FUN MULTIPLICATION III Morituri te Salutant
+  CD.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '10'
+  - null
+  reconstructed: BW10
+  has_suffix: false
+  source_row: 103
+  source_xlsx: Bootlegs - W.xlsx

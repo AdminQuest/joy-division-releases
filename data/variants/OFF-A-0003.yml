@@ -1,0 +1,43 @@
+variant_id: OFF-A-0003
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: UK
+notes: 'Factory ‎– FACUS 2/UK, Factory (US) ‎– Facus 2 Green Print
+
+  A Factory Records (U.S.) Inc. Product
+
+  re-released in the United Kingdom
+
+  Rear sleeve has ''UK'' printed at bottom.
+
+  This edition features green print text on white labels (like Atmosphere) and shares the same runout etchings with Atmosphere
+  plus additional S-3 / S-5 etchings .'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green
+    matrices:
+    - 'Matrix / Runout (Side A): FACUS 2A ̶B̶ 2 A PORKY PRIME CUT S-3 HERE ARE THE YOUNG MEN'
+    - 'Matrix / Runout (Side B): FACUS 2B ̶A̶ 2 A PORKY PRIME CUT S-5 BUT WHERE HAVE THEY BEEN'
+    - 'Matrix / Runout (Printed on A side label): FACUS 2/UK A'
+    - 'Matrix / Runout (Printed on B side label): FACUS 2/UK B'
+    - 'Other (Printed on both labels): 2/9/80'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

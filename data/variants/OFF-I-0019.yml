@@ -1,0 +1,40 @@
+variant_id: OFF-I-0019
+release_type: officiel
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: UK
+notes: 'V3.5 : UK pressing, 2009
+
+  4th(?) fake reissue of the official 7" release on Enigma.
+
+  100 copies on pink vinyl, and either 100 or 300 copies - depending on who you believe - on blue, white, and red vinyl. Later
+  issued on black vinyl, issued with proper printed black labels or plain white.
+
+  No serrated edge around the label.
+
+  No "EG" in the matrix number
+
+  The sleeve looks faded compared to earlier fakes'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - PSS-139-A1 (side A)
+    - PSS 139-B1 (side B)
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

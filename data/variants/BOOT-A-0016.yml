@@ -1,0 +1,29 @@
+variant_id: BOOT-A-0016
+release_type: bootleg
+canonical_title: Amsterdam
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A1.htm
+country_or_pressing_place: USA
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Informations sur la matrice (Runout side A): A FAC PRO I SIDE I'
+    - 'Informations sur la matrice (Runout side B): A FAC PRO I SIDE 2'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - A.xlsx

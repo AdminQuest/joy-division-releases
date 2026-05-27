@@ -1,0 +1,30 @@
+variant_id: PIR-C-0002
+release_type: pirate
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: ??
+notes: Factory (2) ‎– FACT XXV - Released under licence by Estúdio Eldorado (Brazil). "Love Will Tear Us Apart" is listed
+  as fifth track on the side 2 tracklisting but actually does not appear on the record. Comes in a clear plastic sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): F25 A'
+    - 'Matrix / Runout (Side B): F25 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 34
+  source_xlsx: Officiels et pirates - Closer.xlsx

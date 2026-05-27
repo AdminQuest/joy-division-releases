@@ -1,0 +1,43 @@
+variant_id: OFF-C-0026
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Poland
+notes: 'Tonpress ‎– SX-T 108, Factory ‎– FACT XXV
+
+  A Factory Records Product
+
+  Produced at Britannia Row.
+
+  Published by Fractured Music
+
+  Date on label: 9/5/80
+
+  Black on red labels.
+
+  Printed inner sleeves only on early pressings.
+
+  Made in Poland by Tonpress KAW'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): C90-27593/1-1 DMM'
+    - 'Matrix / Runout (Runout side B): C90-27594/1-1 DMM'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Officiels et pirates - Closer.xlsx

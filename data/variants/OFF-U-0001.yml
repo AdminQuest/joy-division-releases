@@ -1,0 +1,38 @@
+variant_id: OFF-U-0001
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1979
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/9538176
+country_or_pressing_place: UK
+notes: "1979 UK LP FACTORY 1st TRANSLUCENT RED VINYL. First Pressing, Translucent Red, Porky Prime Cut, \"This Is The Way/Step\
+  \ Inside\" Text in the dead wax ; With Textured Garrod & Lofthouse Sleeve and Complete With Printed Inner Sleeve. Textured\
+  \ outer sleeve; printed glossy inner sleeve with square corners. Vinyl is translucent red when held against a strong light.\
+  \ \nNote this version has runouts according printed labels and sleeve. Side A is OUTSIDE (black label). Side B is INSIDE\
+  \ (white label). Labels have an elevated ring close to the runouts, characteristic for Tranco Limited pressings.\nBack cover:\n\
+  FACT 10 · A Factory Records Product.\nPrinted and made in Great Britain by Garrod & Lofthouse Ltd.\nInner:\nRecorded at\
+  \ Strawberry Studios, Stockport.\nFACT 10 · A Factory Records Product.\nMispressing exists : Features side 1 of Unknown\
+  \ Pleasures and side 2 of 'Power Corruption and Lies'"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Translucent Red
+    matrices:
+    - 'Matrix / Runout (Side A, etched, var. 3): FACT-10 - OUTSIDE I B ⇀ THIS IS THE WAY AG A PORKY PRIME CUT'
+    - 'Matrix / Runout (Side B, etched, var. 3): FACT 10 - INSIDE ! A A PORKY PRIME CUT ⇀ > STEP'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - U
+  - '1'
+  reconstructed: OAU1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

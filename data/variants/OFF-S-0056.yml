@@ -1,0 +1,28 @@
+variant_id: OFF-S-0056
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/2345714
+notes: K7 MG Records – MG 0733 (bootleg)
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Rights Society: ZAIKS-BIEM'
+_legacy_code:
+  segments:
+  - P
+  - A
+  - S
+  - '5'
+  reconstructed: PAS5
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

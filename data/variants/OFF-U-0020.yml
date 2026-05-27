@@ -1,0 +1,49 @@
+variant_id: OFF-U-0020
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/3322916
+country_or_pressing_place: New Zealand
+notes: 'Rough Trade ‎– FACOZ 1003, Gap Records ‎– FACOZ 1003
+
+  GAP New Zealand Release in non-textured sleeve with printed inner sleeve.
+
+  This release is identical to the later 1984 EMI release here, except this release has totally different labels sometimes
+  referred to as the "Green Man" or "Green Shadow".
+
+  The "Green Man" releases are widely believed to have been industry promotional copies or first press test copies from the
+  then new GAP New Zealand company that took over from RTC, although this is unproven. It is confirmed that each of the "Green
+  Man" releases was later reissued by EMI New Zealand with the same catalog number and yellow EMI labels.
+
+  Recorded at Strawberry Studios, Stockport.
+
+  A Factory Records Product.
+
+  EMI Records New Zealand Limited
+
+  Auckland-Wellington-Christchurch
+
+  P.O.Box 30849 Lower Hutt'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FACOZ 1003 A'
+    - 'Matrix / Runout: FACOZ 1003 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

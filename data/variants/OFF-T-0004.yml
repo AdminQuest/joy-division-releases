@@ -1,0 +1,47 @@
+variant_id: OFF-T-0004
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: UK
+notes: 'Factory ‎– FAC 13 X 12 Repress, MVS Pressing
+
+  Embossed centre image on sleeve.
+
+  Matte labels with single dip.
+
+  Generic paper inner sleeve with 2 die-cut holes, cut off corners and printed on bottom left: "Envelope made in Western Germany".
+
+  A Fractured Music
+
+  A Factory Record
+
+  Date on label: 12 9 80
+
+  Published by Fractured Music'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side label): FAC 13 X 12 A'
+    - 'Matrix / Runout (B side label): FAC 13 X 12 B'
+    - 'Matrix / Runout (Runout variant 1 side A): FAC I3 (I2") AI EG MVS S5 A PORKY PRIME CUT I''VE SEEN THE REAL ATROCITIES'
+    - 'Matrix / Runout (Runout variant 1 side B): FAC I3 (I2") BI EG MVS S5 A PORKY PRIME CUT BURIED IN THE SAND'
+    - 'Matrix / Runout (Runout variant 2 side A): FAC 13 (12") A1 EG MVSS4 A PORKY PRIME CUT I''VE SEEN THE REAL ATROCITIES'
+    - 'Matrix / Runout (Runout variant 2 side B): FAC 13 (12") B1 EG A PORKY PRIME CUT BURIED IN THE SAND'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

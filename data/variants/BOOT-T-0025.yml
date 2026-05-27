@@ -1,0 +1,45 @@
+variant_id: BOOT-T-0025
+release_type: bootleg
+canonical_title: That’ll be the End
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T10.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BT4
+  group_role: color_variation
+notes: 'Reissue of the above
+
+  No record label or catalogue number
+
+  Colour picture cover
+
+  Printed picture inner
+
+  Picture labels (these look like proper labels and not poorly glued on ones like the 2014 version)
+
+  - lighter blue than the 2018 edition
+
+  - darker blue than the 2018 edition, with tiny sparkly highlights'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: dark blue
+    matrices:
+    - 'Side A: JD-1-A1'
+    - 'Side A: JD-1-B1'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '4'
+  - j
+  reconstructed: BT4j
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Bootlegs - T.xlsx

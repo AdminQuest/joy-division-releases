@@ -1,0 +1,35 @@
+variant_id: BOOT-K-0009
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BK1
+  group_role: color_variation
+notes: 'V5 : Joy Division Records Product 01. Reissue with 12" x 12" insert sleeve.
+
+  Black vinyl, some copies on grey vinyl. The grey vinyl issues are translucent brown when viewed against a strong light.
+  Some copies have A4 photocopied inserts - some have 12" x 12" inserts'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: grey
+    matrices:
+    - JD 01 A
+    - JD 01 B
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - f
+  reconstructed: BK1f
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Bootlegs - K.xlsx

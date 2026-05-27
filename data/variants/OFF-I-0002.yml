@@ -1,0 +1,31 @@
+variant_id: OFF-I-0002
+release_type: officiel
+canonical_title: An Ideal For Living
+canonical_artist: Joy Division
+year: 1978
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/aifl.htm
+country_or_pressing_place: UK
+notes: Enigma ‎– PSS 139.  Original 7" EP edition. 1000 copies, released on the band's own label. The sleeve was printed on
+  a 14" x 14" piece of thin cardstock and then folded into four squares. Numerous counterfeit editions of this release exist.
+  Only the original vinyl has serrated vinyl around the label and different contours on the label.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A runout): PSS-139-EP-A-1 EG'
+    - 'Matrix / Runout (Side B runout): PSS-139-EP-B-1 EG'
+_legacy_code:
+  segments:
+  - O
+  - '7'
+  - null
+  - null
+  reconstructed: O7
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

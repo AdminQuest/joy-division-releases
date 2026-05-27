@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0084
+release_type: bootleg
+canonical_title: Live Transmission ... Dance to ...
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L12.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BL31
+  group_role: color_variation
+notes: 'V2 : Reissued in a black and white cover with blank labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FOUR - A'
+    - 'Matrix / Runout: FOUR - B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '31'
+  - b
+  reconstructed: BL31b
+  has_suffix: false
+  source_row: 87
+  source_xlsx: Bootlegs - L.xlsx

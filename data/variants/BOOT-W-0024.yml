@@ -1,0 +1,29 @@
+variant_id: BOOT-W-0024
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+notes: 'V4 Walker Brothers :
+
+  Dave Holden in New Zealand owns the one with the blue EP. He bought it as part of a job lot of 250 collectible LPs and singles
+  that had formerly belonged to a DJ and talk show host who''d accumulated a lot of rare and promo vinyl in the 1980s.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Blue
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - m
+  reconstructed: BW4m
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Bootlegs - W.xlsx

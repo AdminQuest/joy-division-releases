@@ -1,0 +1,42 @@
+variant_id: OFF-L-0011
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Italy
+notes: 'Factory ‎– FAC•XXIII•XII
+
+  A Fractured Music • A Factory Record
+
+  Published by Fractured Music
+
+  A Factory Records Product
+
+  Made in Italy
+
+  PRODOTTO: BASE RECORD Via Castiglione 109, Bologna tel. 051/237528 - 534697 ITALY
+
+  Differs from other Italian versions in that it does not have track durations listed on the labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FAC 23/1'
+    - 'Matrix / Runout: FAC 23/2'
+    - 'Rights Society: S.I.A.E.'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

@@ -1,0 +1,38 @@
+variant_id: BOOT-Y-0009
+release_type: bootleg
+canonical_title: 'Young Hearts Fail: Live At The Moonlight Club London UK'
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: Y
+joydiv_url: https://joydiv.org/Y4.htm
+notes: 'Dears Boss Jack 005 2025
+
+  European LP released 2025
+
+  Label: Dear Boss
+
+  Pressed on:
+
+  Clear vinyl 300 copies - has a sticker on the front (on the shrink-wrap)
+
+  Catalogue number: JACK005CV (clear vinyl), and JACK005 (black vinyl)
+
+  Barcode: 0 637913 252440 (clear vinyl), and 0 637913 481017 (black vinyl)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - Y.xlsx

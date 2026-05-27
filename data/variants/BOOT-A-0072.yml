@@ -1,0 +1,38 @@
+variant_id: BOOT-A-0072
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BA20
+  group_role: color_variation
+notes: 'V6 : Black and maroon sleeve Version 6
+
+  Reissue USA 2014
+
+  Green-greyish printed labels with black text
+
+  Marbled yellow vinyl
+
+  100 hand-numbered copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled yellow
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '20'
+  - i
+  reconstructed: BA20i
+  has_suffix: false
+  source_row: 95
+  source_xlsx: Bootlegs - A.xlsx

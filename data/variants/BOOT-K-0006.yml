@@ -1,0 +1,31 @@
+variant_id: BOOT-K-0006
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BK1
+  group_role: color_variation
+notes: 'V3 : Joy Division Records Product 01. Picture Disc'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD 01 A
+    - JD 01 B
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - c
+  reconstructed: BK1c
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Bootlegs - K.xlsx

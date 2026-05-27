@@ -1,0 +1,33 @@
+variant_id: BOOT-L-0048
+release_type: bootleg
+canonical_title: Live at The Apollo Manchester October 1983
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipMCO0KcRjY5nSKfOPlvKKD8cIn8za703UGtWK4J?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: UK
+variant_group:
+  group_id: BL17
+  group_role: pressing_variation
+notes: Later reissued on [x]black vinyl (mine)
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: 666-1 A.'
+    - 'Matrix / Runout: 666-1-B.'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '17'
+  - e
+  reconstructed: BL17e
+  has_suffix: false
+  source_row: 51
+  source_xlsx: Bootlegs - L.xlsx

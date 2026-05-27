@@ -1,0 +1,23 @@
+variant_id: BOOT-L-0019
+release_type: bootleg
+canonical_title: Live 1979/1980
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L11.htm
+notes: autre nom de Live Malvern/Eric's
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Bootlegs - L.xlsx

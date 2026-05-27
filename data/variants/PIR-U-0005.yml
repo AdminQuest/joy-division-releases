@@ -1,0 +1,36 @@
+variant_id: PIR-U-0005
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/4912092
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    color: Gatefold cardboard sleeve
+    matrices:
+    - 'Code-barres (String): 4943674077960'
+    - 'Code-barres (Text on OBI strip): 4 943674 077960'
+    - 'Informations sur la matrice (CD1): WPCR-12838 2'
+    - 'Informations sur la matrice (CD2): WPCR-12839 1'
+    - 'Code mastering IFPI (CD1 & CD2): IFPI L154'
+    - 'Code du moule IFPI (CD1 & CD2): none'
+    - 'Société des droits d''auteur: JASRAC'
+    - 'Autre (Individual Catalogue Number - CD1): WPCR-12838'
+    - 'Autre (Individual Catalogue Number - CD2): WPCR-12839'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

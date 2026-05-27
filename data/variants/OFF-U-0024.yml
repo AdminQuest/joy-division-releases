@@ -1,0 +1,39 @@
+variant_id: OFF-U-0024
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1586638
+country_or_pressing_place: Canada
+notes: 'Factory ‎– 830 812-1
+
+  Manufactured by Polygram Inc. and Distributed By Polygram Distribution Inc., 6000 Cote de Liesse, St. Laurent, Quebec.
+
+  Made In Canada
+
+  Textured Sleeve.
+
+  Including inner-sleeve with track description and picture. The inner sleeve has rounded upper corners.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): 830 . 812-1A Outside SNB 230 EL DM-2'
+    - 'Matrix / Runout (Runout side B): 830 . 812-1 B . 3 Inside SNB 230 EL DM-2'
+    - 'Barcode: 0 42283 08121 97'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

@@ -1,0 +1,36 @@
+variant_id: BOOT-W-0018
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BW4
+  group_role: color_variation
+notes: "V2 multicolore : RZM productions. Numerous successive reissues of the original Warsaw LP above, 1981 onwards. Record\
+  \ label: RZM Productions Ltd. No catalogue number on packaging or label. Various vinyl colours - see below. LP and EP labels\
+  \ are similar to the original version above. Laminate sleeve with \"Warsaw\" on the spine. Like the listing above and also\
+  \ showing signs of the laminate shrinking. Narrow run off area and small matrix numbers, very similar, if not identical\
+  \ to the listing above. The LPs and EPs were issued on various coloured vinyl, and mixed and matched, including:\nLP : Black,\
+  \ Clear, Transparent red, Solid red, Dark brown, Yellow, Dark Blue, Orange, Multicoloured. \n7’’ : Black, Darkblue, Orange,\
+  \ Red, Yellow, Clear (with no label), Multicoloured."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Yellow
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - g
+  reconstructed: BW4g
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - W.xlsx

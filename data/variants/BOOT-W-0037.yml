@@ -1,0 +1,30 @@
+variant_id: BOOT-W-0037
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Germany
+notes: 'V15 Pink Border : JD 01 no single. Pink border. European bootleg. Possibly German. Plain white labels. These matrix
+  numbers are the same as the German Warsaw LP on Geebo Geebo records.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - ^^ RZM 200 A
+    - ^^ RZM 200 B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - z
+  reconstructed: BW4z
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Bootlegs - W.xlsx

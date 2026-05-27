@@ -1,0 +1,39 @@
+variant_id: BOOT-M-0072
+release_type: bootleg
+canonical_title: My Heart and Soul - Live April 1980
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M12.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BM15
+  group_role: pressing_variation
+notes: 'MHS80 2021. US double LP released 2021 (sleeve says "Benelux")
+
+  Limited edition of 50 copies on splatter / colour vinyl, 5 different versions (10 of each). Printed picture sleeve, black
+  printed labels, double-sided printed A4 size insert on black paper, and postcard insert.
+
+  Note: the insert incorrectly lists the Factory gig as 8th April, it should be the 11th, and it misses Atrocity Exhibition
+  from the set list'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: dark
+    matrices:
+    - '(LP1): M80 A / M80 B'
+    - '(LP2): JD_BOTE A / JD_BOTE B'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '15'
+  - a
+  reconstructed: BM15a
+  has_suffix: false
+  source_row: 75
+  source_xlsx: Bootlegs - M.xlsx

@@ -1,0 +1,23 @@
+variant_id: VID-0-0001
+release_type: video
+canonical_title: 24 Hour Party People
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/24hourpartypeople.htm
+country_or_pressing_place: France
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - V
+  - O
+  - D
+  - null
+  reconstructed: VOD
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

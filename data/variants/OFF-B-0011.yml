@@ -1,0 +1,36 @@
+variant_id: OFF-B-0011
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/543267-Joy-Division-Les-Bains-Douches-Vol-1
+country_or_pressing_place: Italy
+notes: "LP 1 separate picture disc (LP 2 = Amsterdam)\nRe-released as two separate pic disc LPs by Get Back Records (Italy)\
+  \ 2005 cat nos: \n[x]GET79-1 P  LP1 Média État : Mint (M) ; Pochette État : Mint (M) ; Hype sticker included!\n[x]GET79-2\
+  \ P. LP2"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Picture disc
+    matrices:
+    - GET79-1 P
+    - 'Barcode: 8013252 760792'
+    - GET79-2 P
+    - 'Barcode: 8013252000799'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

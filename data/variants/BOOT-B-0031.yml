@@ -1,0 +1,48 @@
+variant_id: BOOT-B-0031
+release_type: bootleg
+canonical_title: Black Souls 02.08.79
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B1.htm
+country_or_pressing_place: Denmark
+variant_group:
+  group_id: BB3
+  group_role: pressing_variation
+notes: 'A Soundboard Recording. Tracklist comes on an A4 sheet.
+
+  Limited Edition of 400. Numbers written by hand on back.
+
+  Side 1 begins with a recording of a Gregorian Chant and side 2 ends with one.
+
+
+  There are at least 2 different inserts. One is folded and printed both sides with 3 different pictures scan 1 scan 2, the
+  other is a single A4 sheet printed on one side with one (completely different) picture. Both inserts have songs and location
+  info.
+
+
+  When this was first pressed it had the wrong B side. The B side featured Joy Division at Blackpools Imperial Hotel July
+  27 1979 and some 1980 demos by Orange Juice. Some of these were still sold as Black Souls but in a hand written cover -
+  see the listing below - the others were sold as the Shades of division - The Black souls mispressing album LP. Even later
+  this mispress album was repackaged as Space.
+
+
+  Used copy in good condition. The sleeve is made of thin rough paper and has light signs of wear and almost seam split top
+  and bottom, but the reco'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '3'
+  - a
+  reconstructed: BB3a
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - B.xlsx

@@ -1,0 +1,28 @@
+variant_id: BOOT-L-0086
+release_type: bootleg
+canonical_title: Live Transmissions
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L15.htm
+country_or_pressing_place: UK
+notes: Independent Music ‎– IMJD962CD
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Fake): 5 036984 227893'
+    - 'Matrix / Runout: 962CD'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '32'
+  - null
+  reconstructed: BL32
+  has_suffix: false
+  source_row: 89
+  source_xlsx: Bootlegs - L.xlsx

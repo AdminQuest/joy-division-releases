@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0069
+release_type: bootleg
+canonical_title: Live in Blackpool 1980
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: UK
+variant_group:
+  group_id: BL25
+  group_role: pressing_variation
+notes: '[]100 orange copies / white label'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: orange
+    matrices:
+    - 'Matrix / Runout: JDUK001 A'
+    - 'Matrix / Runout: JDUK001 B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '25'
+  - b
+  reconstructed: BL25b
+  has_suffix: false
+  source_row: 72
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,44 @@
+variant_id: BOOT-0-0022
+release_type: bootleg
+canonical_title: (Alternate) Still
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: http://joydiv.org/S20.htm
+country_or_pressing_place: ??
+notes: 'ALTERNATE STILL (LP) Factory Communications AS22 2022
+
+  US release 2022
+
+  Features live and alternate studio versions of the tracks on the official Still LP
+
+  Limited test pressing edition of 15 numbered copies
+
+  Most on black vinyl, but also a few on purple vinyl
+
+  Some copies issued in a light coloured sleeve, some in a darker sleeve. Both sets of sleeves were numbered, out of 15 and
+  10 respectively, but only 15 records were pressed so not all sleeves were used.
+
+  Back cover credits Factory Communications and the labels say A Factory Record, the catalogue number is AS22 (this is printed
+  on the spine, on the labels it''s only AS).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - Too small to read accurately
+    - '(crossed out over numbers): 258 LS'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - A.xlsx

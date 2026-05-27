@@ -1,0 +1,37 @@
+variant_id: BOOT-L-0058
+release_type: bootleg
+canonical_title: Live At Town Hall High Wycombe, 20th february 1981
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: Russia
+variant_group:
+  group_id: BL20
+  group_role: pressing_variation
+notes: '© 2013 Alfa/RVI, Tokyo - Ltd edition 500 copies.
+
+
+  The barcode and 2nd cat # nr. are on a sticker on the PVC transparant sleeve, the info is printed on a separate transparant
+  PVC sheet.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green
+    matrices:
+    - 'Code-barres: 8 89397 42041 3'
+    - 'Informations sur la matrice: 110233E2/A'
+    - 'Informations sur la matrice: 110233E1/A'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '20'
+  - b
+  reconstructed: BL20b
+  has_suffix: false
+  source_row: 61
+  source_xlsx: Bootlegs - L.xlsx

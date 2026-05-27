@@ -1,0 +1,41 @@
+variant_id: BOOT-I-0005
+release_type: bootleg
+canonical_title: The Ideal Beginning
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I2.htm
+country_or_pressing_place: UK ??
+variant_group:
+  group_id: BI3
+  group_role: color_variation
+notes: '(12") Anon A/B Anonymous Records 1981
+
+  A few copies of this came with a four page photocopied insert featuring a Factory discography and a letter from Steve Morris
+  circa 1978. The letter was probably originally part of the An Ideal For Living 7" EP music press promo pack. Apparently
+  Joy Division were so impatient they sent it out to various music papers before they even got the folder covers back from
+  the printers.
+
+  It appears there were two pressings with slightly different labels:
+
+  2. "MADE IN GREAT BRITAIN" on the far right-hand side, next to "45 rpm" and "Stereo".'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - ANON - A1
+    - ANON - B1
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '3'
+  - b
+  reconstructed: BI3b
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - I.xlsx

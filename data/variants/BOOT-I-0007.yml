@@ -1,0 +1,35 @@
+variant_id: BOOT-I-0007
+release_type: bootleg
+canonical_title: The Ideal Beginning
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I2.htm
+country_or_pressing_place: Greece
+variant_group:
+  group_id: BI3
+  group_role: color_variation
+notes: '(12") LP 663 Anonymous Records 1980s
+
+  Released mid 1980s. Black and white cover.
+
+
+  Greek pressing from the same people who did The Short Circuit 12", The Ideal for Living 12", and Buzzcocks "Spiral Scratch"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Hand written matrix numbers: 663 A F and 663 B F'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '3'
+  - d
+  reconstructed: BI3d
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - I.xlsx

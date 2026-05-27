@@ -1,0 +1,30 @@
+variant_id: OFF-S-0062
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/3059932
+notes: CD, London Records ‎– WPCR-11036. Japanese edition CD with English/Japanese lyric insert.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 4 943674 026821'
+    - 'Matrix / Runout: WPCR-11036 1'
+    - 'Rights Society: JASRAC'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - '9'
+  reconstructed: OAS9
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

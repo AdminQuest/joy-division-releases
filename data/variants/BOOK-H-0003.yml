@@ -1,0 +1,43 @@
+variant_id: BOOK-H-0003
+release_type: livre
+canonical_title: Heart & Soul - Critical Essays on Joy Division
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/bk82.htm
+country_or_pressing_place: UK
+notes: 'Heart and Soul takes you on an intimate and critical journey inside and outside Joy Division and is groundbreaking
+  in its sensitivity, insight and sheer voluptuousness.
+
+
+  The volume offers a cascade of interdisciplinary approaches focusing on the public and personal nature of the suicide of
+  Ian Curtis, and how it shaped the band both before and after that iconic tragedy and their subsequent metamorphosis into
+  New Order.
+
+
+  This book will not offer redemption but a creative recovery of a very human story with energy'
+format_details:
+  type: book
+  authors:
+  - Martin J. Power
+  - Eoin Devereux
+  - Aileen Dillane
+  publisher: Rowman & Littlefield International
+  publication_year: 2018
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-1-78660-334-0
+  page_count: 314
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 52
+  source_xlsx: Livres -.xlsx

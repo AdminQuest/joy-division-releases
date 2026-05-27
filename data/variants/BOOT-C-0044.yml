@@ -1,0 +1,36 @@
+variant_id: BOOT-C-0044
+release_type: bootleg
+canonical_title: A Cry for Help
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C15.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BC14
+  group_role: color_variation
+notes: 'The Godfatherecords ‎– G.R. 950
+
+  Housed in a Tri-fold Cardboard Sleeve
+
+  Audience recording'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 29102013950'
+    - 'Matrix / Runout: G.R. 950'
+    - 'Rights Society: GEMA'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '14'
+  - a
+  reconstructed: BC14a
+  has_suffix: false
+  source_row: 45
+  source_xlsx: Bootlegs - C.xlsx

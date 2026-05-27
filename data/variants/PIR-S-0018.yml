@@ -1,0 +1,31 @@
+variant_id: PIR-S-0018
+release_type: pirate
+canonical_title: Sordide Sentimental
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S5.htm
+country_or_pressing_place: Italy
+notes: "Pirate copy of the \"Licht Und Blindheit\" single & magazine. \n[x]Italy 2020 : black vinyl, label original but no\
+  \ serration around, no inserts, background women & infant\nlabel Very similar to the original, but no serration around label\n\
+  Covers not numbered\t\nNo inserts\t\nBrown background image, women and infant\nGlue is clear\t\nShrink wrapped\nNo outer\
+  \ plastic bag"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Stamped matrix numbers: 21202801/A 21202802/B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

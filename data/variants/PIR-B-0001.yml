@@ -1,0 +1,22 @@
+variant_id: PIR-B-0001
+release_type: pirate
+canonical_title: Bowdon Vale 14.03.79 Altrincham
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipOLDDFeFIidYdSkvynA-NeDhPO88RThzCWtMa6o?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - cassettes.xlsx

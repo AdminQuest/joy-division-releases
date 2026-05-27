@@ -1,0 +1,47 @@
+variant_id: OFF-U-0028
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/449288
+country_or_pressing_place: Poland
+notes: 'Tonpress ‎– SX-T 107, Factory ‎– FACT 10
+
+  Coarse paper inner sleeve with SX.T 107 PL/Tonpress added to credits
+
+  Black on white labels on both sides marked "inside" / "outside"
+
+  The D.M.M in the matrix number suggests this is Direct Metal Mastered - if true then these could be the best sounding vinyl
+  issues of this LP.
+
+  Published by Fractured Music
+
+  Recorded at Strawberry Studios, Stockport
+
+  FACT 10 - A Factory Records Product
+
+  Made in Poland by Tonpress KAW
+
+  Mispressing exists with Russian female singer - Matrix C60-27861 /1-1'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Variant Runout side A): C90-28261/1-1 1 DMM'
+    - 'Matrix / Runout (Variant Runout side B): C90-28262/1-1 2 DMM'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

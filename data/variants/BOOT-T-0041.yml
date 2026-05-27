@@ -1,0 +1,45 @@
+variant_id: BOOT-T-0041
+release_type: bootleg
+canonical_title: To The Centre of Koln Vol II
+canonical_artist: Joy Division
+year: 2017
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T7.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BT8
+  group_role: color_variation
+notes: 'Morte Music Digital-01
+
+  Single LP released 2017
+
+  This is the 2nd LP from the Die Kalten Winde Des Winters 2LP set in a different sleeve. Presumably there were copies left
+  over so they were repackaged as a new product.
+
+  Plain black sleeve with a loose front inset
+
+  Plain black labels with a single letter in gothic typeface (C & D)
+
+  The insert states "Morte Music All Rights Reserved ». There is no evidence of a Vol I version of this record. Features the
+  second half of the concert. This is not a high quality recording.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: dark blue
+    matrices:
+    - 'Side C: XXJD-C'
+    - 'Side D: XXJD-D'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '8'
+  - a
+  reconstructed: BT8a
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Bootlegs - T.xlsx

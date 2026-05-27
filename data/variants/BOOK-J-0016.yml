@@ -1,0 +1,30 @@
+variant_id: BOOK-J-0016
+release_type: livre
+canonical_title: Joy Division Adult Coloring Book
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://www.joydiv.org/bk81.htm
+format_details:
+  type: book
+  authors:
+  - Sonia McLean
+  publisher: independently published
+  publication_year: 2020
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 979-8600165038
+  page_count: 37
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 59
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,34 @@
+variant_id: BOOT-W-0001
+release_type: bootleg
+canonical_title: Waiting for Our Sight
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W9.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Waiting-For-Our-Sight/release/13865755
+country_or_pressing_place: UK
+variant_group:
+  group_id: BW1
+  group_role: color_variation
+notes: FACT 261. UK LP Released 2018.Picture sleeve. White labels with black print
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - FACT 261-A1
+    - FACT 261-B1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '1'
+  - a
+  reconstructed: BW1a
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - W.xlsx

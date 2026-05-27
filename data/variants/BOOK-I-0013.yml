@@ -1,0 +1,42 @@
+variant_id: BOOK-I-0013
+release_type: livre
+canonical_title: I Remember Nothing - A New History In Cuttings 1977-1981
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: http://joydiv.org/bk111.htm
+notes: 'This is a 2024 reappraisal of the History in Cuttings books from the 1980s
+
+
+  "Starting from 1984, a booklet - probably produced in the Netherlands - entitled Joy Division / New Order: A History in
+  Cuttings. 1977-1983 began to circulate. A Joy Division ‘scrapbook’, containing an extensive assortment of clippings, reviews,
+  and photos, photocopied in black and white A4 and stapled. This book was gradually expanded to include lyrics, discographies,
+  and an entire section devoted to New Order.
+
+
+  With I Remember Nothing. Joy Division. A NEW History in Cuttings 1977-1981 the first edition of  “A History in Cuttings”
+  - which covered Joy Division''s adventure from 1979 (Warsaw at the time) until 1981 (release year of the posthumous album
+  “Still”) - has been completely re-examined. Almost all the articles, reviews and clippings that were previously disorganized
+  and without indications now have a precise date and it''s known from which magazine they were clipped and who wrote them.
+  Dozens of new artic'
+format_details:
+  type: book
+  authors:
+  - Roberto Montagna
+  publisher: Independently published
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 83
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 137
+  source_xlsx: Livres -.xlsx

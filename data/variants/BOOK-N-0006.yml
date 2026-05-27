@@ -1,0 +1,35 @@
+variant_id: BOOK-N-0006
+release_type: livre
+canonical_title: A New Dawn
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: needs_review
+joydiv_letter: N
+joydiv_url: http://joydiv.org/bk39.htm
+notes: 'April 1981 - probably the first ever Joy Division publication
+
+
+  Bootleg cassette review
+
+  A4 10 pages'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1981
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 10
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 93
+  source_xlsx: Livres -.xlsx

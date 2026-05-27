@@ -1,0 +1,37 @@
+variant_id: BOOT-W-0114
+release_type: bootleg
+canonical_title: Wilderness
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://joydiv.org/W30.htm
+notes: 'Wilderness is the powerful three disc set which brings together digitally mastered versions of the very best of the
+  legendary live to air broadcasts by the iconic British New-Wave band - Joy Division.
+
+  Presented in a fold-out gatefold sleeve.
+
+  Disc 1 is the 18th January 1980 performance at the Effenaar, Eindhoven just four months before Ian Curtis’s tragic suicide.
+  Songs performed mostly come from their debut album Unknown Pleasures released the previous summer.
+
+  Disc 2 is widely regarded as one of Joy Division’s finest live performances - their legendary performance from Paradiso
+  in Amsterdam on 11th January 1980. Legend has it that the due to poor ticket sales the support act refused to play so Joy
+  Division performed 2 sets in front of about 15 people.
+
+  Disc 3 showcases Joy Division’s legendary broadcast from Les Bains Douches in Paris. An amazing record of a band full of
+  power and passion.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 116
+  source_xlsx: Bootlegs - W.xlsx

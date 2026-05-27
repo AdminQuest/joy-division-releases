@@ -1,0 +1,42 @@
+variant_id: BOOT-I-0022
+release_type: bootleg
+canonical_title: In A Lonely Place
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://joydiv.org/I13.htm
+notes: 'Fractured Music, A Factory Record 2023
+
+  Released 2023
+
+  Previously released as LP2 of Misplaced 2LP (2014)
+
+  Green title cover with gold foil print
+
+  Limited to 30 numbered copies (number on rear sleeve)
+
+  Splatter vinyl: white, clear, and clear with black
+
+  Dark green labels with the band name, A (B on side 2), STEREO, 33, the title, and around the outer edge: A Fractured Music,
+  A Factory Record and a copyright message'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Clear
+    matrices:
+    - MISC3
+    - MISD2
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - I.xlsx

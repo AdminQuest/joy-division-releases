@@ -1,0 +1,43 @@
+variant_id: BOOK-T-0003
+release_type: livre
+canonical_title: Touching From A Distance
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: needs_review
+joydiv_letter: T
+joydiv_url: http://joydiv.org/bk1.htm
+country_or_pressing_place: UK
+notes: 'VF : Histoire d''une Vie. Written by Ian''s widow Deborah Curtis.
+
+  This is an essential read for anyone who wants to know more about Ian Curtis - the "troubled genius" who was the voice and
+  lyricist of Joy Division.
+
+  It details Ian''s troubled private life and untimely, premature death. You''ll also find rare pictures, some in colour,
+  a discography and all of Ian''s lyrics, including some unpublished and unfinished ones printed here for the first time.
+  Essential for anyone with more than a passing interest in Joy Division.
+
+  Unusually this book has never been issued in a hardback in the UK.
+
+  Touching From A Distance forms the basis for the Control film
+
+  This book is highly recommended by Joy Division Central. Je l''ai en version numérique'
+format_details:
+  type: book
+  authors:
+  - Deborah Curtis
+  publisher: Faber & Faber
+  publication_year: 1995
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 79
+  source_xlsx: Livres -.xlsx

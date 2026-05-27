@@ -1,0 +1,30 @@
+variant_id: BOOT-F-0026
+release_type: bootleg
+canonical_title: Futurama 2 / Futurama 81
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNjOuXzW6nLJEaQevrsWEVMmWJ-7xbKXx-lWzLC?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: China
+variant_group:
+  group_id: BF11
+  group_role: pressing_variation
+notes: 'V2 (2014) : WEST912 ; Green With Black Splatter. Limited Edition of 349 copies.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter green black
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '11'
+  - c
+  reconstructed: BF11c
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Bootlegs - F.xlsx

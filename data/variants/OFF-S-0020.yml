@@ -1,0 +1,33 @@
+variant_id: OFF-S-0020
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/11029263
+country_or_pressing_place: USA
+notes: 'Qwest Records ‎– 9 26495-4, Reprise Records ‎– 4-26495
+
+  This version with "AR" printed on both sides of tape, under the side number.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Barcode: 0 7599-26495-4 4'
+    - 'On Tape Shell A Side): 1AR'
+    - '(On Tape Shell B Side): 2AR'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

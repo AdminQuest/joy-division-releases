@@ -1,0 +1,26 @@
+variant_id: BOOT-S-0031
+release_type: bootleg
+canonical_title: Soul of Heart
+canonical_artist: Joy Division
+year: 1998
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S11.htm
+country_or_pressing_place: Spain
+notes: (CD) 562 761 987-1 1998. Spain. Poor sound quality. Copy of Desperation Takes Hold. These two CDs were clearly pressed
+  from the same master but have different covers and different pictures on the disk.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '10'
+  - null
+  reconstructed: BS10
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - S.xlsx

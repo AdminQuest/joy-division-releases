@@ -1,0 +1,28 @@
+variant_id: BOOK-E-0001
+release_type: livre
+canonical_title: L'Esthétique New-Wave
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: needs_review
+joydiv_letter: E
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - Guillaume Gilles
+  publisher: Camion Blanc
+  publication_year: 2006
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Livres -.xlsx

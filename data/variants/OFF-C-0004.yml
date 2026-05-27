@@ -1,0 +1,55 @@
+variant_id: OFF-C-0004
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Ireland
+notes: 'Factory ‎– FACT XXV
+
+  Produced at Brittania Row.
+
+  A Fractured Music
+
+  A Factory Record
+
+  Labels: 9/5/80
+
+  A Factory Records Product
+
+  Published by Fractured Music
+
+  Printed by Garrod And Lofthouse Limited
+
+  Plated at Gedmal Galvanic Ltd.
+
+  UK sleeve/inner with Irish pressed record.
+
+  Translucent brown when held to light.
+
+  The ''TOWN HOUSE'' credit in the runout matrices is stamped as opposed to the rest of the runout information which is hand-etched.
+
+  Plated at Gedmal Galvanic Ltd.
+
+  Carlton Productions mark in runout.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A ): FACT 25 A2 gg3 TOWN HOUSE OLD BLUE?'
+    - 'Matrix / Runout (Runout side B ): FACT 25 B2 gg TOWN HOUSE Posi 2 CP'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - Closer.xlsx

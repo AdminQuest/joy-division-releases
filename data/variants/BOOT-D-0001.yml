@@ -1,0 +1,36 @@
+variant_id: BOOT-D-0001
+release_type: bootleg
+canonical_title: Dance To The Radio
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D15.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BD1
+  group_role: color_variation
+notes: 'Trade Mark Of Quality TMOZJD001 2014
+
+  Black vinyl. Plain white sleeve with loose front insert on light green colour paper. Label: Trade Mark Of Quality
+
+  Cat.no.: TMOZJD001'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 110233E1/A
+    - 110233E2/A
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '1'
+  - a
+  reconstructed: BD1a
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - D.xlsx

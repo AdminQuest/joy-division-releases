@@ -1,0 +1,37 @@
+variant_id: PIR-U-0026
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/release/3447274-Joy-Division-Unknown-Pleasures
+country_or_pressing_place: UK
+notes: 'N° 9 : FACT 10 Factory Records/Stiletto 2011, 2012, 2014. UK reissues of the above with different matrix numbers:
+  issued in 2011, 2012 and 2013
+
+  Issued on various vinyl colours including red vinyl in 2011, yellow, pale purple, blue in 2012, brown, semi transparent
+  pink, cloudy-clear white, and light blue vinyl in 2014
+
+  The front cover, labels and matrix numbers are different to the 2010 pressing above (P8).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Red
+    matrices:
+    - FACLP 10 A-1
+    - FACLP 10 B-1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 60
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

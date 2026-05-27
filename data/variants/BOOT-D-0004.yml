@@ -1,0 +1,41 @@
+variant_id: BOOT-D-0004
+release_type: bootleg
+canonical_title: Dance to the Radio Ajanta Theatre Derby UK April 19th 1980 - FM Broadcast
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: http://joydiv.org/D15.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BD2
+  group_role: color_variation
+notes: "JOY DIVISION - DANCE TO THE RADIO, AJANTA THEATRE, DERBY UK APRIL 19TH 1980 - FM BROADCAST (LP) \nDear Boss JACK030CV\
+  \ 2023Dear Boss JACK030CV 2023 BOSS JACK030 FM Broadcast\n'AJANTA THEATRE, DERBY, UK, APR 19TH 1980 - FM BROADCAST' - Massive\
+  \ as Joy Division were becoming, they still played shit-holes like this former, partially demolished, cinema in Derby. The\
+  \ old seats were still in place, except for a few that were torn off of their perches to allow dancing, if required. Again,\
+  \ another cavernous sounding audience recording,and again we are treated to a joint band version of 'Girls Don't Count'\
+  \ for the rarity value. Due to cancellations, probably due to Ian's failing health, this would turn out to be the penultimate\
+  \ Joy Division performance, before... well, you know what happened next\nThe cover states it's from an FM broadcast. However,\
+  \ it's more likely from the longer of the two audience recordings which includes Colony and some of the encore jam"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Barcode: 0 637913 122200'
+    - 'Matrix / Runout (Side A): 130808E1/C XVINYL.COM'
+    - 'Matrix / Runout (Side B): 130808E2/D XVINYL.COM'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '2'
+  - b
+  reconstructed: BD2b
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - D.xlsx

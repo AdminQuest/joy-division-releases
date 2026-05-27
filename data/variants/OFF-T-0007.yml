@@ -1,0 +1,35 @@
+variant_id: OFF-T-0007
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: France
+notes: "Factory ‎– FAC 13.12, Factory ‎– 600 209. 1981. 1er pressage français (an \"embossed\" sleeve with a slightly raised\
+  \ central section). Transmission / Novelty. The original has an \"embossed\" sleeve with a slightly raised central section\
+  \ (i.e. the picture). The reissue has a regular \"flat\" or smooth cover. \nMade in France\nPublished by Fractured Music\n\
+  ℗ 1980 Factory Records\nReprésentation exclusive Virgin France S.A.\nPrinted in France\nDifferent moulded ring on labels\
+  \ may exist from a copy to another."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A, machine-stamped runout): ⩓81_8 600209 A1'
+    - 'Matrix / Runout (Side B, machine-stamped runout): ⩓81_8 V 600209 B1'
+    - 'Rights Society: SACEM SACD SDRM SGDL'
+    - 'Price Code: AE 170'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

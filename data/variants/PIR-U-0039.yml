@@ -1,0 +1,39 @@
+variant_id: PIR-U-0039
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/release/6339075-Joy-Division-Unknown-Pleasures
+country_or_pressing_place: UK ?
+notes: "N° 11 : FACT 10 Factory Records/Stiletto 2014 onwards. 2010-12-14 ?, Stiletto cloudy-clear white. Counterfeit releases\
+  \ of Brazilian version. Glossy sleeve, big logo with band and album name on front, black labels with white lettering. \n\
+  UK reissue of the above with different matrix numbers\nSame sleeve and labels as the listing above\nPrinting on spine is\
+  \ smaller than the other \"Stiletto\"/\"Brazil\" pirate versions above\nIssued on various vinyl colours including cloudy-white,\
+  \ greyish-white, pale pink, green, marbled semi-transparent red, solid red, light brown, lilac/purple, solid pink, dark\
+  \ blue, greyish-blue, bright white, clear yellow, clear very pale yellow, marbled grey/silver, aqua/turquoise, heavily marbled\
+  \ lime green, marbled transparent green, heavily marbled light pink, \"multicoloured\" (grey/yellow/green/white), black,\
+  \ light blue-grey with \"multicolour\" effect (green/blue/white/red), heavily marbled purple, cloudy-clear with some pink,\
+  \ orange"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Red
+    matrices:
+    - 'side A: UNPL01-A1'
+    - 'side B: UNPL01-B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 73
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

@@ -1,0 +1,28 @@
+variant_id: BOOT-W-0031
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+notes: 'V10 Stiff : M-1 Stiff Kittens Product early 80s. Australian LP. Record label: Stiff Kittens Product. Catalogue No:
+  M-1. Single sheet paper insert sleeve - either yellow or light grey. Generic white sleeve with label holes. Labels: Plain
+  white. Some copies appear to have been stamped with basic info using a home printing set or similar'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - t
+  reconstructed: BW4t
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - W.xlsx

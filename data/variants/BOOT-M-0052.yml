@@ -1,0 +1,35 @@
+variant_id: BOOT-M-0052
+release_type: bootleg
+canonical_title: The Moonlight Club
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M6.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BM12
+  group_role: color_variation
+notes: 'TMCCD2 - American CD released 2019. Remastered re-release. "Manufactured under licence from Warehouse Productions
+  USA"
+
+  Same songs as the 2004 original edition, the very last one, Atmosphere, is again not listed on the back cover but appears
+  on the disc. The static noise affecting the last two songs on the original has been fixed. Grey card sleeve with silver
+  print.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - DW 14502-105468 6191003310
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '12'
+  - b
+  reconstructed: BM12b
+  has_suffix: false
+  source_row: 55
+  source_xlsx: Bootlegs - M.xlsx

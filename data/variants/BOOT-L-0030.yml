@@ -1,0 +1,28 @@
+variant_id: BOOT-L-0030
+release_type: bootleg
+canonical_title: Live at Eric's and Nashville Ballroom 1979 - Live on the Buzzcocks Tour 1979
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNVPOuIpZbKbrRoFFW4R3fzKQ3JEqNAQne7D8mk?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: ??
+notes: 'Limited Edition 13 copies
+
+  Made in France'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '14'
+  - null
+  reconstructed: BL14
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - L.xlsx

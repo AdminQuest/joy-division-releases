@@ -1,0 +1,40 @@
+variant_id: BOOT-S-0037
+release_type: bootleg
+canonical_title: The Sound Of Music
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S15.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BS13
+  group_role: pressing_variation
+notes: "[]3 LP + 2 CD, 2012 : Expanded version of the 2012 issue above bundled with They Keep Calling Me LP and CDs of the\
+  \ concerts on the LPs. The sleeve is stickered, 50 copies, there's also a hand-numbered insert. LP1 and 2: The Sound of\
+  \ Music. Pressed on two different sets of coloured vinyl: \nSet 1 - LP1: Pinkish-red LP2: Transparent red with some black\n\
+  Set 2 - LP1: Marbled Grey LP2: Marbled white\nLP3: They Keep Calling Me - 2010 reissue. Pressed on two vinyl colours:\n\
+  Set 1 - Transparent red\nSet 2 - Marbled white\n\nSet 1 was paired with set 1 of the Sound of Music and set 2 with set 2.\n\
+  \nDouble CD set: Clear plastic wallet featuring the same gigs as the LPs\nNote: The first LP was reissued / repackaged on\
+  \ its own as The Sound of Music Volume 1"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 3
+    matrices:
+    - '2LP :'
+    - SOM-A
+    - SOM-B
+    - SOM-C
+    - SOM-D-1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '13'
+  - c
+  reconstructed: BS13c
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Bootlegs - S.xlsx

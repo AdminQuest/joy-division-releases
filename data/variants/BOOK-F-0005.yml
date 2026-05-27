@@ -1,0 +1,36 @@
+variant_id: BOOK-F-0005
+release_type: livre
+canonical_title: From Joy Division To New Order
+canonical_artist: Joy Division
+year: 1996
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/bk19.htm
+country_or_pressing_place: UK
+notes: "The music journalist behind this story about Factory Records and the bands who recorded for that label (not just Joy\
+  \ Division and New Order like the title suggests) lived in Manchester during this period, so this is a first-hand account\
+  \ and would at first glance appear to be rather interesting as such.\nThe almost total lack of interesting photos is a great\
+  \ shame though, a book of this many pages could certainly do with some visuals. Unless you have a keen interest in all the\
+  \ various Factory bands that are covered in this book - a few \"non-Factory\" band are mentioned as well - you may find\
+  \ yourself skipping the odd chapter or two. \nInteresting in parts, but this is mainly for completists and hardcore Joy\
+  \ Division / New Order / Factory fans.\n(Reprinted 2002 to coincide with 24 Hour Party People)"
+format_details:
+  type: book
+  authors:
+  - Mick Middles
+  publisher: Virgin Books
+  publication_year: 1996
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 48
+  source_xlsx: Livres -.xlsx

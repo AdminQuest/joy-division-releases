@@ -1,0 +1,33 @@
+variant_id: BOOT-A-0010
+release_type: bootleg
+canonical_title: Ajanta Cinema, Derby, UK, april 18, 1980
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A16.htm
+country_or_pressing_place: China
+notes: 'East/West ‎– WEST918. Light green splatter vinyl LP with pink and yellow speckles. 349 numbered copies on green and
+  red splatter vinyl
+
+  Clear plastic sleeve with a card OBI strip. Plain black labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: splatter
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A (etched)): 130808E1/'
+    - 'Matrix / Runout (Side B (etched)): 130808E2/C'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '2'
+  - null
+  reconstructed: BA2
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Bootlegs - A.xlsx

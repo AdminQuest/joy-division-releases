@@ -1,0 +1,36 @@
+variant_id: OFF-L-0027
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: UK & Europe
+notes: 'London Records ‎– YOJMC 1 ‎– 850024-4
+
+  2 panel inlay printed to one side only. Clear/foil cassette with white on-body print. "MADE IN ENGLAND" stamped into one
+  side. Some copies may have a sticker on the cassette box reading: "Joy Division Love Will Tear Us Apart exclusive mix by
+  Don Gehman YOJMC 1"
+
+  Tracks repeat the same both sides.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Barcode: 0 42285 00244 7'
+    - 'Label Code: LC7654'
+    - 'Price Code: PY 540'
+    - 'Rights Society: BIEM/STEMRA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

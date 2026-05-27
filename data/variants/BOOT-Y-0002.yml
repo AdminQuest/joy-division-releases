@@ -1,0 +1,29 @@
+variant_id: BOOT-Y-0002
+release_type: bootleg
+canonical_title: You're No Good For Me
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: Y
+joydiv_url: https://www.joydiv.org/Y1.htm
+country_or_pressing_place: Europe
+notes: SHADOWplayRecords ‎– SPR 20130
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: SPR 20130 A'
+    - 'Matrix / Runout: SPR 20130 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - Y.xlsx

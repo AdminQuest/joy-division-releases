@@ -1,0 +1,42 @@
+variant_id: BOOT-L-0054
+release_type: bootleg
+canonical_title: Live at the Lyceum London UK 29.11.1980
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: Australia
+notes: 'Test pressing
+
+  Hand-numbered, 10 copies in total
+
+  Plain sleeve, loose A4 size front insert titled Live at the Lyceum London UK 29.11.1980 (the date is wrong, unless it''s
+  supposed to be II in Roman numerals)
+
+  Insert features a track listing and the Fractured Music "f" logo
+
+  Plain white labels
+
+  No record label or catalogue number
+
+  This would seem to be LP2 only from the Asylum Doors / Live at the London Lyceum double LPs from 2018, but this new test
+  press has JD-AD C1 in the matrix (not JD-AD C)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD-AD C1
+    - JD-AD D
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 57
+  source_xlsx: Bootlegs - L.xlsx

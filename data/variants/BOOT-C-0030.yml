@@ -1,0 +1,32 @@
+variant_id: BOOT-C-0030
+release_type: bootleg
+canonical_title: Closer To The Unknown Treasures
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C10.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BC7
+  group_role: color_variation
+notes: 2011, Heart Of Darkness Records HOD-JD-011
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): 001-A'
+    - 'Matrix / Runout (Side B): 001-B'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '7'
+  - a
+  reconstructed: BC7a
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - C.xlsx

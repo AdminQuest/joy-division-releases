@@ -1,0 +1,45 @@
+variant_id: OFF-A-0019
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Greece
+notes: 'Factory ‎– FAC 213, Virgin ‎– VG-2114 Z
+
+  Inner sleeve: ''Plus en Min'' (detail) by Jan Van Munster, 1988 Jan Van Munster/DACS.
+
+  ℗ 1988 Factory Communications Limited
+
+  © 1988 Factory Communications Limited
+
+  Made and printed in Greece by EMI Greece S.A.
+
+  Published by Fractured Music/Zomba Music
+
+  A Factory Record'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode: 5 016839 202138'
+    - 'Matrix / Runout (Runout side A): FAC 213 A'
+    - 'Matrix / Runout (Runout side B): FAC 213 B'
+    - 'Rights Society: AEPI'
+    - 'Other (On labels): A/A 14990'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,33 @@
+variant_id: BOOT-T-0012
+release_type: bootleg
+canonical_title: That Last Fatal Hour
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T4.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BT3
+  group_role: color_variation
+notes: Nobbsy Normas Records KE010 2005 45RPM EP released summer 2005.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: black
+    matrices:
+    - KE010-A (side A)
+    - KE010-B (side B)
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '3'
+  - a
+  reconstructed: BT3a
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - T.xlsx

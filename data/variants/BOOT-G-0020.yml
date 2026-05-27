@@ -1,0 +1,25 @@
+variant_id: BOOT-G-0020
+release_type: bootleg
+canonical_title: Gruftgesaenge
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G3.htm
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: splatter
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '6'
+  - l
+  reconstructed: BG6l
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Bootlegs - G.xlsx

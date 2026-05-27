@@ -1,0 +1,38 @@
+variant_id: PIR-U-0007
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/8667900
+country_or_pressing_place: Russia
+notes: 'n°16 : GP0000350 Release date unknown. Russian pirate
+
+  Band name & album title printed on front inlay
+
+  No record label credits on front or back inlays
+
+  Back inlay printed both sides
+
+  Disc label side looks similar to the official post-Factory Records mid-1990s UK CD reissues (credits Factory Communications
+  Ltd)
+
+  Warner Bros. Records Inc. and WEA Manufacturing), Russia'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Disc matrix: GP0000350'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

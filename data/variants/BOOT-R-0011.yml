@@ -1,0 +1,34 @@
+variant_id: BOOT-R-0011
+release_type: bootleg
+canonical_title: A Retrospective On The Vinyl Pain and Pleasure of Joy Division
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R2.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BR6
+  group_role: color_variation
+notes: "M.I.E. Records Limited ‎– HAWKEYE 005\nWest-German LP released July 1984. Black and white pic sleeve. First 500 copies\
+  \ in white vinyl with black and white labels. \nSound quality Excellent Stereo/ Excellent mono"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Matrix / Runout (scratched): HE 005 A'
+    - 'Matrix / Runout (scratched): HE 005 B'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '6'
+  - a
+  reconstructed: BR6a
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Bootlegs - R.xlsx

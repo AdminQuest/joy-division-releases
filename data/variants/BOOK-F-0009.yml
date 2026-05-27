@@ -1,0 +1,31 @@
+variant_id: BOOK-F-0009
+release_type: livre
+canonical_title: Factus
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: http://joydiv.org/bk42.htm
+notes: "Standard fanzine (AKA Factus)\n          A5 (apart from issue 4 which is A4) Joy Division / New Order fanzine sometimes\
+  \ subtitled \"Factus\". Issues 4 to 6 also feature the Sisters Of Mercy.\nFactus 1: Nov 1985\nFactus 2: mid 1986\nFactus\
+  \ 3: late 1986\nFactus 4: 1987\nFactus 5: 1987\nFactus 6: 1988"
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1985
+  language: nl
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 100
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,30 @@
+variant_id: BOOT-N-0012
+release_type: bootleg
+canonical_title: No More Ceremonies
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: N
+joydiv_url: https://www.joydiv.org/N1.htm
+discogs_url: https://www.discogs.com/fr/release/1699768-Joy-Division-No-More-Ceremonies
+country_or_pressing_place: Italy
+notes: 'Primo Records ‎– WK46. Australian CD released April 1st 2004. Limited edition 500 copies.
+
+  Packaging states "Prmio records italy"'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - II CD II WK46 3BC.CO.UK II 04115-6779 II
+_legacy_code:
+  segments:
+  - B
+  - N
+  - '4'
+  - null
+  reconstructed: BN4
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - N.xlsx

@@ -1,0 +1,29 @@
+variant_id: OFF-C-0032
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Taiwan
+notes: CD 2007 edition collector (ASIN B0023TOJEO) London Records ‎– 2564-69779-1, Warner Music Taiwan ‎– 2564-69779-1 ; 2CD
+  Re-mastered featuring Closer and live University Of London Union 8th February 1980 ; Digipack in a plastic sleeve + booklet
+  with text by Paul Morley and photographs by Anton Corbijn
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 8 25646 97791 8'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Officiels et pirates - Closer.xlsx

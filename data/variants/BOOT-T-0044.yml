@@ -1,0 +1,49 @@
+variant_id: BOOT-T-0044
+release_type: bootleg
+canonical_title: Transmissions - The Legendary Performance Eindhdoven 18th january 1980
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: needs_review
+joydiv_letter: T
+joydiv_url: http://joydiv.org/T11.htm
+country_or_pressing_place: Europe
+notes: 'limited hand-numbered black & white split coloured vinyl LP
+
+  Stylus Groove - SGVNY 115 European LP
+
+  Released 28 June 2024
+
+  Label: Stylus Groove
+
+  Catalogue number: SGVNY115
+
+  Pressed on black and white vinyl
+
+  500 hand-numbered copies, the individual number is written inside a white square in the bottom left corner on the back cover:
+  "This edition ___/500".
+
+  Barcode on back cover: 5 060918814279
+
+  Copies numbered 01-10 issued with a certificate of authenticity inside a plain white envelope with only the number stamped
+  on the front.
+
+  Back cover states: "The legendary performance Eindhoven 18th January 1980".'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: Black
+    matrices:
+    - SGVNY115 - A
+    - V56226  B/1
+_legacy_code:
+  segments:
+  - B
+  - T
+  - null
+  - null
+  reconstructed: BT
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - T.xlsx

@@ -1,0 +1,46 @@
+variant_id: OFF-A-0018
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Germany
+notes: 'Factory ‎– FAC 213, Factory ‎– RTD 039T
+
+  Published by Fractured Music/Zomba Music.
+
+  A Factory Record.
+
+  ℗ 1988 Rough Trade Rec. GmbH
+
+  © 1988 Factory Communications Limited
+
+  Licensed and distributed in
+
+  D - A - CH by Rough Trade Rec. GmbH
+
+  B - NL - L by Megadisc'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: RTD 039T A G.Pauler'
+    - 'Matrix / Runout: RTD 039T B G.Pauler'
+    - 'Label Code: LC 5661'
+    - 'Rights Society: GEMA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

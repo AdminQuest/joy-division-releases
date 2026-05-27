@@ -1,0 +1,33 @@
+variant_id: BOOK-J-0024
+release_type: livre
+canonical_title: 'Joy Division: Piece By Piece'
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk58.htm
+country_or_pressing_place: UK
+notes: 'VF : Fragments
+
+  Je l''ai en version numérique'
+format_details:
+  type: book
+  authors:
+  - Paul Morley
+  publisher: Inconnu
+  publication_year: 2007
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 384
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 72
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,36 @@
+variant_id: PIR-I-0002
+release_type: pirate
+canonical_title: An Ideal For Living 12''
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: ??
+notes: 'W/N/L/F Anonymous Records - Picture disc. Has an address: 35 Little Peter St. Manchester, and a telephone number on
+  it.
+
+  Pirate copy of the official release on Enigma.
+
+  The picture disc has no "cover", and is a reproduction of the original 12" cover. It was sold as an extremely rare official
+  release by some dealers many years ago, although it''s clearly a counterfeit issue.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - W/N-1A (Side 1)
+    - L/F -1B (Side 2)
+    - These are the first letters of the song titles
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - A
+  - '3'
+  reconstructed: P12A3
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 12_ - An Ideal For Living.xlsx

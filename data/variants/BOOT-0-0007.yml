@@ -1,0 +1,31 @@
+variant_id: BOOT-0-0007
+release_type: bootleg
+canonical_title: 1979 BBC Recordings Radio Broadcast
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: http://joydiv.org/B8.htm
+country_or_pressing_place: Europe
+notes: "RB 14 Radio Broadcast Records\n LP limited to 300 copies\nEuropean LP 2022\nBlack vinyl\n300 copies\nGeneric \"Radio\
+  \ Broadcast\" company sleeve with label holes and \"© + ℗\nGeneric plain white inner also with label holes.\n12\" size single-sided\
+  \ front insert card"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - RB 14 A
+    - RB 14 B
+_legacy_code:
+  segments:
+  - B
+  - +
+  - '2'
+  - null
+  reconstructed: B+2
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - +-1.xlsx

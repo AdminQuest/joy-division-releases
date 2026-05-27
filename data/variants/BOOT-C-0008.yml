@@ -1,0 +1,38 @@
+variant_id: BOOT-C-0008
+release_type: bootleg
+canonical_title: Ceremony
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C12.htm
+country_or_pressing_place: Portugal
+variant_group:
+  group_id: BC3
+  group_role: color_variation
+notes: "V1 Factus 3 Factory Communications 2014. Portuguese bootleg 12\" from 2014, made to look like a Factory release. \"\
+  A Factory Communications Product\" FACTUS 3. Top opening sleeve similar to New Order's 1981 \"Movement » LP. Includes a\
+  \ hand-numbered A5 printed paper insert. 500 copies pressed in the following colours:[]Purple - 135 copies / []Grey - 106\
+  \ copies / []White - 80 copies / [x]green - 64 copies / []Lime green - 36 copies \nAlso \"Non-commercial edition test copies\"\
+  :[]Clear blue with marble - 15 copies / []Violet - 14 copies / []White with marble - 11 copies / []Blue with glitter specs\
+  \ - 3 copies / []Two tones of green - 1 copy / []Army green - 1 copy"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Green marbled
+    matrices:
+    - 116427 A1 KM
+    - 116427 B1 KM
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '3'
+  - d
+  reconstructed: BC3d
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - C.xlsx

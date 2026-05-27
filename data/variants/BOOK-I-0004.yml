@@ -1,0 +1,41 @@
+variant_id: BOOK-I-0004
+release_type: livre
+canonical_title: An Ideal For Living - The History of Joy Division
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk5.htm
+country_or_pressing_place: UK
+notes: 'Paperback - soft cover Reissued by Bobcat Books in 1986
+
+  Reissued by Bobcat Books in 1986:
+
+  Paperback only
+
+
+  This book traces the story of Joy Division from their earliest beginnings as Stiff Kittens/Warsaw in 1976/77 up to New Order''s
+  1983 record releases and live gigs.
+
+  With detailed information about live gigs and record releases and many of the famous black & white photos from 1977-1982.'
+format_details:
+  type: book
+  authors:
+  - Mark Johnson
+  - with additional writings by Paul Morley and others
+  publisher: Inconnu
+  publication_year: 1984
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Livres -.xlsx

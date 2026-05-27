@@ -1,0 +1,39 @@
+variant_id: BOOT-E-0018
+release_type: bootleg
+canonical_title: Europa
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E13.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BE9
+  group_role: color_variation
+notes: 'Warehouse Productions JDE2LP19 - 2020 reissue of the above in a different sleeve with paper insert and a free CD
+
+  All LP details as above including the same vinyl colours - limited to 14 copies of each (not numbered)
+
+  Paper insert: A4 size with the set list and 4 B/W photos; 3 from the concert + one of the gig poster
+
+  The CD is the same as the one issued with Einhoven 2LP in a plain plastic envelope'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: white
+    matrices:
+    - 'CD matrix:'
+    - 13984-99888 6191002804 DW
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '9'
+  - f
+  reconstructed: BE9f
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - E.xlsx
