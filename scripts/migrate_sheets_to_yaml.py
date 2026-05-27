@@ -89,6 +89,21 @@ ARTICLES = ["The ", "A ", "An ", "Le ", "La ", "Les ", "L'", "Un ", "Une "]
 
 SUFFIX_PATTERN = re.compile(r"^(.+?)([a-j])$")
 
+# Decision v3 : 7 fichiers "Officiels et pirates - *.xlsx" dont la colonne
+# O/P est exclusivement vide. L'utilisateur a confirme qu'ils ne
+# contiennent que des editions officielles. La cellule O/P vide y est
+# interpretee comme 'officiel' sans flag d'incertitude, avec traçabilite
+# via _legacy_code.op_inferred_from_filename.
+OFFICIAL_ONLY_FILES = {
+    "Officiels et pirates - Substance 1988.xlsx",
+    "Officiels et pirates - Still.xlsx",
+    "Officiels et pirates - 12_ - Atmosphere.xlsx",
+    "Officiels et pirates - Les Bains-Douches.xlsx",
+    "Officiels et pirates - Preston 28 february 1980.xlsx",
+    "Officiels et pirates - Radio sessions.xlsx",
+    "Officiels et pirates - Permanent.xlsx",
+}
+
 # Lignes d'en-tete a rejeter dans BOOK
 BOOK_HEADER_TITLES = {
     "titre", "title", "books", "book", "livres", "livre",
@@ -278,28 +293,66 @@ class AudioFormatParser:
 
     def parse_audio(
         self, format_str: str | None, version_str: str | None
-    ) -> tuple[dict, bool]:
-        """Retourne (support_dict, matched_cleanly)."""
+    ) -> tuple[dict, bool, dict]:
+        """Retourne (support_dict, matched_cleanly, extra_info).
+
+        extra_info peut contenir :
+          - cdr_in_notes: bool (note CDr a injecter)
+          - version_marker: str (V1, V2, ...)
+        """
+        extra: dict = {}
         if not format_str:
-            return ({"support_type": "vinyl", "count": 1}, False)
+            return ({"support_type": "vinyl", "count": 1}, False, extra)
         s = str(format_str).strip()
         matched = False
         result: dict = {"support_type": "vinyl", "count": 1}
+        pattern_set_color = False
         for entry in self.patterns:
             m = entry["regex"].search(s)
             if m:
                 result = {}
                 base = entry["result"]
                 for k, v in base.items():
-                    if k == "count_group":
+                    if k in ("count_group", "count_from_group"):
                         try:
                             cg = m.group(v)
                             result["count"] = int(cg) if cg else 1
                         except (IndexError, ValueError, TypeError):
                             result["count"] = 1
-                    elif k == "color_default":
-                        # Place tentatif, ecrase par extraction explicite ci-apres.
+                    elif k == "color_from_group":
+                        try:
+                            cg = m.group(v)
+                            if cg and cg.strip():
+                                result["color"] = cg.strip()
+                                pattern_set_color = True
+                        except (IndexError, ValueError, TypeError):
+                            pass
+                    elif k == "color_detail_from_group":
+                        try:
+                            cg = m.group(v)
+                            if cg and cg.strip():
+                                existing = result.get("color", "")
+                                result["color"] = (
+                                    f"{existing} {cg.strip()}".strip()
+                                    if existing else cg.strip()
+                                )
+                                pattern_set_color = True
+                        except (IndexError, ValueError, TypeError):
+                            pass
+                    elif k == "color":
                         result["color"] = v
+                        pattern_set_color = True
+                    elif k == "color_default":
+                        if "color" not in result:
+                            result["color"] = v
+                    elif k == "cdr_in_notes":
+                        if v:
+                            extra["cdr_in_notes"] = True
+                    elif k == "version_marker_extracted":
+                        if v:
+                            vm = re.match(r"^(V\d+)", s)
+                            if vm:
+                                extra["version_marker"] = vm.group(1)
                     else:
                         result[k] = v
                 if "count" not in result:
@@ -307,19 +360,20 @@ class AudioFormatParser:
                 matched = True
                 break
 
-        # Color extraction : Version > format_str
-        color = extract_color_from_string(version_str, self.color_re)
-        if not color:
-            color = extract_color_from_string(format_str, self.color_re)
-        if color:
-            result["color"] = color
-        elif "color" not in result and version_str:
-            # Fallback : Version libre non matchee par color_re
-            vs = str(version_str).strip()
-            if vs and len(vs) <= 60:
-                result["color"] = vs
+        # Color extraction : Version > format_str, sauf si le pattern a
+        # deja pose une couleur explicite (color_from_group ou color literal).
+        if not pattern_set_color:
+            color = extract_color_from_string(version_str, self.color_re)
+            if not color:
+                color = extract_color_from_string(format_str, self.color_re)
+            if color:
+                result["color"] = color
+            elif "color" not in result and version_str:
+                vs = str(version_str).strip()
+                if vs and len(vs) <= 60:
+                    result["color"] = vs
 
-        return (result, matched)
+        return (result, matched, extra)
 
     def parse_video(self, format_str: str | None) -> tuple[dict, bool]:
         if not format_str:
@@ -372,18 +426,25 @@ def build_legacy_code(ws, row: int, layout: dict) -> dict:
 # ---------------------------------------------------------------------------
 
 
-def determine_op(ws, row: int, op_col: int | None) -> tuple[str, str, bool]:
+def determine_op(
+    ws, row: int, op_col: int | None, filename: str
+) -> tuple[str, str, bool, bool]:
+    """Retourne (release_type, prefix, op_uncertain, op_inferred_from_filename)."""
     if op_col is None:
-        return ("officiel", "OFF", False)
+        return ("officiel", "OFF", False, False)
     val = cell_value(ws, row, op_col)
     if val is None:
-        return ("officiel", "OFF", True)
+        if filename in OFFICIAL_ONLY_FILES:
+            return ("officiel", "OFF", False, True)
+        return ("officiel", "OFF", True, False)
     s = str(val).strip().upper()
     if s.startswith("O"):
-        return ("officiel", "OFF", False)
+        return ("officiel", "OFF", False, False)
     if s.startswith("P"):
-        return ("pirate", "PIR", False)
-    return ("officiel", "OFF", True)
+        return ("pirate", "PIR", False, False)
+    if filename in OFFICIAL_ONLY_FILES:
+        return ("officiel", "OFF", False, True)
+    return ("officiel", "OFF", True, False)
 
 
 # ---------------------------------------------------------------------------
@@ -466,14 +527,19 @@ def reclassify_book(title: str) -> tuple[str, str, dict | None]:
 
 def build_variant_audio(
     ws, row: int, layout: dict, parser: AudioFormatParser,
-) -> tuple[dict, bool, list[str]]:
+) -> tuple[dict, bool, list[str], dict]:
+    """Retourne (audio_format, matched, issues, extra).
+
+    extra contient les flags v3 propages depuis parse_audio :
+      cdr_in_notes, version_marker.
+    """
     issues: list[str] = []
     format_str = cell_value(ws, row, layout.get("format"))
     version_str = cell_value(ws, row, layout.get("version"))
     label_str = cell_value(ws, row, layout.get("label"))
     matrices_str = cell_value(ws, row, layout.get("matrices"))
 
-    support, matched = parser.parse_audio(format_str, version_str)
+    support, matched, extra = parser.parse_audio(format_str, version_str)
     if not matched:
         issues.append(f"format audio non parse: {format_str!r}")
 
@@ -496,7 +562,7 @@ def build_variant_audio(
         if matrices:
             support["matrices"] = matrices[:20]
 
-    return (audio_format, matched, issues)
+    return (audio_format, matched, issues, extra)
 
 
 def build_variant_video(
@@ -828,6 +894,8 @@ def main() -> int:
             # --- determination release_type et prefix ---
             issues: list[str] = []
             para_extras: dict | None = None
+            op_inferred = False
+            audio_extra: dict = {}
             if category == "bootleg":
                 release_type, prefix = "bootleg", "BOOT"
             elif category == "video":
@@ -842,8 +910,8 @@ def main() -> int:
                         "parent_object": para_extras["parent_object"],
                     })
             elif category == "officiel_or_pirate":
-                release_type, prefix, op_uncertain = determine_op(
-                    ws, row, layout.get("op_column")
+                release_type, prefix, op_uncertain, op_inferred = determine_op(
+                    ws, row, layout.get("op_column"), name
                 )
                 if op_uncertain:
                     issues.append("cellule O/P vide ou non reconnue -> OFF par defaut")
@@ -881,11 +949,16 @@ def main() -> int:
             # --- legacy_code ---
             legacy_code = build_legacy_code(ws, row, layout)
             legacy_code["source_xlsx"] = name
+            if op_inferred:
+                legacy_code["op_inferred_from_filename"] = True
+            # version_marker est injecte plus loin, apres build_variant_audio
 
             # --- format_details ---
             cleanly_parsed = True
             if release_type in ("bootleg", "officiel", "pirate"):
-                fd, matched, fmt_issues = build_variant_audio(ws, row, layout, parser)
+                fd, matched, fmt_issues, audio_extra = build_variant_audio(
+                    ws, row, layout, parser
+                )
                 if not matched:
                     cleanly_parsed = False
                     issues.extend(fmt_issues)
@@ -909,6 +982,10 @@ def main() -> int:
                 rejects.append({"file": name, "row": row, "reason": f"release_type={release_type}"})
                 variant_seq[(prefix, letter)] -= 1
                 continue
+
+            # --- traçabilite v3 : version_marker dans _legacy_code ---
+            if audio_extra.get("version_marker"):
+                legacy_code["version_marker"] = audio_extra["version_marker"]
 
             # --- documentation_quality ---
             if release_type in ("livre", "para") or not cleanly_parsed or issues:
@@ -935,6 +1012,11 @@ def main() -> int:
                 summary = cell_value(ws, row, layout.get("summary"))
                 if summary:
                     notes = str(summary).strip()[:1000] or None
+
+            # Decision v3 C : injection note CDr quand le support est un CD-R
+            if audio_extra.get("cdr_in_notes"):
+                cdr_note = "Support CDr (CD enregistrable)"
+                notes = f"{cdr_note}\n\n{notes}" if notes else cdr_note
 
             # --- variant_group (decision D) ---
             variant_group = None

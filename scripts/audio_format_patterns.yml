@@ -17,6 +17,33 @@
 # (vinyl x1) a corriger manuellement.
 
 patterns:
+  # 0a. Splatter LP avec couleurs specifiques optionnelles (v3, specifique)
+  #     Ex: "splatter LP", "splatter LP orange black", "splatter LP green black"
+  - regex: '(?i)^splatter\s+LP(?:\s+(.+))?$'
+    result:
+      support_type: vinyl
+      size: '12"'
+      color: 'splatter'
+      color_detail_from_group: 1
+
+  # 0b. Version numerotee suivie de format LP (v3, capture version_marker)
+  #     Ex: "V1 : USA, 2019, LP (#42/50)", "V2 : 3 LP"
+  - regex: '(?i)^V\d+\s*:\s*.*?(\d+)?\s*LP'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count_from_group: 1
+      version_marker_extracted: true
+
+  # 0c. Couleur unique + LP (v3, generique simple)
+  #     Ex: "white LP", "red LP", "purple LP"
+  #     Note: limite a [A-Za-z]+ pour eviter les faux positifs "5 LP" (capture la couleur).
+  - regex: '(?i)^([A-Za-z]+)\s+LP\s*$'
+    result:
+      support_type: vinyl
+      size: '12"'
+      color_from_group: 1
+
   # 1. Variantes textuelles d'abord (LP precede d'un color descriptor).
   #    Ex: "white LP", "Red translucent marbled LP", "Splatter LP",
   #        "Sunrise Splatter LP"
@@ -32,7 +59,7 @@ patterns:
       support_type: vinyl
       size: '12"'
       count_group: 1
-  - regex: '(?i)^V\d+\s*:\s*(\d+)\s*[xX]?\s*CD'
+  - regex: '(?i)^V\d+\s*:\s*(\d+)\s*[xX]?\s*CD\b'
     result:
       support_type: cd
       count_group: 1
@@ -48,6 +75,17 @@ patterns:
       support_type: vinyl
       size: '12"'
       count: 1
+
+  # 3b. CDr (CD-Recordable, v3) — assimile a CD avec note ajoutee.
+  #     Doit etre AVANT les patterns CD generiques (sans \b) pour ne
+  #     pas etre absorbe par le pattern V<n>:N CD. Le prefixe V<n>:
+  #     est optionnel et capture par version_marker_extracted.
+  - regex: '(?i)^(?:V\d+\s*:\s*)?(\d+)?\s*x?\s*CDr\b'
+    result:
+      support_type: cd
+      count_from_group: 1
+      cdr_in_notes: true
+      version_marker_extracted: true
 
   # 4. CD : "N CD", "CD", "💿 CD" (avec emoji ou autre prefixe symbolique)
   - regex: '(?i)^[\W_]*\s*(\d+)\s*[xX]?\s*CD\b'
