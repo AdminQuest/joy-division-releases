@@ -37,13 +37,27 @@ Champs requis pour toute variante :
 | `release_type`          | enum      | 7 valeurs (voir ci-dessous)                  |
 | `canonical_title`       | string    | `minLength: 1`                               |
 | `canonical_artist`      | string    | Défaut `"Joy Division"`                      |
-| `year`                  | integer   | `1976 ≤ year ≤ 2030`                         |
 | `documentation_quality` | enum      | `verified` / `needs_review` / `stub`         |
 | `format_details`        | object    | Validé conditionnellement (cf. discriminant) |
 
 Les champs optionnels (sources, dates, édition, distribution, URLs, notes…)
 sont tous nullables — le `null` est un signal explicite « pas de valeur »,
 distinct de l'absence du champ.
+
+### `year` — optionnel mais contraint quand présent
+
+`year` est **optionnel**. La migration depuis le legacy a révélé qu'une
+part significative des bootlegs anciens et de certains pressages pirates
+n'a aucune année documentée. Imposer un fallback arbitraire (`2000`, par
+exemple) ajouterait de la fausse information au registre canonique ;
+préférable d'accepter l'absence comme une donnée légitime.
+
+Quand `year` est présent, la contrainte reste stricte : `integer` dans la
+plage `1976 ≤ year ≤ 2030`. On ne tolère pas une valeur invraisemblable,
+seulement l'absence du champ.
+
+La fixture `tests/fixtures/valid/valid_without_year.yml` exerce
+explicitement ce cas.
 
 ### `_legacy_code`
 
