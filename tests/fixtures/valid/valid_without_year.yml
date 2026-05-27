@@ -1,0 +1,25 @@
+# Variante sans year : cas typique d'une release pour laquelle la date
+# de pressage / parution n'est pas documentee dans la source originale.
+# Les bootlegs anciens et certains pressages pirates rentrent dans ce
+# profil. La contrainte de plage 1976-2030 reste applicable QUAND year
+# est present, mais le champ peut etre purement absent.
+variant_id: BOOT-W-0017
+release_type: bootleg
+canonical_title: Warsaw Live Tape (year unknown)
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: W
+country_or_pressing_place: Unknown
+notes: |
+  Bande live ancienne, source non identifiee. Aucune annee documentee
+  dans les inventaires consultes. Variante migree depuis le legacy avec
+  year omis (preferable a un fallback arbitraire).
+format_details:
+  type: audio
+  catalog_number: null
+  label_apparent: null
+  supports:
+    - support_type: vinyl
+      count: 1
+      size: '12"'
+      color: black
