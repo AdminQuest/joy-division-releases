@@ -286,9 +286,241 @@
         "source_session": {"type": ["string", "null"]}
       }
     },
-    "video_format": {"type": "object"},
-    "box_format": {"type": "object"},
-    "book_format": {"type": "object"},
-    "para_format": {"type": "object"}
+    "video_format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "supports"],
+      "properties": {
+        "type": {"const": "video"},
+        "supports": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/video_support"}
+        },
+        "catalog_number": {"type": ["string", "null"]},
+        "content": {
+          "anyOf": [
+            {"type": "null"},
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "chapters": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "required": ["position", "title"],
+                    "properties": {
+                      "position": {"type": "integer"},
+                      "title": {"type": "string"}
+                    }
+                  }
+                },
+                "global_notes": {"type": ["string", "null"]}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "video_support": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["support_type", "count"],
+      "properties": {
+        "support_type": {
+          "type": "string",
+          "enum": ["dvd", "vhs", "bluray", "umd"]
+        },
+        "count": {"type": "integer", "minimum": 1},
+        "region": {"type": ["string", "null"]},
+        "video_format": {
+          "anyOf": [
+            {"type": "null"},
+            {"type": "string", "enum": ["PAL", "NTSC", "multi"]}
+          ]
+        },
+        "aspect_ratio": {"type": ["string", "null"]},
+        "duration_minutes": {
+          "anyOf": [
+            {"type": "null"},
+            {"type": "integer", "exclusiveMinimum": 0}
+          ]
+        },
+        "languages": {
+          "type": "array",
+          "items": {"type": "string"},
+          "default": []
+        },
+        "subtitles": {
+          "type": "array",
+          "items": {"type": "string"},
+          "default": []
+        }
+      }
+    },
+    "box_format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "components"],
+      "properties": {
+        "type": {"const": "box"},
+        "components": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["variant_id_ref", "role"],
+            "properties": {
+              "variant_id_ref": {
+                "type": "string",
+                "pattern": "^(OFF|PIR|BOOT|VID|BOX|BOOK|PARA)-[A-Z0]-[0-9]{4}$"
+              },
+              "role": {"type": "string"}
+            }
+          }
+        },
+        "additional_items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["type", "description"],
+            "properties": {
+              "type": {"type": "string"},
+              "description": {"type": "string"}
+            }
+          },
+          "default": []
+        },
+        "box_dimensions_mm": {
+          "anyOf": [
+            {"type": "null"},
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["width", "height", "depth"],
+              "properties": {
+                "width": {"type": "integer"},
+                "height": {"type": "integer"},
+                "depth": {"type": "integer"}
+              }
+            }
+          ]
+        },
+        "catalog_number": {"type": ["string", "null"]}
+      }
+    },
+    "book_format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "authors",
+        "publisher",
+        "publication_year",
+        "language",
+        "format_physical",
+        "illustrations",
+        "has_appendices"
+      ],
+      "properties": {
+        "type": {"const": "book"},
+        "isbn_13": {
+          "anyOf": [
+            {"type": "null"},
+            {"type": "string", "pattern": "^97[89]-[0-9-]+$"}
+          ]
+        },
+        "isbn_10": {
+          "anyOf": [
+            {"type": "null"},
+            {"type": "string", "pattern": "^[0-9X-]+$"}
+          ]
+        },
+        "authors": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"type": "string"}
+        },
+        "publisher": {"type": "string"},
+        "publication_year": {
+          "type": "integer",
+          "minimum": 1900,
+          "maximum": 2030
+        },
+        "page_count": {
+          "anyOf": [
+            {"type": "null"},
+            {"type": "integer", "exclusiveMinimum": 0}
+          ]
+        },
+        "language": {"type": "string", "pattern": "^[a-z]{2}$"},
+        "format_physical": {
+          "type": "string",
+          "enum": ["softcover", "hardcover", "jacketed_hardcover"]
+        },
+        "dimensions_mm": {
+          "anyOf": [
+            {"type": "null"},
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["width", "height", "depth"],
+              "properties": {
+                "width": {"type": "integer"},
+                "height": {"type": "integer"},
+                "depth": {"type": "integer"}
+              }
+            }
+          ]
+        },
+        "illustrations": {"type": "boolean"},
+        "has_appendices": {"type": "boolean"},
+        "catalog_number": {"type": ["string", "null"]},
+        "content": {
+          "anyOf": [
+            {"type": "null"},
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "table_of_contents": {"type": ["string", "null"]}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "para_format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "parent_object", "object_description"],
+      "properties": {
+        "type": {"const": "para"},
+        "parent_object": {
+          "type": "string",
+          "enum": [
+            "magazine",
+            "press_kit",
+            "promo_only",
+            "fanzine",
+            "journal",
+            "misc"
+          ]
+        },
+        "parent_title": {"type": ["string", "null"]},
+        "parent_issue": {"type": ["string", "null"]},
+        "parent_year": {"type": ["integer", "null"]},
+        "embedded_supports": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/audio_support"},
+          "default": []
+        },
+        "object_description": {"type": "string"}
+      }
+    }
   }
 }
