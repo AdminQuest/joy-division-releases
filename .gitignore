@@ -2,6 +2,10 @@
 _local/
 _tmp/
 
+# Site data : genere a chaque build par scripts/build_site_data.py.
+# Servi par GitHub Pages depuis l'artefact du workflow, jamais commit.
+site/data/all-variants.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

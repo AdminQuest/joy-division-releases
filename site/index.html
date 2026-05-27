@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Joy Division — Registre des releases</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.1/dist/cdn.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body x-data x-cloak>
+  <header class="site-header">
+    <div class="title-block">
+      <h1>Joy Division — Registre des releases</h1>
+      <p class="subtitle" x-show="$store.registry.data">
+        <span x-text="`v${$store.registry.data?.version ?? '?'}`"></span>
+        <span class="dot">·</span>
+        <span x-text="`${$store.registry.data?.total_variants ?? 0} variantes au total`"></span>
+        <span class="dot">·</span>
+        <span x-text="`generated ${$store.registry.formattedGeneratedAt}`"></span>
+      </p>
+    </div>
+  </header>
+
+  <main x-show="!$store.registry.loading" class="main">
+
+    <!-- Barre de controles -->
+    <section class="controls">
+      <div class="control-row">
+        <input
+          type="search"
+          class="search"
+          placeholder="Rechercher (titre, pays, format...)"
+          x-model.debounce.250ms="$store.registry.search"
+          aria-label="Recherche plein-texte"
+        />
+        <button
+          type="button"
+          class="toggle-view"
+          :class="$store.registry.groupedView ? 'on' : ''"
+          x-text="$store.registry.groupedView ? 'Vue consolidee' : 'Vue eclatee'"
+          @click="$store.registry.toggleGroupedView()"
+        ></button>
+      </div>
+
+      <div class="control-row filters">
+        <div class="filter-group">
+          <span class="filter-label">Type :</span>
+          <template x-for="rt in $store.registry.data?.release_types ?? []" :key="rt.release_type">
+            <button
+              type="button"
+              class="pill"
+              :class="$store.registry.releaseTypes.includes(rt.release_type) ? 'active' : ''"
+              @click="$store.registry.toggleReleaseType(rt.release_type)"
+            >
+              <span x-text="rt.release_type"></span>
+              <span class="count" x-text="rt.count"></span>
+            </button>
+          </template>
+        </div>
+      </div>
+
+      <div class="control-row filters">
+        <div class="filter-group">
+          <span class="filter-label">Lettre :</span>
+          <button
+            type="button"
+            class="pill"
+            :class="$store.registry.letter === null ? 'active' : ''"
+            @click="$store.registry.setLetter(null)"
+          >Toutes</button>
+          <template x-for="l in $store.registry.data?.joydiv_letters ?? []" :key="l.letter">
+            <button
+              type="button"
+              class="pill compact"
+              :class="$store.registry.letter === l.letter ? 'active' : ''"
+              @click="$store.registry.setLetter(l.letter)"
+              :title="`${l.count} variants`"
+            >
+              <span x-text="l.letter"></span>
+            </button>
+          </template>
+        </div>
+      </div>
+
+      <div class="control-row filters">
+        <div class="filter-group">
+          <span class="filter-label">Filtres :</span>
+          <label class="checkbox">
+            <input type="checkbox" x-model="$store.registry.withDiscogs" />
+            <span>Avec Discogs</span>
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" x-model="$store.registry.withJoydiv" />
+            <span>Avec joydiv.org</span>
+          </label>
+          <button
+            type="button"
+            class="link-button"
+            @click="$store.registry.resetFilters()"
+            x-show="$store.registry.hasActiveFilters"
+          >Reinitialiser</button>
+        </div>
+      </div>
+
+      <div class="control-row stats">
+        <span class="stat-pill">
+          <strong x-text="$store.registry.visibleCount"></strong>
+          <span> resultats</span>
+        </span>
+        <span class="stat-pill" x-show="$store.registry.groupedView">
+          <strong x-text="$store.registry.visibleGroupCount"></strong>
+          <span> lignes consolidees</span>
+        </span>
+      </div>
+    </section>
+
+    <!-- Tableau / liste -->
+    <section class="results">
+      <table class="variants-table" x-show="$store.registry.visibleCount > 0">
+        <thead>
+          <tr>
+            <th class="col-id">ID</th>
+            <th class="col-title">Titre</th>
+            <th class="col-type">Type</th>
+            <th class="col-year">Annee</th>
+            <th class="col-country">Pays</th>
+            <th class="col-format">Format</th>
+            <th class="col-links">Liens</th>
+          </tr>
+        </thead>
+        <tbody>
+          <template x-for="row in $store.registry.displayedRows" :key="row.key">
+            <tr
+              :class="row.isGroup ? 'group-row' : (row.isMember ? 'group-member' : '')"
+              @click="row.isGroup ? row.toggleExpand() : $store.registry.selectVariant(row.variant)"
+            >
+              <td class="col-id">
+                <span x-show="row.isGroup" class="expand-icon" x-text="row.expanded ? '▾' : '▸'"></span>
+                <code x-text="row.isGroup ? `[${row.group_id}]` : row.variant.variant_id"></code>
+              </td>
+              <td class="col-title">
+                <strong x-text="row.title"></strong>
+                <span class="badge" x-show="row.isGroup" x-text="row.memberCountLabel"></span>
+              </td>
+              <td class="col-type">
+                <span class="type-pill" :data-type="row.release_type" x-text="row.release_type"></span>
+              </td>
+              <td class="col-year" x-text="row.year ?? ''"></td>
+              <td class="col-country" x-text="row.country ?? ''"></td>
+              <td class="col-format" x-text="row.formatSummary"></td>
+              <td class="col-links" @click.stop>
+                <template x-if="row.variant?.joydiv_url">
+                  <a :href="row.variant.joydiv_url" target="_blank" rel="noopener" class="link joydiv"
+                     title="Voir sur joydiv.org">J</a>
+                </template>
+                <template x-if="row.variant?.discogs_url">
+                  <a :href="row.variant.discogs_url" target="_blank" rel="noopener" class="link discogs"
+                     title="Voir sur Discogs">D</a>
+                </template>
+              </td>
+            </tr>
+          </template>
+        </tbody>
+      </table>
+      <p class="empty" x-show="$store.registry.visibleCount === 0">Aucun resultat ne correspond aux filtres.</p>
+    </section>
+  </main>
+
+  <p x-show="$store.registry.loading" class="loading">Chargement du registre…</p>
+  <p x-show="$store.registry.loadError" class="error" x-text="$store.registry.loadError"></p>
+
+  <!-- Panneau de detail -->
+  <aside
+    class="detail-panel"
+    x-show="$store.registry.selectedVariant"
+    @keydown.escape.window="$store.registry.selectedVariant = null"
+  >
+    <div class="detail-panel-inner" x-show="$store.registry.selectedVariant" x-trap="$store.registry.selectedVariant">
+      <header class="detail-header">
+        <code class="detail-id" x-text="$store.registry.selectedVariant?.variant_id"></code>
+        <button type="button" class="close" @click="$store.registry.selectedVariant = null" aria-label="Fermer">×</button>
+      </header>
+      <h2 x-text="$store.registry.selectedVariant?.canonical_title"></h2>
+      <p class="detail-subtitle">
+        <span x-text="$store.registry.selectedVariant?.canonical_artist"></span>
+        <template x-if="$store.registry.selectedVariant?.year">
+          <span> · <span x-text="$store.registry.selectedVariant.year"></span></span>
+        </template>
+        <template x-if="$store.registry.selectedVariant?.country_or_pressing_place">
+          <span> · <span x-text="$store.registry.selectedVariant.country_or_pressing_place"></span></span>
+        </template>
+      </p>
+
+      <template x-if="$store.registry.selectedVariant">
+        <div class="detail-sections">
+
+          <section class="detail-section">
+            <h3>Identification</h3>
+            <dl>
+              <dt>release_type</dt>
+              <dd x-text="$store.registry.selectedVariant.release_type"></dd>
+              <dt>documentation_quality</dt>
+              <dd x-text="$store.registry.selectedVariant.documentation_quality"></dd>
+              <template x-if="$store.registry.selectedVariant.joydiv_letter">
+                <template x-for="(_, i) in [0]">
+                  <span style="display: contents;">
+                    <dt>joydiv_letter</dt>
+                    <dd x-text="$store.registry.selectedVariant.joydiv_letter"></dd>
+                  </span>
+                </template>
+              </template>
+              <template x-if="$store.registry.selectedVariant.variant_group">
+                <template x-for="(_, i) in [0]">
+                  <span style="display: contents;">
+                    <dt>variant_group</dt>
+                    <dd>
+                      <code x-text="$store.registry.selectedVariant.variant_group.group_id"></code>
+                      <span class="muted" x-text="`(${$store.registry.selectedVariant.variant_group.group_role})`"></span>
+                    </dd>
+                  </span>
+                </template>
+              </template>
+              <template x-if="$store.registry.selectedVariant._legacy_code?.reconstructed">
+                <template x-for="(_, i) in [0]">
+                  <span style="display: contents;">
+                    <dt>legacy_code</dt>
+                    <dd><code x-text="$store.registry.selectedVariant._legacy_code.reconstructed"></code></dd>
+                  </span>
+                </template>
+              </template>
+            </dl>
+          </section>
+
+          <section class="detail-section" x-show="$store.registry.selectedVariant.edition || $store.registry.selectedVariant.distribution">
+            <h3>Edition</h3>
+            <dl>
+              <template x-if="$store.registry.selectedVariant.edition">
+                <template x-for="(_, i) in [0]">
+                  <span style="display: contents;">
+                    <dt>edition</dt>
+                    <dd>
+                      <span x-text="$store.registry.selectedVariant.edition.is_limited ? 'Limitee' : 'Non limitee'"></span>
+                      <template x-if="$store.registry.selectedVariant.edition.total_copies">
+                        <span x-text="` (${$store.registry.selectedVariant.edition.total_copies} copies)`"></span>
+                      </template>
+                      <template x-if="$store.registry.selectedVariant.edition.numbered">
+                        <span> · Numerotee</span>
+                      </template>
+                      <template x-if="$store.registry.selectedVariant.edition.notes">
+                        <div class="muted" x-text="$store.registry.selectedVariant.edition.notes"></div>
+                      </template>
+                    </dd>
+                  </span>
+                </template>
+              </template>
+              <template x-if="$store.registry.selectedVariant.distribution">
+                <template x-for="(_, i) in [0]">
+                  <span style="display: contents;">
+                    <dt>distribution</dt>
+                    <dd>
+                      <span x-text="$store.registry.selectedVariant.distribution.channel"></span>
+                      <template x-if="$store.registry.selectedVariant.distribution.notes">
+                        <span class="muted" x-text="` — ${$store.registry.selectedVariant.distribution.notes}`"></span>
+                      </template>
+                    </dd>
+                  </span>
+                </template>
+              </template>
+            </dl>
+          </section>
+
+          <section class="detail-section" x-show="$store.registry.selectedVariant.format_details">
+            <h3>Format</h3>
+            <pre class="detail-yaml" x-text="$store.registry.yamlFor($store.registry.selectedVariant.format_details)"></pre>
+          </section>
+
+          <section class="detail-section" x-show="$store.registry.selectedVariant.joydiv_url || $store.registry.selectedVariant.discogs_url || ($store.registry.selectedVariant.other_sources?.length ?? 0) > 0">
+            <h3>Liens</h3>
+            <ul class="links-list">
+              <template x-if="$store.registry.selectedVariant.joydiv_url">
+                <li>
+                  <a :href="$store.registry.selectedVariant.joydiv_url" target="_blank" rel="noopener">
+                    joydiv.org →
+                  </a>
+                </li>
+              </template>
+              <template x-if="$store.registry.selectedVariant.discogs_url">
+                <li>
+                  <a :href="$store.registry.selectedVariant.discogs_url" target="_blank" rel="noopener">
+                    Discogs →
+                  </a>
+                </li>
+              </template>
+              <template x-for="src in $store.registry.selectedVariant.other_sources ?? []">
+                <li>
+                  <a :href="src" target="_blank" rel="noopener" x-text="src"></a>
+                </li>
+              </template>
+            </ul>
+          </section>
+
+          <section class="detail-section" x-show="$store.registry.selectedVariant.notes">
+            <h3>Notes</h3>
+            <p class="detail-notes" x-text="$store.registry.selectedVariant.notes"></p>
+          </section>
+
+        </div>
+      </template>
+    </div>
+    <div class="detail-backdrop" @click="$store.registry.selectedVariant = null"></div>
+  </aside>
+
+  <footer class="site-footer">
+    <p>
+      Donnees consultees a partir du registre canonique
+      <a href="https://github.com/adminquest/joy-division-releases" target="_blank" rel="noopener">joy-division-releases</a>.
+      Pour signaler une correction, ouvrir une issue ou une PR sur les YAML sources.
+    </p>
+  </footer>
+</body>
+</html>

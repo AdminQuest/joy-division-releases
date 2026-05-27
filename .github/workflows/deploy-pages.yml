@@ -1,0 +1,63 @@
+name: Build and deploy registry site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build site data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir PyYAML
+
+      - name: Build site data
+        run: python scripts/build_site_data.py
+
+      - name: Verify output
+        run: |
+          test -f site/data/all-variants.json || { echo "Output missing"; exit 1; }
+          size=$(stat -c %s site/data/all-variants.json)
+          echo "all-variants.json size: $size bytes"
+          if [ "$size" -gt 10485760 ]; then
+            echo "Output exceeds 10 MB safety threshold"; exit 1
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
