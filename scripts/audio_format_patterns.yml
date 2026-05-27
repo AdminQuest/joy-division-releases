@@ -1,14 +1,43 @@
 # Patterns regex pour parser les chaines libres "Format" du legacy.
 # Le matching est ordonne : le premier pattern qui matche gagne.
-# Les patterns mixtes audio+video (CD + DVD, etc.) sont reclasses
-# en coffret_skip via la cle mixed_audio_video_patterns.
+#
+# Architecture :
+#   - patterns : detection du support_type / count / size. Pas de color
+#     ici, la color est extraite par un post-processor dedie qui scrute
+#     la chaine format ET la colonne Version du legacy.
+#   - mixed_audio_video_patterns : detection des formats mixtes (CD+DVD)
+#     reclasses en coffret_skip.
+#   - box_set_patterns : detection des box sets / coffrets multi-formats,
+#     reclasses en coffret_skip.
+#   - video_patterns : detection du support video pour les fichiers
+#     VHS & DVD.
 #
 # Quand aucun pattern ne matche, le variant est produit en
-# documentation_quality: needs_review avec un support audio generique
+# documentation_quality: needs_review avec un support generique
 # (vinyl x1) a corriger manuellement.
 
 patterns:
-  # Disques vinyles : N LP, 2 LP, LP, etc.
+  # 1. Variantes textuelles d'abord (LP precede d'un color descriptor).
+  #    Ex: "white LP", "Red translucent marbled LP", "Splatter LP",
+  #        "Sunrise Splatter LP"
+  - regex: '(?i)^(?:V\d+\s*:\s*)?(\d*)\s*x?\s*[A-Za-z]+(?:\s+[A-Za-z]+)*\s+LP\s*$'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count_group: 1
+
+  # 2. "V1 : 3 LP", "V2 : 3 CDr", etc.
+  - regex: '(?i)^V\d+\s*:\s*(\d+)\s*[xX]?\s*LP\b'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count_group: 1
+  - regex: '(?i)^V\d+\s*:\s*(\d+)\s*[xX]?\s*CD'
+    result:
+      support_type: cd
+      count_group: 1
+
+  # 3. Vinyles "N LP" ou "LP" en chef de chaine
   - regex: '(?i)^(\d+)\s*[xX]?\s*LP\b'
     result:
       support_type: vinyl
@@ -20,17 +49,17 @@ patterns:
       size: '12"'
       count: 1
 
-  # CD : N CD, 2 CD, CD
-  - regex: '(?i)^(\d+)\s*[xX]?\s*CD\b'
+  # 4. CD : "N CD", "CD", "💿 CD" (avec emoji ou autre prefixe symbolique)
+  - regex: '(?i)^[\W_]*\s*(\d+)\s*[xX]?\s*CD\b'
     result:
       support_type: cd
       count_group: 1
-  - regex: '(?i)^CD\b'
+  - regex: '(?i)^[\W_]*\s*CD\b'
     result:
       support_type: cd
       count: 1
 
-  # Cassettes : K7 / cassette / N K7 / N cassette
+  # 5. Cassettes
   - regex: '(?i)^(\d+)\s*[xX]?\s*(?:K7|cassette)'
     result:
       support_type: cassette
@@ -40,13 +69,13 @@ patterns:
       support_type: cassette
       count: 1
 
-  # Vinyles taille specifique : 7", 10", 12" (avec flexi en sous-cas)
-  - regex: '(?i)^(\d+)\s*[xX]?\s*7["’”''"]+\s*(?:SP\s*)?flexi'
+  # 6. Flexi
+  - regex: '(?i)^(\d+)\s*[xX]?\s*7["’”'']+\s*(?:SP\s*)?flexi'
     result:
       support_type: flexi
       size: '7"'
       count_group: 1
-  - regex: '(?i)^7["’”''"]+\s*(?:SP\s*)?flexi'
+  - regex: '(?i)^7["’”'']+\s*(?:SP\s*)?flexi'
     result:
       support_type: flexi
       size: '7"'
@@ -56,40 +85,39 @@ patterns:
       support_type: flexi
       count: 1
 
-  - regex: '(?i)^(\d+)\s*[xX]?\s*7["’”''"]'
+  # 7. Vinyles avec taille explicite : 7", 10", 12"
+  - regex: '(?i)^(\d+)\s*[xX]?\s*7["’”'']'
     result:
       support_type: vinyl
       size: '7"'
       count_group: 1
-  - regex: '(?i)^7["’”''"]'
+  - regex: '(?i)^7["’”'']'
     result:
       support_type: vinyl
       size: '7"'
       count: 1
-
-  - regex: '(?i)^(\d+)\s*[xX]?\s*10["’”''"]'
+  - regex: '(?i)^(\d+)\s*[xX]?\s*10["’”'']'
     result:
       support_type: vinyl
       size: '10"'
       count_group: 1
-  - regex: '(?i)^10["’”''"]'
+  - regex: '(?i)^10["’”'']'
     result:
       support_type: vinyl
       size: '10"'
       count: 1
-
-  - regex: '(?i)^(\d+)\s*[xX]?\s*12["’”''"]'
+  - regex: '(?i)^(\d+)\s*[xX]?\s*12["’”'']'
     result:
       support_type: vinyl
       size: '12"'
       count_group: 1
-  - regex: '(?i)^12["’”''"]'
+  - regex: '(?i)^12["’”'']'
     result:
       support_type: vinyl
       size: '12"'
       count: 1
 
-  # EP / SP / Maxi : suppose 12" vinyl par defaut
+  # 8. EP / SP / Maxi : suppose 12" vinyl par defaut
   - regex: '(?i)^EP\b'
     result:
       support_type: vinyl
@@ -106,19 +134,19 @@ patterns:
       size: '12"'
       count: 1
 
-  # Picture disc et test pressing : variantes de vinyl
-  - regex: '(?i)pic(?:ture)?\s*disc'
+  # 9. Picture disc et test pressing : capture la couleur traillante
+  - regex: '(?i)^pic(?:ture)?\s*disc'
     result:
       support_type: vinyl
       size: '12"'
       count: 1
-      color: 'picture disc'
+      color_default: 'picture disc'
   - regex: '(?i)test\s*pressing'
     result:
       support_type: vinyl
       size: '12"'
       count: 1
-      color: 'test pressing'
+      color_default: 'test pressing'
 
 # Formats mixtes : audio + video sur une meme ligne.
 # Ces lignes sont reclassees en coffret_skip (traitees manuellement
@@ -129,6 +157,45 @@ mixed_audio_video_patterns:
   - '(?i)CD\s*\+\s*VHS'
   - '(?i)CD\s*\+\s*Blu[\s-]?ray'
   - '(?i)DVD\s*\+\s*CD'
+
+# Box Set patterns : detection des coffrets multi-formats
+# (cas typique des bootlegs "Box Set Version 1" avec 4 LPs + CD).
+# Reclasses en coffret_skip.
+box_set_patterns:
+  - '(?i)^Box\s+Set'
+  - '(?i)^Tote\s+Bag'
+  - '(?i)boxed\s+CD'
+
+# Tokens de couleur reconnus (post-processor color extraction).
+# Le post-processor capture les sequences contiguees de ces tokens
+# dans la chaine format (et dans la colonne Version) pour produire
+# le champ supports[].color.
+color_tokens:
+  - splatter
+  - swirl
+  - marbled
+  - translucent
+  - transparent
+  - black
+  - white
+  - red
+  - blue
+  - green
+  - yellow
+  - orange
+  - purple
+  - pink
+  - gold
+  - silver
+  - brown
+  - grey
+  - gray
+  - ivory
+  - amber
+  - clear
+  - smoke
+  - dark
+  - light
 
 # Patterns pour identifier le type video dans les fichiers VHS & DVD.
 video_patterns:
