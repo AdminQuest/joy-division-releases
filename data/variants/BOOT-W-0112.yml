@@ -1,0 +1,35 @@
+variant_id: BOOT-W-0112
+release_type: bootleg
+canonical_title: Wilderness
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://joydiv.org/W30.htm
+notes: 'European LP
+
+  Label: Stylus Groove, Catalogue number: SGVNY140
+
+  Hand pressed on multicoloured (four colours) vinyl - black, red, blue and green.
+
+  500 hand-numbered copies, the individual number is written inside a white square in the bottom left corner on the back cover:
+  "This edition ___/500". Copies numbered 01-10 issued with a certificate of authenticity inside a plain white envelope with
+  only the number stamped on the front.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode on back cover:  5 061074 740273'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 114
+  source_xlsx: Bootlegs - W.xlsx

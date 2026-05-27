@@ -1,0 +1,42 @@
+variant_id: BOOT-B-0006
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BB2
+  group_role: color_variation
+notes: 'V2b : Australian release - it''s the same as the LP above but with a CD included. 100 copies on white vinyl. 100 copies
+  on marbled yellow vinyl. Released 2010
+
+  Plain black labels with a capital letter "A" (/"B"),
+
+  Numbered sticker on resealable clear outer sleeve, CD housed in a plain clear plastic wallet.
+
+  CD tracks are the same as the LP
+
+  The CD is a copy of the 2nd CD in A Journey That Leads To The Sun 2CD'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'LP: No matrix numbers'
+    - 'CD matrix number: ICE AGE DISC 2'
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - e
+  reconstructed: BB2e
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - B.xlsx

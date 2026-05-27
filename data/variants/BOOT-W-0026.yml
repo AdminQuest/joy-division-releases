@@ -1,0 +1,38 @@
+variant_id: BOOT-W-0026
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: UK
+notes: 'V6 flat label : RZM 200. Record label: RZM Productions Ltd. Catalogue No: RZM 200 (LP) and RZM 100 (7''''). Black
+  vinyl with free black vinyl 7''''. The LP in pressed on thinner vinyl than the original above. Black and white glossy (not
+  laminated) sleeve. "Warsaw" on spine. Printed labels, see images below. Some copies have plain white labels.Record labels:
+  Similar to the original but RZM 200A/B on the left of the label - see below. UK copyright notice and states "Made in England".
+  The labels are flat (no contours like the original edition). For many years we thought this was the original British Warsaw
+  but we now believe the version with the "o" misprint on the cover (see above) was the first
+
+  The LP was also issued on its own with an A4 insert sleeve, presumably because they pressed more LPs than covers, which
+  states "This is the original US pressing".'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'LP: RZM 200 A EG / RZM 200 B EG (in large letters, wide run-off grooves)'
+    - '7": RZM 100 A EG / RZM 100 B EG (in large letters)'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - o
+  reconstructed: BW4o
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - W.xlsx

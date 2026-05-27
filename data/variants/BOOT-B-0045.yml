@@ -1,0 +1,28 @@
+variant_id: BOOT-B-0045
+release_type: bootleg
+canonical_title: Box File
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B5.htm
+country_or_pressing_place: Japan
+notes: 'Support CDr (CD enregistrable)
+
+
+  Note on discs: ''Engineered, produced & manufactured, Milano, Italia.'''
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 3
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 47
+  source_xlsx: Bootlegs - B.xlsx
+  version_marker: V6

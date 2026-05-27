@@ -1,0 +1,32 @@
+variant_id: BOOT-Y-0006
+release_type: bootleg
+canonical_title: YMCA 2-8-79
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: Y
+joydiv_url: https://www.discogs.com/fr/Joy-Division-YMCA-2-8-79/release/14337599
+country_or_pressing_place: UK
+notes: "2013, Acme ‎– ADLP1099\nUK LP released 2013. \nBlack vinyl. Stickered sleeve \"Joy Division YMCA 2-8-79 Previously\
+  \ unreleased classic 1979 London live recording Comes with poster insert 180 gram vinyl pressing Acme Records ADLP 1099”.\
+  \ Poster insert"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: ADLP 1099 A MPO'
+    - 'Matrix / Runout: ADLP 1099 B MPO'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - Y.xlsx

@@ -1,0 +1,32 @@
+variant_id: BOOT-R-0019
+release_type: bootleg
+canonical_title: Roots
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R7.htm
+country_or_pressing_place: Europe
+notes: '2008 ; It appears that the original intention was to insert a poster and the sleeves were printed with this promise.
+  However, due to financial constraints the planned poster was never produced. We know for sure that not all copies have the
+  insert. It''s quite likely that a reseller put it into the copies they sold.
+
+  "Limited Edition of 150 copies with poster.» Some copies don''t, but have the same announcement...'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'No info in the runout grooves : Matrix information has been scratched and is unreadable.'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '8'
+  - null
+  reconstructed: BR8
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - R.xlsx

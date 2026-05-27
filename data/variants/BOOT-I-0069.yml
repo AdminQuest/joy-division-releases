@@ -1,0 +1,30 @@
+variant_id: BOOT-I-0069
+release_type: bootleg
+canonical_title: Isolation
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I8.htm
+country_or_pressing_place: Germany
+notes: 'V2-e : red/white cover'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - 'Matrix / Runout: JD-1'
+    - 'Matrix / Runout: JD-II'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '15'
+  - k
+  reconstructed: BI15k
+  has_suffix: false
+  source_row: 77
+  source_xlsx: Bootlegs - I.xlsx

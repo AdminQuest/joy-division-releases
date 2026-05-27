@@ -1,0 +1,31 @@
+variant_id: BOOT-W-0028
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: ??
+notes: 'V8 pic disc petit Warsaw : pré-1984. No catalogue number. Similar to the picture disc above but with "WARSAW" in sm1all
+  letter below. the image on the picture side, and a black "circle" around the outer edge. Unlike the above LP the matrix
+  numbers are on the "correct" sides'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: picture disc
+    matrices:
+    - 'Picture side: RZM 200 A'
+    - 'Tracklist side: RZM 200 B'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - q
+  reconstructed: BW4q
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,33 @@
+variant_id: OFF-I-0006
+release_type: officiel
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: UK
+notes: 'V3.3 : UK pressing, 2004/2005
+
+  3rd(?) fake reissue of the official 7" release on Enigma.
+
+  Black vinyl. Almost exact replica of original issue, but there is no serrated edge around the label. A white vinyl pressing
+  of supposedly only 100 copies was released in 2005. Another limited repressing of 75 copies, this time on blue vinyl (colour
+  is darker blue and less transparent than the USA blue vinyl), turned up in 2006.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: white
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

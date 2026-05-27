@@ -1,0 +1,36 @@
+variant_id: BOOT-L-0062
+release_type: bootleg
+canonical_title: Live Bains Douches Paris 1979
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L36.htm
+country_or_pressing_place: France
+notes: 'French CD released 2014
+
+  Glossy picture card sleeve
+
+  Label: "Unknown Pleasures Records"
+
+  Limited to 300 copies according to the sleeve, which also has the following information; "Remaster by Drew & Vince (2010)
+  Picture and layout by Deadly Sexy Carl CD promo not for sale"
+
+  These were given away for free with every order from a French Cold Wave label'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'CD matrix: JOY DIVISION LIVE PARIS 1979'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '22'
+  - null
+  reconstructed: BL22
+  has_suffix: false
+  source_row: 65
+  source_xlsx: Bootlegs - L.xlsx

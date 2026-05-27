@@ -1,0 +1,35 @@
+variant_id: BOOT-I-0025
+release_type: bootleg
+canonical_title: Incubation
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I15.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BI7
+  group_role: color_variation
+notes: 'V2 : CVL Records 2013, black vinyl, 500 copies. Includes folded 50cm x 70cm black & white Ian Curtis poster
+
+  (je n''ai pas le poster)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - JOY-D A
+    - JOY D B
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '7'
+  - b
+  reconstructed: BI7b
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - I.xlsx

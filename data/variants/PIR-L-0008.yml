@@ -1,0 +1,50 @@
+variant_id: PIR-L-0008
+release_type: pirate
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: USA
+notes: 'FAC·XXIII·XII
+
+  Widely believed to have been released in 700 numbered copies, however copy 724 in blue has been verified to exist. So exact
+  total number therefore unknown. Also available without any number.
+
+
+  Released in two colour variants:
+
+  1.
+
+  Side A - Black and white image on black background.
+
+  Side B - Grey line around unique vinyl number.
+
+  2.
+
+  Side A - Black and blue image on black background.
+
+  Side B - Blue line around unique vinyl number.
+
+  Enclosed in PVC sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: picture disc
+    matrices:
+    - 'Informations sur la matrice (Runout side A): FAC·XXIII-A ⁀⁀'
+    - 'Informations sur la matrice (Runout side B): FAC.XXIII-B ⁀⁀ " CARESSING THE MARBLE "'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

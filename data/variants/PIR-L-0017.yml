@@ -1,0 +1,38 @@
+variant_id: PIR-L-0017
+release_type: pirate
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: Italy
+notes: 'Radiation Reissues – RRS71002
+
+  Pressé par – GZ Media – 129775H
+
+  Limited edition of 500 Copies - this is the standard black vinyl edition - not the picture disc edition.
+
+
+  Under License from San Juan Music Group
+
+  2015 Radiation Records. All Rights Reserved'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Code-barres: 8 89397 10440 5'
+    - 'Informations sur la matrice (Side A): 129775H1/A'
+    - 'Informations sur la matrice (Side B): 129775H2/A'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

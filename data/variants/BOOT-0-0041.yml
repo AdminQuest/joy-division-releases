@@ -1,0 +1,55 @@
+variant_id: BOOT-0-0041
+release_type: bootleg
+canonical_title: 24 hours (Twenty Four Hours)
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/T9.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BT11
+  group_role: color_variation
+notes: 'V1 : Stiff 01. American LP released 2019
+
+  Sleeve: burgundy / maroon with gold print
+
+  Printed white labels
+
+  Limited to 50 hand-numbered copies (n°42/50), 5 multi-colour splatter vinyl versions, 10 copies of each colour, all with
+  clear base;
+
+  - black/yellow/red/blue/green/white
+
+  - yellow/green /purple/white/grey/blue
+
+  - yellow/red/black/white
+
+  - white/pink/blue/green/black (mine)
+
+  - yellow/white/blue/purple
+
+  This LP''s test pressings were released as Live at Malvern Winter Gardens, April 5th 1980
+
+  half black half clear (#1)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter
+    matrices:
+    - M80 A
+    - M80 B
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '11'
+  - e
+  reconstructed: BT11e
+  has_suffix: false
+  source_row: 51
+  source_xlsx: Bootlegs - T.xlsx
+  version_marker: V1

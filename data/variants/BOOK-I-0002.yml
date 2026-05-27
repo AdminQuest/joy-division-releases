@@ -1,0 +1,28 @@
+variant_id: BOOK-I-0002
+release_type: livre
+canonical_title: In A Lonely Place - Ecrits Rock
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: needs_review
+joydiv_letter: I
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - Michka Assayas
+  publisher: Le mot et le reste
+  publication_year: 2013
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Livres -.xlsx

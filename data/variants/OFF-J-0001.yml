@@ -1,0 +1,32 @@
+variant_id: OFF-J-0001
+release_type: officiel
+canonical_title: John Peel Sessions 1
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: verified
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/pe.htm
+country_or_pressing_place: UK
+notes: Strange Fruit ‎– SFPS013. 1er pressage UK de 1986. Original 12 " Released 1986. Recorded January 31, 1979 First broadcast
+  on John Peel radio show February 14th 1979.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Label side A): SFPS013 - A'
+    - 'Matrix / Runout (Label side B): SFPS013 - B'
+    - 'Matrix / Runout (Runout etching side A): SFPS 013A-1 MT. Adrenalin B.J'
+    - 'Matrix / Runout (Runout etching side B): SFPS 013 B-1 MT. Adrenalin CTS'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - J
+  - '1'
+  reconstructed: O12J1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 12_ - John Peel Sessions.xlsx

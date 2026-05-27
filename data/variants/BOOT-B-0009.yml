@@ -1,0 +1,47 @@
+variant_id: BOOT-B-0009
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BB2
+  group_role: color_variation
+notes: 'V3 : Australian release - as above
+
+  Released 2014 on clear, red, green, and black vinyl. 100 copies of each colour are hand numbered and include the CD. Also
+  a one-off test pressing on splatter vinyl, no printed sleeve
+
+  Plain black labels with white print and white border.
+
+  The black vinyl version seems to have these labels glued on top of generic plain white labels
+
+  Numbered sticker on resealable clear outer sleeve, CD housed in a plain clear plastic wallet
+
+  CD tracks are the same as the LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - 'LP matrix numbers:'
+    - JD_BOTE -A-
+    - JD_BOTE -B-
+    - 'CD matrix number:'
+    - ICE AGE DISC 2
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - h
+  reconstructed: BB2h
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - B.xlsx

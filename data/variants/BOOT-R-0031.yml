@@ -1,0 +1,34 @@
+variant_id: BOOT-R-0031
+release_type: bootleg
+canonical_title: Russell Club - June 13 1979 Manchester
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R5.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BR10
+  group_role: color_variation
+notes: WHITE vinyl; plain blue & grey labels, "limited edition colour vinyl" sleeve sticker, plain blue labels
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'V5 :'
+    - LP-150 A DMM G.P.
+    - LP-150 B.
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '10'
+  - j
+  reconstructed: BR10j
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - R.xlsx

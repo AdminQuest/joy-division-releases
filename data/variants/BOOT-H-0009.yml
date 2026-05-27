@@ -1,0 +1,36 @@
+variant_id: BOOT-H-0009
+release_type: bootleg
+canonical_title: Here are the Young Men
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H2.htm
+discogs_url: https://www.discogs.com/fr/release/1850948-Joy-Division-Here-Are-The-Young-Men
+country_or_pressing_place: Europe ??
+variant_group:
+  group_id: BH4
+  group_role: pressing_variation
+notes: '(LP) HAWK 009 HAWKEYE 1985
+
+  Released July 1985. Black and white cover. Mono.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - HAWK 009 A
+    - HAWK 009 B
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '4'
+  - c
+  reconstructed: BH4c
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - H.xlsx

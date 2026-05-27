@@ -1,0 +1,60 @@
+variant_id: BOOT-A-0009
+release_type: bootleg
+canonical_title: Abstract Sounds
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: http://joydiv.org/A18.htm
+country_or_pressing_place: Asia
+notes: 'Asian bootleg released 2023
+
+  Released as a test pressing of the above
+
+  Nippon Music
+
+  Limited edition 13 numbered copies
+
+  Black vinyl
+
+  Non gatefold sleeve
+
+  The spine has band name, title and PROAS23 printed on it
+
+  White custom labels with TEST PRESSING, Customer, Date, Cat No, Operator and QC CHECKED printed on them in black, the A-side
+  label has hand-written on it after Customer: 22M006, after Date: 2023-2-3, and after Cat No: 17008-138427 AB, the C-side
+  label has hand-written on it after Customer: 22M007, after Date: 2023-1-13, and after Cat No: 17008-138427 CD
+
+  The back cover has a track listing and For Promotional Use Only  2022 Nippon Music  All Rights Reserved and Limited Edition
+  One Pressing Only printed on it, and a white square in the bottom right corner with the individual number in black
+
+
+  Also included:
+
+  Postcard
+
+  Slipmat
+
+  Double-sided printed insert with track listing, recording details and liner notes'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Test pressing
+    matrices:
+    - 17008-138427 A
+    - 17008-138427 B
+    - 17008-138427 C
+    - 17008-138427 D
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - A.xlsx

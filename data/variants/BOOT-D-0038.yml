@@ -1,0 +1,29 @@
+variant_id: BOOT-D-0038
+release_type: bootleg
+canonical_title: Decades
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D10.htm
+country_or_pressing_place: Switzerland
+notes: 'FACsTORY. Swiss fanzine and interview CD in a box. 100 numbered copies.
+
+  First 5 copies printed on black paper (white ink), the rest on grey paper (black ink)
+
+  Issued 18th May 2000 - on the 20th anniversary of Ian''s death'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '11'
+  - null
+  reconstructed: BD11
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Bootlegs - D.xlsx

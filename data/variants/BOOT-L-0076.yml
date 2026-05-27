@@ -1,0 +1,39 @@
+variant_id: BOOT-L-0076
+release_type: bootleg
+canonical_title: Live in Paris
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L10.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BL29
+  group_role: color_variation
+notes: "JD 1984 - European double LP released August 1984. Black and white folder cover. \n[x]First edition had one red vinyl\
+  \ LP and one green LP. \nSides A, B and C are an audience recording of the concert. Side D features all 5 songs from the\
+  \ first radio broadcast of this concert. \nSee also Paris 2LP which is a poorer sounding copy of this release with tracks\
+  \ D4 and D5 omitted\nSee also Le Terme part III which is simply disc 2 (black vinyl reissue) in a different sleeve. The\
+  \ matrix numbers are identical."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: red
+    matrices:
+    - 'Matrix / Runout: JD 1984 A'
+    - 'Matrix / Runout: JD 1984 B'
+    - 'Matrix / Runout: JD 1984 C'
+    - 'Matrix / Runout: JD 1984 D'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '29'
+  - a
+  reconstructed: BL29a
+  has_suffix: false
+  source_row: 79
+  source_xlsx: Bootlegs - L.xlsx

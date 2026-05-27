@@ -1,0 +1,40 @@
+variant_id: OFF-R-0001
+release_type: officiel
+canonical_title: Radio Transmissions. The Complete BBC Recordings
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipMM0Y4WVD7Rxses-v6w89mSC3ffw-H_p-kMjbpz?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+discogs_url: https://www.discogs.com/fr/Joy-Division-Radio-Transmissions-The-Complete-BBC-Recordings/release/17856955
+country_or_pressing_place: UK
+notes: 'Strange Fruit - 2021 UK LP 180g vinyl
+
+  Pirate copy of The Complete BBC Recordings in different packaging:
+
+  New sleeve with different Ian Curtis images front & back from the Something Else TV performance.
+
+  Hype sticker attached to the outer plastic protective sleeve.
+
+  The interview (B5) was cut short on this release. A longer version can be heard on Joy Division - The Best Of Joy Division,
+  at the end of CD2.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): DIV01A'
+    - 'Matrix / Runout (Side B): DIV01B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,33 @@
+variant_id: BOOT-B-0037
+release_type: bootleg
+canonical_title: Bournemouth
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B3.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BB5
+  group_role: color_variation
+notes: "TAKRL 1405. 500 Copies. \nV1 : Photocopied insert details other releases on the same label. The insert lists Digital\
+  \ and Transmission between the two tracks on side two - but they are not on the album."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A-side runout, etched): TAKRL-1405-1'
+    - 'Matrix / Runout (B-side runout, etched): TAKRL-1405-2'
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '5'
+  - a
+  reconstructed: BB5a
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Bootlegs - B.xlsx

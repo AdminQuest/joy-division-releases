@@ -1,0 +1,30 @@
+variant_id: BOOT-G-0001
+release_type: bootleg
+canonical_title: Glass Is...
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G1.htm
+country_or_pressing_place: Australia
+notes: MNL 3528 ‎– FACT XXV. The actual title is "Class Is", as stated on the labels. However, due to bad typeface, the title
+  on the cover appears as "Glass Is ».
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode (Runout side A): MNL-3528-A'
+    - 'Barcode (Runout side B): MNL-3528-B'
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '1'
+  - null
+  reconstructed: BG1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - G.xlsx

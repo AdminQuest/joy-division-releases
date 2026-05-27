@@ -1,0 +1,34 @@
+variant_id: PIR-U-0004
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/8234399
+country_or_pressing_place: Europe
+notes: 'N° 3 : Fact 10-P 2006. White "test pressing" of the above pirate picture disc. 10 copies
+
+  Clear plastic sleeve, white sticker with black text "Joy Division - Unknown Pleasures Test Pressing LP picture disc". Both
+  sides of the LP look identical'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Test pressing
+    matrices:
+    - Fact 10-P A1
+    - Fact 10-P B1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

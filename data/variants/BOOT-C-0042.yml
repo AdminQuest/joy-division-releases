@@ -1,0 +1,33 @@
+variant_id: BOOT-C-0042
+release_type: bootleg
+canonical_title: Cross Of Iron
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C3.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BC13
+  group_role: color_variation
+notes: There is a very rare pink vinyl version with the same matrix number. We've only come across two of these but there
+  could be many more. One had a plain sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: marbled pink
+    matrices:
+    - 'Matrix / Runout: FUNN-28-A L-35498'
+    - 'Matrix / Runout: FUNN-28-B L-35498X'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '13'
+  - b
+  reconstructed: BC13b
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Bootlegs - C.xlsx

@@ -1,0 +1,34 @@
+variant_id: BOOT-W-0036
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: USA
+notes: 'V14 cercle : RZM 200. American LP. Very similar to the listing above except : LP has plain white/tan labels with raised
+  outer "circle" and wide run-out grooves ; 7" has different labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'LP matrix numbers:'
+    - RZM 200 A
+    - RZM 200 B
+    - '7" matrix - no hyphens:'
+    - RZM 100 A
+    - RZM 100 B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - y
+  reconstructed: BW4y
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Bootlegs - W.xlsx

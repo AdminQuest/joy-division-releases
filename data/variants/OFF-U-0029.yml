@@ -1,0 +1,52 @@
+variant_id: OFF-U-0029
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/7333414
+country_or_pressing_place: USA
+notes: 'Qwest Records ‎– 1-25840 - SRC Pressing
+
+  Mastered and pressed by Specialty Records Corporation (SRC). Textured sleeve, printed inner sleeve.
+
+  Re-release of 1980 Factory US release FACTUS 1.
+
+  First cat# from spine and inner sleeve, second cat# from label.
+
+  All works controlled by Zomba Enterprises Inc. ASCAP
+
+  A Factory Records Product
+
+  Licensed from Factory Records, Manchester, England for the United States by Warner Bros. Records Inc., a Warner Communications
+  Company
+
+  ℗ & © 1979 Factory Communications Limited
+
+  Manufactured and distributed by Warner Bros. Records Inc., a Warner Communications Company. Made in USA.
+
+  Some copies have a gold promo stamp bottom front sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode: 0 7599-25840-1 2'
+    - 'Matrix / Runout (Runout side A - Variation 1): I-25840-A-SR1 I-I (SRC logo)'
+    - 'Matrix / Runout (Runout side B - Variation 1): I-25840-B-SR1 I-I (SRC logo)'
+    - 'Matrix / Runout (Runout side A - Variation 2): I-25840-A-SR1 I-I (SRC logo)'
+    - 'Matrix / Runout (Runout side B - Variation 2): I-25840-B-SR2 I-I (SRC logo)'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

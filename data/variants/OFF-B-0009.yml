@@ -1,0 +1,36 @@
+variant_id: OFF-B-0009
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Les-Bains-Douches/release/1697743
+country_or_pressing_place: Italy
+notes: 'Released as a double LP by Get Back Records (Italy) blue vinyl 2001 cat.no: GET 79'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Blue
+    matrices:
+    - 'Barcode (Text): 8 013252 317910'
+    - 'Barcode (String): 8013252317910'
+    - 'Matrix / Runout (Runout Side A hand-etched): GET 79 A'
+    - 'Matrix / Runout (Runout Side B hand-etched): GET 79 B'
+    - 'Matrix / Runout (Runout Side C hand-etched): GET 79 · C'
+    - 'Matrix / Runout (Runout Side D hand-etched): GET 79 D'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

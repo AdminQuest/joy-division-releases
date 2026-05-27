@@ -1,0 +1,36 @@
+variant_id: VID-F-0002
+release_type: video
+canonical_title: Falling Up
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/fudvd.htm
+country_or_pressing_place: ??
+notes: 'Treble Clef TCF024
+
+  Cat No: TCF024
+
+  Label: Treble Clef
+
+  Released: 15 July 2013
+
+  Region free DVD
+
+
+  Apparantly a reissue of Under Review'
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

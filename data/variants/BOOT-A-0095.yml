@@ -1,0 +1,30 @@
+variant_id: BOOT-A-0095
+release_type: bootleg
+canonical_title: Auto-Suggestion
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A5.htm
+country_or_pressing_place: USA
+notes: 'Poor quality single sheet "sleeve"
+
+  Source: Studio'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout Side A): 438 VRP-3058 DMI'
+    - 'Matrix / Runout (Runout Side B): 438 VRP-3059 DMI'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '21'
+  - null
+  reconstructed: BA21
+  has_suffix: false
+  source_row: 118
+  source_xlsx: Bootlegs - A.xlsx

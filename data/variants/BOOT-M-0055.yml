@@ -1,0 +1,29 @@
+variant_id: BOOT-M-0055
+release_type: bootleg
+canonical_title: The Moonlight Club Complete Recordings
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M6.htm
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BM13
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: splatter blue
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '13'
+  - c
+  reconstructed: BM13c
+  has_suffix: false
+  source_row: 58
+  source_xlsx: Bootlegs - M.xlsx

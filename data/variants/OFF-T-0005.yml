@@ -1,0 +1,46 @@
+variant_id: OFF-T-0005
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: Australia
+notes: 'GAP Records ‎– FAC 13/12
+
+  Factory Records - Dec.80 - JD - FAC 13.12 - Novelty
+
+  Published by Fractured Music
+
+  A Fractured Music
+
+  A Factory Record
+
+  Date on labels: 12/9/80
+
+  Released By GAP Records in Australia under licence
+
+  M&D by CBS Records Australia Limited.
+
+
+  Promo : Promotional item with white labels instead of black labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, etched): FAC 13-12-One MX 21505̶0̶ 49'
+    - 'Matrix / Runout (Runout side B, etched): FAC 13-12-Two MX 215050'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

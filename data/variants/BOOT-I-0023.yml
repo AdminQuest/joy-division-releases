@@ -1,0 +1,27 @@
+variant_id: BOOT-I-0023
+release_type: bootleg
+canonical_title: In Completion
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: I
+country_or_pressing_place: Europe
+notes: Sonic Boom SON0405
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 8 23564 03969 5'
+    - 'Matrix / Runout: 111404 SON0405 110642MP'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - I.xlsx

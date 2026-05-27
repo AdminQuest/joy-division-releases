@@ -1,0 +1,40 @@
+variant_id: PIR-F-0001
+release_type: pirate
+canonical_title: A Factory Sample
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F9.htm
+country_or_pressing_place: UK ?
+notes: 'Counterfeit copy of A Factory sample (V1)
+
+  1) No shrink-wrap. The original sleeve was a 14" x 14" bit of paper folded in half then shrink wrapped
+
+  2) No stickers
+
+  3) The matrix numbers are in large hand written characters
+
+  4) No groove notations. The original had "Everything is repairable everything is broken"
+
+  5) The counterfeit has thick paper (cardboard) sleeve, the original had a thin paper sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: black
+    matrices:
+    - 'nformations sur la matrice (Aside): FAC2-A'
+    - 'Informations sur la matrice (Beside): FAC2-B'
+    - 'Informations sur la matrice (Seaside): FAC2-C'
+    - 'Informations sur la matrice (Decide): FAC2-D'
+_legacy_code:
+  segments:
+  - P
+  - '7'
+  - null
+  - null
+  reconstructed: P7
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 7_ - A Factory Sample.xlsx

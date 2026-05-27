@@ -1,0 +1,36 @@
+variant_id: PIR-T-0001
+release_type: pirate
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: 'Europe ?
+
+  France ?'
+notes: '2021 European picture disc
+
+  Clear generic protective plastic outer sleeve
+
+  Limited edition 300 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: picture disc
+    matrices:
+    - 229208M1/A
+    - 229208M2/A
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

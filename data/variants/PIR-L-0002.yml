@@ -1,0 +1,29 @@
+variant_id: PIR-L-0002
+release_type: pirate
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Europe
+notes: '[x]2011, Vinyl Lovers ; 12" 6 track pirate EP ; Clear vinyl. Clear outer printed sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: Clear
+    matrices:
+    - 'Matrix / Runout: 96576E1/A'
+    - 'Matrix / Runout: 96576E2/A'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

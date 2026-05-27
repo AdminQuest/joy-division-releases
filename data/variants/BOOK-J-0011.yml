@@ -1,0 +1,29 @@
+variant_id: BOOK-J-0011
+release_type: livre
+canonical_title: Joy
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk14.htm
+notes: Italian issue. 7" size paperback. Re-issued in 1998 as All The Lyrics
+format_details:
+  type: book
+  authors:
+  - Marco Broll
+  publisher: Stampa Alternativa
+  publication_year: 1988
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 54
+  source_xlsx: Livres -.xlsx

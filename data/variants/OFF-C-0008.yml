@@ -1,0 +1,41 @@
+variant_id: OFF-C-0008
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Benelux
+notes: 'Factory ‎– FACT∙XXV, Factory ‎– FACT. 25
+
+  Printed by Garrod And Lofthouse Limited
+
+  Cover comes in hard paper glossy. With printed FACT 25 in the top right corner of the back side.
+
+  Inner sleeve is normal paper. With printed FACT 25 in the left bottom corner.
+
+  This version might be a Benelux pressing as it has the same matrix runout as the Benelux press from the same year (The Benelux
+  pressing with a printed paper inner sleeve.)
+
+  But this version might be the 1 Scandinavian pressing and has been imported to Scandinavia before it was finally lisenceed
+  to the Scandinavian territory .'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Stamped): FACT-25-A //48507-1Y'
+    - 'Matrix / Runout (Stamped): FACT-25-B //48508-1Y'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - Closer.xlsx

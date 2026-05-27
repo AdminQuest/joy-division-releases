@@ -1,0 +1,35 @@
+variant_id: OFF-L-0002
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: UK
+notes: 'Factory ‎– FAC•XXIII•XII Repress
+
+  Shiny, not laminated sleeve. No run-off groove messages.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout A - Variant 1): FAC 23 A4 Rc'
+    - 'Matrix / Runout (Runout B - Variant 1): FAC 23 B4 Rc'
+    - 'Matrix / Runout (Runout A - Variant 2): FAC 23 A4 Rc Spectacle is A Ritual'
+    - 'Matrix / Runout (Runout B - Variant 2): FAC 23 B4 Rc PURE SPIRIT'
+    - 'Matrix / Runout (Label A): FAC 23-12A'
+    - 'Matrix / Runout (Label B): FAC 23-12B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

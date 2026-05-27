@@ -1,0 +1,34 @@
+variant_id: OFF-S-0055
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/9188466-Joy-Division-Substance
+notes: Stiletto – 492.044, Factory – Fact250
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Code-barres: none'
+    - 'Informations sur la matrice (Printed on A Side Label): 492.044-A'
+    - 'Informations sur la matrice (Printed on B Side Label): 492.044-B'
+    - 'Informations sur la matrice (Run Out Groove A): 492044 A (p) 1991 S NE 1-1-4'
+    - 'Informations sur la matrice (Run Out Groove B): 492044 B (p) 1991 S NE 1-1-6'
+    - 'Autre (Código Geral De Comércio ): C.G.C. 43.203.520/0002-95'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

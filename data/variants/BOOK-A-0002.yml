@@ -1,0 +1,30 @@
+variant_id: BOOK-A-0002
+release_type: livre
+canonical_title: All The Lyrics
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/bk20.htm
+notes: "Version 1998 de Joy\nItalian issue\n7\" size paperback\nThis is basically a reissue of \"Joy\" from 1988, this time\
+  \ with a regular size 5\" CD containing the same 4 songs as last time. \n\nApart from some new pictures (only a few of Ian\
+  \ Curtis) this is still not a book you really need in your collection."
+format_details:
+  type: book
+  authors:
+  - Marco Broll
+  publisher: Stampa Alternativa
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Livres -.xlsx

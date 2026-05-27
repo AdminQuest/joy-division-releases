@@ -1,0 +1,40 @@
+variant_id: BOOT-H-0004
+release_type: bootleg
+canonical_title: Heart And Soul
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H8.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BH2
+  group_role: color_variation
+notes: '(LP) FAC 204 Factory Records 2004
+
+  Italian LP released 2004
+
+  Black vinyl
+
+  Glossy picture sleeve
+
+  some copies have red labels with white writing'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'Rights Society (Fake): S.I.A.E.'
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '2'
+  - b
+  reconstructed: BH2b
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - H.xlsx

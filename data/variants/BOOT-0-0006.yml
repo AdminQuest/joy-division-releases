@@ -1,0 +1,32 @@
+variant_id: BOOT-0-0006
+release_type: bootleg
+canonical_title: '1979'
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/1979boot.htm
+country_or_pressing_place: Australia
+notes: 'Not On Label (Joy Division) ‎– 2018
+
+  Limited to eleven copies ??'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: White
+    matrices:
+    - 'Matrix / Runout (Runout etching side A): 13499-94857A 24M'
+    - 'Matrix / Runout (Runout etching side B): 13499-94857B 24M'
+_legacy_code:
+  segments:
+  - B
+  - +
+  - '1'
+  - null
+  reconstructed: B+1
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - +-1.xlsx

@@ -1,0 +1,32 @@
+variant_id: OFF-S-0022
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/1183725-Joy-Division-Still
+country_or_pressing_place: Italy
+notes: 'Later re-issue in single sleeve. Sleeve is totally different to UK edition, printed white on black with all tracklisting
+  on rear sleeve. Address shown as ''Via Collamarini'' and includes fax / phone number.
+
+  Black labels with white text. Two slightly different issues; one has "FRACTURED MUSIC" printed on the labels, the other
+  version has a slightly more lighweight cardboard sleeve and doesn''t mention "FRACTURED MUSIC" on the labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

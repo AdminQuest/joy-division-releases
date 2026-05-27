@@ -1,0 +1,35 @@
+variant_id: BOOT-B-0043
+release_type: bootleg
+canonical_title: Box File
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B5.htm
+country_or_pressing_place: USA
+notes: "Mêmes références : Copy of the above with \"Yugoslav Folk Dance\" labels. \n* Komakino ( yellow labels - \"Songs and\
+  \ Dances of Yugoslavia\")\n* Warsaw ( grey labels - \"Yugoslav Folk Dances\")\n* Le Terme (grey labels - \"Yugoslav Folk\
+  \ Dances\")\nSemi glossy ( 30 X 30 cm) unnumbered insert."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 3
+    matrices:
+    - 'Matrix / Runout (Silver Label, Side 1): JD-1A'
+    - 'Matrix / Runout (Silver Label, Side 2): JD-1B'
+    - 'Matrix / Runout (Green Label, Side 1): JD 3'
+    - 'Matrix / Runout (Green Label, Side 2): JD-4'
+    - 'Matrix / Runout (Blue Label, Side 1): JD-5'
+    - 'Matrix / Runout (Blue Label, Side 2): JD 6'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 45
+  source_xlsx: Bootlegs - B.xlsx
+  version_marker: V4

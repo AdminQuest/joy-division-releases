@@ -1,0 +1,34 @@
+variant_id: BOOT-I-0010
+release_type: bootleg
+canonical_title: An Ideal For Killing
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I9.htm
+variant_group:
+  group_id: BI4
+  group_role: color_variation
+notes: 'Blue label with printed "A" on side A'' and blank on side B''.
+
+  B/w insert with lyrics on glossy paper.
+
+  The drummer boy of "Ideal For Living" cover is used as a background image.
+
+  Few copies have been pressed on black vinyl. Also exist on red and white vinyl.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '4'
+  - b
+  reconstructed: BI4b
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - I.xlsx

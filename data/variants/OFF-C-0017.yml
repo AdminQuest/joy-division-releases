@@ -1,0 +1,65 @@
+variant_id: OFF-C-0017
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Ireland
+notes: 'Factory ‎– FACT∙XXV, Factory ‎– FACT. 25 - Carlton Pressing
+
+  Outer cover:
+
+  Heavy cardboard with matt finish.
+
+  Inner sleeve:
+
+  Heavy cardboard with matt finish and square corners.
+
+  Either on translucent dark brown or black / opaque vinyl.
+
+  Double dipped labels, characteristic for Carlton Productions pressings.
+
+  Rear cover:
+
+  A Factory Records Product
+
+  Inner sleeve:
+
+  Produced at Brittania Row
+
+  Printed by Garrod and Lofthouse Limited.
+
+  Labels:
+
+  A Fractured Music • A Factory Record
+
+  9/5/80
+
+  Cat#:
+
+  FACT∙XXV on cover
+
+  FACT. 25 on labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, variation 1): FACT 25 A2 GG TOWN HOUSE OLD BLUE?'
+    - 'Matrix / Runout (Runout side B, variation 1): FACT 25 B2 GG TOWN HOUSE'
+    - 'Matrix / Runout (Runout side A, variation 2): FACT 25 A2 GG3 TOWN HOUSE OLD BLUE?'
+    - 'Matrix / Runout (Runout side B, variation 2): FACT 25 B2 GG3 TOWN HOUSE'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - Closer.xlsx

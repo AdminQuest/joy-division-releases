@@ -1,0 +1,27 @@
+variant_id: BOOT-M-0022
+release_type: bootleg
+canonical_title: Maximum Joy Division
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M7.htm
+country_or_pressing_place: UK
+notes: THE UNAUTHORISED BIOGRAPHY CD Chrome Dreams 2007. Unauthorised spoken audio book on CD
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'ISBN: 1 84240 397 4'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '7'
+  - null
+  reconstructed: BM7
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Bootlegs - M.xlsx

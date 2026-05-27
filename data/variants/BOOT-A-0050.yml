@@ -1,0 +1,34 @@
+variant_id: BOOT-A-0050
+release_type: bootleg
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A3.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BA13
+  group_role: color_variation
+notes: '[x]V1 : ATMOS 104 West-German LP.
+
+  Colour cover. Mono. Excellent sound quality. Plain white labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, hand-etched): ATMOS-1-A1'
+    - 'Matrix / Runout (Runout side B, hand-etched): ATMOS-1-B1'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '13'
+  - a
+  reconstructed: BA13a
+  has_suffix: false
+  source_row: 73
+  source_xlsx: Bootlegs - A.xlsx

@@ -1,0 +1,36 @@
+variant_id: BOOT-B-0041
+release_type: bootleg
+canonical_title: Box File
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B5.htm
+country_or_pressing_place: USA
+notes: "JD1A-B/JD3-4/JD5-6 : copy of above. Copy of the above. 500 numbered copies. \nKomakino (JD1, grey labels with guy\
+  \ reading newspaper)\nWarsaw (JD3/4, red labels with a drawing of a guy riding on the back of an eagle(?), holding up a\
+  \ banner which reads \"Empire\"\nLe Terme (JD5/6, blue labels with guy reading newspaper)\nSemi glossy insert with hand\
+  \ written numbers (29 X 29 cm)."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 3
+    matrices:
+    - 'Matrix / Runout (Silver Label, Side 1): JD-1A'
+    - 'Matrix / Runout (Silver Label, Side 2): JD-1B'
+    - 'Matrix / Runout (Green Label, Side 1): JD 3'
+    - 'Matrix / Runout (Green Label, Side 2): JD-4'
+    - 'Matrix / Runout (Blue Label, Side 1): JD-5'
+    - 'Matrix / Runout (Blue Label, Side 2): JD 6'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Bootlegs - B.xlsx
+  version_marker: V2

@@ -1,0 +1,47 @@
+variant_id: OFF-U-0007
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/621079
+country_or_pressing_place: USA
+notes: 'FACTUS 1 - Heavy card sleeve constructed differently to the UK (and other) issues.
+
+  This cover has a smooth finish. A version with a textured cover was also released.
+
+  Correctly applied labels are black on side A, white side B.
+
+  Some copies were mispressed with white labels on A side, black on B side.
+
+  Sleeve spine notation:
+
+  "JOY DIVISION UNKNOWN PLEASURES FACTUS1.A Factory Records (U.S.) Product"
+
+  Side 2 ends in locked groove
+
+  Vinyl is either solid black or may look translucent when held against a strong light source : it could be dark purple, reddish-brown
+  or olive green.
+
+  RTI numbers (9838 / 9839): The "+" has 1 (top left), 2 (upper), 3 (left and upper right) or 4 dots in its corners.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): SACC 008A Factus 1 LKING ▭◯▭ 9838+ L-I835'
+    - 'Matrix / Runout (Runout side B): SACC 008B FACTUS 1. 9839+ L-I835-X I''ve been looking for a guide'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

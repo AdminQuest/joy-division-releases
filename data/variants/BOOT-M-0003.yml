@@ -1,0 +1,26 @@
+variant_id: BOOT-M-0003
+release_type: bootleg
+canonical_title: Manchester, So Much To Answer For
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M10.htm
+variant_group:
+  group_id: BM1
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '1'
+  - c
+  reconstructed: BM1c
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - M.xlsx

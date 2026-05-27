@@ -1,0 +1,33 @@
+variant_id: BOOT-C-0043
+release_type: bootleg
+canonical_title: Cross Of Iron
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C3.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BC13
+  group_role: color_variation
+notes: The other had the same sleeve as the black vinyl version plus an inner sleeve too.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: marbled pink
+    matrices:
+    - 'Matrix / Runout: FUNN-28-A L-35498'
+    - 'Matrix / Runout: FUNN-28-B L-35498X'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '13'
+  - c
+  reconstructed: BC13c
+  has_suffix: false
+  source_row: 44
+  source_xlsx: Bootlegs - C.xlsx

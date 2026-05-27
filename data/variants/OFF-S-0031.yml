@@ -1,0 +1,37 @@
+variant_id: OFF-S-0031
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/22115215-Joy-Division-Still
+country_or_pressing_place: UK
+notes: The 40th anniversary edition of Still will be released on crystal clear vinyl 11 February 2022. 40th anniversary limited
+  edition on clear vinyl, packaged in a ruby red variation of the original artwork with matching inner sleeves and labels.
+  Exclusive to New Order’s official webstore and limited to 10000 copies.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Clear
+    matrices:
+    - '(Side A, Etched): 0825646183920-01 BF80311-01 A1 F.A. ABBEY ROAD'
+    - '(Side B, Etched): 0825646183920-01 BF80311-01 B1'
+    - '(Side C, Etched): 0825646183920-02 VII BF80311-02 C1'
+    - '(Side D, Etched): 0825646183920-02 IIεI BF80311-02 D1'
+    - 'Code-barres (scanned): 190296424861'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

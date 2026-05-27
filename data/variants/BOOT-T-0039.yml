@@ -1,0 +1,33 @@
+variant_id: BOOT-T-0039
+release_type: bootleg
+canonical_title: 'This Is The Room: Live Electric Ballroom London October 26, 1980'
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipP3ICaTJKhzwYnxEDxcMy1r9OnY2rZNYiOcN-jR?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BT7
+  group_role: pressing_variation
+notes: '[x]LP : 2019, Lively Youth Records ‎– LVY 533, Limited Edition of 500 copies. Almost certainly a vinyl reissue of
+  the CD above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: XVINYLX.COM 189690E1/A'
+    - 'Matrix / Runout: XVINYLX.COM 189690E2/A'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '7'
+  - b
+  reconstructed: BT7b
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - T.xlsx

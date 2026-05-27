@@ -1,0 +1,33 @@
+variant_id: BOOT-E-0011
+release_type: bootleg
+canonical_title: Enigma
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E5.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BE7
+  group_role: color_variation
+notes: '[]V2 Swingin’ Pig LP 179: Identical to the above except the label identifies it as "A Genuine Swingin'' Pig Disc ».
+  Possibly Swingin'' Pig released all of these but some had plain labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear blue
+    matrices:
+    - 'Matrix / Runout: LP 179 - A'
+    - 'Matrix / Runout: LP 179 - B'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '7'
+  - b
+  reconstructed: BE7b
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - E.xlsx

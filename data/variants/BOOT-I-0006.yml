@@ -1,0 +1,28 @@
+variant_id: BOOT-I-0006
+release_type: bootleg
+canonical_title: The Ideal Beginning
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I2.htm
+variant_group:
+  group_id: BI3
+  group_role: color_variation
+notes: 'There''s a slight difference on the labels : "MADE IN Gt. BRITAIN" is placed on this edition in the middle of the
+  rim text (see pics).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '3'
+  - c
+  reconstructed: BI3c
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - I.xlsx

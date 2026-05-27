@@ -1,0 +1,45 @@
+variant_id: OFF-T-0009
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: Ireland
+notes: 'Factory ‎– FAC 13.12, Factory ‎– FAC 13 X 12
+
+  UK sleeve with Irish pressed record. Embossed centre image on sleeve.
+
+  Translucent brown when held to light.
+
+  Labels are double dipped.
+
+  A Fractured Music
+
+  A Factory Record
+
+  Date on label: 12 9 80
+
+  Published by Fractured Music'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side label): FAC 13 X 12 A'
+    - 'Matrix / Runout (B side label): FAC 13 X 12 B'
+    - 'Matrix / Runout (Runout side A): FAC I3 (I2") AI EG A PORKY PRIME CUT I''VE SEEN THE REAL ATROCITIES'
+    - 'Matrix / Runout (Runout side B): FAC I3 (I2") BI EG A PORKY PRIME CUT BURIED IN THE SAND'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

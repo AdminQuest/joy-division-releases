@@ -1,0 +1,34 @@
+variant_id: OFF-F-0001
+release_type: officiel
+canonical_title: A Factory Sample
+canonical_artist: Joy Division
+year: 1979
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/afs.htm
+country_or_pressing_place: UK
+notes: "Factory ‎– FAC-2.  Contains 5 stickers. 5000 copies pressed, 4700 copies sold in four months. \nOriginally intended\
+  \ for release in December 1978, this was actually released in two batches: 1000 copies on 24th January 1979 and 4000 copies\
+  \ on 1st March 1979."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 2
+    matrices:
+    - 'Matrix / Runout (Runout side A (var. 1 & 2)): FAC 2 - A1 EVERYTHING TB'
+    - 'Matrix / Runout (Runout side B (var. 1 & 2)): FAC 2 - B1 TB IS REPAIRABLE'
+    - 'Matrix / Runout (Runout side C (var. 1 & 2)): FAC 2 - C1 TB EVERYTHING'
+    - 'Matrix / Runout (Runout side D (var. 1)): FAC 2 - D1 TB IS BROKEN'
+    - 'Matrix / Runout (Runout side D (var. 2)): FAC 2 - D2 TB IS BROKEN :-'
+_legacy_code:
+  segments:
+  - O
+  - '7'
+  - null
+  - null
+  reconstructed: O7
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 7_ - A Factory Sample.xlsx

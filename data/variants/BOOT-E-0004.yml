@@ -1,0 +1,42 @@
+variant_id: BOOT-E-0004
+release_type: bootleg
+canonical_title: Eindhoven
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E12.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BE2
+  group_role: color_variation
+notes: '(CD)  Warehouse Productions  JDE 01 2019
+
+  This is a copy of the CD that came with the 2LP above but in a printed cover
+
+  US CD released 2019
+
+  Limited 100 copies
+
+  Label: Warehouse Productions USA
+
+  Digipak card sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Catalogue number: JDE 01:'
+    - 'CD matrix:'
+    - 13984-99888  6191002804  DW
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '2'
+  - b
+  reconstructed: BE2b
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - E.xlsx

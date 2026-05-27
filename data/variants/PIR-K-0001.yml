@@ -1,0 +1,31 @@
+variant_id: PIR-K-0001
+release_type: pirate
+canonical_title: Komakino
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K3.htm
+country_or_pressing_place: UK ?
+notes: 'Bootleg of the FAC 28 flexi without any artwork.
+
+  Slightly altered matrix etchings than the official release.'
+format_details:
+  type: audio
+  supports:
+  - support_type: flexi
+    size: 7"
+    count: 1
+    color: green
+    matrices:
+    - 'Informations sur la matrice (Runout side A): LYN 8188-IS MAX'
+    - 'Informations sur la matrice (Runout side B): LYN 8187-IS MAX'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 7_ flexi - Komakino.xlsx

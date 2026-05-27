@@ -1,0 +1,28 @@
+variant_id: OFF-L-0026
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: Europe
+notes: CD single, 1995, 850025.2, London Records ‎– YOJCD 1
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 850 025-2 01 +'
+    - 'Matrix / Runout (Additional matrix info): MADE IN GERMANY BY PMDC'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

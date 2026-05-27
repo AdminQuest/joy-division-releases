@@ -1,0 +1,32 @@
+variant_id: BOOK-T-0001
+release_type: livre
+canonical_title: 'This Searing Light, The Sun and Everything Else: Joy Division: The Oral History'
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: needs_review
+joydiv_letter: T
+joydiv_url: http://joydiv.org/bk77.htm
+country_or_pressing_place: UK
+notes: 'VF : Le reste n''etait qu''obscurite L’Histoire orale de Joy Division'
+format_details:
+  type: book
+  authors:
+  - Jon Savage
+  publisher: Faber & Faber
+  publication_year: 2019
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '571345379'
+  page_count: 336
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 77
+  source_xlsx: Livres -.xlsx

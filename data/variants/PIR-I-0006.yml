@@ -1,0 +1,31 @@
+variant_id: PIR-I-0006
+release_type: pirate
+canonical_title: An Ideal For Living 12''
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: ??
+notes: "Anonymous Records 2006\nIssued in white (500 copies), green, and blue vinyl.  \n12\" paper insert with photos of the\
+  \ band."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - A-NON-1-A DON'T LET IT EVER FADE AWAY (Side A)
+    - A-NON-1-B I FEEL IT CLOSING IN (Side B)
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - A
+  - '7'
+  reconstructed: P12A7
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - 12_ - An Ideal For Living.xlsx

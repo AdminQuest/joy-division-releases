@@ -1,0 +1,40 @@
+variant_id: BOOT-H-0012
+release_type: bootleg
+canonical_title: House Of Dolls
+canonical_artist: Joy Division
+year: 2003
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H6.htm
+discogs_url: https://www.discogs.com/fr/release/14949259-Joy-Division-House-Of-Dolls
+country_or_pressing_place: ??
+variant_group:
+  group_id: BH6
+  group_role: color_variation
+notes: 'LP - Eis Aiona Records EALP 0756
+
+  Released August 2003.
+
+  Available in black, red, blue, or white vinyl
+
+  mine : black'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Red
+    matrices:
+    - 'Side A: ELDORADO 26570 - OT A DMM H.P.'
+    - 'Side B: ELDORADO 26570 - OT B DMM H.P.'
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '6'
+  - b
+  reconstructed: BH6b
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - H.xlsx

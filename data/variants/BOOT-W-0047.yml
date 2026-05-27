@@ -1,0 +1,37 @@
+variant_id: BOOT-W-0047
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V23 Sticker : RZM200 European bootleg released 2006. Heavy vinyl. Shiny sleeve. White labels with black text. Record
+  label: RZM Productions Ltd. Catalogue No: RZM 200 printed on the label. Labels: similar to the first US issue. Pressed on
+  four different colours: blue, red, green, or yellow vinyl. Front cover sticker, where present, indicates the vinyl colour.
+  A black vinyl version appeared in 2007. Matrix numbers, handwritten and different to previous versions. A black vinyl, plain
+  white label, version of this LP was later included in The Early Years Box'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Blue
+    matrices:
+    - RZM 200 A1
+    - RZM 200 B1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - aj
+  reconstructed: BW4aj
+  has_suffix: false
+  source_row: 49
+  source_xlsx: Bootlegs - W.xlsx

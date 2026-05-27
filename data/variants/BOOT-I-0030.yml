@@ -1,0 +1,30 @@
+variant_id: BOOT-I-0030
+release_type: bootleg
+canonical_title: Inside The Line
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I10.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI9
+  group_role: color_variation
+notes: V2 bis
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '9'
+  - c
+  reconstructed: BI9c
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Bootlegs - I.xlsx

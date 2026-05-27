@@ -1,0 +1,34 @@
+variant_id: BOOT-L-0085
+release_type: bootleg
+canonical_title: Live Transmission ... Dance to ...
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L12.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BL31
+  group_role: color_variation
+notes: 'V3 : misprinted sleeve.
+
+  Released as "Disorder" in Australia.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FOUR - A'
+    - 'Matrix / Runout: FOUR - B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '31'
+  - c
+  reconstructed: BL31c
+  has_suffix: false
+  source_row: 88
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,41 @@
+variant_id: BOOT-L-0071
+release_type: bootleg
+canonical_title: Live in Guildford
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/G7.htm
+country_or_pressing_place: USA
+notes: 'Mastered From The Original Tapes of Previously unreleased live recordings
+
+  limited number of 15 copies test pressings
+
+  Manic Music 2021 "Test Pressing"
+
+  Asian LP released 2021
+
+  Limited edition of 15 numbered copies, numbered on back cover
+
+  Black vinyl
+
+  Custom labels with some hand-writing on A-side label.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 15678-122771 A
+    - 15678-122771 B
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '26'
+  - null
+  reconstructed: BL26
+  has_suffix: false
+  source_row: 74
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,40 @@
+variant_id: BOOT-B-0015
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: Australia
+notes: 'V4 : Australian release - as above but with different sleeve (Ian & Bernard live on stage is from Rotterdam 16/1/80,
+  by photographer Rob Verhorst)
+
+  Released 2016 on green, cloudy-clear, yellow, and red vinyl
+
+  Back cover states "Limited edition"
+
+  Plain black labels with white print similar to the 2014 release
+
+  Some copies issued in plain black sleeve with a one-sided printed insert'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - 'Matrix numbers - same as 2014 release:'
+    - JD_BOTE -A-
+    - JD_BOTE -B-
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - n
+  reconstructed: BB2n
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Bootlegs - B.xlsx

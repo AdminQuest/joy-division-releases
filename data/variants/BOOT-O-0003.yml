@@ -1,0 +1,35 @@
+variant_id: BOOT-O-0003
+release_type: bootleg
+canonical_title: Out Of Balance, Out Of Tune
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: O
+joydiv_url: https://www.joydiv.org/O2.htm
+country_or_pressing_place: Netherlands
+notes: 'Paradise Records (3) ‎– 0041
+
+  Part of the Hawkeye bootleg project and allocated cat# HAWK 003.
+
+  Limited edition of 500 copies. Each number stamped on back sleeve.
+
+  Available both with and without proper labels. It appears that the labels were enclosed and you had to glue them on yourself
+  ! The labels have "Paradise" and phony song titles. The band was called "Rocky Boys ».'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout Side A): PR 0041-AI'
+    - 'Matrix / Runout (Runout Side B): PP 0041 B*'
+_legacy_code:
+  segments:
+  - B
+  - O
+  - '2'
+  - null
+  reconstructed: BO2
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - O.xlsx

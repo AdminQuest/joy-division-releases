@@ -1,0 +1,35 @@
+variant_id: VID-U-0001
+release_type: video
+canonical_title: Under Review
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: http://joydiv.org/urdvd.htm
+notes: 'Sexy Intellectual SIDVD510 2006
+
+  Cat No: [SIDVD510]
+
+  Label: Sexy Intellectual
+
+  Released: 30 Oct 2006
+
+  Region free DVD
+
+
+  Apparantly reissued as Falling Up in 2013'
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

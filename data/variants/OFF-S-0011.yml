@@ -1,0 +1,48 @@
+variant_id: OFF-S-0011
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/693952-Joy-Division-Still
+country_or_pressing_place: France
+notes: 'FACT 40, Factory – 301 002
+
+  Grey glossy gatefold sleeve unloads to the outside. White but non-embossed lettering. Generic white inner sleeves.
+
+  Labels are printed grey text on white.
+
+  From the labels:
+
+  ℗ 1981 Factory Records
+
+  Made in France.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - '(Runout side A): [AGI logo] 810 V 301000 A'
+    - '(Runout side B): [AGI logo] 810 V 301000 B'
+    - '(Runout side C): [AGI logo] 810 V 301001 A'
+    - '(Runout side D): [AGI logo] 810 V 301001 B'
+    - SACEM SACD SDRM SGDL
+    - 'Autre (Cat# record 1): 301000'
+    - 'Autre (Cat# record 2): 301001'
+    - 'Code de prix: AE 250'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0029
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: ??
+notes: 'V9 newspaper : mid 1980s. Stiff, black, cardboard sleeve with photocopied inserts. Matrix number: JD ¾. The record
+  & labels are identical to the reissued Box File "Warsaw" LP; the labels are black on green, and depict a drawing of a man
+  reading a newspaper (same on both sides). The matrix number/run-off groove notations are JD-3 (side 1) and JD-4 (side 2).
+  The track-lisiting is the same as the original (and Box File) version. It appears that all three of the records in the reissue
+  of the box set have been released individually in poor quality covers. Maybe they ran out of boxes. See also: Box set reissue,
+  Komackino and Le Terme'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - JD 3/4
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - r
+  reconstructed: BW4r
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - W.xlsx

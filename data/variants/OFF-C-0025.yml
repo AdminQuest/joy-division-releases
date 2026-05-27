@@ -1,0 +1,37 @@
+variant_id: OFF-C-0025
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Germany
+notes: 'Factory ‎– RTD 68, Factory ‎– FACT XXV
+
+  Published by Fractured Music/Zomba Music/Roba Musikverlag
+
+  © 1980 Factory Ltd.
+
+  ℗ 1988 Rough Trade Rec. GmbH'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: RTD 68 A G. Pauler'
+    - 'Matrix / Runout: RTD 68 B G. Pauler'
+    - 'Label Code: LC 5661'
+    - 'Rights Society: GEMA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Officiels et pirates - Closer.xlsx

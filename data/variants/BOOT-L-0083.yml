@@ -1,0 +1,33 @@
+variant_id: BOOT-L-0083
+release_type: bootleg
+canonical_title: Live Transmission ... Dance to ...
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L12.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BL31
+  group_role: color_variation
+notes: "Acid Four. FOUR A/B - SPEED 2. West-German bootleg released January 1984. \nV1 : blue and white folder cover with\
+  \ \"Acid\" labels."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FOUR - A'
+    - 'Matrix / Runout: FOUR - B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '31'
+  - a
+  reconstructed: BL31a
+  has_suffix: false
+  source_row: 86
+  source_xlsx: Bootlegs - L.xlsx

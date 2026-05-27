@@ -1,0 +1,28 @@
+variant_id: BOOT-I-0047
+release_type: bootleg
+canonical_title: Interview
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I5.htm
+country_or_pressing_place: ??
+notes: this one has a plain A side
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): RDPD-08-A1. MT.'
+    - 'Matrix / Runout (Runout side B): RDPD-08-B1. MT.'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '10'
+  - o
+  reconstructed: BI10o
+  has_suffix: false
+  source_row: 54
+  source_xlsx: Bootlegs - I.xlsx

@@ -1,0 +1,46 @@
+variant_id: BOOT-W-0012
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BW4
+  group_role: color_variation
+notes: 'V1 originale : RZM 200. The original Warsaw bootleg was pressed by someone who worked in London''s Portobello Market
+  using a tape bought from a music industry contact. 500 copies were pressed in the US and shipped across to the UK where
+  the sleeves had been printed. UK bootleg released 1980. Record label: RZM Productions Ltd. No catalogue number on packaging
+  or label. Black vinyl. 500 copies. LP has Narrow matrix area and small matrix numbers: RZM-200-A RZM-200-B. 7" EP has matrix
+  numbers: RZM-100-A RZM-100-B in very small letters, particularly on side B.
+
+  How to spot an original: : Printing error - a small "0" on the cover
+
+
+  Identifying a Warsaw first pressing by printing anomalies:
+
+  After a lot of research comparing early and original pressings both physically and from photos sent to us by collectors
+  we believe it is possible to tell an original pressing via some ‘print hickeys’ on the front cover. Please note: we can''t
+  guarantee this information is 100% accurate as we are researching it'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'LP has Narrow matrix area and small matrix numbers: RZM-200-A RZM-200-B.'
+    - '7" EP has matrix numbers: RZM-100-A RZM-100-B in very small letters, particularly on side B'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - a
+  reconstructed: BW4a
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,35 @@
+variant_id: BOOT-E-0025
+release_type: bootleg
+canonical_title: An Evening With...
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E6.htm
+country_or_pressing_place: France
+variant_group:
+  group_id: BE11
+  group_role: color_variation
+notes: '[x]X Rekords ‎– CD 5 DEF. West-German CD 1989.
+
+  The sound on "Amsterdam" and A Means to an End is better, but this one has got more info inside, even an address: X RECORDS,
+  27 RUE DES MARECHAUX, NANCY 5400, FRANCE
+
+  There is a technical glitch on this CD - 1 minute 45 seconds into These Days the sound momentarily disappears.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: OPTICAL -MILAN ITALY 14 CD5DEF'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '11'
+  - a
+  reconstructed: BE11a
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Bootlegs - E.xlsx

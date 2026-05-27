@@ -1,0 +1,35 @@
+variant_id: OFF-C-0007
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Australia
+notes: 'Final edition with adjusted label artwork.
+
+
+  Some copies of this release were also issued in a wrap around 24 x 12 inch "open sided" inner sleeve page (as well as the
+  regular inner sleeve).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Informations sur la matrice (Runout side A, variant 1): FACOZ 1002̶ 1 A'
+    - 'Informations sur la matrice (Runout side B, variant 1): FACOZ 1002̶ a-B'
+    - 'Informations sur la matrice (Runout side A, variant 2): FACOZ 1002̶ A'
+    - 'Informations sur la matrice (Runout side B, variant 2): FACOZ 1002̶ B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - Closer.xlsx

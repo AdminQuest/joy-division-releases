@@ -1,0 +1,33 @@
+variant_id: PIR-L-0024
+release_type: pirate
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+discogs_url: https://www.discogs.com/fr/release/6900579-Joy-Division-Love-Will-Tear-Us-Apart
+country_or_pressing_place: Italy
+notes: "Record Store Day 2015 Sticker on front\nLove Will Tear us Apart B/W Leaders of Men LIMITED RSD 7\" Released April\
+  \ 18th 2015.\n500 Copies limited edition for Record Store Day April 18, 2015. \nNote: This release is not listed on the\
+  \ official Record Store Day web site and they have not responded to our emails requesting confirmation that this is an official\
+  \ RSD release. \nCover states \"Licensed by San Huan Music Group USA\". When we contacted them they stated this was not\
+  \ the case.\nRadiation Record's Facebook page confirms this is a Radiation release and when we contacted them they stated\
+  \ this was an official release.\nDraw your own conclusions.\n+ italian repress of 500 hand-numbered black vinyl"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: Picture disc
+_legacy_code:
+  segments:
+  - P
+  - '7'
+  - R
+  - '2'
+  reconstructed: P7R2
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - RSD.xlsx

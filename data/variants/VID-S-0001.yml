@@ -1,0 +1,27 @@
+variant_id: VID-S-0001
+release_type: video
+canonical_title: SUBSTANCE 1978-1988
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: http://joydiv.org/subsvid.htm
+notes: 'Video Factory/Qwest FAC 277
+
+  This compilation video was never officially released although some promo copies were sent out. Pirate copies have appeared
+  over the years - please see below.'
+format_details:
+  type: video
+  supports:
+  - support_type: vhs
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

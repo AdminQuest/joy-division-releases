@@ -1,0 +1,31 @@
+variant_id: BOOT-W-0027
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: USA
+notes: 'V7 pic disc sans Warsaw : pré-1984. Probably an American picture disc. No catalogue number. Unlike the LP below, this
+  version does not have "WARSAW" below the image on the picture side, and it''s got a clear "circle" around the outer edge.
+  Matrix numbers (on the "wrong" sides). There''s also 42382 in the centre, where the label would be'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Picture disc
+    matrices:
+    - 'Picture side: RZM 200 B'
+    - 'Tracklist side: RZM 200 A'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - p
+  reconstructed: BW4p
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - W.xlsx

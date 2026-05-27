@@ -1,0 +1,31 @@
+variant_id: BOOK-O-0002
+release_type: livre
+canonical_title: Ode aan Joy Division
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: O
+joydiv_url: https://www.joydiv.org/bk86.htm
+notes: Dutch language hardback from the Netherlands
+format_details:
+  type: book
+  authors:
+  - Marc Schoorl
+  publisher: Paris Books
+  publication_year: 2020
+  language: nl
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-9493191105
+  page_count: 107
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 132
+  source_xlsx: Livres -.xlsx

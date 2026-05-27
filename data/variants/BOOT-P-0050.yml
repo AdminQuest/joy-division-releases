@@ -1,0 +1,54 @@
+variant_id: BOOT-P-0050
+release_type: bootleg
+canonical_title: Plan K
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P10.htm
+discogs_url: https://www.discogs.com/fr/release/22027165-Joy-Division-Plan-K
+country_or_pressing_place: USA
+variant_group:
+  group_id: BP8
+  group_role: color_variation
+notes: 'US bootleg released 2021
+
+  No record label identified
+
+  Matrix numbers and track listing as above
+
+  Limited edition 100 copies, numbered on rear sleeve
+
+  Black picture sleeve with brown text
+
+  Printed black labels
+
+  60 copies on splattered coloured vinyl
+
+  40 Copies on coloured vinyl
+
+  Splatter coloured vinyl
+
+  Postcard insert'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Splatter blue
+    matrices:
+    - 'Matrix / Runout: JD Benelux A'
+    - 'Matrix / Runout: JD Benelux B'
+    - 'Matrix / Runout: JD Benelux C'
+    - 'Matrix / Runout: JD Benelux D'
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '8'
+  - b
+  reconstructed: BP8b
+  has_suffix: false
+  source_row: 51
+  source_xlsx: Bootlegs - P.xlsx

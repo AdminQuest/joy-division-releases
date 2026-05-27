@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0045
+release_type: bootleg
+canonical_title: Live at The Apollo Manchester October 1980
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: UK
+variant_group:
+  group_id: BL17
+  group_role: pressing_variation
+notes: '[]green marbled'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green marbled
+    matrices:
+    - 'Matrix / Runout: 666-1 A.'
+    - 'Matrix / Runout: 666-1-B.'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '17'
+  - b
+  reconstructed: BL17b
+  has_suffix: false
+  source_row: 48
+  source_xlsx: Bootlegs - L.xlsx

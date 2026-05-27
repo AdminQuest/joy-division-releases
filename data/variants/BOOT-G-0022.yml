@@ -1,0 +1,31 @@
+variant_id: BOOT-G-0022
+release_type: bootleg
+canonical_title: Gruftgesaenge
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G3.htm
+country_or_pressing_place: ??
+notes: 'V6 : Released 2005
+
+  Black and white cover, matrix with no hyphens. Max price but no Ertl note on back cover
+
+  One disc black vinyl, one white with a slightly marbled look. Black labels with white print.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: black
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '6'
+  - k
+  reconstructed: BG6k
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Bootlegs - G.xlsx

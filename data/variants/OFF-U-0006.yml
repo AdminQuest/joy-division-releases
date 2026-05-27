@@ -1,0 +1,46 @@
+variant_id: OFF-U-0006
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/3317842
+country_or_pressing_place: USA
+notes: 'This version comes with a textured cover, made by using a standard-weight card sleeve with textured paper applied
+  to it. A version with a thick card sleeve with a smooth finish was also released.
+
+  Printed inner sleeve.
+
+  Vinyl appears black but when held up to a light it may appear translucent purple, reddish/brown, brown, green or grey. Note
+  that the light source can affect the color seen.
+
+  Some pressings may have the "Inside" and "Outside" labels switched on opposite sides.
+
+  Sleeve spine notation:
+
+  "JOY DIVISION UNKNOWN PLEASURES FACTUS1 A Factory Records (U.S.) Product"
+
+  I Remember Nothing (track B5) ends in a locked loop in the runout area.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, variant 1): SACC 008A Factus 1 LKULKA ▭◯▭ 9838+ L-1835'
+    - 'Matrix / Runout (Runout side B, variant 1): SACC 008B FACTUS 1. 9839+ L-1835-X I''ve been looking for a guide'
+    - 'Matrix / Runout (Runout side A, variant 2): SACC 008A Factus 1 LKULKA ▭◯▭ 9838ꔰ L-1835'
+    - 'Matrix / Runout (Runout side B, variant 2): SACC 008B FACTUS 1. 9839ꔰ+ L-1835-X I''ve been looking for a guide'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

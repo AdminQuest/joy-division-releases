@@ -1,0 +1,26 @@
+variant_id: BOOT-T-0046
+release_type: bootleg
+canonical_title: Transmissions - The Legendary Performance Eindhdoven 18th january 1980
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: needs_review
+joydiv_letter: T
+notes: 'Stylus Groove - SGVNY 115
+
+  Existence incertaine (joydivcentral n''en parle pas)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: green
+_legacy_code:
+  segments:
+  - B
+  - T
+  - null
+  - null
+  reconstructed: BT
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Bootlegs - T.xlsx

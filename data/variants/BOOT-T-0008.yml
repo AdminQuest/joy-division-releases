@@ -1,0 +1,34 @@
+variant_id: BOOT-T-0008
+release_type: bootleg
+canonical_title: Testament
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BT1
+  group_role: color_variation
+notes: '(CD) A 113.10 NE/5 AULICA
+
+  CD : Aulica ‎– A 113.10, NeverEnd ‎– NE/5 Italian picture CD in elongated cardboard box, Numbered limited edition (N°44).
+
+  Also available on cassette.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: A 113.10 NE/5 PHC'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '1'
+  - a
+  reconstructed: BT1a
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - T.xlsx

@@ -1,0 +1,29 @@
+variant_id: BOOT-F-0020
+release_type: bootleg
+canonical_title: From Centre Of City
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F4.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF8
+  group_role: color_variation
+notes: The 7’’ single or CD of the Italian book (livre seulement)
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '8'
+  - a
+  reconstructed: BF8a
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Bootlegs - F.xlsx

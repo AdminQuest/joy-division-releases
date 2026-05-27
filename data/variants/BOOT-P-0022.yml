@@ -1,0 +1,31 @@
+variant_id: BOOT-P-0022
+release_type: bootleg
+canonical_title: Pearl Harbor!
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P4.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BP5
+  group_role: color_variation
+notes: 5. Blue, red and white front cover, blue and white back cover. Released in blue vinyl, yellow vinyl and green vinyl.
+  Blank labels.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: yellow
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '5'
+  - j
+  reconstructed: BP5j
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Bootlegs - P.xlsx

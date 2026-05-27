@@ -1,0 +1,27 @@
+variant_id: BOOK-J-0010
+release_type: livre
+canonical_title: Joy Division Closer
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: J
+format_details:
+  type: book
+  authors:
+  - Palem Candillier
+  publisher: Discogonie
+  publication_year: 2025
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,38 @@
+variant_id: BOOT-W-0098
+release_type: bootleg
+canonical_title: Warsaw, The Lost
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: W
+joydiv_url: https://joydiv.org/W10.htm
+notes: 'Rockville 2025
+
+  2025 repressing of the 2LP with the same sleeve, matrix numbers etc
+
+  Five different colour splatter vinyl variants:
+
+  - white
+
+  - white with blue splatter
+
+  - white with black splatter
+
+  - white with red splatter
+
+  - white with multicoloured splatter'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 100
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,41 @@
+variant_id: OFF-S-0029
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/5991427
+notes: 'Stiletto ‎– 992 540, Factory ‎– FACT 40. Unofficial Release, White
+
+  Fabricado por Polygran do Brasil Ltda.
+
+  Industria Brasileira. Licenciada por Stiletto
+
+  Distribuido no Brasil por Estúdio Eldorado Ltda.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: White
+    matrices:
+    - 'Matrix / Runout: FACT 40 A1'
+    - 'Matrix / Runout: FACT 40 B1'
+    - 'Matrix / Runout: FACT 40 C1'
+    - 'Matrix / Runout: FACT 40 D1'
+    - 'Other (Label): C.G.C. 33.177.411 / 003 / 78'
+    - 'Other (Sleeve): C.G.C. 43.199.751/0001-91'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

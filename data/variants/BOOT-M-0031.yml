@@ -1,0 +1,35 @@
+variant_id: BOOT-M-0031
+release_type: bootleg
+canonical_title: Misplaced (Rare and unreleased Rehearsals 1977-1980)
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M11.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BM9
+  group_role: color_variation
+notes: Daylight Recordings DL220
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - MISC 1
+    - MISC 2
+    - MISC 3
+    - MISC 4
+    - 'CD matrix: MISPLACED  147022.1'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '9'
+  - h
+  reconstructed: BM9h
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - M.xlsx

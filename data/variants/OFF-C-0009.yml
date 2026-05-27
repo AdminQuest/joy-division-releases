@@ -1,0 +1,47 @@
+variant_id: OFF-C-0009
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Canada
+notes: 'Factory ‎– FACD OI, Factory ‎– FACD. 01
+
+  This release is printed by Shorewood Packaging, as opposed to DJ (2) for Joy Division - Closer.
+
+  A Factory Records Product.
+
+  Distribution PolyGram.
+
+  Published by Fractured Music.
+
+  Date on label: 19/6/81.
+
+  Manufactured by PolyGram Inc. and distributed by PolyGram Distribution Inc.
+
+  Made In Canada.
+
+  Release includes inner-sleeve with tracklisting.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A - variation 1): FACD 01-A2 SNB DM'
+    - 'Matrix / Runout (Side B - variation 1): FACD 01-B SNB DM'
+    - 'Matrix / Runout (Side A - variation 2): FACD 01-A SNB DM 3'
+    - 'Matrix / Runout (Side B - variation 2): FACD 01-B SNB DM 3'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Officiels et pirates - Closer.xlsx

@@ -1,0 +1,43 @@
+variant_id: BOOT-E-0005
+release_type: bootleg
+canonical_title: Electric Funeral
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E3.htm
+country_or_pressing_place: Germany
+notes: '2810022 12 1987. West-German double LP. Black and white cover. Black and white insert with detailed song info.
+
+  The end of side A features an excerpt from the end of the Vincent Price movie Die Maske des Roten Todes "The Masque Of The
+  Red Death" 1966. There''s the sound of breaking glass, some weird music (strings/bells), followed by German dialogue, more
+  music, and some laughter.
+
+  At the end of side B: More German dialogue, and soundtrack from the same German film.
+
+  Side C starts with a snippet from Isolation - the last swirling synth noise just before Passover begins - from ''Closer''
+  right before the start of New Order''s ''Let''s Go''
+
+  Side D starts with a snippet from the Castle Pub, Manchester Ian Curtis interview, November 1979, right before the start
+  of Candidate from the Piccadilly Radio session 4/6/79'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout (Side A, etched): JDI-A'
+    - 'Matrix / Runout (Side B, etched): JD1-B'
+    - 'Matrix / Runout (Side C, etched): JDII-A'
+    - 'Matrix / Runout (Side D, etched): JDII-B'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '3'
+  - null
+  reconstructed: BE3
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - E.xlsx

@@ -1,0 +1,46 @@
+variant_id: BOOT-A-0061
+release_type: bootleg
+canonical_title: Au Plan K
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://joydiv.org/A19.htm
+country_or_pressing_place: USA
+notes: 'US release 2025
+
+  No record label identified
+
+  Repressing of the 2021 Plan K LP with a slightly different title, different splatter vinyl, different labels
+
+  Included a bonus folded poster insert, and a numbered postcard
+
+  Red, black & white sleeve based on the original gig poster
+
+  Limited edition of 52 hand-numbered copies, the number is written on the back of the postcard
+
+  The matrix numbers and track listing are the same as the 2021 listing, and the postcard looks similar too
+
+  Red, black & white labels with the band name, title, 33RPM, TMI and All Rights Reserved printed on them, but nothing to
+  indicate sides, like A/B/C/D or 1/2 etc.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - JD_BENELUX A
+    - JD_BENELUX B  JH
+    - JD_BENELUX C  JH
+    - JD_BENELUX D  JH
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 84
+  source_xlsx: Bootlegs - A.xlsx

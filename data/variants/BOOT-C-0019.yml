@@ -1,0 +1,33 @@
+variant_id: BOOT-C-0019
+release_type: bootleg
+canonical_title: Ceremony
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C12.htm
+country_or_pressing_place: USA
+notes: "V2 : 10’’ FAC.33C. American 10\" single release 2019. Record label: Factory. Catalogue no: on sleeve: FAC.33C, on\
+  \ labels: FAC33C 10. Green sleeve with gold print. Limited to 60 copies on coloured vinyl. \n15 of each of the following:\
+  \ []Clear base with white splatter []Clear base with red splatter []Clear base with black splatter []Clear base with white/red/black\
+  \ []\"multicoloured » splatter"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    color: clear
+    matrices:
+    - 14306-103435 A3
+    - 14306-103435 B
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '3'
+  - o
+  reconstructed: BC3o
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - C.xlsx

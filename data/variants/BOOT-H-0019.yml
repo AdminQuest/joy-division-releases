@@ -1,0 +1,32 @@
+variant_id: BOOT-H-0019
+release_type: bootleg
+canonical_title: How Many Echoes Are There
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H3.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-How-Many-Echoes-Are-There/release/1698730
+country_or_pressing_place: Europe
+notes: 'ZONAL 1 LIONELS LAMENT. European LP. Black and white cover.
+
+  Some copies, possibly all, have a live version of Billy Idol''s White Wedding between the soundcheck and the John Peel sessions.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - ZONAL-1-A
+    - ZONAL-1-B
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '8'
+  - null
+  reconstructed: BH8
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Bootlegs - H.xlsx

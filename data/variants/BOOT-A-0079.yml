@@ -1,0 +1,37 @@
+variant_id: BOOT-A-0079
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+country_or_pressing_place: USA
+notes: 'V13 : Black and grey sleeve
+
+  Reissue USA 2015
+
+  Greenish-grey labels with black print
+
+  Marbled light blue heavy vinyl
+
+  Un-numbered
+
+  Sticker says 100 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled light blue
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '20'
+  - p
+  reconstructed: BA20p
+  has_suffix: false
+  source_row: 102
+  source_xlsx: Bootlegs - A.xlsx

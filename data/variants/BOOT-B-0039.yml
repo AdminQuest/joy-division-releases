@@ -1,0 +1,34 @@
+variant_id: BOOT-B-0039
+release_type: bootleg
+canonical_title: Bowdon Vale Youth Club
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: B
+country_or_pressing_place: Australia
+notes: 'Test pressing
+
+  Hand-numbered, 15 copies in total
+
+  Plain sleeve, loose A4 size front insert titled Bowdon Vale Youth Club with a Martin O''Neill picture from the gig and a
+  track listing
+
+  Plain white labels
+
+  No record label or catalogue number.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - B.xlsx

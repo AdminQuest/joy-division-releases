@@ -1,0 +1,41 @@
+variant_id: BOOT-I-0004
+release_type: bootleg
+canonical_title: The Ideal Beginning
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I2.htm
+country_or_pressing_place: UK ??
+variant_group:
+  group_id: BI3
+  group_role: color_variation
+notes: '(7") PSS 138 Enigma 1981
+
+  Released April 1981. Also released as 12" (see below).
+
+  Issued in a fold-out sleeve, similar to the original official An Ideal For Living 7" EP
+
+  The back features the hand written sleeve to the first demo tape that Terry Mason, then the band''s manager, duplicated
+  and sent out to venues hoping to secure a gig. When the venues all said they sounded absolutely terrible Hooky had a listen
+  and discovered that Terry had copied the tapes over the air with two cassette recorders side by side and he''d inadvertently
+  included the theme to Coronation Street and his mother calling out that his dinner was ready.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - PSS-138-A FRANCIS
+    - PSS-138-B1
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '3'
+  - a
+  reconstructed: BI3a
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - I.xlsx

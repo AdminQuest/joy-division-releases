@@ -1,0 +1,35 @@
+variant_id: BOOT-S-0020
+release_type: bootleg
+canonical_title: Solitary Demands
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S4.htm
+country_or_pressing_place: The Netherlands
+variant_group:
+  group_id: BS6
+  group_role: color_variation
+notes: "Coco Records ‎– 8202\n30 copies made with various coloured covers and sticker \"Sample copy\" on the front. \nAlthough\
+  \ the number is COCO 8202 it looks like 8L0L in the run out groove and on the labels of the version with the black and white\
+  \ cover."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): Coco Records 8202 A'
+    - 'Matrix / Runout (Side B): none'
+    - 'Rights Society: STEMRA'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '6'
+  - a
+  reconstructed: BS6a
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Bootlegs - S.xlsx

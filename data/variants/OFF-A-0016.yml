@@ -1,0 +1,42 @@
+variant_id: OFF-A-0016
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Australia
+notes: 'Factory Records Australasia ‎– Fac213
+
+  Published by Fractured Music/Zomba Music.
+
+  ℗ 1988 Factory Communications Limited
+
+  © 1988 Factory Communications Limited
+
+  A Factory Record
+
+  Released by Factory Australasia under licence from Factory Records Manchester England.
+
+  The inner sleeve image is from an installation called "Plus en Min".'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAC 213-1 Δ MX 250815'
+    - 'Matrix / Runout (Runout side B): FAC 213-2 Δ MX 250816'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

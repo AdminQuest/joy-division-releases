@@ -1,0 +1,44 @@
+variant_id: OFF-S-0009
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/848304-Joy-Division-Still
+country_or_pressing_place: Australia
+notes: 'FACDM 1005/6
+
+  First edition.
+
+  Date on label: 1/8/81
+
+  Printed by Bookcraft Pty. Ltd.
+
+  Released in Australia By GAP Records under licence
+
+  Manufactured and distributed by EMI Australia Ltd.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - FAC DM 1005 A-2 Studios 301 Otto JM
+    - '(Runout side B): FACDM 1005 B-2 Otto'
+    - '(Runout side C): FACDM 1006 A-2 OR JM'
+    - '(Runout side D): FACDM 1006 B-2 OR'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

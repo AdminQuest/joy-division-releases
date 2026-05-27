@@ -1,0 +1,27 @@
+variant_id: BOOT-T-0009
+release_type: bootleg
+canonical_title: Testament
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BT1
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '1'
+  - b
+  reconstructed: BT1b
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - T.xlsx

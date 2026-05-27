@@ -1,0 +1,28 @@
+variant_id: PIR-L-0016
+release_type: pirate
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L17.htm
+country_or_pressing_place: USA
+notes: 'V3 : 2015, CLP 2201 Cleopatra Records. The back cover states: "Alternate versions mastered from the Martin Hannett
+  1980 tapes", which seems unlikely. [x]red,[x]gold,[]purple,[]clear,[]black vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: black
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

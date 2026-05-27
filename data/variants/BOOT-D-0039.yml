@@ -1,0 +1,37 @@
+variant_id: BOOT-D-0039
+release_type: bootleg
+canonical_title: Demos and Rare Tracks LP
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D14.htm
+country_or_pressing_place: Italy
+notes: 'Italian bootleg LP released 2014
+
+  Black vinyl, limited edition 300 copies
+
+  Fold out sleeve based on an autographed version of the original Ideal For Living sleeve
+
+  No record company or catalogue number. Printed labels
+
+  The record itself appears to be a copy of the Exercise One LP but with different labels. Matrix numbers are identical.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - ENIGMA1 A
+    - ENIGMA1 B
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '12'
+  - null
+  reconstructed: BD12
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - D.xlsx

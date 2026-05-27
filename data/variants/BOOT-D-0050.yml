@@ -1,0 +1,29 @@
+variant_id: BOOT-D-0050
+release_type: bootleg
+canonical_title: Digital Glass
+canonical_artist: Joy Division
+year: 1997
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D7.htm
+country_or_pressing_place: ??
+notes: 'Punk Vault ‎– PVCD 1001
+
+  [reissued in 2002 as "Lost Treasures »]'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: GZ IB2202 PUNK VAULT 1001'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '15'
+  - null
+  reconstructed: BD15
+  has_suffix: false
+  source_row: 51
+  source_xlsx: Bootlegs - D.xlsx

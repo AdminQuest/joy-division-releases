@@ -1,0 +1,29 @@
+variant_id: BOOT-M-0007
+release_type: bootleg
+canonical_title: The Marble Index
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M9.htm
+country_or_pressing_place: Europe
+notes: CD, 2008, Heart Of Darkness Records,  Various studio & live
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: MARBIN'
+    - 'Barcode (Fake): 5 708566 206427'
+    - 'Other (Rights Society - Fake): GEMA'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '4'
+  - null
+  reconstructed: BM4
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - M.xlsx

@@ -1,0 +1,37 @@
+variant_id: BOOT-L-0067
+release_type: bootleg
+canonical_title: Live in Amsterdam 1980
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/u/0/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipMUdw1pzQQMDKffektq54O59u34TQ0AD3llhOp9?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: Japan
+variant_group:
+  group_id: BL24
+  group_role: color_variation
+notes: 'Japanese CD released 2020
+
+  Label: Alive The Live
+
+  Cat.no.: KINGCD4174
+
+  With OBI strip'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 4 997184 123075'
+    - 'Number printed on the OBI: IACD10464'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '24'
+  - d
+  reconstructed: BL24d
+  has_suffix: false
+  source_row: 70
+  source_xlsx: Bootlegs - L.xlsx

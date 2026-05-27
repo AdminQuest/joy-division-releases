@@ -1,0 +1,37 @@
+variant_id: OFF-L-0010
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Ireland
+notes: 'Factory ‎– FAC•XXIII•XII
+
+  A Fractured Music
+
+  A Factory Record
+
+  White paper labels in glossy picture sleeve.
+
+  Translucent when held to light.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FAC-23 - A2 SW P'
+    - 'Matrix / Runout: FAC-23 - B2 SW P'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

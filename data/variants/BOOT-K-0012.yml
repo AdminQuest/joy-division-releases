@@ -1,0 +1,38 @@
+variant_id: BOOT-K-0012
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BK1
+  group_role: color_variation
+notes: 'V8 : Stiff, black, cardboard sleeve with photocopied inserts.
+
+  The record & labels are identical to the reissued Box File "Komackino" LP; the labels are black on grey, and depict a drawing
+  of a man reading a newspaper (same on both sides). The matrix number/run-off groove notations are JD-1A(side 1) and JD-1B
+  (side 2). The track-lisiting is the same as the original (and Box File) version.
+
+  It appears that all three of the records in the reissue of the box set have been released individually in poor quality covers.
+  Maybe they ran out of boxes.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD-1 A
+    - JD-1 B
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - i
+  reconstructed: BK1i
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - K.xlsx

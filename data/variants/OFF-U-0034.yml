@@ -1,0 +1,31 @@
+variant_id: OFF-U-0034
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/7132498
+country_or_pressing_place: Europe
+notes: 'Repressage 2015 (LP Warner Records 90 Ltd) (also as Rhino R1-465628 in the US) Factory ‎– FACT 10R. Reissue, Remastered,
+  180 gram, Textured Sleeve. Barcode (Text - sticker): 8 25646 18390 6 / Barcode (Scanned - sticker): 825646183906'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A - variation 4): 0825646183906 BE77559-01 A2 F.A.'
+    - 'Matrix / Runout (Side B - variation 4): 0825646183906 BE77559-01 B1 +V∧'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 77
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

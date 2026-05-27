@@ -1,0 +1,34 @@
+variant_id: BOOT-W-0022
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: ??
+notes: 'V3 beige : RZM200 LP+EP. This is the same pressing as the early colour vinyl pressings above but in a different sleeve.
+  Light brown cover, front and back separate inserts. Clear LP, clear single, no labels.Back cover lists LP tracks onlyposter'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Beige
+    matrices:
+    - 'LP:'
+    - RZM-200-A
+    - RZM-200-B
+    - '7":'
+    - RZM-100-A
+    - RZM-100-B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - k
+  reconstructed: BW4k
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Bootlegs - W.xlsx

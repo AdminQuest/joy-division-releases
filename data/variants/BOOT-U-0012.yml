@@ -1,0 +1,35 @@
+variant_id: BOOT-U-0012
+release_type: bootleg
+canonical_title: Untitled (Futurama)
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: U
+joydiv_url: https://joydiv.org/U9.htm
+notes: '2003 release
+
+  Reissue of LP2 of the House Of Prayer 2LP with the same matrix numbers
+
+  Black vinyl
+
+  Plain white sleeve with A4 paper insert with track list and photos, but no album title
+
+  Generic black promo labels with white text:  "SIDE A" (or side"B"), "STEREO", "33 1/3 RPM", "For promotional use only","All
+  rights reserved"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    matrices:
+    - STIFF KITTENS C
+    - STIFF KITTENS D
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - U.xlsx

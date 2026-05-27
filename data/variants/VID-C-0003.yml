@@ -1,0 +1,25 @@
+variant_id: VID-C-0003
+release_type: video
+canonical_title: Les Coffrets cultes
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: http://joydiv.org/fnac.htm
+country_or_pressing_place: France
+notes: Fnac CD + DVD + photos box set
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

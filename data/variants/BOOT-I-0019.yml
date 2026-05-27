@@ -1,0 +1,34 @@
+variant_id: BOOT-I-0019
+release_type: bootleg
+canonical_title: I'm Not Afraid Anymore
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I12.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BI5
+  group_role: color_variation
+notes: "Casino Records Entertainment 2019\n1-100: Gold vinyl\n101 - 200: Silver vinyl\n201 - 300: White vinyl\nPrinted picture\
+  \ sleeve with numbered sticker on the front, printed picture labels\n[x]vinyle gold. n°71/100. \n[x]vinyle blanc n°280/300"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Matrix / Runout (A-side): AFRAID A'
+    - 'Matrix / Runout (B-side): AFRAID B'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '5'
+  - d
+  reconstructed: BI5d
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Bootlegs - I.xlsx

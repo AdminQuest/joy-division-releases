@@ -1,0 +1,33 @@
+variant_id: PIR-U-0003
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/2139228
+country_or_pressing_place: Europe
+notes: 'N° 2 : FACT 10-P. Bootleg pretending to be a Factory product.
+
+  Released in clear PVC sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Picture disc
+    matrices:
+    - 'Matrix / Runout (Hand-etched A side): FACT 10-P A1'
+    - 'Matrix / Runout (Hand-etched B side): FACT 10-P B1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

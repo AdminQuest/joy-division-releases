@@ -1,0 +1,36 @@
+variant_id: BOOT-R-0007
+release_type: bootleg
+canonical_title: Reaction
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R9.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BR4
+  group_role: color_variation
+notes: "US bootleg. \nProduced on black vinyl (mine) plus limited edition 33 copy numbered versions in red, white, and blue\
+  \ vinyl - each of the coloured versions was issued with a free copy of the Leaders Of Men CD and had a sticker on the cover\
+  \ stating 100 copies."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - 'Matrix / Runout: RV-011-A'
+    - 'Matrix / Runout: RV-011-B'
+    - 'Matrix / Runout (CD): 14226 WARC'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '4'
+  - b
+  reconstructed: BR4b
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - R.xlsx

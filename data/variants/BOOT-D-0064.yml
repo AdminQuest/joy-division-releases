@@ -1,0 +1,34 @@
+variant_id: BOOT-D-0064
+release_type: bootleg
+canonical_title: Disorder
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D8.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BD16
+  group_role: color_variation
+notes: "[x]V3 : Inofmration of Death Recards 2020. \nItalian LP released 2020. Released on black (mine), and marbled pink,\
+  \ vinyl. Black & white picture sleeve. Printed black labels including one picture label."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled pink
+    matrices:
+    - ANGEL 3 .A
+    - ANGEL 3 .B
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '16'
+  - d
+  reconstructed: BD16d
+  has_suffix: false
+  source_row: 65
+  source_xlsx: Bootlegs - D.xlsx

@@ -1,0 +1,31 @@
+variant_id: BOOT-B-0035
+release_type: bootleg
+canonical_title: Boulevard Of Broken Dreams
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B2.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BB4
+  group_role: color_variation
+notes: 'West-German LP released July 1985. Black, yellow or green vinyl. Possibly other colours too. Les couleurs des pochettes
+  diffèrent. Mono. Source: Live'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black White
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '4'
+  - c
+  reconstructed: BB4c
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - B.xlsx

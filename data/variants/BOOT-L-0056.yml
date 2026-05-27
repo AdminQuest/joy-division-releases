@@ -1,0 +1,29 @@
+variant_id: BOOT-L-0056
+release_type: bootleg
+canonical_title: Live at The Paradiso Club Amsterdam, January 11, 1980
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L28.htm
+country_or_pressing_place: Europe
+notes: 2018, LVY516 Lively Youth Records. European LP released 2018. 500 copies.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): 103828E1/D'
+    - 'Matrix / Runout (Side B): 103828E2/B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '19'
+  - null
+  reconstructed: BL19
+  has_suffix: false
+  source_row: 59
+  source_xlsx: Bootlegs - L.xlsx

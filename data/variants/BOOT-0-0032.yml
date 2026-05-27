@@ -1,0 +1,34 @@
+variant_id: BOOT-0-0032
+release_type: bootleg
+canonical_title: (Warsaw) An Ideal for Living, the Demos
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/I16.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BI5
+  group_role: pressing_variation
+notes: "2018, Lively Youth Records ‎– LVY527. \n\"Manufactured in the EU\" printed on back cover\nBlack vinyl\nBlack picture\
+  \ sleeve"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A, Hand Written): 0315922-A-1'
+    - 'Matrix / Runout (Side B, Hand Written): 0315922-B-1'
+    - 'Barcode on back cover: 634438219637'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '5'
+  - a
+  reconstructed: BI5a
+  has_suffix: false
+  source_row: 53
+  source_xlsx: Bootlegs - A.xlsx

@@ -1,0 +1,24 @@
+variant_id: VID-F-0001
+release_type: video
+canonical_title: A Factory Instore Video
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: http://joydiv.org/facinstore.htm
+notes: "Factory Instore Video Fac 180 1987 \nPromotionnal only"
+format_details:
+  type: video
+  supports:
+  - support_type: vhs
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

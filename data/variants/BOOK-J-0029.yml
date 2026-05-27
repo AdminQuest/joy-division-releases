@@ -1,0 +1,37 @@
+variant_id: BOOK-J-0029
+release_type: livre
+canonical_title: Joy Division
+canonical_artist: Joy Division
+year: 1997
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk22.htm
+notes: 'We think the author is called "Karel" but as the book is in Hungarian we''re not sure. It seems to be very similar
+  to Mark Johnson''s "Ideal for living" book with some lyrics added.
+
+
+  Apparently there''s a bit of a story behind this: There were two guys in Hungary who were going to write a Joy Division
+  book together, but they couldn''t agree on how to go about it or what to include etc. So in the end they both released their
+  own book on the subject. Karel''s book is easiest to find, there were at least 1.000 copies made of that one, the other
+  guy''s book seems to be more elusive, we think it was privately published.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Humania
+  publication_year: 1997
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 155
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 125
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,36 @@
+variant_id: OFF-S-0005
+release_type: officiel
+canonical_title: Short Circuit - Live at the Electric Circus
+canonical_artist: Joy Division
+year: 1978
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/short12.htm
+country_or_pressing_place: UK
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    color: blue
+    matrices:
+    - 'Blue + 7'''' pink :'
+    - 'Matrix / Runout (Side A label): VCL 5003-A'
+    - 'Matrix / Runout (Side B label): VCL 5003-B'
+    - 'Matrix / Runout (Side C label): VEP 1004-A'
+    - 'Matrix / Runout (Side D label): VEP 1004-B'
+    - 'Matrix / Runout (Side A runout, etched): VCL 5003 A3 A PORKY PRIME CUT'
+    - 'Matrix / Runout (Side B runout, etched): VCL 5003 B3'
+    - 'Matrix / Runout (Side C runout, etched): J PM. VEP+1004+A'
+    - 'Matrix / Runout (Side D runout, etched): VEP+1004+B J.S'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - S
+  - '1'
+  reconstructed: O12S1
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 12_ compilations - Short Circuit & Earcom2.xlsx

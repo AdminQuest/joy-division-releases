@@ -1,0 +1,34 @@
+variant_id: BOOT-A-0044
+release_type: bootleg
+canonical_title: Asylum Doors
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A14.htm
+country_or_pressing_place: USA ?
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: splatter purple
+    matrices:
+    - 'Vinyl matrix numbers (same as listing above):'
+    - JD-AD A
+    - JD-AD B
+    - JD-AD C
+    - JD-AD D
+    - The CD is a reissue of Lyceum in clear plastic wallet
+    - 'Matrix: 14469-105241 6191001110 ifpiLC17'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '10'
+  - k
+  reconstructed: BA10k
+  has_suffix: false
+  source_row: 67
+  source_xlsx: Bootlegs - A.xlsx

@@ -1,0 +1,32 @@
+variant_id: OFF-T-0018
+release_type: officiel
+canonical_title: Total From Joy Division to New Order
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/total.htm
+country_or_pressing_place: Europe
+notes: 'Warner Music ‎– 0190295663841. Barcode (Text): 0190295663841/ Barcode (Scanned): 0190295663841.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout (Side A Etchings): BI26796-01 A2 F.A. 0190295663841.'
+    - 'Matrix / Runout (Side B Etchings): BI26796-01 B2 0190295663841.'
+    - 'Matrix / Runout (Side C Etchings): BI26796-02 C2 F.A. 0190295663841.'
+    - 'Matrix / Runout (Side D Etchings): BI26796-02 D2 0190295663841.'
+    - 'Label Code: LC14666'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - B
+  - '3'
+  reconstructed: OAB3
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - Best of.xlsx

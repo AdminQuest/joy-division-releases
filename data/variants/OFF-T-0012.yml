@@ -1,0 +1,25 @@
+variant_id: OFF-T-0012
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: Italy
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

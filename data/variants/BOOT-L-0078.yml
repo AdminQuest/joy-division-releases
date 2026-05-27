@@ -1,0 +1,34 @@
+variant_id: BOOT-L-0078
+release_type: bootleg
+canonical_title: Live in Paris
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L10.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BL29
+  group_role: color_variation
+notes: '[]Possibly also available in pink vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: pink
+    matrices:
+    - 'Matrix / Runout: JD 1984 A'
+    - 'Matrix / Runout: JD 1984 B'
+    - 'Matrix / Runout: JD 1984 C'
+    - 'Matrix / Runout: JD 1984 D'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '29'
+  - c
+  reconstructed: BL29c
+  has_suffix: false
+  source_row: 81
+  source_xlsx: Bootlegs - L.xlsx

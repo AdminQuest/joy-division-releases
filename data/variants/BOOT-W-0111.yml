@@ -1,0 +1,29 @@
+variant_id: BOOT-W-0111
+release_type: bootleg
+canonical_title: Where Will It End?*
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W6.htm
+country_or_pressing_place: Asia
+notes: Keri ‎– HE 005 - This is a black vinyl A Retrospective On The Vinyl Pain And Pleasure Of Joy Division in a wrap around
+  cover. Came with an orange insert. We have no idea how many exist.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - HE005
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '13'
+  - null
+  reconstructed: BW13
+  has_suffix: false
+  source_row: 113
+  source_xlsx: Bootlegs - W.xlsx

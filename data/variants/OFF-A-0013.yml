@@ -1,0 +1,38 @@
+variant_id: OFF-A-0013
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Portugal
+notes: 'Factory ‎– VFACT 113-5
+
+  Published by Fractured Music.
+
+  A Factory Records (US) Inc Product.
+
+  Re-released in the United Kingdom.
+
+  Editado sob licença por Vimúsica'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): VFACT 113-5A 15/7/82'
+    - 'Matrix / Runout (Side B): VFACT 113-5B 15/7/82'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

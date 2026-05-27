@@ -1,0 +1,27 @@
+variant_id: BOOT-P-0052
+release_type: bootleg
+canonical_title: Plan K
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P10.htm
+discogs_url: https://www.discogs.com/fr/release/22027672-Joy-Division-Plan-K
+country_or_pressing_place: USA
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Splatter Orange
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 53
+  source_xlsx: Bootlegs - P.xlsx

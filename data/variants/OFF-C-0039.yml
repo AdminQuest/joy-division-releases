@@ -1,0 +1,34 @@
+variant_id: OFF-C-0039
+release_type: officiel
+canonical_title: Complete BBC recordings
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/co.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-The-Complete-BBC-Recordings/release/128630
+country_or_pressing_place: Canada
+notes: True North ‎– TND 212, Fuel 2000 ‎– BBC Music
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 6 20638-0212-2'
+    - 'Matrix / Runout (Variant 1): TND212 #01023Y19 L387'
+    - 'Matrix / Runout (Variant 2): [Cinram logo] L387 TND212 #70923Y19 01'
+    - 'Mastering SID Code (Variant 2): IFPI L387'
+    - 'Mould SID Code (Variant 2): IFPI 6000'
+    - 'Other (Variant 2 inner ring): MADE IN CANADA 15'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,44 @@
+variant_id: BOOT-W-0081
+release_type: bootleg
+canonical_title: Warsaw The Lost, Complete 1977 Recordings
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W10.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BW8
+  group_role: color_variation
+notes: 'Rockville 2020 - US double LP released 2020. Black vinyl. Red picture sleeve. Plain white labels. 20 machine-numbered
+  copies (bottom right of back sleeve)
+
+
+  The back cover states: "These are the complete Warsaw rehearsal, demo and live recordings available from 1977. An amazing
+  historical document for all fans of the band. In 1978 the band changed their name to Joy Division becoming one of the most
+  influential bands of the new generation."'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - WAR-A
+    - WAR-B
+    - WAR-C
+    - WAR-D
+    - 'Note: there are other faint and unintelligible characters after the matrix numbers along the lines of an upside-down
+      "1" followed by a dot and then a "1" the correct way + what looks like the word "COWARD", and there''s also a scratched-out
+      bit where only the last letter (which corresponds to the side A, B, C or D) is visible.'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '8'
+  - a
+  reconstructed: BW8a
+  has_suffix: false
+  source_row: 83
+  source_xlsx: Bootlegs - W.xlsx

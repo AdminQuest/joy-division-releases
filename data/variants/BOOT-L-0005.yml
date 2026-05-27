@@ -1,0 +1,37 @@
+variant_id: BOOT-L-0005
+release_type: bootleg
+canonical_title: Last Order
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BL1
+  group_role: color_variation
+notes: "Raven Records, Inc ‎– RV 81241\nV1 : black vinyl with a black and white wraparound cover with \"Raven Records\" labels.\n\
+  \nThere are copies on black vinyl which have plain white labels, these either have the original wraparound cover or a proper\
+  \ deluxe cover like the colour vinyl reissues. We are unsure if these are original white label test pressings (which the\
+  \ wraparound cover would suggest) or a plain white label reissue (as the proper deluxe cover would indicate). \nAccording\
+  \ the the A History In Cuttings book this came out on picture disc too but we don't think it did"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FAC-13030-A'
+    - 'Matrix / Runout: FAC-13030-B'
+    - 'Rights Society (Fake): S.I.A.E.'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '1'
+  - a
+  reconstructed: BL1a
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - L.xlsx

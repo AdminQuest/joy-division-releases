@@ -1,0 +1,29 @@
+variant_id: BOOT-A-0060
+release_type: bootleg
+canonical_title: 'Atrocity Exhibition: Live in Paris 79'
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A11.htm
+country_or_pressing_place: Europe
+notes: 2018, Lively Youth LVY524 ; 500 copies. Identique à l’officiel Les Bains-Douches
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 141939E1/C'
+    - 'Matrix / Runout: 141393E2/B'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '18'
+  - null
+  reconstructed: BA18
+  has_suffix: false
+  source_row: 83
+  source_xlsx: Bootlegs - A.xlsx

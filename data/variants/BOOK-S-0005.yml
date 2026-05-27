@@ -1,0 +1,50 @@
+variant_id: BOOK-S-0005
+release_type: livre
+canonical_title: 'So This is Permanence: Lyrics and Notebooks'
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: http://joydiv.org/bk74.htm
+country_or_pressing_place: UK
+notes: 'VF : Joy Division, Paroles et Carnets de Notes
+
+  This is a big 274 page 28 x 21cm hardback which is big on content. We''d hoped this would be packed with unpublished images
+  of Ian''s notebooks and we''re not disappointed.
+
+  Focussing on his lyrics there''s an initial section with the finished songs featuring the handwritten version on one page
+  and the typed up version opposite. This is followed by a large section with handwritten lyrics to unfinished songs, early
+  versions and other prose. Finally there''s a section with other items from Ian''s archive - book covers, letters from fans,
+  pages from fanzines etc.
+
+  This is clearly a labour of love and Jon Savage explains in the intro how they selected the images for the book - generally
+  the most complete version in Ian''s notebooks.
+
+  "His lyrics tell much more than a conversation with him ever could" - Deborah Curtis
+
+  Highly recommended. Je l''ai en version numérique'
+format_details:
+  type: book
+  authors:
+  - 'Ian Curtis
+
+    Jon Savage'
+  - Deborah Curtis
+  publisher: Faber & Faber
+  publication_year: 2014
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '571309550'
+  page_count: 304
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 76
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,31 @@
+variant_id: VID-H-0002
+release_type: video
+canonical_title: HERE ARE THE YOUNG MEN
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/hatym.htm
+country_or_pressing_place: ??
+notes: 'IMDVD37 2006
+
+  Pirate copy
+
+  NTSC DVD
+
+  The aspect ratio is 16:9 (they have cut off the top and bottom of the picture).'
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - V
+  - O
+  - D
+  - null
+  reconstructed: VOD
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

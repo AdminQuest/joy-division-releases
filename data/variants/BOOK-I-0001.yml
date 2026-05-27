@@ -1,0 +1,32 @@
+variant_id: BOOK-I-0001
+release_type: livre
+canonical_title: Ian Curtis, l'âme damnée de Joy Division
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk2.htm
+country_or_pressing_place: France
+notes: Edition française de Torn Apart
+format_details:
+  type: book
+  authors:
+  - Mick Middles
+  - Lindsay Reade
+  publisher: Camion Blanc
+  publication_year: 2008
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 523
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Livres -.xlsx

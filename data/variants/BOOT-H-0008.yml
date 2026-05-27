@@ -1,0 +1,31 @@
+variant_id: BOOT-H-0008
+release_type: bootleg
+canonical_title: Here Are The Young Men
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: H
+discogs_url: https://www.discogs.com/fr/release/2576802-Joy-Division-Here-Are-The-Young-Men
+variant_group:
+  group_id: BH4
+  group_role: pressing_variation
+notes: Another version of this release with different cover. Limited to 200 copies. Black vinyl and green labels.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: Black
+    matrices:
+    - R 7-A
+    - R 7-B
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '4'
+  - b
+  reconstructed: BH4b
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - H.xlsx

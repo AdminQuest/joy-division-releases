@@ -1,0 +1,29 @@
+variant_id: BOOK-M-0003
+release_type: livre
+canonical_title: A Moment In Time
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: needs_review
+joydiv_letter: M
+joydiv_url: http://joydiv.org/bk24.htm
+country_or_pressing_place: UK
+format_details:
+  type: book
+  authors:
+  - S. Barber
+  publisher: Privately Published
+  publication_year: 1983
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 68
+  source_xlsx: Livres -.xlsx

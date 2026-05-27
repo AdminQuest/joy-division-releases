@@ -1,0 +1,31 @@
+variant_id: BOOT-R-0010
+release_type: bootleg
+canonical_title: Remains
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R6.htm
+country_or_pressing_place: ??
+notes: 'JD7780CD. "A collection of rare material not found on the Heart & Soul box set
+
+
+  See Closer To The Unknown CD released 2004 which is basically a reissue of this one with an extra track'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 7-253655-778029'
+    - 'Matrix / Runout: 3D7780'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '5'
+  - null
+  reconstructed: BR5
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - R.xlsx

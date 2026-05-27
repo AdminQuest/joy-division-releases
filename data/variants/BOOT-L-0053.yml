@@ -1,0 +1,38 @@
+variant_id: BOOT-L-0053
+release_type: bootleg
+canonical_title: Live at the London Lyceum
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L29.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BL18
+  group_role: color_variation
+notes: 'American CD reissue of the above released 2019 (cover says 2001)
+
+  "Warehouse Communications USA 2001"
+
+  Catalogue No: JDL80CD
+
+  Digipak card sleeve
+
+  This CD was later included in the 1980 4 X CD box set'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Disc matrix: 14469-105241  6191001110  ifpi LC17'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '18'
+  - d
+  reconstructed: BL18d
+  has_suffix: false
+  source_row: 56
+  source_xlsx: Bootlegs - L.xlsx

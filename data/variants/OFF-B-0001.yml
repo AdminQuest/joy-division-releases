@@ -1,0 +1,33 @@
+variant_id: OFF-B-0001
+release_type: officiel
+canonical_title: The Best Of Joy Division
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bestof.htm
+country_or_pressing_place: Europe
+notes: "London Records ‎– 5051442-7302-2-7 \n2008. CD. CD 1 : best of ; CD 2 : John Peel Sessions."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Barcode (Scanned): 5051442730227'
+    - 'Matrix / Runout (CD1): [Warner ''Big W'' logo] 56638919/5051442730227-1 21'
+    - 'Mastering SID Code (CD1): IFPI LP 73'
+    - 'Mould SID Code (CD1): IFPI 0789'
+    - 'Matrix / Runout (CD2): [Warner ''Big W'' logo] 56638922/5051442730227-2 21'
+    - 'Mastering SID Code (CD2): IFPI LP 73'
+    - 'Mould SID Code (CD2): IFPI 0789'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - B
+  - '2'
+  reconstructed: OAB2
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - Best of.xlsx

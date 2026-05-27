@@ -1,0 +1,43 @@
+variant_id: BOOT-F-0001
+release_type: bootleg
+canonical_title: Factory By Moonlight
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F12.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BF1
+  group_role: color_variation
+notes: 'LP 2010
+
+  UK bootleg released 2010
+
+  Heavy blue vinyl
+
+  Two different covers:
+
+  1 : White wraparound cover with blue print
+
+  Blank labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix / Runout: JL 80-A1'
+    - 'Matrix / Runout: JL 80-B1'
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '1'
+  - a
+  reconstructed: BF1a
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - F.xlsx

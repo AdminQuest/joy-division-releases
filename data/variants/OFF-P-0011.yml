@@ -1,0 +1,35 @@
+variant_id: OFF-P-0011
+release_type: officiel
+canonical_title: Preston 28 February 1980
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/preston.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Preston-28-February-1980/release/1405615
+country_or_pressing_place: Italy
+notes: 'Released on LP by Get Back Records (Italy) 180g purple vinyl 2000 cat no: GET69 First vinyl edition.
+
+  Gatefold cover.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Purple
+    matrices:
+    - 'Barcode (Scanned): 8013252316913'
+    - 'Matrix / Runout (Side A, etched): GET 69 A'
+    - 'Matrix / Runout (Side B, etched): GET 69 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - Preston 28 february 1980.xlsx
+  op_inferred_from_filename: true

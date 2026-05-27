@@ -1,0 +1,37 @@
+variant_id: BOOT-0-0018
+release_type: bootleg
+canonical_title: + - (plus minus)
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: '0'
+country_or_pressing_place: UK
+notes: 'Warner Music UK Ltd. ‎– none. Pirate copy of the official 2010 7" & CD box-sets
+
+  Identical LPs as the listing above but in plain white sleeve with glued-on paper inserts front & back (copied from the official
+  2010 box-set) plus double-sided printed insert.
+
+  This version also has "+ -" in the title
+
+  Sometimes passed off as an official vinyl promo for the box-set, but it''s not.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - '"Matrix / Runout (Side A): JOYDIVLP 001 A-1'
+    - 'Matrix / Runout (Side B): JOYDIVLP 001 B-1'
+    - 'Matrix / Runout (Side C): JOYDIVLP 001 C-1'
+    - 'Matrix / Runout (Side D): JOYDIVLP 001 XXXXX-D-1"'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - +-1.xlsx

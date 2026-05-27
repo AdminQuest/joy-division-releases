@@ -1,0 +1,41 @@
+variant_id: BOOT-T-0020
+release_type: bootleg
+canonical_title: That’ll be the End
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T10.htm
+country_or_pressing_place: Spain
+variant_group:
+  group_id: BT4
+  group_role: color_variation
+notes: 'Spanish LP, reissue of the above
+
+  No record label or catalogue number
+
+  Colour picture cover
+
+  Plain white labels
+
+  No printed inner'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Side A: JD-1-A1'
+    - 'Side A: JD-1-B1'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '4'
+  - e
+  reconstructed: BT4e
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Bootlegs - T.xlsx

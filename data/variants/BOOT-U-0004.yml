@@ -1,0 +1,30 @@
+variant_id: BOOT-U-0004
+release_type: bootleg
+canonical_title: Unknown Martyrs
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/U1.htm
+country_or_pressing_place: Germany
+notes: MNL 3529 - Limited to 500 hand-numbered copies. One of the best JD bootlegs when it was released. The concert is now
+  available on the official Heart and Soul box set.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): JD-23-A'
+    - 'Matrix / Runout (Runout side B): JD-23-B'
+_legacy_code:
+  segments:
+  - B
+  - U
+  - '2'
+  - null
+  reconstructed: BU2
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - U.xlsx

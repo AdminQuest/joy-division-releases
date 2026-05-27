@@ -1,0 +1,47 @@
+variant_id: BOOK-J-0022
+release_type: livre
+canonical_title: Joy Division's Unknown Pleasures (33 ⅓)
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk4.htm
+country_or_pressing_place: UK
+notes: 'Contrary to some reports this book isn''t just about the Unknown Pleasures album, although many pages are devoted
+  to the recording of that album and the various songs committed to tape during the UP sessions.
+
+
+  There are plenty of details about how Martin Hannett created the Unknown Pleasures album''s unique sound through his "revolutionary"
+  production technique, such as the gadgets he used, etc. A bit technical at times, but interesting nonetheless, even if much
+  of this has been covered in previous publications. We also get the full JD story from the early punk days of Stiff Kittens/Warsaw
+  up until the final days of the band and Ian''s suicide.
+
+
+  According to this book Bernard Sumner often refuses to acknowledge that JD were ever known as Warsaw. Rather odd, as it''s
+  even stated on the An Ideal For Living 7"EP sleeve - which Barney designed if I''m not much mistaken - that "up until the
+  recording date of this E.P. we were known as WARSAW".
+
+
+  Rather unavoidably, a lot of the information is tak'
+format_details:
+  type: book
+  authors:
+  - Chris Ott
+  publisher: Continuum Publishing Group
+  publication_year: 2004
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '826415490'
+  page_count: 117
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 65
+  source_xlsx: Livres -.xlsx

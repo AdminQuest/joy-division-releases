@@ -1,0 +1,36 @@
+variant_id: BOOT-T-0011
+release_type: bootleg
+canonical_title: There Must be More Than This
+canonical_artist: Joy Division
+year: 1998
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/M5.htm
+country_or_pressing_place: ??
+notes: 'LRT101179. Released 30th Sept 98. Advertised as Live: Rainbow Theatre, London 10th Novermber 1979 - but it isn''t.
+
+  Front cover has black round sticker with JOY DIVISION . XXIII.II.MCMLXXX. "THERE MUST BE MORE THAN THIS" which is the date
+  for the concert with a V missing . The catalogue number of LRT101179 presumably means London Rainbow theatre 10.11.79.
+
+  Poor sound quality version of the regular soundboard source. The Shadowplay CD features the same soundboard recording of
+  this concert and in vastly superior quality.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: GRIM1 SMC'
+    - 'Matrix / Runout: 1FS4'
+    - 'Mould SID Code: ifpi 1L07'
+    - 'Mastering SID Code: IFPI LB02'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '2'
+  - null
+  reconstructed: BT2
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - T.xlsx

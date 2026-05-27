@@ -1,0 +1,32 @@
+variant_id: OFF-C-0037
+release_type: officiel
+canonical_title: Ceremony / In A Lonely Place
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+discogs_url: https://www.discogs.com/fr/release/2830689-New-Order-Joy-Division-Ceremony-In-A-Lonely-Place
+country_or_pressing_place: UK
+notes: 'Rhino Records ‎– FAC.33.  This is the record store day special limited edition release (800 copies), containing both
+  the New Order and Joy Division versions of the same songs: Ceremony and In A Lonely Place. The Joy Division tracks are from
+  rehearsal sessions, and In A Lonely Place has never before been released in this full length version.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A runout): FAC 33 A-1 FA Watching forever.'
+    - 'Matrix / Runout (Side AA runout): FAC 33 AA-1 How we wish you were here with us now.'
+_legacy_code:
+  segments:
+  - O
+  - null
+  - null
+  - null
+  reconstructed: O
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - RSD.xlsx

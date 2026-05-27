@@ -1,0 +1,36 @@
+variant_id: BOOT-E-0008
+release_type: bootleg
+canonical_title: End Live In England 79
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E4.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BE6
+  group_role: pressing_variation
+notes: '[]Western Sculpture Records Inc ‎– WSR 8887-8. Double-LP. Reissue of "Dead Soul"
+
+
+  Reissue of "Dead Soul" which again was a reissue/collection of the bootlegs "Unknown Martyrs" and "Black Souls ».'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout: JD-ZY-A'
+    - 'Matrix / Runout: JD-ZY-B'
+    - 'Matrix / Runout: JX A'
+    - 'Matrix / Runout: JX B'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '6'
+  - a
+  reconstructed: BE6a
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - E.xlsx

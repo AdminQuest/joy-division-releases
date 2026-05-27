@@ -1,0 +1,32 @@
+variant_id: OFF-T-0016
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1979
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: UK
+notes: "1979. 1er pressage UK (Flat (untextured) sleeve, with squared cut-out on reverse, rounded glue flaps and white G+L.).\
+  \ Super rare! Barely ANY copies made or sold and consequently very VERY hard to find indeed! 1ST PRESSING - A1/B1 MATRIXES\
+  \ The record is in absolutely BRILLIANT condition and is VERY bright & shiny looking indeed! \nFlat (untextured) sleeve,\
+  \ with squared cut-out on reverse, rounded glue flaps and white G+L;"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAC-13 A1 .E.G. Sound Clinic Graeme'
+    - 'Matrix / Runout (Runout side B): FAC-13 B1 EG–'
+_legacy_code:
+  segments:
+  - O
+  - '7'
+  - null
+  - null
+  reconstructed: O7
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 7_ - Transmission.xlsx

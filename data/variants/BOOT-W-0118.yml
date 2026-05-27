@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0118
+release_type: bootleg
+canonical_title: With Love From Brussels Vol 1
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: http://joydiv.org/L41.htm
+discogs_url: https://www.discogs.com/fr/release/26532596-Joy-Division-From-Brussels-With-Love-Vol-1
+country_or_pressing_place: USA
+variant_group:
+  group_id: BW15
+  group_role: color_variation
+notes: Purple Splatter
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD Benelux A
+    - JD Benelux B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '15'
+  - c
+  reconstructed: BW15c
+  has_suffix: false
+  source_row: 120
+  source_xlsx: Bootlegs - W.xlsx

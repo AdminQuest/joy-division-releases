@@ -1,0 +1,50 @@
+variant_id: OFF-C-0016
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Portugal
+notes: 'Factory ‎– VFACT 111-2
+
+  Published by Fractured Music
+
+  Produced at Britannia Row.
+
+  A Factory Records Product.
+
+  Editado sob Licença por Vimúsica, Lda.
+
+  Backcover has "Tózé Artes Gráficas - Camarate" printed on the lower right corner and a sticker with the record company information.
+
+  Inner sleeve is a regular bag with an opening.
+
+  Some copies have the "Promoção - Proibida Venda" company stamp (promotional copies).
+
+  Rear sleeve tells us that it is also available on cassette - VFACT 112-2
+
+  There were two pressings of this LP: One had a plain inner sleeve (and stated the printers name on the back). The other
+  had a lightweight 24" x 12" paper insert, folded once with song titles/ etc.. Both records have the same matrix No.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side runout, etched): VFACT 111-2 A'
+    - 'Matrix / Runout (B side runout, etched): VFACT 111-2 B'
+    - 'Rights Society: SPA'
+    - 'Other (Price code): AN'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - Closer.xlsx

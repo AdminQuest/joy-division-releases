@@ -1,0 +1,36 @@
+variant_id: OFF-C-0001
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: UK
+notes: "Factory ‎– FACT XXV FACT. 25 Dark red translucent vinyl. Plain carton cover with glossy inner sleeve and straight\
+  \ corners. Outer cover: thick and rough / textured cardboard sleeve. Inner sleeve: rough / textured with straight corners.\
+  \ On translucent red or translucent green vinyl. \nSome copies with the same labels on both sides.\nGroove notations:\n\
+  Original UK edition: \"Old blue?\" (side A), supposedly a reference to Frank \"old blue eyes\" Sinatra.\nThe original US\
+  \ Closer LP on Factory USA (Factus 6) doesn't have any groove notations.\n\nHow to tell an original UK LP from a UK reissue:\n\
+  The original pressing has a textured sleeve & inner, the reissues have smooth sleeves & inners.\nThe original inner sleeve\
+  \ has rounded corners, the reissues have regular, square inner sleeves."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Translucent Red
+    matrices:
+    - 'Matrix / Runout (Side A, variant 1): FACT 25 A1 OLD BLUE ?'
+    - 'Matrix / Runout (Side B, variant 1): FACT 25 B-1'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - C
+  - '1'
+  reconstructed: OAC1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - Closer.xlsx

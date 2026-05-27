@@ -1,0 +1,32 @@
+variant_id: BOOT-G-0003
+release_type: bootleg
+canonical_title: Götterdämmerung
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G2.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BG3
+  group_role: color_variation
+notes: West-German bootleg released 1988. Black and white sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: SO 1'
+    - 'Matrix / Runout: SO 2'
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '3'
+  - a
+  reconstructed: BG3a
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - G.xlsx

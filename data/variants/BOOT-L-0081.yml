@@ -1,0 +1,33 @@
+variant_id: BOOT-L-0081
+release_type: bootleg
+canonical_title: Live Malvern / Eric's
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L11.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BL30
+  group_role: color_variation
+notes: '[]150 copy reissue with just a red insert sleeve (mostly hand written) on clear vinyl with the matrix numbers burned
+  out.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+    matrices:
+    - 'Matrix / Runout: ELF - 2403 / A et'
+    - 'Matrix / Runout: ELF - 2403 / B et'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '30'
+  - b
+  reconstructed: BL30b
+  has_suffix: false
+  source_row: 84
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,27 @@
+variant_id: BOOT-S-0038
+release_type: bootleg
+canonical_title: The Sound Of Music
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S15.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BS13
+  group_role: pressing_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '13'
+  - d
+  reconstructed: BS13d
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Bootlegs - S.xlsx

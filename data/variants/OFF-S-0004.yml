@@ -1,0 +1,40 @@
+variant_id: OFF-S-0004
+release_type: officiel
+canonical_title: Short Circuit - Live at the Electric Circus
+canonical_artist: Joy Division
+year: 1978
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/short12.htm
+country_or_pressing_place: UK
+notes: "Virgin ‎– VCL 5003.  Printed insert sleeve contains a history of The Electric Circus venue and line-ups of the bands\
+  \ featured on the EP. Some copies included a pink vinyl 7\" version of John Dowie's \"Another Close Shave\". Some copies\
+  \ included a dark blue promotional poster (folded in six segments) that contained a circuit diagram, band and location details,\
+  \ and the promotional blurb: \n\"First 5,000 colour pressed on fashionable blue vinyl. Electric Circus. In handy shoplifting\
+  \ size. 10\" for £2.99. Out now on Virgin VCL5003\" \nThe 7 inch was totally random - it was included with blue, black and\
+  \ even orange promo copies with the original catalogue number VCL 5003 and blue Virgin labels. Some of these randomly had\
+  \ an orange sticker to say there was an included 7 inch. Some had no sticker but still included the 7 inch. Some had a full\
+  \ promo poster with or without the 7 inch. It was utterly random."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    color: orange
+    matrices:
+    - 'Orange + 7'''' pink :'
+    - 'Matrix / Runout (Side A label): VCL 5003-A'
+    - 'Matrix / Runout (Side B label): VCL 5003-B'
+    - 'Matrix / Runout (Side A runout): VCL 5003 A3 A PORKY PRIME CUT'
+    - 'Matrix / Runout (Side B runout): VCL 5003 B3'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - S
+  - '1'
+  reconstructed: O12S1
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 12_ compilations - Short Circuit & Earcom2.xlsx

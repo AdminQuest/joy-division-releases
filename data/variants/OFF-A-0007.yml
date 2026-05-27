@@ -1,0 +1,44 @@
+variant_id: OFF-A-0007
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: France
+notes: 'Factory ‎– 600207, Factory ‎– Facus 2
+
+  Published by Fractured Music
+
+  ℗ 1980 Factory Records
+
+  A Factory Records (U.S) Inc. Product re-released in the United Kingdom.
+
+  Made in France
+
+  Représentation exclusive Virgin France S.A.
+
+  Printed in France'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A, machine-stamped runout): ⩓ 81 7 V 600207 A'
+    - 'Matrix / Runout (Side B, machine-stamped runout): ⩓ 81 7 V 600207 B'
+    - 'Rights Society: SACEM SDRM SACD SGDL'
+    - 'Price Code: AE170'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

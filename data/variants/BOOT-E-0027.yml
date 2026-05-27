@@ -1,0 +1,41 @@
+variant_id: BOOT-E-0027
+release_type: bootleg
+canonical_title: Exercise One
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: http://joydiv.org/E14.htm
+country_or_pressing_place: Europe
+notes: 'V1 : (LP) 2014
+
+  Italian bootleg LP released 2014
+
+  No record company or catalogue number
+
+  Pressed on black vinyl,  and either 100 copies or 300 copies on red vinyl
+
+  Black picture sleeve
+
+  Folded band poster insert (photo Stockport 28 July 1979 by Paul Slattery)
+
+  Printed labels including one Ian Curtis picture labe'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: ENIGMA 1 A'
+    - 'Matrix / Runout: ENIGMA 1 B'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '12'
+  - null
+  reconstructed: BE12
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - E.xlsx

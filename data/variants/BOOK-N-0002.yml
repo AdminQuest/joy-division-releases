@@ -1,0 +1,43 @@
+variant_id: BOOK-N-0002
+release_type: livre
+canonical_title: 'New Dawn Fades: The Graphic Novel about Joy Division and Manchester'
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: N
+joydiv_url: http://joydiv.org/bk78.htm
+country_or_pressing_place: UK
+notes: 'New Dawn Fades is a stylish graphic novel adaptation of the highly-acclaimed stage play, New Dawn Fades – The Story
+  of Joy Division and Manchester, that was written by Brian Gorman and produced by All Roads Meet Ltd. The play premiered
+  in July 2013 at the Manchester Fringe Festival. It toured nationally in April 2016. In April 2018, a new production played
+  for four nights at The Dancehouse Theatre, Manchester. The book also includes 8 pages of colour photos from the play.
+
+
+  New Dawn Fades follows the short, massively-influential career of the iconic late 70’s and early 80’s band Joy Division
+  and their impact on popular culture. It’s packed with emotive black and white artwork, historical references and Shay Rowan’s
+  striking photos from both versions of the play.
+
+
+  Written and illustrated by Brian Gorman, design and layout by Giles D Bastow.'
+format_details:
+  type: book
+  authors:
+  - Brian Gorman
+  publisher: Invisible Six Books
+  publication_year: 2018
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-0-9955218-3-4
+  page_count: 132
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 69
+  source_xlsx: Livres -.xlsx

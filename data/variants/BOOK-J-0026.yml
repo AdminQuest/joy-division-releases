@@ -1,0 +1,41 @@
+variant_id: BOOK-J-0026
+release_type: livre
+canonical_title: Joy Division Lyrics
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk40.htm
+country_or_pressing_place: Belgium
+notes: 'Slim A5 booklet published in Belgium 1983 (possibly earlier)
+
+  Author: Ronald Grossey
+
+  Publisher: EXA
+
+  Belgium
+
+  300 copies
+
+  58 pages'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1983
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 58
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 104
+  source_xlsx: Livres -.xlsx

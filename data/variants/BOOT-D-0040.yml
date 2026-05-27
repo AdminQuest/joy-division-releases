@@ -1,0 +1,37 @@
+variant_id: BOOT-D-0040
+release_type: bootleg
+canonical_title: Desperation Takes Hold
+canonical_artist: Joy Division
+year: 1998
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D9.htm
+country_or_pressing_place: ??
+notes: 'JDCD 001. Picture CD - dying star logo.
+
+  Source: Live
+
+  This CD was re-released in a digipak case. The colours printed on the CD are different on the digipak version but the matrix
+  numbers are the same. Poor sound quality. Some of the songs from Leeds are almost unlistenable at times. This is quite remarkable
+  when there are so many high quality recordings of the Amsterdam concert available. The CD sounds as though it has been copied
+  from a vinyl LP - although no LPs of this concert are this bad.
+
+  Copy of Soul Of Heart. These two CDs were clearly pressed from the same master but have different covers and different pictures
+  on the disk.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 562761987-1'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '13'
+  - null
+  reconstructed: BD13
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - D.xlsx

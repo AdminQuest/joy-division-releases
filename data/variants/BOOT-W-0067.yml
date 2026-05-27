@@ -1,0 +1,30 @@
+variant_id: BOOT-W-0067
+release_type: bootleg
+canonical_title: Warsaw CDs
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w2cd.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BW5
+  group_role: color_variation
+notes: 'V3 mirror : Italian bootleg. Poor quality cover - logo is a mirror image!
+
+  Also available as as WARSAW STUDIO DEMOS - 1978 & 1979 with identical spoof track names on the CD - but a different cover.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '5'
+  - c
+  reconstructed: BW5c
+  has_suffix: false
+  source_row: 69
+  source_xlsx: Bootlegs - W.xlsx

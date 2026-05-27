@@ -1,0 +1,28 @@
+variant_id: BOOT-E-0007
+release_type: bootleg
+canonical_title: The End
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E8.htm
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Fake): 5 708566 206427'
+    - 'Matrix / Runout: End'
+    - 'Other (Rights Society - Fake): GEMA'
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '5'
+  - null
+  reconstructed: BE5
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - E.xlsx

@@ -1,0 +1,30 @@
+variant_id: BOOT-W-0051
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: The Netherlands
+notes: 'V24 Babyface :  2007, Baby FaceWARSAW (LP) 69654 Vinyl Passion. 1.000 copies. Made in The Netherlands 2007.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'Side A: 69654 1A VP 80000'
+    - 'Side B: 69654 2B VP 80000'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - an
+  reconstructed: BW4an
+  has_suffix: false
+  source_row: 53
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,39 @@
+variant_id: BOOT-W-0003
+release_type: bootleg
+canonical_title: Walk Away... In Silence
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/W1.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BW2
+  group_role: color_variation
+notes: 'West-German bootleg, released January 1984. Mono.
+
+  Available in three covers, the black and white one, a blue folder cover and plain cover with a glued on black and white
+  "subway" picture (clearly they ran out of covers and "made" this one). Blank labels.
+
+  Released as "Glass Is..." in Australia.
+
+  The original blue cover version has "Acid" labels, re pressings have blank labels.
+
+  The black cover version has blank labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '2'
+  - a
+  reconstructed: BW2a
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - W.xlsx

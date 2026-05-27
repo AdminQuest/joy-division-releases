@@ -1,0 +1,39 @@
+variant_id: BOOT-B-0030
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: USA
+notes: 'American LP released 2025
+
+  Same white sleeve as the 2021 edition, but with different printed white label with black letters
+
+  No record label or catalogue number mentioned on the cover or labels
+
+  Limited splatter vinyl edition of around 35 copies, all more or less different in terms of colour/splatter formulation
+
+  The track listing is the same as the previous versions
+
+  Some copies, but not all, had one of both inserts that the 2021 edition came with; a double-sided printed sheet 1 2 and
+  a pink ticket repro'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    matrices:
+    - JD_BOTE  A
+    - JD_BOTE  B
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - y
+  reconstructed: BB2y
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - B.xlsx

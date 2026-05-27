@@ -1,0 +1,30 @@
+variant_id: PIR-S-0001
+release_type: pirate
+canonical_title: Short Circuit Live Electric Circus
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S17.htm
+country_or_pressing_place: Greece
+notes: '1984, 12''’ VG50100 ; Greek pirate copy of the original 10'''' release. How to spot this fake : it has some Greek
+  text on the back cover and the labels.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: VG 50100 A'
+    - 'Matrix / Runout: VG 50100 B'
+_legacy_code:
+  segments:
+  - P
+  - '12'
+  - null
+  - null
+  reconstructed: P12
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 12_ compilations - Short Circuit & Earcom2.xlsx

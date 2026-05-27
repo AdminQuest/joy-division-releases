@@ -1,0 +1,37 @@
+variant_id: BOOT-0-0001
+release_type: bootleg
+canonical_title: '1977'
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/J9.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BJ
+  group_role: color_variation
+notes: 'Annah Stiger Publishing ‎– Stiger 66228
+
+  Special 200 limited and numbered with sticker edition out in Black Picture Disc single-sided. Colour picture sleeve
+
+  5 different vinyl colours; yellow, white, black (mine), blue, red'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Barcode: 2 547888 564418'
+    - 'Matrix: 66228 .A'
+_legacy_code:
+  segments:
+  - B
+  - J
+  - null
+  - a
+  reconstructed: BJa
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - +-1.xlsx

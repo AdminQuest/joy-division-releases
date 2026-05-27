@@ -1,0 +1,39 @@
+variant_id: OFF-T-0008
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: France
+notes: 'Factory ‎– 80043, Factory ‎– FAC 13.12 Reissue
+
+  Published by Fractured Music
+
+  ℗ 1980 Factory Records
+
+  Representation exclusive Virgin France S.A.
+
+  Printed in France'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Price Code: PM 132'
+    - 'Rights Society: SACEM SAGD SDRM SGDL'
+    - 'Matrix / Runout: 81_8 600209 A1 80043 A1'
+    - 'Matrix / Runout: 81_8 V 6002 0 9 B1 80043 B1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Officiels et pirates - 12_ - Transmission.xlsx

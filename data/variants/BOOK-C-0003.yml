@@ -1,0 +1,42 @@
+variant_id: BOOK-C-0003
+release_type: livre
+canonical_title: 'Closer: Testamento Musical'
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/bk89.htm
+notes: 'Brazilian book, Portuguese language
+
+  "Through content that mixes historical essays, fiction, creative process accounts, photographs and illustrations, we are
+  introduced to narratives inspired by the Ian Curtis & Cia album. The intimate emotions that arise from the hearing each
+  track from Closer invoke the drama of a young man who suffers from chronic unemployment, lack of perspectives, isolation
+  and loss of meaning of his existence. This real story inspires the construction of characters such as Dona Joana, an old
+  alcoholic, true rock, that cries the absence of a son executed in a slaughter and the couple of failed artists, Tania and
+  Marcos.
+
+  The texts, organized and exhibited by Arlindo, and connected to the Joy Division´s biographical retrospect, serve as an
+  aesthetic exercise of ovation Closer in its 40 years. With drama and heavy tone, and also with decadent and self-deprecating
+  humor – the author''s style marks – the album is celebrated – not as a morbid piece, simple cult of Ian Cur'
+format_details:
+  type: book
+  authors:
+  - Arlindo Gonçalves
+  publisher: loja Estronho
+  publication_year: 2020
+  language: pt
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-65-87071-07-7
+  page_count: 264
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 117
+  source_xlsx: Livres -.xlsx

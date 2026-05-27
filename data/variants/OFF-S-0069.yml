@@ -1,0 +1,33 @@
+variant_id: OFF-S-0069
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/13145404
+notes: Substance LP. Colored vinyl. Numbered, Reissue, Green. Rough Trade – RTD 70, Factory – Fact 250. Handnumbered 66/75.
+  Incl. xeroxed promo sheet from 1988. Xeroxed double sided promo sheets pretending to be from Rough Trade Records, on 3 pages
+  of green paper.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Green
+    matrices:
+    - 'Matrix / Runout (Side A, etched): RTD 70 A G. Pauler'
+    - 'Matrix / Runout (Side B, etched): RTD 70 B G. Pauler'
+_legacy_code:
+  segments:
+  - P
+  - A
+  - S
+  - '11'
+  reconstructed: PAS11
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

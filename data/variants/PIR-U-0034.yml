@@ -1,0 +1,34 @@
+variant_id: PIR-U-0034
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/release/6013589-Joy-Division-Unknown-Pleasures
+country_or_pressing_place: UK
+notes: 'N°10 : FACT 10 Factory Records/Stiletto 2014. UK reissue of the above with different matrix numbers. Same sleeve and
+  labels as the listing above
+
+  Printing on spine is smaller than the other "Stiletto"/"Brazil" pirate versions above. Issued on black, and clear vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - JOY A (with something scratched out before it)
+    - JOY B
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 68
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

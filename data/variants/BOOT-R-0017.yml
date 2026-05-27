@@ -1,0 +1,35 @@
+variant_id: BOOT-R-0017
+release_type: bootleg
+canonical_title: A Retrospective - Part II
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R3.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BR7
+  group_role: color_variation
+notes: 'Stick and Roll Records Hawkeye 06
+
+  European cassette
+
+  This is the cassette version of the above LP - factory produced by Hawkeye.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Matrix / Runout: HAWKEY 06 A'
+    - 'Matrix / Runout: HAWKEY 06 B'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '7'
+  - b
+  reconstructed: BR7b
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - R.xlsx

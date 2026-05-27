@@ -1,0 +1,29 @@
+variant_id: BOOK-I-0010
+release_type: livre
+canonical_title: Ian Curtis and Joy Division
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk27.htm
+format_details:
+  type: book
+  authors:
+  - Chino Ferrara
+  publisher: Gammalibri/Kaos Edizioni
+  publication_year: 1987
+  language: it
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 158
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 122
+  source_xlsx: Livres -.xlsx

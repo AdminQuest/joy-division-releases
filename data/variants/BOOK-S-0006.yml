@@ -1,0 +1,36 @@
+variant_id: BOOK-S-0006
+release_type: livre
+canonical_title: The Salford Music Map
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/salfordmusicmap.htm
+notes: 'This map was issued in October 2008 and is available free from tourist information centres, venues and libraries in
+  Salford and via the Visit Salford website (they''ll post it to you). There are more pictures and information at Visit Salford
+  website.
+
+
+  Joy Division related sites on the map include Salford Grammar, Hilton Street rehearsal rooms, De La Salle (Tony Wilson''s
+  old school), Howard Devoto''s flat where he organised the Sex Pistols'' gig on June 4 1976 and Oakwood school (where New
+  Order played a gig for special needs kids)'
+format_details:
+  type: book
+  authors:
+  - David Nolan
+  publisher: Aurum Press Ltd.
+  publication_year: 2008
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 115
+  source_xlsx: Livres -.xlsx

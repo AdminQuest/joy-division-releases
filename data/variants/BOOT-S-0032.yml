@@ -1,0 +1,32 @@
+variant_id: BOOT-S-0032
+release_type: bootleg
+canonical_title: The Sound And The Fury
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S6.htm
+country_or_pressing_place: Europe
+notes: 'Released May 2008.
+
+  100 copies on white vinyl, also on black vinyl.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout: A: JDTHHW 001 A1'
+    - 'Matrix / Runout: B: JDTHHW 001 B1'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '11'
+  - null
+  reconstructed: BS11
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - S.xlsx

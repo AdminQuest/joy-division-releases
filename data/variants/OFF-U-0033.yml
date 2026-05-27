@@ -1,0 +1,51 @@
+variant_id: OFF-U-0033
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1816278
+country_or_pressing_place: Japan
+notes: 'WPCR 12838-9 Warner Music Japan 2008. 2008 pirate copy of the official Japanese digipak release.
+
+  Gatefold card sleeve "vinyl replica" packaging, which is thinner than the official Japanese issue with the same catalogue
+  number
+
+  2 booklets & OBI "Collectors edition". Country of origin: unknown
+
+  N°15 : Unofficial reissue meant to be looking as it were an official Japanese release, including:
+
+  - the same catalogue number than the official Japanese Deluxe Edition from 2008.
+
+  - an OBI strip reproducing on both front and back the original artwork from the OBI strip found on the original Japanese
+  Deluxe Edition from 2008; the artwork on the spine is an adaption to fit the different thickness);
+
+  - a Mini-LP sized gatefold cardboard sleeve;
+
+  - a reproduction of the main black and white booklet found in the official Japanese Deluxe Edition from 2008 (featuring
+  band interviews, photos and track overviews);
+
+  - a reproduction of the second booklet found in the official Japanese Deluxe Edition from 2008 (fe'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    color: Collector's Edition
+    matrices:
+    - 'Barcode: 4 943674 077960'
+    - 'Matrix / Runout (CD1): WPCR-12838 2'
+    - 'Matrix / Runout (CD2): WPCR-12839 1'
+    - 'Rights Society: JASRAC'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

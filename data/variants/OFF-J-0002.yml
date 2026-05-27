@@ -1,0 +1,32 @@
+variant_id: OFF-J-0002
+release_type: officiel
+canonical_title: John Peel Sessions 2
+canonical_artist: Joy Division
+year: 1987
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/pe.htm
+country_or_pressing_place: UK
+notes: Strange Fruit ‎– SFPS033. 1er pressage UK de 1987 (Strange Fruit SFPS033 special metallic finish limited edition sleeve).
+  Original 12 " Released 1987 Recorded November 26, 1979 First broadcast on John Peel radio show December 10th 1979.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout A): SFPS 033A-I B.J.'
+    - 'Matrix / Runout (Runout B): SFPS 033B-I MT. cts Wembley Adrenalin'
+    - 'Matrix / Runout (Label A): SFPS033 - A'
+    - 'Matrix / Runout (Label B): SFPS033 - B'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - J
+  - '2'
+  reconstructed: O12J2
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 12_ - John Peel Sessions.xlsx

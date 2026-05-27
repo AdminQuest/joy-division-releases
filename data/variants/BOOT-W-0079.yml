@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0079
+release_type: bootleg
+canonical_title: 'Warsaw, All Love Lost
+
+
+  Idem 1st LP Misplaced'
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.discogs.com/fr/Joy-Division-Warsaw-All-Love-Lost/release/14297283
+country_or_pressing_place: ??
+notes: DL213. Left over vinyl from the misplaced release, LP1 only, approx 10 only with red foil cover
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'Matrix / Runout (Etched): MISA'
+    - 'Matrix / Runout (Etched): MISB'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 81
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,26 @@
+variant_id: PARA-B-0001
+release_type: para
+canonical_title: 'BEST #267'
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: needs_review
+joydiv_letter: B
+notes: Cure, Madonna, Joy Division/New Order, Pixies, Gamine
+format_details:
+  type: para
+  parent_object: magazine
+  object_description: 'Magazine: BEST #267'
+  embedded_supports: []
+  parent_title: BEST
+  parent_issue: '#267'
+  parent_year: 1990
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Livres -.xlsx

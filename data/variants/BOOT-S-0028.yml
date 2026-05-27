@@ -1,0 +1,37 @@
+variant_id: BOOT-S-0028
+release_type: bootleg
+canonical_title: Soul and Heart
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S14.htm
+country_or_pressing_place: Japan
+variant_group:
+  group_id: BS9
+  group_role: color_variation
+notes: "[]Red Sun Music - RSLP 1980\n600 copy Asian LP released 2002. \nAvailable on blue, yellow or green vinyl - 200 copies\
+  \ of each. \nDecember 2002 saw a re-release on white or grey vinyl. 50 copies of each.\n\nGatefold insert sheet with song\
+  \ lyrics and picture of Ian Curtis's memorial stone. \nContains unreleased studio recordings taken from disc 3 of the Heart\
+  \ & Soul box set."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Side A: JB-‘A'''
+    - 'Side B: J.B.-''B'''
+    - 'Barcode: 4 503476 208889'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '9'
+  - d
+  reconstructed: BS9d
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - S.xlsx

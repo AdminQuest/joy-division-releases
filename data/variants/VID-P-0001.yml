@@ -1,0 +1,22 @@
+variant_id: VID-P-0001
+release_type: video
+canonical_title: Peter Hook and the Light, So This is Permanent
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: P
+joydiv_url: https://lh3.googleusercontent.com/pw/AIL4fc_TwCxAdNPibBMwIAXH4MuQl9bNC4IbbIZfAX2Lz5fU0nFKhj5bNts4pxiWjLOyK2JO9LM423bap-cZLkUS1k2hX7ExaT0XYovXALbrQzI6HF6EcI3bQLtrOIiQVgpojYa2ISO9CuGzyJkxzcZ9MlYEdQ=w957-h957-s-no?authuser=0
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

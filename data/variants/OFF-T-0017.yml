@@ -1,0 +1,52 @@
+variant_id: OFF-T-0017
+release_type: officiel
+canonical_title: Transmission
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/trans.htm
+country_or_pressing_place: UK
+notes: 'Factory ‎– Fac 13 Repress, Textured Sleeve, Tranco Pressing
+
+  This is a Tranco repress with the following properties similar to Joy Division - Transmission:
+
+  - textured sleeve
+
+  - raised centre
+
+  - squared cut-out on reverse
+
+  - rounded glue flaps
+
+  - white G+L printed on the backside
+
+  - "EG A PORKY PRIME CUT" with additional "A" on side B and "B" on side A in the Matrix/Runout
+
+  - serrated vinyl around the label
+
+  - dark red translucent (Picture shows a more violet colour than it actually is, no strong light is required)
+
+  As known from other JD releases, this has not to be necessarily translucent vinyl - so black copys with this matrix# and
+  serrated
+
+  vinyl may exist as well.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: translucent red
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAC 13 A2 EG A PORKY PRIME CUT AND HOW I''LL NEVER KNOW B'
+    - 'Matrix / Runout (Runout side B): FAC 13 B1 EG A PORKY PRIME CUT JUST WHY OR UNDERSTAND A'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 7_ - Transmission.xlsx

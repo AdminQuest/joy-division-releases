@@ -1,0 +1,42 @@
+variant_id: OFF-L-0006
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Canada
+notes: 'Factory ‎– FACX•II•XII
+
+  Side A: For ∙ ML
+
+  Side B: 20/1/83
+
+  Manufactured by PolyGram Inc. and distributed by PolyGram Distribution Inc. 6000 Cote de Liesse, St. Laurent, Quebec. Made
+  In Canada
+
+  Shrinkwrapped, with white sticker which reads "JOY DIVISION FACX 02". "Made in Canada" on spine.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A, variant 1): FACX-02 A SNB 230 EL DM-4'
+    - 'Matrix / Runout (Runout side B, variant 1): FACX-02 B SNB 230 EL DM-5'
+    - 'Matrix / Runout (Runout side A, variant 2): FACX-02 A SNB 230 EL DM-3'
+    - 'Matrix / Runout (Runout side B, variant 2): FACX-02 B SNB 230 EL DM-4'
+    - 'Matrix / Runout (Runout side A, variant 3): FACX-02 A SNB 230 EL DM-7'
+    - 'Matrix / Runout (Runout side B, variant 3): FACX-02 B SNB 230 EL DM-3'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

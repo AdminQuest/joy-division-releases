@@ -1,0 +1,33 @@
+variant_id: BOOT-G-0002
+release_type: bootleg
+canonical_title: Good Evening We're Joy Division
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G5.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BG2
+  group_role: color_variation
+notes: '(CD) VOODOO SOUNDS 2005
+
+  All tracks are available on the Heart And Soul 4CD set'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: R-JD-1'
+    - 'Rights Society (Fake): OSA'
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '2'
+  - a
+  reconstructed: BG2a
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - G.xlsx

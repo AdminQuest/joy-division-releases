@@ -1,0 +1,32 @@
+variant_id: OFF-L-0025
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: Poland
+notes: Version polonaise avec she's Lost control en face B Tonpress S-590 (Polish import) Released during the 1980s No labels
+  - label information is stamped into the vinyl. Issued by the Polish Tonpress label under lincense from Factory. Tonpress
+  was a government controlled publisher in Poland in the 1970s and 80s which belonged to KAW - Krajowa Agencja Wydawnicza
+  (The National Publishing Agency). They released foreign albums under licence as well as Polish records.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side): S-590-A AK'
+    - 'Matrix / Runout (B side): S-590-B AK'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

@@ -1,0 +1,34 @@
+variant_id: PIR-S-0013
+release_type: pirate
+canonical_title: Sordide Sentimental
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S5.htm
+country_or_pressing_place: USA
+notes: "Pirate copy of the \"Licht Und Blindheit\" single & magazine. \n[]USA 2007 : coloured vinyls, label original, inserts,\
+  \ background original\n\nlabel As original\n\nNo serrated ridge\n\nCovers are numbered\n\nContains copies of the original\
+  \ inserts\n\nBackground image as original\n\nGlue is still clear\n\nPlastic bag with clear Sordide Sentimental sticker stuck\
+  \ to it"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: yellow gold
+    matrices:
+    - SS 33002 A
+    - t SS 33002 - B - t
+    - Hand written
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

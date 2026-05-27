@@ -1,0 +1,41 @@
+variant_id: OFF-C-0027
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: USA
+notes: 'Qwest Records ‎– 9 25841-1, Qwest Records ‎– 1-25841 - ARC Pressing / SRC Pressing
+
+  Buff/ multi-colour Qwest label - features song titles and timings.
+
+  Small "© Factory Communications, made in USA" on inner.
+
+  There are gold-stamped promo editions of this.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode: 0 7599-25841-1 1'
+    - 'Matrix / Runout (Runout side A): 1-25841-A-SH1 ɑB-33953-SHI ∆ 23550 I-I'
+    - 'Matrix / Runout (Runout side B): 1-25841-B-SH3 ɑB-33954-B-SH3 ∆ 23550-X I-I'
+    - 'Barcode: 0 7599-25841-1 1'
+    - 'Matrix / Runout (Variation 1 - Side A): 1-25841-A-SR1'
+    - 'Matrix / Runout (Variation 1 - Side B): 1-25841-A-SR1'
+    - 'Matrix / Runout (Variation 2 - Side A): 1-25841-A-SR2'
+    - 'Matrix / Runout (Variation 2 - Side B): 1-25841-B-SR1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Officiels et pirates - Closer.xlsx

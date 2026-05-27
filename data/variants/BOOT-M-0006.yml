@@ -1,0 +1,28 @@
+variant_id: BOOT-M-0006
+release_type: bootleg
+canonical_title: The Many Faces of Joy Division (A journey through the inner world of Joy Division)
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: M
+country_or_pressing_place: Mexico
+notes: 'juin 2015, Coffret 3 CD, Mexique, Music Brokers ‎– MBB7184. Issued in an 8-panel Digipak with clear trays. No rights
+  society and no track times mentioned on release
+
+  CD 2 : Original Master Recording owned by Pylon Records Catalog #021. CD 2 is identical to Peter Hook And The Light - Unknown
+  Pleasures · Live In Australia.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 3
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '3'
+  - null
+  reconstructed: BM3
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Bootlegs - M.xlsx

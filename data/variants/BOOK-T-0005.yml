@@ -1,0 +1,37 @@
+variant_id: BOOK-T-0005
+release_type: livre
+canonical_title: True Faith An Armchair Guide To New Order, Joy Division, Electronic, Revenge, Monaco and The Other Two
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: needs_review
+joydiv_letter: T
+joydiv_url: http://joydiv.org/bk46.htm
+country_or_pressing_place: UK
+notes: "\"True Faith An Armchair Guide To New Order, Joy Division, Electronic, Revenge, Monaco and The Other Two\", by Dave\
+  \ Thompson with additional input from David Sultan  \nThis book is a chronological affair, moving from one year to the next\
+  \ based on the dates of the various singles and album releases, studio session recording dates and the odd live concert\
+  \ thrown in for good measure. A bit similar in approach to Mark Johnson's \"An Ideal For Living\", which was based on the\
+  \ concerts rather than the release dates. But the comparison stops there. Although True Faith includes plenty of detail,\
+  \ for example about bootleg releases, the Joy Division material contains a number of errors and inconsistencies."
+format_details:
+  type: book
+  authors:
+  - Dave Thompson
+  publisher: Helter Skelter Publishing
+  publication_year: 2005
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 1-900924-94-3
+  page_count: 192
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 81
+  source_xlsx: Livres -.xlsx

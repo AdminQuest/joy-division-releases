@@ -1,0 +1,25 @@
+variant_id: BOOT-L-0055
+release_type: bootleg
+canonical_title: Live At The Moonlight Club London UK April 3 1980
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNsUWvAGNyZEfx0MzZF8QXmrI6WEbPfIglLSqCE?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: ??
+notes: Tape It Dee Dee - TPTDD 013
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 58
+  source_xlsx: Bootlegs - L.xlsx

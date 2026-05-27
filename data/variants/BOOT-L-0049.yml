@@ -1,0 +1,25 @@
+variant_id: BOOT-L-0049
+release_type: bootleg
+canonical_title: Live at The Apollo 1979 / Manchester October 1979
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipNwSyLkYRYWSRJ5dbPPTfeFgGL1jRW9uPYUYYTg?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: UK
+notes: "Support CDr (CD enregistrable)\n\nCard sleeve, innersleeve, Vinyl CD.\nThe only Apollo Live 1979 CD format released.\
+  \ \nvoir Bootlegs M"
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '2'
+  - null
+  reconstructed: BM2
+  has_suffix: false
+  source_row: 52
+  source_xlsx: Bootlegs - L.xlsx

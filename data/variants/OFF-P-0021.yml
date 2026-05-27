@@ -1,0 +1,44 @@
+variant_id: OFF-P-0021
+release_type: officiel
+canonical_title: Preston 28 February 1981
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: P
+discogs_url: https://www.discogs.com/fr/release/24821285-Joy-Division-Preston-28-February-1980
+country_or_pressing_place: Europe
+notes: 'DOL – DOR2018H
+
+  Another grey repress from DOR - this time on translucent blue vinyl.
+
+  Barcode the same and sleeve almost identical to Joy Division - Preston 28 February 1980 but Manufactured in "the EU" and
+  no date mentioned
+
+  Also the vinyl labels are the new DOR red white & blue design
+
+  DOL Hype sticker proclaims 180 Gram HQ Virgin Vinyl
+
+  Assuming year as 2022 as I purchased from Sister Ray and they had a stack of them just in, all in new shrink wrap'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Blue translucent
+    matrices:
+    - 'Code-barres (Scanned): 889397520182'
+    - 'Code-barres (Printed): 8 89397 52018 2'
+    - 'Informations sur la matrice (Runout Side A): 0947727 - A - 2'
+    - 'Informations sur la matrice (Runout Side B): 0947727 - B - 2'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - Preston 28 february 1980.xlsx
+  op_inferred_from_filename: true

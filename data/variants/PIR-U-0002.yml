@@ -1,0 +1,38 @@
+variant_id: PIR-U-0002
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+country_or_pressing_place: China
+notes: 'N°15 : DAD009 CentreDate
+
+  2005 pirate copy in a book-style cover
+
+  Cat.no. on spine: DAD009
+
+  Cat.no. on back cover & disc label: ISRC CN-G21-2005-328-00/A J6
+
+  Booklet attached to the inside of the cover features song lyrics, a band history, equipment details and it also features
+  a small band picture from Paris, Les Bains Douches 18/12/79 by photographer Pierre René-Worms.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Disc matrix: 3984288223-2 12/99'
+    - 'Barcode in the bottom right corner on the back cover: ISBN 7-88580-021-3 (above the vertical lines) and 9 787885 800822>
+      (below the vertical lines)'
+_legacy_code:
+  segments:
+  - P
+  - null
+  - null
+  - null
+  reconstructed: P
+  has_suffix: false
+  source_row: 34
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

@@ -1,0 +1,34 @@
+variant_id: BOOK-F-0002
+release_type: livre
+canonical_title: Form (And Substance)
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/bk6.htm
+country_or_pressing_place: UK
+notes: "In addition to the original limited edition there are at least two subsequent repressings with a new cover, all issued\
+  \ in 1988. \n\nThis book contains information about and a history of the band, as well as details of the live concerts with\
+  \ track listings. Some black & white photos, even a few from Ian & Debbie's wedding, as well as a rather morbid reproduction\
+  \ of Ian Curtis's death certificate. Recommended for hardcore fans."
+format_details:
+  type: book
+  authors:
+  - Craig Wood
+  - Clinton Heylin
+  publisher: Sound Publishing
+  publication_year: 1988
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 45
+  source_xlsx: Livres -.xlsx

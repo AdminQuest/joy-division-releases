@@ -1,0 +1,36 @@
+variant_id: BOOT-P-0047
+release_type: bootleg
+canonical_title: Performances 01
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P5.htm
+country_or_pressing_place: France
+notes: 'n°478/600. Düdeschar ‎– Dome 2
+
+  European 2LP and 7" single set released March 2003. 600 copies, blue vinyl. Came with postcard sized insert.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: blue
+    matrices:
+    - 'Matrix / Runout (LP 1): AE 44017/A'
+    - 'Matrix / Runout (LP 1): AE 44018/A'
+    - 'Matrix / Runout (LP 2): AE 44019/A'
+    - 'Matrix / Runout (LP 2): AE 44020/A'
+    - 'Matrix / Runout (7"): A0 45405/A'
+    - 'Matrix / Runout (7"): A0 45406/A'
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '7'
+  - null
+  reconstructed: BP7
+  has_suffix: false
+  source_row: 48
+  source_xlsx: Bootlegs - P.xlsx

@@ -1,0 +1,39 @@
+variant_id: BOOT-0-0008
+release_type: bootleg
+canonical_title: 1979 Radio Sessions
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/N2.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: B+3
+  group_role: color_variation
+notes: 'Source: Studio Released July 2008
+
+  The labels on both sides say "Side 1 »
+
+  150 vinyles blancs. Existe en red, white-semi translucent
+
+  V1 (2008) : 150 white vinyl, the rest on black'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Matrix / Runout (Side A, etchings): FACT 37 A₁'
+    - 'Matrix / Runout (Side B, etchings): FACT 37 B₁'
+_legacy_code:
+  segments:
+  - B
+  - +
+  - '3'
+  - a
+  reconstructed: B+3a
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - +-1.xlsx

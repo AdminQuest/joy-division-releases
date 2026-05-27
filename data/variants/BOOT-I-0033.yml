@@ -1,0 +1,40 @@
+variant_id: BOOT-I-0033
+release_type: bootleg
+canonical_title: Interview
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I5.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI10
+  group_role: color_variation
+notes: 'RDPD 08
+
+  Numbered picture disc.
+
+  Also released on An Interview With Ian Curtis 7" and the Under Review DVD - with subtitles. Side 2 is a copy of side 1
+
+  Some came in different sleeve as an un-numbered picture disc ; Various mispressings exist where the wrong picture, or a
+  misprinted picture, has been used
+
+  Other band''s picture discs were also misprinted with a Joy Division image'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): RDPD-08-A1. MT.'
+    - 'Matrix / Runout (Runout side B): RDPD-08-B1. MT.'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '10'
+  - a
+  reconstructed: BI10a
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - I.xlsx

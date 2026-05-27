@@ -1,0 +1,34 @@
+variant_id: BOOT-R-0027
+release_type: bootleg
+canonical_title: Russell Club - June 13 1979 Manchester
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/R5.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BR10
+  group_role: color_variation
+notes: "[]V3 : Hawkeye ‎– SCX 5443, JD 1501984\n European reissue of the above on multicoloured vinyl. Supposedly limited\
+  \ to 50 or 75 copies."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter
+    matrices:
+    - 'Matrix / Runout: LP - 150 A'
+    - 'Matrix / Runout: LP - 150 B'
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '10'
+  - f
+  reconstructed: BR10f
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - R.xlsx

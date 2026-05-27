@@ -1,0 +1,35 @@
+variant_id: BOOT-S-0012
+release_type: bootleg
+canonical_title: She's Lost Control
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S13.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BS4
+  group_role: color_variation
+notes: "[]V2 : FACUS 3 2009, Pressed on Black, marbled grey/white, and clear vinyl. Printed white labels similar to the ones\
+  \ on the original Atmosphere/She's Lost Control \nThe A side is the 1980 'electronic' version of She's Lost Control, with\
+  \ an additional verse, that only appeared on the 12\" single Facus 2.\n(face B : Digital Genetic Demo)"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: black
+    matrices:
+    - FACUS 3 A A PORKY PRIME CUT
+    - FACUS 3 B A PORKY PRIME CUT
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '4'
+  - b
+  reconstructed: BS4b
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - S.xlsx

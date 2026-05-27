@@ -1,0 +1,32 @@
+variant_id: OFF-C-0031
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Japan
+notes: 'London Records ‎– AMCE-6109
+
+  Features green obi-strip with pricing and release informations. Also features a fold-out insert with lyrics in English and
+  Japanese and a short biography.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 4 988029 610942'
+    - 'Matrix / Runout: AMCE-6109 01'
+    - 'Rights Society: JASRAC'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Officiels et pirates - Closer.xlsx

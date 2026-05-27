@@ -1,0 +1,38 @@
+variant_id: OFF-A-0004
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Australia
+notes: 'Gap Records ‎– FACUS 2
+
+  Published by Fractured Music
+
+  A Factory (U.S.) Inc. Product
+
+  Released by GAP Records in Australasia under licence.
+
+  M&D by CBS Records Australia Limited.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FACUS-2-One MX 203871 Å'
+    - 'Matrix / Runout (Runout side B): FACUS-2-Two MX 203872 Å'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

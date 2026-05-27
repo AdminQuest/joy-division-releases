@@ -1,0 +1,48 @@
+variant_id: OFF-S-0026
+release_type: officiel
+canonical_title: Still
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S16.htm
+discogs_url: https://www.discogs.com/fr/release/1361843-Joy-Division-Still
+country_or_pressing_place: USA
+notes: 'Rhino Records – RHI1 264636
+
+  Heavy weight vinyl reissue released in gatefold clothbound sleeve with knoted white textile strip on spine that holds gatefold
+  card and die-cut disc sleeves inside.
+
+  "Twenty Four Hours" doesn''t appear on the tracklisting.
+
+
+  Sticker on the front:
+
+  "Joy Division - Still (Limited Edition).
+
+  Available on vinyl for the first time in over 10 years, remastered from the original master tapes, original artwork, heavyweight
+  180-gram vinyl."'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - '(Runout side A): FACT 40 A EG THE CHICKEN WON''T STOP P2 S-62736 82564 64032 1 9 AI'
+    - '(Runout side B): FACT 40 B EG P2 -< -< -< -< -< -< S-62737 RE-I 2564640321 B2'
+    - '(Runout side C): FACT 40 CI -< -< -< -< EG S-62738'
+    - '(Runout side D): FACT 40 DI EG THE CHICKEN STOPS HERE S-62739'
+    - 'Code-barres (On Sticker In The Front): 081227997175'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

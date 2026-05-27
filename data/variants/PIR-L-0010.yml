@@ -1,0 +1,39 @@
+variant_id: PIR-L-0010
+release_type: pirate
+canonical_title: Love Will Tear Us Apart (7 »)
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L17.htm
+notes: 'Cleopatra – CLP 8214-1
+
+  All versions are released with phonographic copyright by Cleopatra Records and have nothing to do with Hannett.
+
+
+  ℗ © 2012 Cleopatra Records
+
+  Universal PolyGram International Publishing Inc.
+
+
+  Comes in clear PVC sleeve with 3.9" x 12" 2-sided card insert.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Code-barres (Printed): 7 41157 82141 3'
+    - 'Informations sur la matrice (Hand-etched A side): S-69166RE1 A'
+    - 'Informations sur la matrice (Hand-etched B side): S-69167RE1 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

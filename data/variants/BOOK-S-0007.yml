@@ -1,0 +1,33 @@
+variant_id: BOOK-S-0007
+release_type: livre
+canonical_title: Svetla u Podrumu Duše
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/bk93.htm
+notes: 'A book of Joy Division lyrics from Yugoslavia.
+
+
+  The title translates as Lights in The Basement of The Soul.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: SKC Niš
+  publication_year: 1988
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 78
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 133
+  source_xlsx: Livres -.xlsx

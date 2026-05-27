@@ -1,0 +1,58 @@
+variant_id: BOOT-E-0003
+release_type: bootleg
+canonical_title: Eindhoven
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E12.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BE2
+  group_role: color_variation
+notes: 'LPs: 14489-105246
+
+  CD: JDE 01
+
+  Double LP on black vinyl + CD released 2019
+
+  20 hand numbered copies. 8/20, sans le CD ni les postcards
+
+  Label: Warehouse Productions USA
+
+  Generic labels with "TEST PRESSING", "Customer", "Date", "Cat.no", "Operator" and "QC checked" printed on them.
+
+  Inserts are:
+
+  Black postcard (same design as LP front cover)
+
+  5 photos 10cm x 15cm - 2 of Ian Curtis and 1 of Bernard Sumner from this gig, hand-written set list, original gig poster
+
+  The CD is housed inside a clear plastic sleeve, the cat.no printed on the CD''s label side is: "JDE 01". This CD was also
+  released on its own in a card sleeve
+
+  Claims to be a test pressing but it''s a limited black vinyl version of Europa'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'LP matrix:'
+    - 14489-105246 A2
+    - 14489-105246 B3
+    - 14489-105246 C
+    - 14489-105246 D
+    - 'CD matrix:'
+    - 13984-99888 6191002804 DW
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '2'
+  - a
+  reconstructed: BE2a
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - E.xlsx

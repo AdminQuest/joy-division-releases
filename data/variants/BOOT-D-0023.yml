@@ -1,0 +1,30 @@
+variant_id: BOOT-D-0023
+release_type: bootleg
+canonical_title: Day of The Lords
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D12.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BD5
+  group_role: color_variation
+notes: '[]V2 : même ref, 2012. 2012 repress of the above LP. Plain white labels with large capital A and B. Blue vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '5'
+  - g
+  reconstructed: BD5g
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Bootlegs - D.xlsx

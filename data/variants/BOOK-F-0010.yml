@@ -1,0 +1,30 @@
+variant_id: BOOK-F-0010
+release_type: livre
+canonical_title: Factory Records - The Complete Graphic Album
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/bk53.htm
+notes: 'VF : Factory Records - Une anthologie graphique'
+format_details:
+  type: book
+  authors:
+  - Matthew Robertson
+  publisher: Thames & Hudson Ltd
+  publication_year: 2006
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 224
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 110
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,37 @@
+variant_id: BOOT-H-0010
+release_type: bootleg
+canonical_title: A History in Cuttings
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/H4.htm
+country_or_pressing_place: ??
+notes: 'The full package comprises:
+
+  66 page book (AHIC 1)
+
+  2 page letter and bio (The Stephen Morris letter)
+
+  Red and blue label sheets
+
+  7" An Ideal For Living, with cardboard sleeve and plastic inner sleeve
+
+  Cassette tape, with 7.5" x 8" vinyl pocket
+
+  Clear plastic folder'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - H
+  - '5'
+  - null
+  reconstructed: BH5
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - H.xlsx

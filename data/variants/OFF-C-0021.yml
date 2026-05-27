@@ -1,0 +1,38 @@
+variant_id: OFF-C-0021
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Spain
+notes: 'Edigsa ‎– 19L0094, Edigsa ‎– 19L0094 5, Factory ‎– FACT XXV
+
+  This is a repress with slight different color labels and different manufacturing company.
+
+  This edition has white labels and text in black ink.
+
+  A first pressing with black labels is also available from the same era.
+
+  Note at bottom of back cover: "T.G. Hostench, S. A. Córcega, 231-233 - 08036 Barcelona 1984"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side): 19L0094-A-/N'''
+    - 'Matrix / Runout (B side): 19L0094-B-/N'''
+    - 'Depósito Legal: B.3279-1981'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Officiels et pirates - Closer.xlsx

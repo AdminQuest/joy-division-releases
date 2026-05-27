@@ -1,0 +1,39 @@
+variant_id: BOOT-C-0031
+release_type: bootleg
+canonical_title: Closer To The Unknown Treasures
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C10.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: BC7
+  group_role: color_variation
+notes: '(LP) Heart Of Darkness Records HOD-JD-0111 2018
+
+  2018 reissue of the above with the same sleeve, track listing, matrix numbers etc as the above
+
+  White vinyl
+
+  The labels are different to the listing above, they are the same as Closer to The Unknown Treasures Vol 2'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: white
+    matrices:
+    - 'Matrix / Runout (Side A): 001-A'
+    - 'Matrix / Runout (Side B): 001-B'
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '7'
+  - b
+  reconstructed: BC7b
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - C.xlsx

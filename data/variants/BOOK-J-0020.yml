@@ -1,0 +1,38 @@
+variant_id: BOOK-J-0020
+release_type: livre
+canonical_title: Joy Division ("Rock Music, Peter Hook, Steve Morris (musician), Percussion instrument, Jon Savage, An Ideal
+  For Living, Unknown Pleasures, Independent record label, Factory Records, Epilepsy")
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: http://joydiv.org/bk72.htm
+country_or_pressing_place: UK
+notes: 'Notice on front reads "High quality content by Wikipedia articles"
+
+
+  In addition to telling the story of Joy Division there is also a detailed account of the history of rock music with sub-genres.'
+format_details:
+  type: book
+  authors:
+  - F.P. Miller
+  - A.F. Vandome
+  - J. McBrewster
+  publisher: Alphascript Publishing, Germany
+  publication_year: 2009
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-613-0-26531-1
+  page_count: 105
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 63
+  source_xlsx: Livres -.xlsx

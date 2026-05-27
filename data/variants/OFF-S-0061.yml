@@ -1,0 +1,35 @@
+variant_id: OFF-S-0061
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1999
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/513240
+notes: 'CD 1999 (Label: London Records ASIN: B00002MDFA) London Records ‎– 3984 28224 2. Reissue, WMME Pressing.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Printed): 6 39842 82242 8'
+    - 'Label Code (Printed on backcover): LC02275'
+    - 'Label Code (Printed on CD): LC 7654'
+    - 'Rights Society (Europe): GEMA/BIEM'
+    - 'Rights Society (UK): GEMA/MCPS'
+    - 'Price Code: EW 809'
+    - 'Matrix / Runout: [Warner ''W'' logo] 398428224-2 07/99'
+    - 'Mastering SID Code: IFPI L012'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - '8'
+  reconstructed: OAS8
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

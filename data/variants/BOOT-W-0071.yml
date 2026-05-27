@@ -1,0 +1,35 @@
+variant_id: BOOT-W-0071
+release_type: bootleg
+canonical_title: Warsaw CDs
+canonical_artist: Joy Division
+year: 1994
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w2cd.htm
+country_or_pressing_place: Portugal
+variant_group:
+  group_id: BW5
+  group_role: color_variation
+notes: 'V7 : MPG 74034 Movie Play Gold 1994
+
+  Portuguese CD. Readily available.
+
+  Barcode 8 712177 021284 on back cover.
+
+  Reissued in 2017 on Factory of Sounds label, catalogue number FOS 2205060. Back inlay has a slightly different design. Clear
+  inlay tray. Barcode 8 719039 002955 on back cover.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '5'
+  - g
+  reconstructed: BW5g
+  has_suffix: false
+  source_row: 73
+  source_xlsx: Bootlegs - W.xlsx

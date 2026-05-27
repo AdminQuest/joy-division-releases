@@ -1,0 +1,33 @@
+variant_id: OFF-E-0001
+release_type: officiel
+canonical_title: Earcom 2
+canonical_artist: Joy Division
+year: 1979
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/ear12.htm
+country_or_pressing_place: UK
+notes: 'Fast Product ‎– Fast 9b. 1979. COMPILATION Fast product FAST9B. Etat général : occasion ; Etat pochette : EX (?) ;
+  Etat disque : EX (?) 1979 Printed inner sleeve contains recording information on all six tracks and various photo treatments.
+  There is also a version of Earcom 2 with Joy Division tracks (and Thursdays) on Side A.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A, etched): PORKY EG. I THOUGHT OF BANANNAS TILL YOU PLAYED IT'
+    - 'Matrix / Runout (Side A, stamped): ⩓ X 007 FB 9B B - 1'
+    - 'Matrix / Runout (Side B, etched): EG. HEY PEEL KICK OUT THE JAMS!'
+    - 'Matrix / Runout (Side B, stamped): X 007 FB 9B A - 1'
+_legacy_code:
+  segments:
+  - O
+  - '12'
+  - null
+  - null
+  reconstructed: O12
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 12_ compilations - Short Circuit & Earcom2.xlsx

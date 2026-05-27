@@ -1,0 +1,30 @@
+variant_id: BOOT-M-0039
+release_type: bootleg
+canonical_title: Misplaced (Rare and unreleased Rehearsals 1977-1980)
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M11.htm
+country_or_pressing_place: Australia
+notes: 'Reissued 2019 in a card sleeve with silver foil text and the same matrix numbers:'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    color: silver
+    matrices:
+    - 'matrice: [Regency Media logo] MISPLACED 147022.1 2P22035'
+    - 'Code mastering IFPI: ifpi LN98'
+    - 'Code du moule IFPI: IFPI 6Z03'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '9'
+  - p
+  reconstructed: BM9p
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - M.xlsx

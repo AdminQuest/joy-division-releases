@@ -1,0 +1,54 @@
+variant_id: BOOT-A-0007
+release_type: bootleg
+canonical_title: Abstract Sounds
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: http://joydiv.org/A18.htm
+country_or_pressing_place: Asia
+notes: 'Asian bootleg released 2023
+
+  Nippon Music
+
+  Limited edition 25 copies - numbered on a resealable plastic outer sleeve
+
+  Five different splatter vinyl versions as well as gold vinyl, white vinyl and picture discs. Usually sold together as a
+  set of eight
+
+  Additionally some copies on white vinyl, gold vinyl, and picture discs, were sold separately with no numbered stickers,
+  no obis, and no printed inner sleeves
+
+  Black gatefold sleeve with gold foil print
+
+  The spine has the band name, title and AS22 printed on it
+
+  Black obi strip with the Fractured Music "f" logo, band name and some Japanese characters as well as a price(?): ¥15,500
+
+  The inside of the gatefold features a photo of each band member, all from TJ Davidson''s,  Manchester August 1979 by  Kevin
+  Cummins.
+
+  LP1 printed inner sleeve features a posed band picture by photographer Harry Goodwin, the other side of the inner sleeve
+  has a track listing, recording details, liner notes, and a band picture taken backstage at Plan K Brussels October 979 '
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: splatter grey
+    matrices:
+    - 17008-138427 A
+    - 17008-138427 B
+    - 17008-138427 C
+    - 17008-138427 D
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - A.xlsx

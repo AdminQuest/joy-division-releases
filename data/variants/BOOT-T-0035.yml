@@ -1,0 +1,35 @@
+variant_id: BOOT-T-0035
+release_type: bootleg
+canonical_title: They Walked in Line
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T6.htm
+country_or_pressing_place: Greece
+variant_group:
+  group_id: BT6
+  group_role: color_variation
+notes: '100 hand numbered copies. 50 on black vinyl, 50 on clear
+
+  Thick card picture sleeve
+
+  Picture labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - No matrix label
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '6'
+  - a
+  reconstructed: BT6a
+  has_suffix: false
+  source_row: 32
+  source_xlsx: Bootlegs - T.xlsx

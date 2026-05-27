@@ -1,0 +1,28 @@
+variant_id: BOOK-D-0001
+release_type: livre
+canonical_title: Decades of Devotion
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: needs_review
+joydiv_letter: D
+format_details:
+  type: book
+  authors:
+  - Rob Summerfield
+  publisher: Independently Published
+  publication_year: 2019
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '1088454453'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Livres -.xlsx

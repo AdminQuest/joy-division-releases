@@ -1,0 +1,28 @@
+variant_id: BOOT-F-0023
+release_type: bootleg
+canonical_title: Further Transmissions
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F11.htm
+country_or_pressing_place: ??
+notes: Independent Music ‎– IMJD965CD
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Fake): 5 038986 119657'
+    - 'Matrix / Runout: IMJD965CD'
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '10'
+  - null
+  reconstructed: BF10
+  has_suffix: false
+  source_row: 24
+  source_xlsx: Bootlegs - F.xlsx

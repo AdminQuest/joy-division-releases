@@ -1,0 +1,26 @@
+variant_id: BOOT-M-0037
+release_type: bootleg
+canonical_title: Misplaced (Rare and unreleased Rehearsals 1977-1980)
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M11.htm
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: purple splatter
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '9'
+  - o
+  reconstructed: BM9o
+  has_suffix: false
+  source_row: 39
+  source_xlsx: Bootlegs - M.xlsx

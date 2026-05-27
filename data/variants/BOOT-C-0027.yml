@@ -1,0 +1,44 @@
+variant_id: BOOT-C-0027
+release_type: bootleg
+canonical_title: Closer live
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C16.htm
+country_or_pressing_place: Spain
+notes: 'FACT LIVE XXV 2021 - Spanish LP released 2021
+
+  Pirate edition of Closer featuring live versions of the tracks on the album. Black vinyl
+
+  Label: "Not a Factory Records Product"
+
+  Cat.no.: FACT LIVE XXV
+
+  Resealable outer plastic sleeve with round black sticker on the front
+
+  Glossy card picture sleeve
+
+  Generic plain black inner sleeve with label holes
+
+  Limited edition of 500 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - Matrix numbers (stamped)
+    - DIV 02 A B IS
+    - DIV 02 B
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '5'
+  - null
+  reconstructed: BC5
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - C.xlsx

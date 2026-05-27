@@ -1,0 +1,33 @@
+variant_id: BOOK-J-0034
+release_type: livre
+canonical_title: Joy Division / New Order
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk25.htm
+notes: 'Original edition 1983, black paper with white text
+
+
+
+  Later edition 1985, regular white paper'
+format_details:
+  type: book
+  authors:
+  - L. Santambrogio
+  publisher: Gammalibri/Kaos Edizioni
+  publication_year: 1983
+  language: it
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 130
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,30 @@
+variant_id: BOOT-I-0048
+release_type: bootleg
+canonical_title: Interview
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I5.htm
+country_or_pressing_place: ??
+notes: 'Other band''s picture discs were also misprinted with a Joy Division image:
+
+
+  Jesus And Mary Chain 12"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - Matrix numbers JS-1020-A and JS-1020-B
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '10'
+  - p
+  reconstructed: BI10p
+  has_suffix: false
+  source_row: 55
+  source_xlsx: Bootlegs - I.xlsx

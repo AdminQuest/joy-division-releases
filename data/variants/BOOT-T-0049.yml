@@ -1,0 +1,29 @@
+variant_id: BOOT-T-0049
+release_type: bootleg
+canonical_title: Try To Cure Yourself
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T2.htm
+country_or_pressing_place: Denmark
+notes: Available in a red cover (some with inserts).
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: SK-0038 - A'
+    - 'Matrix / Runout: SK-0038 - B'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '10'
+  - null
+  reconstructed: BT10
+  has_suffix: false
+  source_row: 46
+  source_xlsx: Bootlegs - T.xlsx

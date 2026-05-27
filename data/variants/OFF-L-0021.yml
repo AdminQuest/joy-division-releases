@@ -1,0 +1,58 @@
+variant_id: OFF-L-0021
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: UK
+notes: 'Glossy sleeve, with cut-out and curved, at the bottom, glue-flaps
+
+  Vinyl can appear to be red translucent when held up to a light.
+
+  Some copies were post-manufacturing dinked to be played in jukebox.
+
+  Other 1980 UK versions exist, both without additional numbers at the end of the matrix:
+
+  Matte sleeve, with squared cut-out on reverse and straight glue flaps.
+
+  Semi-glossy sleeve without cut-out and straight glue-flaps.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: translucent red
+    matrices:
+    - 'Matrix / Runout (Side A, etched var. 1): FAC 23 A1 ‒ AK DON''T DISILLUSION ME'
+    - 'Matrix / Runout (Side B, etched var. 1): FAC 23 B-1 2 AB I''VE ONLY GOT RECORD SHOPS LEFT'
+    - 'Matrix / Runout (Side A, etched var. 2): FAC 23 A1 DON’T DISILLUSION ME 7'
+    - 'Matrix / Runout (Side B, etched var. 2): FAC 23 B-1 I''VE ONLY GOT RECORD SHOPS LEFT 8'
+    - 'Matrix / Runout (Side A, etched var. 3): FAC 23 A1 DON''T DISILLUSION ME 4'
+    - 'Matrix / Runout (Side B, etched var. 3): FAC 23 B1 I''VE ONLY GOT RECORD SHOPS LEFT 4'
+    - 'Matrix / Runout (Side A, etched var. 4): FAC 23 A1 DON''T DISILLUSION ME·'
+    - 'Matrix / Runout (Side B, etched var. 4): FAC 23 B-1 I''VE ONLY GOT RECORD SHOPS LEFT'
+    - 'Matrix / Runout (Side A, etched var. 5): FAC 23 A1 DF DON''T DISILLUSION ME'
+    - 'Matrix / Runout (Side B, etched var. 5): FAC 23 B-1 BY I''VE ONLY GOT RECORD SHOPS LEFT 2'
+    - 'Matrix / Runout (Side A, etched var. 6): FAC 23 A1 DON''T DISILLUSION ME 1 BW'
+    - 'Matrix / Runout (Side B, etched var. 6): FAC 23 B-1 2 BN I''VE ONLY GOT RECORD SHOPS LEFT'
+    - 'Matrix / Runout (Side A, etched var. 7): FAC 23 A1 DON''T DISILLUSION ME'
+    - 'Matrix / Runout (Side B, etched var. 7): FAC 23 B-1 I''VE ONLY GOT RECORD SHOPS LEFT'
+    - 'Matrix / Runout (Side A, etched var. 8): FAC 23 A1 1 Z DON''T DISILLUSION ME'
+    - 'Matrix / Runout (Side B, etched var. 8): FAC 23 B-1 2 G I''VE ONLY GOT RECORD SHOPS LEFT'
+    - 'Matrix / Runout (Side A, etched var. 9): FAC 23 A1 1 AC DON''T DISILLUSION ME'
+    - 'Matrix / Runout (Side B, etched var. 9): FAC 23 B-1 2 W I''VE ONLY GOT RECORD SHOPS LEFT'
+    - 'Matrix / Runout (Side A, etched var. 10): FAC 23 A1 ‒ AK DON''T DISILLUSION ME 1'
+    - 'Matrix / Runout (Side B, etched var. 10): FAC 23 B-1 D I''VE ONLY GOT RECORD SHOPS LEFT 3'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

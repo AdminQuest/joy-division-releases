@@ -1,0 +1,38 @@
+variant_id: OFF-U-0032
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+country_or_pressing_place: Europe
+notes: "CD 2007 edition collector (ASIN: B000V7J6DO) London Records ‎– 2564 69778 9 2CD Re-mastered featuring Unknown Pleasures\
+  \ and live Factory 13th July 1979. \nGatefold cardboard double (8-panel) digipak. Includes a 20-page black and white booklet.\n\
+  Sticker on cellophane envelope: \"Re-mastered studio album with bonus disc of a previously unreleased live show from The\
+  \ Factory, Manchester\".\nAlmost identical to Collector's Edition but without plastic slipcase.\nDisc One recorded at Strawberry\
+  \ Studios, Stockport\nDisc Two recorded at The Factory, Manchester, on 13 July 1979. Original recording sourced from Rob\
+  \ Gretton Archive.\nFinal re-mastering at Alchemy.\nPhotography: Idols Licensing And Publicity Limited\nBarcode (Text on\
+  \ sticker): 8 25646 97789 5 / Barcode (Scanned): 825646977895"
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    color: Collector's Edition
+    matrices:
+    - 'Matrix / Runout (CD1): [Warner ''Big W'' logo] 56643875/0825646977895-1 21 / Mastering SID Code (CD1): IFPI LP 73 /
+      Mould SID Code (CD1): IFPI 078Y'
+    - 'Matrix / Runout (CD2): [Warner ''Big W'' logo] 56643988/0825646977895-2 21 / Mastering SID Code (CD2): IFPI LB 45 /
+      Mould SID Code (CD2): IFPI 0779'
+    - 'Label Code: LC00253'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

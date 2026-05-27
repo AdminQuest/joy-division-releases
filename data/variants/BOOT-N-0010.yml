@@ -1,0 +1,26 @@
+variant_id: BOOT-N-0010
+release_type: bootleg
+canonical_title: New Dawn in Eindhoven 1980
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: N
+joydiv_url: https://www.discogs.com/fr/Joy-Division-New-Dawn-In-Eindhoven-1980/release/13544076
+discogs_url: https://www.discogs.com/fr/release/13544076-Joy-Division-New-Dawn-In-Eindhoven-1980
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: clear
+_legacy_code:
+  segments:
+  - B
+  - N
+  - '3'
+  - null
+  reconstructed: BN3
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - N.xlsx

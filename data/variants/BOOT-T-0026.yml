@@ -1,0 +1,39 @@
+variant_id: BOOT-T-0026
+release_type: bootleg
+canonical_title: That’ll be the End
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T10.htm
+country_or_pressing_place: Europe
+notes: 'Mind Control Records – MIND773
+
+  A different pressing to the listings above.
+
+  Limited to 500 copies on black heavy weight vinyl.
+
+  Picture sleeve
+
+  Grey labels with black text'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode: 0634438243281'
+    - 'Stamped matrix numbers:'
+    - 'Side A: 822512 - A'
+    - 'Side A: 822512 - B'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '4'
+  - k
+  reconstructed: BT4k
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Bootlegs - T.xlsx

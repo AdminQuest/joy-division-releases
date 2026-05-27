@@ -1,0 +1,26 @@
+variant_id: OFF-S-0047
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/2568167-Joy-Division-Substance
+notes: Factory – FACT C250, – Crystal
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

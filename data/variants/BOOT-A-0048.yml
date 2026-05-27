@@ -1,0 +1,33 @@
+variant_id: BOOT-A-0048
+release_type: bootleg
+canonical_title: At An Earlier Date
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A8.htm
+country_or_pressing_place: Italy
+notes: 'The track lists on sleeve are in alphabetical order not the order in which they were performed.
+
+  Artist given as Joy Division, but it''s a Warsaw release.
+
+  Until today the first Warsaw live recording'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 93958E1/A'
+    - 'Matrix / Runout: 93958E2/A'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '11'
+  - null
+  reconstructed: BA11
+  has_suffix: false
+  source_row: 71
+  source_xlsx: Bootlegs - A.xlsx

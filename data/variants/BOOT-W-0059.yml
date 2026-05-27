@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0059
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Europe
+notes: "V28 DOL : 2018, DOL 981H Released on DOL label 2018 Catalogue No: 981H Black and white labels. Black vinyl. Reissued\
+  \ 2018 as limited grey vinyl edition with a numbered front cover sticker (cover says 2013). Sticker on front is stuck to\
+  \ shrink wrap 180g HQ Virgin Vinyl. \nSome Ebay sellers attempted to pass this off as a Record Store Day release at highly\
+  \ inflated prices."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 17225E1/A
+    - 17225E2/A
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - av
+  reconstructed: BW4av
+  has_suffix: false
+  source_row: 61
+  source_xlsx: Bootlegs - W.xlsx

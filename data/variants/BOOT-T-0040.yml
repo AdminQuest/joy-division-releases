@@ -1,0 +1,33 @@
+variant_id: BOOT-T-0040
+release_type: bootleg
+canonical_title: Time Fades Away
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://joydiv.org/T12.htm
+country_or_pressing_place: USA
+notes: 'Limited Test Pressing of numbered 15 copies ,
+
+  The title of the release is Different Colors, Different Shades'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Side A): DJ 79 A'
+    - '(Side B): DJ 79 B'
+    - '(Side C): DJ79 C'
+    - '(Side D): DJ79 D'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 37
+  source_xlsx: Bootlegs - T.xlsx

@@ -1,0 +1,29 @@
+variant_id: BOOK-J-0028
+release_type: livre
+canonical_title: Joy Division  El Fuego Helado  Unknown Pleasures y Closer Discos Que Marcaron Una Época
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk92.htm
+format_details:
+  type: book
+  authors:
+  - Marcos Gendre
+  publisher: Quarentena Ediciones
+  publication_year: 2014
+  language: es
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 168
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 121
+  source_xlsx: Livres -.xlsx

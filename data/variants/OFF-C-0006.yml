@@ -1,0 +1,50 @@
+variant_id: OFF-C-0006
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Australia
+notes: 'GAP Records ‎– FACOZ 1001 : Pre-final edition with generic EMI label design. A final edition was released after the
+  label design was adjusted.
+
+  Specific label changes were the removal of "Sound recording by Factory Records. First publ. ℗ 1980 in U.K.℗ 1980 Factory
+  Records" found above the boxed section only on this release AND removal of the (duplicated) "FACOZ-1001 A" and "FACOZ-1001
+  B" found inside the boxed section only on this release.
+
+  This release was first issued in a wrap around 24 x 12 inch "open sided" inner sleeve page.
+
+  Inner sleeve is a 24" x 12" insert folded once.
+
+  Labels are silver on black like UK edition, but has "Sound recording by Factory Records. First published in UK. (P) 1980,
+  Factory Records" printed across the label.
+
+  There are red-stamped promo copies that often come with a similarly stamped LWTUA 7", an A4 booklet and a couple of 10"
+  x 8" b/w photographs.
+
+  Rarer yet - there is an official EMI promo poster for this LP.
+
+  Copies of this release were also issued with th'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FACOZ 1002̶ 1 A'
+    - 'Matrix / Runout: FACOZ 1002̶ a-B'
+    - 'Matrix / Runout (variant ): FACOZ 1002̶ A'
+    - 'Matrix / Runout (variant): FACOZ 1002̶ B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Officiels et pirates - Closer.xlsx

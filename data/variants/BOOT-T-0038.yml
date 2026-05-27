@@ -1,0 +1,38 @@
+variant_id: BOOT-T-0038
+release_type: bootleg
+canonical_title: 'This Is The Room: Live Electric Ballroom London October 26, 1979'
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T8.htm
+country_or_pressing_place: Spain
+variant_group:
+  group_id: BT7
+  group_role: pressing_variation
+notes: '(CD) Albatross Records AR-005 2016
+
+  Released 2016
+
+  Albatross Records, Spain
+
+  Catalogue No: AR-005
+
+  Limited edition 350 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Disc matrix: AR-005'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '7'
+  - a
+  reconstructed: BT7a
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Bootlegs - T.xlsx

@@ -1,0 +1,35 @@
+variant_id: BOOT-W-0129
+release_type: bootleg
+canonical_title: With Love From Brussels Vol 2
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://joydiv.org/L41.htm
+country_or_pressing_place: USA
+notes: 'B8002 2025
+
+  2025 US reissue of the listing above
+
+  Sleeve and matrix as above
+
+  Different TAKRL labels, and different colour splatter vinyl (four variants - roughly blue, lilac, pink, and yellow)
+
+
+  Repressing of LP2 of the Plan K 2021 double album  -  Vol 1 listing above features the first LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 131
+  source_xlsx: Bootlegs - W.xlsx

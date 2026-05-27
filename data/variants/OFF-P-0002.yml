@@ -1,0 +1,43 @@
+variant_id: OFF-P-0002
+release_type: officiel
+canonical_title: Permanent
+canonical_artist: Joy Division
+year: 1995
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/per.htm
+discogs_url: https://www.discogs.com/fr/release/1504847-Joy-Division-Permanent-Joy-Division-1995
+country_or_pressing_place: Europe
+notes: "London Records ‎– 828624.1\nContains limited edition numbered print. There were at least 2 different prints included:\
+  \ one is the image from the inside of the CD booklet (yellow), and the other is the image on the cover of the contemporaneous\
+  \ LWTUA CD single (black and blue). Copies had one or the other, and not both. \nVinyls come in a plain white inner sleeve."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Barcode (Text): 0 42282 86241 9'
+    - 'Matrix / Runout (Side A, etched): 828 624-1-A1'
+    - 'Matrix / Runout (Side A, stamped): SNA [Logo]'
+    - 'Matrix / Runout (Side B, etched): 828 624-1-B1'
+    - 'Matrix / Runout (Side B, stamped): SNA [Logo]'
+    - 'Matrix / Runout (Side C, etched): 828 624-1-C1'
+    - 'Matrix / Runout (Side C, stamped): SNA [Logo]'
+    - 'Matrix / Runout (Side D, etched): 828 624-1-D1'
+    - 'Matrix / Runout (Side D, stamped): SNA [Logo]'
+    - 'Label Code: LC 7654'
+    - 'Price Code: PY 281'
+    - 'Rights Society: BIEM/STEMRA'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - P
+  - '1'
+  reconstructed: OAP1
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - Permanent.xlsx
+  op_inferred_from_filename: true

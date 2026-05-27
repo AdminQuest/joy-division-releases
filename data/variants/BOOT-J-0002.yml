@@ -1,0 +1,31 @@
+variant_id: BOOT-J-0002
+release_type: bootleg
+canonical_title: A Journey That Leads To The Sun
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/J6.htm
+country_or_pressing_place: Australia
+notes: 'Sweet Justice Records ‎– JD-1980. Released March 2003.
+
+  Australian bootleg - packaging says "Made in Sweden"'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Barcode (Fake): 0 035535 342404 5'
+    - 'Matrix / Runout: ICE AGE DISC 1'
+    - 'Matrix / Runout: ICE AGE DISC 2'
+_legacy_code:
+  segments:
+  - B
+  - J
+  - '2'
+  - null
+  reconstructed: BJ2
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - J.xlsx

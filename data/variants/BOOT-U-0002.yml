@@ -1,0 +1,33 @@
+variant_id: BOOT-U-0002
+release_type: bootleg
+canonical_title: University of London Union
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/U4.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BU1
+  group_role: color_variation
+notes: Marbled white vinyl with plain black labels
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: marbled white
+    matrices:
+    - 'Matrix / Runout: FACTUSULU-80-A'
+    - 'Matrix / Runout: FACTUSULU-80-B'
+_legacy_code:
+  segments:
+  - B
+  - U
+  - '1'
+  - b
+  reconstructed: BU1b
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - U.xlsx

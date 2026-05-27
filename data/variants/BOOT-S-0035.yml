@@ -1,0 +1,34 @@
+variant_id: BOOT-S-0035
+release_type: bootleg
+canonical_title: The Sound Of Music
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S15.htm
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BS13
+  group_role: pressing_variation
+notes: "\"[]2 LP, 2004 - JD 1980 : Asian double LP released May 2004. Limited edition of 100 copies. \nBlack vinyl. Black\
+  \ labels with the title in white\"\n\n[x]2 × CD, 2015, Unofficial Release"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - '2CD :'
+    - 'Matrix / Runout (CD1): ICE AGE DISC 1'
+    - 'Matrix / Runout (CD2): 5518'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '13'
+  - a
+  reconstructed: BS13a
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - S.xlsx

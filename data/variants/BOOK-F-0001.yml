@@ -1,0 +1,30 @@
+variant_id: BOOK-F-0001
+release_type: livre
+canonical_title: Factory Records - Une anthologie graphique
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/bk53.htm
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - Matthew Robertson
+  publisher: Le Boulon
+  publication_year: 2022
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 224
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Livres -.xlsx

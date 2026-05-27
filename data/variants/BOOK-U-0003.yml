@@ -1,0 +1,36 @@
+variant_id: BOOK-U-0003
+release_type: livre
+canonical_title: Untitled lyrics booklet
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: needs_review
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/bk61.htm
+notes: 'Song lyrics and a two page discography
+
+  A5 size stapled fanzine / booklet privately published in France
+
+  54 thick numbered pages
+
+  Three editions published around 1981 / 1982'
+format_details:
+  type: book
+  authors:
+  - Sylvie Gibory
+  publisher: Inconnu
+  publication_year: 1981
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 54
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 109
+  source_xlsx: Livres -.xlsx

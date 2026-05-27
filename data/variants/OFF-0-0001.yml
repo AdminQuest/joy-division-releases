@@ -1,0 +1,25 @@
+variant_id: OFF-0-0001
+release_type: officiel
+canonical_title: (Alternate) Still
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: needs_review
+joydiv_letter: '0'
+joydiv_url: http://joydiv.org/S20.htm
+country_or_pressing_place: ??
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,32 @@
+variant_id: BOOK-J-0004
+release_type: livre
+canonical_title: Joy Division- Fragments
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk58.htm
+country_or_pressing_place: France
+notes: Edition française de Piece By Piece
+format_details:
+  type: book
+  authors:
+  - Paul Morley
+  publisher: Camion Blanc
+  publication_year: 2009
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '2357790253'
+  page_count: 601
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Livres -.xlsx

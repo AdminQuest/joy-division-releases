@@ -1,0 +1,36 @@
+variant_id: BOOT-M-0068
+release_type: bootleg
+canonical_title: Morituri Te Salutant
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M4.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BM14
+  group_role: color_variation
+notes: 'Victory Products ‎– BPI 84.237 UK. West-German LP. First edition 500 copies December 1984 in black vinyl with proper
+  labels.
+
+  Reissued in various colours of vinyl : 500 clear, 500 green, red, yellow, blue+white label, multicoloured. On the labels
+  and the sleeve the venue Effenaar is misspelled as Effnaar.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: yellow
+    matrices:
+    - 'Matrix / Runout: D - 10 - A'
+    - 'Matrix / Runout: D - 10 - B'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '14'
+  - e
+  reconstructed: BM14e
+  has_suffix: false
+  source_row: 71
+  source_xlsx: Bootlegs - M.xlsx

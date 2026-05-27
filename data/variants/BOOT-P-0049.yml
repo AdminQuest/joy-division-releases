@@ -1,0 +1,46 @@
+variant_id: BOOT-P-0049
+release_type: bootleg
+canonical_title: Plan K
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P10.htm
+country_or_pressing_place: USA?
+variant_group:
+  group_id: BP8
+  group_role: color_variation
+notes: 'Test pressing 2021, TMOQ, white labels
+
+  So your copy, as well as numbers 4 and 9, have plain white labels. Numbers 1 and 2 have the black & yellow picture labels.
+  Not sure about the other ones. As the number only appears on the insert I think it''s probably just random.
+
+  US bootleg released 2021
+
+  White/light grey title sleeve (front), generic TAKRL (the amazing Kornyfone record label) back cover
+
+  "Limited test pressing" edition of 15 hand-numbered copies, the number appears on the white A4 size printed insert sheet
+
+  Labels either: plain white (7 copies), or generic TAKRL logo (8 copies)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Test Pressing
+    matrices:
+    - 'Matrix / Runout: JD Benelux A'
+    - 'Matrix / Runout: JD Benelux B'
+    - 'Matrix / Runout: JD Benelux C'
+    - 'Matrix / Runout: JD Benelux D'
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '8'
+  - a
+  reconstructed: BP8a
+  has_suffix: false
+  source_row: 50
+  source_xlsx: Bootlegs - P.xlsx

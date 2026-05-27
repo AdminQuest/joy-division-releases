@@ -1,0 +1,34 @@
+variant_id: OFF-C-0041
+release_type: officiel
+canonical_title: The Complete BBC Recordings
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: C
+discogs_url: https://www.discogs.com/fr/Joy-Division-The-Complete-BBC-Recordings/release/7496006
+country_or_pressing_place: '?'
+notes: 'Strange Fruit - 2015 counterfeit copy of the official release
+
+  Sleeve and labels very similar to the original but thinner vinyl and narrower run off grooves
+
+  pink vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JDBBC 01-A1
+    - JDBBC 01-B1
+_legacy_code:
+  segments:
+  - P
+  - R
+  - null
+  - null
+  reconstructed: PR
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

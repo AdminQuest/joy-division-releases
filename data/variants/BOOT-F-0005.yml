@@ -1,0 +1,37 @@
+variant_id: BOOT-F-0005
+release_type: bootleg
+canonical_title: Factory By The Moonlight
+canonical_artist: Joy Division
+year: 2003
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F10.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF2
+  group_role: color_variation
+notes: "V1 : Live: Moonlight Club, London April 2nd, 3rd & 4th 1980.\nReleased March 2003. White, yellow, lavender or red\
+  \ vinyl - 50 copies of each (200 in total) \nWhite labels with black print stating the side (ie A, B, C or D) and copyright\
+  \ info in small letters around the edge."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: yellow
+    matrices:
+    - 'Matrix / Runout (Side A): JOYOUS D-A'
+    - 'Matrix / Runout (Side B): JOYOUS D-B'
+    - 'Matrix / Runout (Side C): JOYOUS D-C'
+    - Side D has no matrix number
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '2'
+  - b
+  reconstructed: BF2b
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - F.xlsx

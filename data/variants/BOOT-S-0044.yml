@@ -1,0 +1,36 @@
+variant_id: BOOT-S-0044
+release_type: bootleg
+canonical_title: Studio Rarities vol. 2
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/R12.htm
+country_or_pressing_place: Europe
+notes: 'RR 20545404
+
+  European bootleg LP released 2021
+
+  No record company name
+
+  Silver picture sleeve with "Joy Division Studio Rarities Volume 2" written on spine
+
+  Printed inner, Black vinyl, Picture labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - Very clumsily scratched out and touching the run out groove on side A.
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '17'
+  - null
+  reconstructed: BS17
+  has_suffix: false
+  source_row: 45
+  source_xlsx: Bootlegs - S.xlsx

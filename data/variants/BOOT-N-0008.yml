@@ -1,0 +1,32 @@
+variant_id: BOOT-N-0008
+release_type: bootleg
+canonical_title: Nashville Ballroom
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: N
+joydiv_url: https://www.joydiv.org/N4.htm
+discogs_url: https://www.discogs.com/fr/release/15125755-Joy-Division-Nashville-Ballroom
+country_or_pressing_place: USA
+notes: Circo Musica Italy 14802-108859 2020. US bootleg released 2020. Black vinyl. Picture sleeve with gold text/print. 13
+  hand numbered copies. Labels state this is a 'test pressing’. 7/13
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: test pressing
+    matrices:
+    - 14802-108859 A 24M
+    - 14802-108859 B 24M
+_legacy_code:
+  segments:
+  - B
+  - N
+  - '1'
+  - null
+  reconstructed: BN1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - N.xlsx

@@ -1,0 +1,26 @@
+variant_id: PARA-M-0001
+release_type: para
+canonical_title: 'MOJO #316'
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: M
+notes: March 2020+ CD sampler Mojo:Atmospheres
+format_details:
+  type: para
+  parent_object: magazine
+  object_description: 'Magazine: MOJO #316'
+  embedded_supports: []
+  parent_title: MOJO
+  parent_issue: '#316'
+  parent_year: 2020
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 87
+  source_xlsx: Livres -.xlsx

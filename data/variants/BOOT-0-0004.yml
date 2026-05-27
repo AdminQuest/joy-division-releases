@@ -1,0 +1,27 @@
+variant_id: BOOT-0-0004
+release_type: bootleg
+canonical_title: '1977'
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/J9.htm
+variant_group:
+  group_id: BJ
+  group_role: color_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+_legacy_code:
+  segments:
+  - B
+  - J
+  - null
+  - d
+  reconstructed: BJd
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - +-1.xlsx

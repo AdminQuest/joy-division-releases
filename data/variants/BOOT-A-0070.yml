@@ -1,0 +1,38 @@
+variant_id: BOOT-A-0070
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BA20
+  group_role: color_variation
+notes: 'V4 : Black and maroon sleeve Version 4
+
+  Reissue USA 2012
+
+  Green-greyish printed labels with black text
+
+  Red vinyl
+
+  100 hand-numbered copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: red
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '20'
+  - g
+  reconstructed: BA20g
+  has_suffix: false
+  source_row: 93
+  source_xlsx: Bootlegs - A.xlsx

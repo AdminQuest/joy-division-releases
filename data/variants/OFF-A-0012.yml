@@ -1,0 +1,45 @@
+variant_id: OFF-A-0012
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: New Zealand
+notes: 'Factory ‎– FACUS 2/UK, Factory ‎– Facus 2
+
+  Other copies appear as a limited edition with numbered sticker. Exact number not confirmed, but confirmed stickers of higher
+  than 2000 exist.
+
+  Date on label: 2/9/80
+
+  Published by Fractured Music.
+
+  A Fractured Music · A Factory Record
+
+  A Factory Records (U.S.) Inc. Product
+
+  re-released in the United Kingdom
+
+  Marketed by RTC P.O. Box 3825, Auckland'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FACUS 2 A...'
+    - 'Matrix / Runout: FACUS 2-B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

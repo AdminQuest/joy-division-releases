@@ -1,0 +1,27 @@
+variant_id: BOOT-W-0066
+release_type: bootleg
+canonical_title: Warsaw CDs
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w2cd.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BW5
+  group_role: color_variation
+notes: 'V2 : DIYE 72 Diamonds In Your ears'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '5'
+  - b
+  reconstructed: BW5b
+  has_suffix: false
+  source_row: 68
+  source_xlsx: Bootlegs - W.xlsx

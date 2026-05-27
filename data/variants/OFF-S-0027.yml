@@ -1,0 +1,35 @@
+variant_id: OFF-S-0027
+release_type: officiel
+canonical_title: Still
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S16.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/4912209
+country_or_pressing_place: Japan
+notes: 'London Records ‎– WPCR 12842/3 - 2008 pirate copy of the official Japanese digipak release. Gatefold card sleeve "vinyl
+  replica" packaging, which is thinner than the official Japanese issue with the same catalogue number. 2 booklets & obi.
+  "Collectors edition"
+
+  Note: 24 Hours, which was an uncredited track on the 2LP version, is missing'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    color: Black
+    matrices:
+    - 'Matrix / Runout (CD1): WPCR-12842 3'
+    - 'Matrix / Runout (CD2): WPCR-12843 1'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

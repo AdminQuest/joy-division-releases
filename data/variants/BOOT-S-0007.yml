@@ -1,0 +1,37 @@
+variant_id: BOOT-S-0007
+release_type: bootleg
+canonical_title: Shadowplay
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S2.htm
+country_or_pressing_place: Italy ?
+variant_group:
+  group_id: BS3
+  group_role: color_variation
+notes: "Italian CD from 1990. Great Dane Records GDR CD 9008 Excellent sound-quality. Includes an 8 page booklet with Great\
+  \ Dane Records & Templar Records Works catalogue and a photograph of Ian Curtis. Track 1 is called \"Instrumental\" on both\
+  \ the sleeve and the CD. \n[]Original issue, no barcode, matrix 991950002143 1018\nThis CD has the \"CD rot\" problems,\
+  \ and comes with a tri-fold front insert which has some info about royalties that has been deposited into a bank account\
+  \ in Milano, and will be paid to copyright holders on request! Front insert contains Great Dane records catalogue up to\
+  \ release 9005.\nCD Rot. Hold the CD up to a strong light and look for decay on the outside edge. If the CD looks golden\
+  \ colored that's the first sign. The last tracks on the CD are the ones most likely to be affected by a deterioration in\
+  \ sound quality."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - matrix 991950002143 1018
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '3'
+  - e
+  reconstructed: BS3e
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - S.xlsx

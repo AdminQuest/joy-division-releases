@@ -1,0 +1,29 @@
+variant_id: BOOT-C-0029
+release_type: bootleg
+canonical_title: Closer To The Unknown
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C8.htm
+country_or_pressing_place: UK
+notes: '2004, CD. Basically a reissue of Remains. It''s got one additional song (Dead Souls track 24) which is said to be
+  from "Pennine Sound Studios, Oldham 3/80", but it''s in fact the regular studio version from Cargo October / November 1979.
+  The disc has the words "NON OMNIS MORIAR", which apparently means "Not all of me shall die" in Latin. Live / studio.
+
+  Heart Of Darkness-Records ‎– NOM 7780'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '6'
+  - null
+  reconstructed: BC6
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - C.xlsx

@@ -1,0 +1,33 @@
+variant_id: BOOT-M-0001
+release_type: bootleg
+canonical_title: Manchester, So Much To Answer For
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M10.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BM1
+  group_role: color_variation
+notes: INTERLP416. Interzone Records, Suite 2051A, Salford Road, Hanoi.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix / Runout: JOY DIVISION MANCHESTER A'
+    - 'Matrix / Runout: JOY DIVISION MANCHESTER B'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '1'
+  - a
+  reconstructed: BM1a
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - M.xlsx

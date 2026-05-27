@@ -1,0 +1,38 @@
+variant_id: BOOK-J-0008
+release_type: livre
+canonical_title: Joy Division Sessions 1977-1981
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk84.htm
+country_or_pressing_place: France
+notes: En 1980, le suicide de Ian Curtis met un terme à la carrière météoritique de Joy Division, l'une des formations les
+  plus novatrices de l'histoire du rock. Le groupe britannique laisse deux albums emblématiques, Unknown Pleasures et Closer,
+  ainsi qu'une poignée de singles appelés à faire date, "Transmission", "Atmosphere" ou encore "Love Will Tear Us Apart".
+  Les quatre musiciens lèguent aussi un son unique, ciselé sous la férule de leur producteur Martin Hannett, qui n'a cessé
+  depuis lors d'inspirer les musiciens du monde entier. L'étude qui suit revient sur les chansons qui ont fait leur carrière,
+  depuis leurs débuts sous le nom Warsaw à la transition conduisant les survivants de Joy Division à se réinventer via New
+  Order
+format_details:
+  type: book
+  authors:
+  - Pierre-Frédéric Charpentier
+  publisher: Le mot et le reste
+  publication_year: 2020
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-2-36139-169-0
+  page_count: 500
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 22
+  source_xlsx: Livres -.xlsx

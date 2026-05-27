@@ -1,0 +1,30 @@
+variant_id: BOOK-H-0002
+release_type: livre
+canonical_title: L'Haçienda - La meilleure façon de couler un Club
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: needs_review
+joydiv_letter: H
+country_or_pressing_place: France
+notes: Edition française de The Haçienda
+format_details:
+  type: book
+  authors:
+  - Peter Hook
+  publisher: Le mot et le reste
+  publication_year: 2012
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '2360540653'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Livres -.xlsx

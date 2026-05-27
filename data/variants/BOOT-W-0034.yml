@@ -1,0 +1,39 @@
+variant_id: BOOT-W-0034
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: USA
+notes: "V13 pochette collée noire mate RZM 200 mi-late 1980s. American LP. Probably a mid/late '80s pressing. Record label:\
+  \ RZM Productions Ltd. Catalogue No: RZM 200. Pressed on blue or black vinyl.. Some came with a free EP (same vinyl colours)\
+  \ some didn’t. Sleeve: Paper pasted onto generic card sleeve. No \"Warsaw\" on spine. \nThe labels are very similar to release\
+  \ No 6 above. The contours are different, indicating a different pressing, but the information printed on them is identical.\
+  \ Thick card non-laminated/non-glossy black pasted sleeve, which otherwise looks similar to the original and other reissues.\
+  \ No \"Warsaw\" on spine. \nWhere included, the EP has very small matrix numbers, particularly on side B. In generic plain\
+  \ white sleeve with label holes like most of the bonus 7\" EPs. No catalogue number or copyright message on the label."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'LP Matrix numbers:'
+    - RZM 200 A  JDW-1-A  [this last bit is crossed out]
+    - RZM 200 B  JDW-1-B  [this last bit is crossed out]
+    - 'the EP has Very small matrix numbers, particularly on side B.:'
+    - RZM-100-A
+    - RZM-100-B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - w
+  reconstructed: BW4w
+  has_suffix: false
+  source_row: 36
+  source_xlsx: Bootlegs - W.xlsx

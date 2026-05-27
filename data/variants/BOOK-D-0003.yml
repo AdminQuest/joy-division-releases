@@ -1,0 +1,34 @@
+variant_id: BOOK-D-0003
+release_type: livre
+canonical_title: Decades
+canonical_artist: Joy Division
+year: 2000
+documentation_quality: needs_review
+joydiv_letter: D
+joydiv_url: http://joydiv.org/bk34.htm
+notes: 'CD interview and 24 page booklet
+
+  100 numbered copies
+
+  Released May 2000'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 2000
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 24
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 97
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,38 @@
+variant_id: BOOK-B-0001
+release_type: livre
+canonical_title: Bernard Sumner - Confusion. Joy Division, Electronic and New Order Versus The World
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bk56.htm
+notes: '50 rare and unpublished photographs including 1 x 8 pp glossy b/w plates + 32 integrated pics
+
+  The first biography of one of the most influential - and secretive - musicians this country has produced, Confusion is the
+  story of Bernard Sumner''s life and times from the back streets of Lower Broughton to the high life of Buenos Airies, via
+  Joy Division, The Hacienda, Electronic and New Order.
+
+
+  David also wrote the acclaimed "I swear I Was There" book about the Sex Pistols Free Trade Hall Gig'
+format_details:
+  type: book
+  authors:
+  - David Nolan
+  publisher: Inependent Music Press
+  publication_year: 2007
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 0-9552822-6-8
+  page_count: 240
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Livres -.xlsx

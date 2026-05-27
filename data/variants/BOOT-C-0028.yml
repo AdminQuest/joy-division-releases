@@ -1,0 +1,31 @@
+variant_id: BOOT-C-0028
+release_type: bootleg
+canonical_title: Closer Still in Concert
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: C
+country_or_pressing_place: UK ?
+notes: "Stylus Groove \nLimited Edition Hand Numbered on Gossamer Grey Vinyl\nA selection of the very best concert performances\
+  \ from the iconic second Joy Division album Closer combined with the non-album singles Love Will Tear Us Apart and Transmission.\
+  \ This is a rare opportunity to enjoy the raw energy of this seminal band in concert. The sound of Joy division on stage\
+  \ is far removed from the highly polished studio sound created by producer Martin Hannett which so frustrated Peter Hook.\
+  \ This is as close as it gets to experiencing the authentic doom-laden sound of Joy Division envisaged by the band. Play\
+  \ it loud."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: grey
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - C.xlsx

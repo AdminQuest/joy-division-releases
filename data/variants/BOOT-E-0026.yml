@@ -1,0 +1,29 @@
+variant_id: BOOT-E-0026
+release_type: bootleg
+canonical_title: An Evening With...
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E6.htm
+country_or_pressing_place: France
+variant_group:
+  group_id: BE11
+  group_role: color_variation
+notes: '[x]X Rekords ‎– JD 11180. Reissued on vinyl 1990.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '11'
+  - b
+  reconstructed: BE11b
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - E.xlsx

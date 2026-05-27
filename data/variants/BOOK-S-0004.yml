@@ -1,0 +1,41 @@
+variant_id: BOOK-S-0004
+release_type: livre
+canonical_title: Shadowplay Vol.1 and Vol.2
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/bk63.htm
+notes: 'SHADOWPLAY VOL. I
+
+  Discography
+
+  Videos
+
+  Books
+
+  Pictures
+
+
+  SHADOWPLAY VOL. II
+
+  Bootlegs collection.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 75
+  source_xlsx: Livres -.xlsx

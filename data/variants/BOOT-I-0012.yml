@@ -1,0 +1,28 @@
+variant_id: BOOT-I-0012
+release_type: bootleg
+canonical_title: An Ideal For Killing
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I9.htm
+variant_group:
+  group_id: BI4
+  group_role: color_variation
+notes: White cardboard sleeve with a wrap around paper cover.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '4'
+  - d
+  reconstructed: BI4d
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - I.xlsx

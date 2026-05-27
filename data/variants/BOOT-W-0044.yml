@@ -1,0 +1,33 @@
+variant_id: BOOT-W-0044
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BW4a
+  group_role: color_variation
+notes: 'V20 Pink Label : RZM Australian bootleg. Black vinyl. Re-pressed on slightly marbled white vinyl in 2006. Light purple
+  / pink labels with black text. No catalogue number on packaging or label No matrix numbers.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: White marbled
+    matrices:
+    - no matrix number
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - ag
+  reconstructed: BW4ag
+  has_suffix: false
+  source_row: 46
+  source_xlsx: Bootlegs - W.xlsx

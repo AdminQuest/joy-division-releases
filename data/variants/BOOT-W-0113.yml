@@ -1,0 +1,29 @@
+variant_id: BOOT-W-0113
+release_type: bootleg
+canonical_title: Wilderness
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://joydiv.org/W30.htm
+notes: '2025 reissue of the above
+
+  White, red, blue and green vinyl
+
+  Otherwise identical to the listing above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 115
+  source_xlsx: Bootlegs - W.xlsx

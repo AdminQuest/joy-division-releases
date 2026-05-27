@@ -1,0 +1,32 @@
+variant_id: BOOK-J-0001
+release_type: livre
+canonical_title: Joy Division. Leur histoire. A band in the decade
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk23.htm
+country_or_pressing_place: France
+notes: Ma version n’est pas numérotée mais signée
+format_details:
+  type: book
+  authors:
+  - Jean-François Clément
+  publisher: Vinyl Jungle
+  publication_year: 1988
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 2-9502482-0-9
+  page_count: 104
+_legacy_code:
+  segments:
+  - L
+  - null
+  - null
+  - null
+  reconstructed: L
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Livres -.xlsx

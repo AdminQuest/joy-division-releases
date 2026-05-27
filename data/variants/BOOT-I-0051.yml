@@ -1,0 +1,30 @@
+variant_id: BOOT-I-0051
+release_type: bootleg
+canonical_title: An Interview With Ian Curtis
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I6.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI11
+  group_role: color_variation
+notes: '(7") Lyn 14134-14 ICB 1982
+
+  One sided, black vinyl, white label pressing of the record above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '11'
+  - b
+  reconstructed: BI11b
+  has_suffix: false
+  source_row: 58
+  source_xlsx: Bootlegs - I.xlsx

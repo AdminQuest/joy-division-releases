@@ -1,0 +1,35 @@
+variant_id: BOOT-I-0057
+release_type: bootleg
+canonical_title: In the Studio With Martin Hannett
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I11.htm
+variant_group:
+  group_id: BI13
+  group_role: color_variation
+notes: "[]LP : Ozit 8798. Hand numbered edition of 1000 copies. 180g black vinyl. \nReissued:\n[]500 copies blue vinyl, \n\
+  [x]n°150/320 copies yellow vinyl. All hand numbered."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: yellow
+    matrices:
+    - 'LP yellow / blue :'
+    - 'Matrix / Runout: OZITLP8798-A 78871E1/B'
+    - 'Matrix / Runout: OZITLP8798-B 78871E2/B'
+    - 'Matrix / Runout: OZITLP8798-C 78871E3/B'
+    - 'Matrix / Runout: OZITLP8798-D 78871E4/B'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '13'
+  - d
+  reconstructed: BI13d
+  has_suffix: false
+  source_row: 65
+  source_xlsx: Bootlegs - I.xlsx

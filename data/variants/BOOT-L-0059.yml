@@ -1,0 +1,35 @@
+variant_id: BOOT-L-0059
+release_type: bootleg
+canonical_title: Live at University of London Union, February, The 8th 1980
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipM8YxGTxq937zih1UvQFGLLygcpPx6Y_u7NV1tA?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: China
+variant_group:
+  group_id: BL21
+  group_role: pressing_variation
+notes: "[x]2014, East/West ‎– WEST916, Clear With Green / Black Splatter, Limited Edition of 349 copies in coloured vinyl.\
+  \ \nComes in clear polythene sleeve with a small card insert/Obi stripe.\nPressing company uncredited, identified by the\
+  \ stamped matrix."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Clear
+    matrices:
+    - 'Matrix / Runout (Side A, stamped): 110230E1/A'
+    - 'Matrix / Runout (Side B, stamped): 110230E2/B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '21'
+  - a
+  reconstructed: BL21a
+  has_suffix: false
+  source_row: 62
+  source_xlsx: Bootlegs - L.xlsx

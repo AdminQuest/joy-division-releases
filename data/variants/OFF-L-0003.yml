@@ -1,0 +1,26 @@
+variant_id: OFF-L-0003
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: UK
+notes: We have also been informed about a UK 12" pressing which has the same groove notations as the 7" ("Don’t Disillusion
+  Me" and "I’ve Only Got Record Shops Left"), a stamped "TOWNHOUSE" matrix, and a laminated sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

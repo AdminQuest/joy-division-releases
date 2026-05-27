@@ -1,0 +1,35 @@
+variant_id: OFF-B-0015
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Les-Bains-Douches/release/7462312
+country_or_pressing_place: Europe
+notes: 'The DOL (also known as Concerto) label split the 2LP sets above and re-released each disc separately as Les Bains
+  Douches (see below) and Live in Holland
+
+  Re-released by DOL / Concerto as a single black vinyl LP in 2015 - featuring just the Paris tracks from the Les Bains Douches
+  2 LP set above. Cat.no.: DOR2019H'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - 'Barcode: 0889397520199'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

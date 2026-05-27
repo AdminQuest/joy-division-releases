@@ -1,0 +1,36 @@
+variant_id: BOOT-L-0079
+release_type: bootleg
+canonical_title: LIVE IN PARIS 1979
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://joydiv.org/L45.htm
+country_or_pressing_place: Japan
+notes: 'IACD 11563 Alive The Live 2025
+
+  Japanese CD released 2025
+
+  Label: Inter Art Committees, Inc./IAC Music Japan / / Alive The Live
+
+  Cat.no.:  IACD 11563
+
+  With OBI strip'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 4 997184 205832'
+    - 'Number printed on the OBI: IACD10464'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 82
+  source_xlsx: Bootlegs - L.xlsx

@@ -1,0 +1,25 @@
+variant_id: BOOT-F-0022
+release_type: bootleg
+canonical_title: From The End To The Beginning
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F5.htm
+country_or_pressing_place: ??
+notes: EARLY 1 A. European one sided single. Black and white cover.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '9'
+  - null
+  reconstructed: BF9
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Bootlegs - F.xlsx

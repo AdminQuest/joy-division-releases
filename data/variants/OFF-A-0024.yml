@@ -1,0 +1,30 @@
+variant_id: OFF-A-0024
+release_type: officiel
+canonical_title: Atmosphere 1979
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos7.htm
+country_or_pressing_place: UK
+notes: "1988. UK Factory Records Fac213/7 1988. \nPublished By – Fractured Music\nPublished By – Zomba Music Publishing Ltd.\n\
+  Pressed By – Lyntone Recordings Ltd. – LYN-20796\nPressed By – Lyntone Recordings Ltd. – LYN 20797"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A - Variation 2): FAC *213-7-A-2 Θ LYN-20796'
+    - 'Matrix / Runout (Side B - Variation 2): FAC 213-7-B2 B LYN 20797'
+_legacy_code:
+  segments:
+  - O
+  - '7'
+  - null
+  - null
+  reconstructed: O7
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 7_ - Atmosphere 1979.xlsx

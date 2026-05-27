@@ -1,0 +1,38 @@
+variant_id: BOOT-T-0034
+release_type: bootleg
+canonical_title: They Keep Calling Me
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T3.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BT5
+  group_role: color_variation
+notes: 'Australian release 2010
+
+  LP reissue with a copy of the CD (see image below)
+
+  Issued in green, blue and brown vinyl. The green vinyl version doesn''t include the CD.
+
+  The LP has plain black labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green
+    matrices:
+    - 'LP Matrix number: FACTUSULU-80-A / FACTUSULU-80-B'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '5'
+  - g
+  reconstructed: BT5g
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - T.xlsx

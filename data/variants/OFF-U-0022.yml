@@ -1,0 +1,34 @@
+variant_id: OFF-U-0022
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1674233
+country_or_pressing_place: Japan
+notes: "Japan sans OBI. Factory ‎– FACT 10, YX-7337-AX. Includes sleeve obi and 4 page black on white insert with uk inner\
+  \ sheet layout including biography, lyrics in english & japanese. Homemade OBI. \nFrom this sheet:\nPublished by Fractured\
+  \ Music.\nRecorded at Strawberry Studios, Stockport.\n℗ 1984. 7\nFrom the obi:\nA Factory Records Product.\nGrafica Industria.\n\
+  From the spine:\nYX-7337-AX UNKNOWN PLEASURES / JOY DIVISION YX-7337-AX"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout Side A): YX-7337-A-1 A2'
+    - 'Matrix / Runout (Runout Side B): YX-7337-B-1 A1'
+    - 'Rights Society: JASRAC'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

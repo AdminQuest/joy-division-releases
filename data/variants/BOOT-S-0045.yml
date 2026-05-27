@@ -1,0 +1,38 @@
+variant_id: BOOT-S-0045
+release_type: bootleg
+canonical_title: Studio Sessions Vol 1-3
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S19.htm
+country_or_pressing_place: Germany
+notes: 'German triple LP box set released 2009
+
+  Black box with grey / silver print on the lid. 40 hand-numbered copies, number is hand-written on the back of box. No catalogue
+  number or record label credit. LPs have plain white labels
+
+  The LPs are in individual card sleeves with similar print on the front as the box cover in green (LP 1), maroon (LP 2) and
+  black (LP 3), and track listing and recording details on the back.
+
+  All songs remastered in 2008 and 2009 according to the sleeves'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 3
+    matrices:
+    - 'LP1: FUTURE A / FUTURE B'
+    - 'LP2: FUTURE C / FUTURE D'
+    - 'LP3: FUTURE E / FUTURE F'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '18'
+  - null
+  reconstructed: BS18
+  has_suffix: false
+  source_row: 46
+  source_xlsx: Bootlegs - S.xlsx

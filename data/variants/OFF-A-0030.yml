@@ -1,0 +1,22 @@
+variant_id: OFF-A-0030
+release_type: officiel
+canonical_title: Alternate Unkown Pleasures
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: A
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '5'
+  - null
+  reconstructed: BA5
+  has_suffix: false
+  source_row: 82
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

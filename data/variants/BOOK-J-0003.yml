@@ -1,0 +1,29 @@
+variant_id: BOOK-J-0003
+release_type: livre
+canonical_title: Joy Division, Paroles de fans
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: J
+country_or_pressing_place: France
+format_details:
+  type: book
+  authors:
+  - Pedro Peñas y Robles
+  publisher: Camion Blanc
+  publication_year: 2018
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-237848-024-0
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 7
+  source_xlsx: Livres -.xlsx

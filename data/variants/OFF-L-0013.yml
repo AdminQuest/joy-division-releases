@@ -1,0 +1,54 @@
+variant_id: OFF-L-0013
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: New Zealand
+notes: 'Factory ‎– FAC•XXIII•XII, Rough Trade ‎– FAC 23, GAP Records ‎– FAC 23
+
+  First 1983 GAP New Zealand reissue of the 1982 New Zealand Factory/RTC release here.
+
+  This release is identical to the later GAP New Zealand reissue here, except this release has totally different labels sometimes
+  referred to as the "Green Man" or "Green Shadow".
+
+  The "Green Man" releases are widely believed to have been industry promotional copies or first press test copies from the
+  then new GAP New Zealand company that took over from RTC, although this is unproven. It is confirmed that each of the "Green
+  Man" releases was later reissued by EMI New Zealand with the same catalog number and yellow EMI labels.
+
+  Released in two slightly different sleeves, one has a lacquer coating, one does not. Otherwise identical.
+
+  Back Outer Sleeve:
+
+  FAC.XXIII.XII A Factory Records Product
+
+  Released In New Zealand By Gap Records Under License
+
+  Manufactured And Distributed By EMI New Zealand Limited
+
+  Record Labels:
+
+  P) 1982 Factory Records
+
+  Re'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: FAC 23 A'
+    - 'Matrix / Runout: FAC 23 B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

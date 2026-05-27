@@ -1,0 +1,36 @@
+variant_id: OFF-P-0006
+release_type: officiel
+canonical_title: Preston 28 February 1980
+canonical_artist: Joy Division
+year: 1999
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/preston.htm
+discogs_url: https://www.discogs.com/fr/release/425437-Joy-Division-Preston-28-February-1980
+country_or_pressing_place: UK
+notes: 'Originally released as a CD on NMC Records - with a picture label. (1999, cat.no: FACD 2.60)
+
+  Re-released as a CD on NMC Records - with a black label. 1999 cat.no: FACD 2.60
+
+  Re-released as a CD on Alchemy. 2003 cat.no: FACD 2.60
+
+  Re-released as a CD on Alchemy after the Refractured box issue - includes the four Eindhoven tracks. 2004 cat.no: FACD 2.60
+  - has gaps between tracks
+
+  Re-released as a CD on Dynamic/Abraxas (Italy) this one comes in a digipak case 2004 cat.no: Dyna001'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - O
+  - P
+  - null
+  - null
+  reconstructed: OP
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - Preston 28 february 1980.xlsx
+  op_inferred_from_filename: true

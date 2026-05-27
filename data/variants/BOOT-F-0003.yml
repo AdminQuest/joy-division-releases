@@ -1,0 +1,39 @@
+variant_id: BOOT-F-0003
+release_type: bootleg
+canonical_title: Factory By Moonlight
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F12.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BF1
+  group_role: color_variation
+notes: 'UK reissue or repress of the above released 2021
+
+  50 numbered copies
+
+  Wraparound cover, and plain black sleeve
+
+  Heavy blue vinyl, blank labels, and matrix numbers identical to the listing above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix / Runout: JL 80-A1'
+    - 'Matrix / Runout: JL 80-B1'
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '1'
+  - c
+  reconstructed: BF1c
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - F.xlsx

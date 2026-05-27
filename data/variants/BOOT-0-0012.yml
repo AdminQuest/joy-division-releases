@@ -1,0 +1,33 @@
+variant_id: BOOT-0-0012
+release_type: bootleg
+canonical_title: 1979 Radio Sessions
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/N2.htm
+country_or_pressing_place: Europe
+variant_group:
+  group_id: B+3
+  group_role: color_variation
+notes: 'V3 (2010) : reissue of the above on red'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - FACT 37 A1
+    - FACT 37 B1
+_legacy_code:
+  segments:
+  - B
+  - +
+  - '3'
+  - e
+  reconstructed: B+3e
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Bootlegs - +-1.xlsx

@@ -1,0 +1,29 @@
+variant_id: BOOT-S-0040
+release_type: bootleg
+canonical_title: Space
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S7.htm
+country_or_pressing_place: Belgium
+notes: "Ultra Disc Records ‎– none\nSide 1 begins with a recording of a Gregorian Chant and side 2 ends with one.\nLimited\
+  \ edition of 166 copies.166 copies. Sound quality: side A is OK, side B is poor. \nReissue of the bootleg \"Shades Of Division\""
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A-side): A'
+    - 'Matrix / Runout (B-side): B'
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '14'
+  - null
+  reconstructed: BS14
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - S.xlsx

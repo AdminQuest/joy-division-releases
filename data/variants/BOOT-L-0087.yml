@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0087
+release_type: bootleg
+canonical_title: London Feb. 8, 1980
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.discogs.com/fr/Joy-Division-London-Feb-8-1980/release/4837589
+country_or_pressing_place: Russia
+notes: "B 13 ‎– B203 LP\nThe barcode and 2nd cat # nr. are on a sticker on the PVC transparant sleeve, the info is printed\
+  \ on a separate transparant PVC sheet. \nLimited edition 500 copies."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: yellow
+    matrices:
+    - 'Barcode: 8 89397 42031 4'
+    - 'Matrix / Runout (A): 110230E1/A'
+    - 'Matrix / Runout (B): 110230E2/A'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '33'
+  - null
+  reconstructed: BL33
+  has_suffix: false
+  source_row: 90
+  source_xlsx: Bootlegs - L.xlsx

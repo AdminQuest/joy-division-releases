@@ -1,0 +1,39 @@
+variant_id: BOOK-0-0002
+release_type: livre
+canonical_title: 1 Top Class Manager
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: needs_review
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/bk65.htm
+country_or_pressing_place: UK
+notes: 'This is a collection of Rob Gretton''s working notebooks kept during his time as Joy Division''s manager.
+
+  It condenses twenty-odd notebooks into one volume, and also contains posters, letters, invoices and studio notes, all dating
+
+  from August 1978 to late 1980. It is 220 pages long, and printed in full colour, with a foreword by Jon Savage.
+
+  These notebooks debunk the myths of the trade (‘Bands, Posters, Lights, Money’ could have been another title for this book);
+  sheds new light on one of the most talked-about music scenes in recent times; and perhaps most importantly of all, allows
+  us a glimpse of that which so few of us have seen: the real Rob Gretton.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Anti-Archivists
+  publication_year: 2008
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 220
+_legacy_code:
+  segments:
+  - L
+  - null
+  - null
+  - null
+  reconstructed: L
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Livres -.xlsx

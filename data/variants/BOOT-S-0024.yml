@@ -1,0 +1,26 @@
+variant_id: BOOT-S-0024
+release_type: bootleg
+canonical_title: Something Must Break
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S12.htm
+country_or_pressing_place: Germany
+notes: 1 Sided Acetate Pressing. Direct to Disc Recording. Limited Edition of 10 Copies
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '8'
+  - null
+  reconstructed: BS8
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Bootlegs - S.xlsx

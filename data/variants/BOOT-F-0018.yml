@@ -1,0 +1,35 @@
+variant_id: BOOT-F-0018
+release_type: bootleg
+canonical_title: Form And Substance
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F3.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BF7
+  group_role: color_variation
+notes: '[]The Bright Side : Italian CD 1990.
+
+  Source: live. (Effenaar)'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'The Bright Side :'
+    - 'Matrix / Runout: 01 IZ 0646 90101'
+    - 'Rights Society: SIAE'
+    - 'SPARS Code: AAD'
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '7'
+  - a
+  reconstructed: BF7a
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - F.xlsx

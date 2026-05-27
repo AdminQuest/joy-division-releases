@@ -1,0 +1,35 @@
+variant_id: OFF-B-0018
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/release/12304600-Joy-Division-Les-Bains-Douches
+country_or_pressing_place: Europe
+notes: "get79, Get Back. 180 gr. \nRe-released as a two LP set on black vinyl with new sleeve design.\nSimilar to Joy Division\
+  \ - Les Bains Douches but now pressed by GZ Media."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - 'ode-barres: 8013252317910'
+    - '(Runout side A): 141939E1/C'
+    - '(Runout side B): 141939E2/B'
+    - '(Runout side C): 169884E3/A'
+    - '(Runout side D): 169884E4/A'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

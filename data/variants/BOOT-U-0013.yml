@@ -1,0 +1,32 @@
+variant_id: BOOT-U-0013
+release_type: bootleg
+canonical_title: Untitled
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.discogs.com/fr/Joy-Division-Untitled/release/885525
+country_or_pressing_place: ??
+notes: 'JDV001 Double LP
+
+  Matrix numbers have been scratched out
+
+  All the songs are the regular studio versions as found on Unknown Pleasures, Closer etc. She''s Lost Control is from Unknown
+  Pleasures, and Love Will Tear Us Apart the single A-side version. Ceremony is the demo/rehearsal version from the Heart
+  And Soul box-set.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+_legacy_code:
+  segments:
+  - B
+  - U
+  - '6'
+  - null
+  reconstructed: BU6
+  has_suffix: false
+  source_row: 14
+  source_xlsx: Bootlegs - U.xlsx

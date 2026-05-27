@@ -1,0 +1,31 @@
+variant_id: BOOT-A-0081
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+notes: 2011, demos and radio recordings lp on very limited orange vinyl 2011. It is unplayed and in mint condition. condition-
+  Vinyl - Near Mint, Cover- Near Mint. Demo and radio recordings, limited to 100 hand numbered copies / B5 (Interzone) not
+  listed on sleeve
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Orange
+    matrices:
+    - 'Matrix / Runout: A'
+    - 'Matrix / Runout: B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 104
+  source_xlsx: Bootlegs - A.xlsx
+  version_marker: V1

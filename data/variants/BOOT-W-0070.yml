@@ -1,0 +1,31 @@
+variant_id: BOOT-W-0070
+release_type: bootleg
+canonical_title: Warsaw CDs
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w2cd.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BW5
+  group_role: color_variation
+notes: 'V6 stairs : AC 100
+
+  No record label name.
+
+  Disc: Black with the word "Warsaw" + copyright message.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '5'
+  - f
+  reconstructed: BW5f
+  has_suffix: false
+  source_row: 72
+  source_xlsx: Bootlegs - W.xlsx

@@ -1,0 +1,35 @@
+variant_id: BOOT-U-0003
+release_type: bootleg
+canonical_title: University of London Union
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/U4.htm
+country_or_pressing_place: China
+variant_group:
+  group_id: BU1
+  group_role: color_variation
+notes: 'East/West ‎– WEST916. Limited Edition of 349 copies in coloured vinyl.
+
+  Comes in clear polythene sleeve with a small card insert/Obi stripe.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter
+    matrices:
+    - 'Matrix / Runout (Side A, stamped): 110230E1/A'
+    - 'Matrix / Runout (Side B, stamped): 110230E2/B'
+_legacy_code:
+  segments:
+  - B
+  - U
+  - '1'
+  - c
+  reconstructed: BU1c
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - U.xlsx

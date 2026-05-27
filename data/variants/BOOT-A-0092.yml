@@ -1,0 +1,26 @@
+variant_id: BOOT-A-0092
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+country_or_pressing_place: Belgium
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: light blue
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '20'
+  - v
+  reconstructed: BA20v
+  has_suffix: false
+  source_row: 115
+  source_xlsx: Bootlegs - A.xlsx

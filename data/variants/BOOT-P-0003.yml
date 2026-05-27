@@ -1,0 +1,44 @@
+variant_id: BOOT-P-0003
+release_type: bootleg
+canonical_title: Paris Live Transmission
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: http://joydiv.org/P11.htm
+country_or_pressing_place: Asia ?
+variant_group:
+  group_id: BP3
+  group_role: color_variation
+notes: 'Asian LP released 2021
+
+  Black vinyl test pressing of the listing below
+
+  15 numbered copies - numbered on back cover
+
+  Picture sleeve (not gatefold)
+
+  Double-sided printed picture insert
+
+  Postcard insert'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout: 13499-94857 A'
+    - 'Matrix / Runout: 13499-94857 B'
+    - 'Matrix / Runout: 15628-121910 A'
+    - 'Matrix / Runout: 15628-121910 B'
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '3'
+  - a
+  reconstructed: BP3a
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Bootlegs - P.xlsx

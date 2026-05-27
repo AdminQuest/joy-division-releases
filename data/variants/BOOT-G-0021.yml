@@ -1,0 +1,36 @@
+variant_id: BOOT-G-0021
+release_type: bootleg
+canonical_title: Gruftgesaenge
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G3.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BG6
+  group_role: color_variation
+notes: 'V5 : Reissue 2002, Allemagne, 2 × LP, Compilation, Democrazy Records ‎– DR 003-4. Widely known as the Fourth re-issue.
+  Labels are black with white print. Colour sleeve unique to this re-issue. White stripe along the bottom on the front cover.
+  Max price and Ertl dedication on back cover.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix / Runout: JD 1'
+    - 'Matrix / Runout: JD 2'
+    - 'Matrix / Runout: JD 3'
+    - 'Matrix / Runout: JD 4'
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '6'
+  - j
+  reconstructed: BG6j
+  has_suffix: false
+  source_row: 23
+  source_xlsx: Bootlegs - G.xlsx

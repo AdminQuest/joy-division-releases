@@ -1,0 +1,27 @@
+variant_id: BOOT-M-0017
+release_type: bootleg
+canonical_title: Martin Hannett Personal Mixes
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M8.htm
+country_or_pressing_place: UK
+notes: RE black 300 copies (2018). N° 16/300. Gatefold sleeve with a plastic outer sleeve (also gatefold),. 180gm heavy vinyl
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: black
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '5'
+  - k
+  reconstructed: BM5k
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Bootlegs - M.xlsx

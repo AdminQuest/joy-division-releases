@@ -1,0 +1,34 @@
+variant_id: PIR-S-0003
+release_type: pirate
+canonical_title: Sordide Sentimental
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S5.htm
+country_or_pressing_place: ??
+notes: "Pirate copy of the \"Licht Und Blindheit\" single & magazine. \n[x]1980s pirates (Medusa) : black vinyl, label Medusa,\
+  \ no insert, background women & infant, matrix en marge\n\nLabels have a coloured Medusa's head - colour, blue or b/w\n\n\
+  No serrated ridge\n\nSome covers are numbered but most are not\n\nNo inserts\n\nBrown background image, women and infant\n\
+  \nThe glue on the fakes is still clear\n\nNo plastic bag"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - '1980 :'
+    - 'Colour label fake matrix numbers:'
+    - SS33002 A
+    - SS33002 B
+    - Hand written
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

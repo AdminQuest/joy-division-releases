@@ -1,0 +1,34 @@
+variant_id: OFF-C-0038
+release_type: officiel
+canonical_title: Complete BBC recordings
+canonical_artist: Joy Division
+year: 2001
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/co.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-The-Complete-BBC-Recordings/release/600630
+country_or_pressing_place: UK
+notes: 'Strange Fruit ‎– SFRSLP094
+
+  Track 11: Ian Curtis & Stephen Morris interviewed by Richard Skinner'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: rare en LP
+    matrices:
+    - 'Matrix / Runout: SFRSLP 094-A'
+    - 'Matrix / Runout: SFRSLP 094-B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

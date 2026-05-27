@@ -1,0 +1,41 @@
+variant_id: BOOT-I-0058
+release_type: bootleg
+canonical_title: In This Room - Studio rehearsals
+canonical_artist: Joy Division
+year: 2019
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I14.htm
+country_or_pressing_place: ??
+notes: '(2LP) No record label name. No catalogue number
+
+  Double LP
+
+  Released 2019
+
+  Reissue of Misplaced 2LP in a different sleeve - possibly leftover LPs
+
+  Black vinyl
+
+  Plain white labels
+
+  Limited edition 15 copies only'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Matrix Nos: MISA MISB MISC3 MISD2'
+    - introuvable sur Discogs !
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '14'
+  - null
+  reconstructed: BI14
+  has_suffix: false
+  source_row: 66
+  source_xlsx: Bootlegs - I.xlsx

@@ -1,0 +1,30 @@
+variant_id: OFF-P-0024
+release_type: officiel
+canonical_title: Peel sessions
+canonical_artist: Joy Division
+year: 1989
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/pe.htm
+discogs_url: https://www.discogs.com/fr/release/481501-Joy-Division-The-Peel-Sessions
+country_or_pressing_place: Europe
+notes: Castle Communications ‎SFPS 013
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 02772600013825'
+    - 'Matrix / Runout: MCR CA ZZ74/013'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

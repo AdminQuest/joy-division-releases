@@ -1,0 +1,33 @@
+variant_id: BOOT-G-0007
+release_type: bootleg
+canonical_title: The Grey Assembly
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: G
+joydiv_url: https://www.joydiv.org/G6.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BG5
+  group_role: color_variation
+notes: 2006 ; 300 copies on black vinyl ; 30 copies on yellow (sometimes called orange) vinyl.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - 'Matrix / Runout (Side A): TGA-001-A'
+    - 'Matrix / Runout (Side B): TGA-001-B'
+_legacy_code:
+  segments:
+  - B
+  - G
+  - '5'
+  - a
+  reconstructed: BG5a
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - G.xlsx

@@ -1,0 +1,33 @@
+variant_id: BOOT-E-0002
+release_type: bootleg
+canonical_title: Effanaar
+canonical_artist: Joy Division
+year: 1998
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/C4.htm
+country_or_pressing_place: USA
+notes: 'Pas trouvé sur Discogs. American LP (probably made 1998) in a plain white cover with insert.
+
+  Live Effenaar, Eindhoven, Holland, January 18 1980. This is side 1 and 2 of CONCERT 18 JAN EFFENAAR Hawkeye 008 double LP
+  issued in a plain sleeve with an insert. The matrix number is the same (Q-9016) and the labels are the same.
+
+  See also Effenaar Concert 18.01.80 LP which is exactly the same but with a different insert
+
+  See also the single LP version of Concert 18 Jan Effenaar LP which is the same LP again but in a different cover.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '11'
+  - d
+  reconstructed: BC11d
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Bootlegs - E.xlsx

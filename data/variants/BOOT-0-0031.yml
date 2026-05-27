@@ -1,0 +1,35 @@
+variant_id: BOOT-0-0031
+release_type: bootleg
+canonical_title: (Alternate) Still
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: needs_review
+joydiv_letter: '0'
+joydiv_url: http://joydiv.org/S20.htm
+country_or_pressing_place: USA
+notes: 'US release 2022
+
+  Limited edition 70 copies
+
+  Track listing, matrix numbers etc identical to the listing above
+
+  White sleeve with red text
+
+  Tan  labels with black lettering
+
+  Different splatter vinyl colours'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - A.xlsx

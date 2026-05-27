@@ -1,0 +1,35 @@
+variant_id: BOOT-L-0052
+release_type: bootleg
+canonical_title: Live at the London Lyceum
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L29.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BL18
+  group_role: color_variation
+notes: '[]V3 : Record and sleeve identical except: Red sleeve . Claims to be a limited edition 15 copies although this is
+  not stated on the back sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - JD-AD A
+    - JD-AD B
+    - JD-AD C
+    - JD-AD D
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '18'
+  - c
+  reconstructed: BL18c
+  has_suffix: false
+  source_row: 55
+  source_xlsx: Bootlegs - L.xlsx

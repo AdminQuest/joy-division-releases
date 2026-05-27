@@ -1,0 +1,26 @@
+variant_id: BOOT-A-0083
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+notes: '2012 : Plain purple labels / Purple vinyl ; 100 Black labels with grey print / Purple vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: purple
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 106
+  source_xlsx: Bootlegs - A.xlsx
+  version_marker: V3

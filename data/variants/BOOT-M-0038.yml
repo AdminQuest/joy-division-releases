@@ -1,0 +1,36 @@
+variant_id: BOOT-M-0038
+release_type: bootleg
+canonical_title: Misplaced (Rare and unreleased Rehearsals 1977-1980)
+canonical_artist: Joy Division
+year: 2015
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M11.htm
+country_or_pressing_place: Australia
+notes: 'Daylight Records Luxemborg – MIS01
+
+  [single 1CD digipack edition of the original 2LP vinyl bootleg, omitting two tracks,
+
+  reproducing the original LP artwork referring to tracks on LP sides]
+
+  Card sleeve, white text'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    color: white
+    matrices:
+    - 'matrice: [Regency Media logo] MISPLACED 147022.1 2P22035'
+    - 'Code mastering IFPI: ifpi LN98'
+    - 'Code du moule IFPI: IFPI 6Z03'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '9'
+  - o
+  reconstructed: BM9o
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - M.xlsx

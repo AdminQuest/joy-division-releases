@@ -1,0 +1,35 @@
+variant_id: PIR-I-0016
+release_type: pirate
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: UK
+notes: '(2) U.K. pressing released in 2004 / 2005 see scans (opens new window)
+
+  This one looks much more like the original than the earlier fakes
+
+  * The matrix numbers are the same and this fake issue does have the "EG" in the run out groove.
+
+  * The fakes do not have the serrated edge around the label.
+
+  * The middle of the label is contoured differently on the original
+
+  The white vinyl version looks like it is a repressing of this one'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

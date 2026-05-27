@@ -1,0 +1,41 @@
+variant_id: BOOT-M-0071
+release_type: bootleg
+canonical_title: Morituri Te Salutant
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M4.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BM14
+  group_role: color_variation
+notes: 'The actual print on the cd is titled:
+
+  Fun Multiplication III
+
+  The inlay sleeve has the correct names for the songs, as stated on tracklist.
+
+  Important note: the inlay says Victory Products as label and Made in Australia, but this cd pressing isn''t that release;
+  the inlay sleeve is just a reproduction back sleeve copy of the vinyl from Victory Products.'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - Matrix / runout of the CD has been scratched out. Maybe to hide the fact that this CD is an exact duplicate of the disc
+      of Joy Division - Live! From Eindhoven, Holland 1/18/80 released with a different cover which is a reproduction of the
+      cover of the vinyl release.
+    - Cat# "VIC (PRO 3)" as printed on spines.
+    - Cat# "FM 0057" as printed on disc.
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '14'
+  - h
+  reconstructed: BM14h
+  has_suffix: false
+  source_row: 74
+  source_xlsx: Bootlegs - M.xlsx

@@ -1,0 +1,35 @@
+variant_id: BOOT-0-0036
+release_type: bootleg
+canonical_title: « Live » 1980
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.discogs.com/fr/Joy-Division-Live/release/5649634
+country_or_pressing_place: Italy
+notes: 'Limited edition 300 copies on black vinyl
+
+  Black & white picture folder cover.
+
+  Printed labels, including one picture label. Also available with plain white/tan labels
+
+  This is a copy of Ceremony in a different sleeve'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: JOY 2 A'
+    - 'Matrix / Runout: JOY 2 B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '10'
+  - null
+  reconstructed: BL10
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Bootlegs - L.xlsx

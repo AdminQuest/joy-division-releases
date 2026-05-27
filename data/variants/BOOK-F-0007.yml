@@ -1,0 +1,31 @@
+variant_id: BOOK-F-0007
+release_type: livre
+canonical_title: From The Centre Of The City
+canonical_artist: Joy Division
+year: 1990
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/bk15.htm
+notes: Italian issue. 7" size paperback. Includes a discography, a gig guide and bootleg listing, as well as some pictures
+  that can be recognised from JD record sleeves. The accompanying 7"EP or 3"CD features the Warsaw demo from 1977. Worth picking
+  up, but not at any price.
+format_details:
+  type: book
+  authors:
+  - Alfredo Suatoni
+  publisher: Stampa Alternativa
+  publication_year: 1990
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 51
+  source_xlsx: Livres -.xlsx

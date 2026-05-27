@@ -1,0 +1,32 @@
+variant_id: OFF-L-0029
+release_type: officiel
+canonical_title: Licht Und Blindheit  (also known as) Sordide Sentimental
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lub.htm
+country_or_pressing_place: France
+notes: n°1203/1578. 7" and magazine. Sordide Sentimental SS33022 French single in a fold out magazine style cover, with inserts.
+  1578 Copies. Recorded at Cargo Studios
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix numbers:'
+    - MPO SS33002A t
+    - MPO SS33002B t
+    - Hand written
+_legacy_code:
+  segments:
+  - O
+  - null
+  - null
+  - null
+  reconstructed: O
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - 7_ - Sordide Sentimental.xlsx

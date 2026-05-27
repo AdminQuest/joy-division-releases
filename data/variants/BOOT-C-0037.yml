@@ -1,0 +1,35 @@
+variant_id: BOOT-C-0037
+release_type: bootleg
+canonical_title: Concert 18 Jan Effenaar
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/C2.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BC11
+  group_role: color_variation
+notes: '( LP) Hawkeye Gramophone Co. Ltd. 1984
+
+  This is the first LP from listing 2 above in a different sleeve.
+
+  Black vinyl.
+
+  Black and white sleeve with photos from the concert.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - C
+  - '11'
+  - c
+  reconstructed: BC11c
+  has_suffix: false
+  source_row: 38
+  source_xlsx: Bootlegs - C.xlsx

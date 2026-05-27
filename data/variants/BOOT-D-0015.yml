@@ -1,0 +1,35 @@
+variant_id: BOOT-D-0015
+release_type: bootleg
+canonical_title: A Darkness In My Soul
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D2.htm
+variant_group:
+  group_id: BD4
+  group_role: color_variation
+notes: "El Topo ‎– EL TOPO 005. Italian double LP. Various vinyl colours : brown and red marbled, blue and yellow marbled,\
+  \ red and purple, yellow and blue.\nReissue of \"Interzone\" (disk 1) and « Failures » or « Pearl Harbor!\" (disk 2). \n\
+  Most of the songs on disc 1 are repeated in a different order on disc 2."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: green marbled
+    matrices:
+    - 'Matrix / Runout: TAKRL-1406-A'
+    - 'Matrix / Runout: TAKRL-1406-B'
+    - 'Matrix / Runout: TROPO-315-A'
+    - 'Matrix / Runout: TROPO-315-B'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '4'
+  - h
+  reconstructed: BD4h
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Bootlegs - D.xlsx

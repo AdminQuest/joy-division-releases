@@ -1,0 +1,43 @@
+variant_id: OFF-S-0019
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/1380792-Joy-Division-Still
+country_or_pressing_place: Japan
+notes: 'YZ-181->2-AX
+
+  English lyrics sheet b/w Japanese liner notes are included
+
+  ℗ 1984.7
+
+  Made in Japan by Nippon Columbia Co., Ltd.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - YZ-181-A-1
+    - YZ-181-B-1
+    - YZ-182-A-1
+    - YZ-182-A-1
+    - JASRAC
+    - 'Autre (Cat# Record 1): YZ-181-AX'
+    - 'Autre (Cat# Record 2): YZ-182-AX'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

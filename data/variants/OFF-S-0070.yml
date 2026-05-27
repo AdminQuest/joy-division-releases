@@ -1,0 +1,25 @@
+variant_id: OFF-S-0070
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/6587610-Joy-Division-Substance
+notes: Amor – A-0103
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - P
+  - A
+  - S
+  - null
+  reconstructed: PAS
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

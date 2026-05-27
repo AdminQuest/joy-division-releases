@@ -1,0 +1,32 @@
+variant_id: BOOT-P-0010
+release_type: bootleg
+canonical_title: Passover
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P7.htm
+country_or_pressing_place: Greece
+variant_group:
+  group_id: BP4
+  group_role: color_variation
+notes: Limited edition of 50 hand numbered copies. Thick card picture sleeve
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: black
+    matrices:
+    - no matrix
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '4'
+  - a
+  reconstructed: BP4a
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Bootlegs - P.xlsx

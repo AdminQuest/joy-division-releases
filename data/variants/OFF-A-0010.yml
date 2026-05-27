@@ -1,0 +1,48 @@
+variant_id: OFF-A-0010
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Japan
+notes: 'Columbia ‎– YW-7422-AX, Factory ‎– Facus 2
+
+  Cream on dark green labels (like US original). Pink on white OBI sash with Atmosphere lyrics printed on rear. This was released
+  in 07.1984. Promo copies are identified by a tiny red sticker - normally on the rear sleeve.
+
+  Obi reads:
+
+  A Factory Records Product
+
+  Labels:
+
+  Published by Fractured Music
+
+  A Factory Records (U.S.) Inc. Product
+
+  re-released in the United Kingdom
+
+  ℗ 1984.7'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: YW-7422-A-1'
+    - 'Matrix / Runout: YW-7422-B-1'
+    - 'Rights Society: JASRAC'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 11
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

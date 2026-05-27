@@ -1,0 +1,31 @@
+variant_id: BOOT-A-0013
+release_type: bootleg
+canonical_title: All the Lyrics
+canonical_artist: Joy Division
+year: 1997
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/J4.htm
+country_or_pressing_place: Austria
+notes: "Sonic Book ‎– Sonic.010. \nBook containing the lyrics to almost every song by Joy Division. Comes with a bonus CD.\
+  \ CD size 86 page Italian book by Marco Broll with free 4 track CD. Released December 1997\nThe book is divided into three\
+  \ sections:\nA condensed history of the band: two column per page in English & Italian\n\nLyrics section: two column per\
+  \ page in English & Italian\n\nEssential discography: with an overview of all official records and JD compilations.\n\n\
+  Some of the lyrics are wrong. Contains 3 pictures of Ian curtis and 11 paintings by Andrea Chiesi."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode: 9788872264058'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '4'
+  - null
+  reconstructed: BA4
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Bootlegs - A.xlsx

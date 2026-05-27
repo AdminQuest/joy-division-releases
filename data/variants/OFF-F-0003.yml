@@ -1,0 +1,30 @@
+variant_id: OFF-F-0003
+release_type: officiel
+canonical_title: Factory Records Communications 1978-92
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/ceremony12.htm
+discogs_url: https://www.discogs.com/fr/release/2240762-Various-Factory-Records-Communications-1978-92
+country_or_pressing_place: UK
+notes: Warner Music UK Ltd. ‎– 5186592487.  Released for Record Store Day 2010 in UK only. Limited to 750 copies.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 10"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 5051865924876 A-1'
+    - 'Matrix / Runout: 5051865924876 B-1'
+_legacy_code:
+  segments:
+  - O
+  - null
+  - null
+  - null
+  reconstructed: O
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Officiels et pirates - RSD.xlsx

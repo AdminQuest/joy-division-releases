@@ -1,0 +1,37 @@
+variant_id: BOOK-F-0003
+release_type: livre
+canonical_title: Fotoreportage23 - In Search Of Ian Curtis
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/bk57.htm
+notes: 'A photographic mapping of the places in the story of Joy Division and their singer Ian Curtis and the space he left
+  behind. With contributions from people who knew him, worked with him, or were just inspired by him and the music the band
+  created. 76 photos and text
+
+  Pictures by Katja Ruge and words from, amongst others: Peter Saville, Mark E. Smith, Jarvis Cocker, Phoenix, The Rapture,
+  Karl Bartos, Genesis P. Orridge, Annik Honore, Lindsay Reade, Maximo Park, Terry Mason, Bloc Party, Jose Gonzales, Nouvelle
+  Vague, Mogwai, Johnny Marr, She wants Revenge, Anja Huwe (x mal Deutschland), Karl Hyde/Underworld and the late Tony Wilson).'
+format_details:
+  type: book
+  authors:
+  - Katja Ruge
+  publisher: Monitorpop
+  publication_year: 2007
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-3-9811856-0-7
+  page_count: 144
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 46
+  source_xlsx: Livres -.xlsx

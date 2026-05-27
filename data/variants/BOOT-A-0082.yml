@@ -1,0 +1,27 @@
+variant_id: BOOT-A-0082
+release_type: bootleg
+canonical_title: Autosuggestion
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A9.htm
+notes: '2011 : 500 Green-greyish printed labels with black text ; 500 Plain silver / grey labels ; un-numbered Black labels
+  with grey / silver print ; 100 Green-greyish printed labels with black text / Red vinyl ; 100 Green-greyish printed labels
+  with black text / Marbled grey vinyl ; 100 Green-greyish printed labels with black text / Marbled yellow vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 105
+  source_xlsx: Bootlegs - A.xlsx
+  version_marker: V2

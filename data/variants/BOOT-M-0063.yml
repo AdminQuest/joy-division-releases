@@ -1,0 +1,29 @@
+variant_id: BOOT-M-0063
+release_type: bootleg
+canonical_title: Monument
+canonical_artist: Joy Division
+year: 2013
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.discogs.com/fr/release/5082954-Joy-Division-Monument
+notes: Edition of 100 copies in a foldover paper cover inside a plastic sleeve.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - JD - A1
+    - JD - B1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 66
+  source_xlsx: Bootlegs - M.xlsx

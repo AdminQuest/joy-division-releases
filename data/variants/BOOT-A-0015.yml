@@ -1,0 +1,37 @@
+variant_id: BOOT-A-0015
+release_type: bootleg
+canonical_title: Amsterdam
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A1.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BA6
+  group_role: color_variation
+notes: 'FAC (PRO1) A&B, Not On Label (Joy Division) ‎– FAC (pro 1). The Tulip design on the sleeve is a woodcut specially
+  comissioned for this LP.
+
+  First cat# appears on sleeve, second on labels.
+
+  US LP pressed somewhere near Chicago.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): A FAC PRO I SIDE I'
+    - 'Matrix / Runout (Runout side B): A FAC PRO I SIDE 2'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '6'
+  - a
+  reconstructed: BA6a
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - A.xlsx

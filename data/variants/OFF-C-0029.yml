@@ -1,0 +1,29 @@
+variant_id: OFF-C-0029
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1993
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Europe
+notes: London Records ‎– 520 015-4. Features a four-panel glossy U-card inlay. Clear cassette with paper labels.
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+    matrices:
+    - 'Barcode: 731452001542'
+    - 'Label Code: LC 5661'
+    - 'Price Code: BA 581'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Officiels et pirates - Closer.xlsx

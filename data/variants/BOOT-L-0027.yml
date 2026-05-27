@@ -1,0 +1,47 @@
+variant_id: BOOT-L-0027
+release_type: bootleg
+canonical_title: 'Live at Ajanta Theatre Derby
+
+
+
+  (titre Discogs : Section 25 & XI5)'
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: about:blank
+country_or_pressing_place: Australia
+notes: 'Live: Ajanta Theatre, Derby April 19th 1980
+
+  Australian LP released 2020
+
+  Black vinyl test pressing
+
+  Limited edition 9 numbered copies
+
+  Plain white generic outer sleeve with front & back insert covers and an A4 size track listing insert + a 10 x 15 cm photo
+  insert of the ticket.
+
+  Plain white labels
+
+  Matrix numbers appear to refer to Beginning of The End LP which has the same tracks, suggesting this is the test pressing
+  for a forthcoming re-pressing (with different matrix numbers)'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - JD_BOTE A
+    - JD_BOTE B
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '12'
+  - null
+  reconstructed: BL12
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Bootlegs - L.xlsx

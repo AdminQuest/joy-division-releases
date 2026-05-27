@@ -1,0 +1,56 @@
+variant_id: OFF-S-0010
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/release/1039307-Joy-Division-Still
+country_or_pressing_place: Canada
+notes: 'FACD 07/08
+
+  Released in a light tan cardboard gatefold sleeve that opens towards the center. White embossed lettering.
+
+  Comes with matching card inner sleeves bearing only the catalogue number (white print) and a rounded corner.
+
+  Labels are printed white text on light tan and have the date 13/11/81.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - 'Identifiant de l''usine de pressage (Runouts): DM'
+    - 'Informations sur la matrice (Runout side A - variation 1): FACD 07-A SNB 230 DM-14'
+    - 'Informations sur la matrice (Runout side B - variation 1): FACD 07-B SNB 230 DM-'
+    - 'Informations sur la matrice (Runout side C - variation 1): FACD 08/C SNB 230'
+    - 'Informations sur la matrice (Runout side D - variation 1): FACD 08/D SNB 230 DM-05'
+    - 'Informations sur la matrice (Runout side A - variation 2): FACD-07/08-A SNB 230 DM-6'
+    - 'Informations sur la matrice (Runout side B - variation 2): FACD 07-B SNB 230 DM-6'
+    - 'Informations sur la matrice (Runout side C - variation 2): FACD 08/C SNB 230'
+    - 'Informations sur la matrice (Runout side D - variation 2): FACD 08/D SNB 230 DM-21'
+    - 'Informations sur la matrice (Runout side A - variation 3): FACD-07/08-A SNB 230 DM-20'
+    - 'Informations sur la matrice (Runout side B - variation 3): FACD 07-B SNB 230 DM-'
+    - 'Informations sur la matrice (Runout side C - variation 3): FACD 08/C SNB 230'
+    - 'Informations sur la matrice (Runout side D - variation 3): FACD 08/D SNB 230 DM-2'
+    - 'Informations sur la matrice (Runout side A - variation 4): FACD 07-A SNB 230 DM-1'
+    - 'Informations sur la matrice (Runout side B - variation 4): FACD 07-B SNB 230 DM-21'
+    - 'Informations sur la matrice (Runout side C - variation 4): FACD 08/C SNB 230'
+    - 'Informations sur la matrice (Runout side D - variation 4): FACD 08/D SNB 230 DM-'
+    - 'Informations sur la matrice (Runout side A - variation 5): FACD 07-A SNB 230 DM 3'
+    - 'Informations sur la matrice (Runout side B - variation 5): FACD 07-B SNB 230 DM-'
+    - 'Informations sur la matrice (Runout side C - variation 5): FACD 08/C SNB 230'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

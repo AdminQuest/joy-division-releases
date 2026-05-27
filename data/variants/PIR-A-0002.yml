@@ -1,0 +1,22 @@
+variant_id: PIR-A-0002
+release_type: pirate
+canonical_title: And They Walked in Line
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://lh3.googleusercontent.com/pw/AP1GczMfymMXYKy9e3fs8GMV3yhTkSY7fv7rPRGW1pD4-ja1SYvtvkUQBG-1QEMy58MCLI9iv_y7kxjCIoGnv7QRGsHn8F9uFlRAn-vp3SXE1q_Mum2acXQGI6WLuZq4R6pSkw-qLjziP3gUh4oTDlYyMv5TPA=w1999-h1999-s-no-gm?authuser=0
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Officiels et pirates - cassettes.xlsx

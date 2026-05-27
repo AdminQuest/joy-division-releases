@@ -1,0 +1,32 @@
+variant_id: OFF-A-0028
+release_type: officiel
+canonical_title: Atmosphere 1979
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos7.htm
+country_or_pressing_place: Australia
+notes: 'Released by Factory Australasia under licence from Factory Records Manchester England.
+
+
+  Also gold stamped promo editions.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAC 2137-2̶ 1 Δ MX 250814̶ 3'
+    - 'Matrix / Runout (Runout side B): FAC 2137-1 . Δ MX 250813̶ 4'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 7_ - Atmosphere 1979.xlsx

@@ -1,0 +1,44 @@
+variant_id: BOOT-U-0007
+release_type: bootleg
+canonical_title: Unknown Pleasures in Concert
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: needs_review
+joydiv_letter: U
+joydiv_url: https://joydiv.org/U7.htm
+country_or_pressing_place: UK ?
+notes: 'Stylus Groove SGVNY169 2025
+
+  EU LP released 2025
+
+  Label: Stylus Groove / Classic Rock Agency Ltd
+
+  Blue and red splatter vinyl (cover incorrectly states white and blue splatter)
+
+  Catalogue number: SGVNY169
+
+  Barcode: 5 061074 740594
+
+  Limited edition of 500 hand-numbered copies
+
+  The first 10 copies include a numbered certificate in a plain white envelope with only the number stamped on the front,
+  the certificate reads:
+
+  Number ___  (the number is stamped) of 500 Release date: 28/04/2025 Stylus Groove hereby affirm the authenticity of this
+  album with this certificate.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+    color: White
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - U.xlsx

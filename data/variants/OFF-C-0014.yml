@@ -1,0 +1,39 @@
+variant_id: OFF-C-0014
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Spain
+notes: 'Edigsa ‎– 19L0094, Factory ‎– FACT XXV
+
+  First Spanish pressing of this album.
+
+  Notes:
+
+  This edition is pressed with black labels and text in metallic argent ink.
+
+  A Closer repress with white labels is also available from the same era.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (A side): 19 L · 0094 · A'
+    - 'Matrix / Runout (B side): 19 · L - 0094 - B'
+    - 'Depósito Legal: B-3279-1981'
+    - 'Other (Impuesto de Lujo a Metalico): Permiso 126'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Officiels et pirates - Closer.xlsx

@@ -1,0 +1,28 @@
+variant_id: BOOT-T-0031
+release_type: bootleg
+canonical_title: They Keep Calling Me
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://www.joydiv.org/T3.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BT5
+  group_role: color_variation
+notes: "Australian CD released December 2002.  \n1000 Copies."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '5'
+  - d
+  reconstructed: BT5d
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - T.xlsx

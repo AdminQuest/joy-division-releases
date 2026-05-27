@@ -1,0 +1,23 @@
+variant_id: BOOT-0-0035
+release_type: bootleg
+canonical_title: (Warsaw) An Ideal for Living, the Demos
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/I16.htm
+format_details:
+  type: audio
+  supports:
+  - support_type: cassette
+    count: 1
+_legacy_code:
+  segments:
+  - A
+  - I
+  - null
+  - null
+  reconstructed: AI
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Bootlegs - I.xlsx

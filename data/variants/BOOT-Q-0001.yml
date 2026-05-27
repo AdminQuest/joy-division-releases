@@ -1,0 +1,30 @@
+variant_id: BOOT-Q-0001
+release_type: bootleg
+canonical_title: Queens Hall Leeds
+canonical_artist: Joy Division
+year: 2016
+documentation_quality: verified
+joydiv_letter: Q
+joydiv_url: https://www.joydiv.org/Q1.htm
+country_or_pressing_place: France
+notes: "Planet Claire Records PC-179 \nReleased September 2016, Black vinyl, Picture sleeve, Printed picture labels"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Side A: WEST 912 A'
+    - 'Side B: WEST 912 B'
+    - 'Barcode: 1 234567 891019'
+_legacy_code:
+  segments:
+  - B
+  - Q
+  - '1'
+  - null
+  reconstructed: BQ1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - Q.xlsx

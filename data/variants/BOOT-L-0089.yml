@@ -1,0 +1,32 @@
+variant_id: BOOT-L-0089
+release_type: bootleg
+canonical_title: Lost Control
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L16.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BL34
+  group_role: color_variation
+notes: Some copies on clear vinyl
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+    matrices:
+    - no matrix numbers
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '34'
+  - b
+  reconstructed: BL34b
+  has_suffix: false
+  source_row: 92
+  source_xlsx: Bootlegs - L.xlsx

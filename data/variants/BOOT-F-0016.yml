@@ -1,0 +1,32 @@
+variant_id: BOOT-F-0016
+release_type: bootleg
+canonical_title: Flexi discs
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F8.htm
+notes: '[]V1 : Russian 5¨ square flexi discs on the Budkon label. Sleeves all on poor quality paper and look like bad photocopies.
+
+  []V2 : polish postcard flexi discs on k3 records. rectangular 16.5 x 14.5 cm picture disks with black & white picture "sleeves
+  »/envelopes ; all limited to 50 numbered copies.
+
+  []V3 : Polish 4" postcard flexi discs. The list below is not definitive - there are many more titles available. Some titles
+  have Joy Division pictures but many do not. Some pictures appear on more than one title and some titles are available with
+  more than one picture. Basically it would appear that these things are churned out by the lorryload - it''s certainly impossible
+  to collect them all. Some disks are on the B & H label (these generally have art pictures) but many have no record company
+  name.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '5'
+  - null
+  reconstructed: BF5
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Bootlegs - F.xlsx

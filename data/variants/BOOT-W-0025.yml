@@ -1,0 +1,32 @@
+variant_id: BOOT-W-0025
+release_type: bootleg
+canonical_title: Warsaw LP
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/warsawlps.htm
+country_or_pressing_place: ??
+notes: 'V5 poster : RZM. Hand-folded poster sleeve with the "Unknown Pleasures" logo plus the words "Unknown Pleasures" and
+  "FACT 10 ». The LP label says "J.D. ''Warsaw", lists the tracks, and has "RZM PRODUCTIONS LTD." at the bottom. The only
+  version of this we have come across has no free single. Record label: RZM Productions Ltd. No catalogue number on packaging
+  or label. Released on black vinyl, and clear vinyl'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Black
+    matrices:
+    - RZM-200/A
+    - RZM-200/B
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '4'
+  - n
+  reconstructed: BW4n
+  has_suffix: false
+  source_row: 27
+  source_xlsx: Bootlegs - W.xlsx

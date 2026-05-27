@@ -1,0 +1,29 @@
+variant_id: BOOT-D-0005
+release_type: bootleg
+canonical_title: Dante's Inferno
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D1.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BD3
+  group_role: color_variation
+notes: 'yellow : Gala – Gal 001'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '3'
+  - a
+  reconstructed: BD3a
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Bootlegs - D.xlsx

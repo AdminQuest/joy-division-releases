@@ -1,0 +1,50 @@
+variant_id: BOOT-N-0001
+release_type: bootleg
+canonical_title: 'A New Dawn
+
+  (The Very Best Of Joy Division In Concert)'
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: N
+discogs_url: https://www.discogs.com/release/33931011-Joy-Division-A-New-Dawn-The-Very-Best-Of-Joy-Division-In-Concert
+country_or_pressing_place: UK
+notes: 'Stylus Groove EU SGVNY167 2025
+
+  EU LP released 2025
+
+  Label: Stylus Groove / Classic Rock Agency Ltd
+
+  Sunrise splatter (orange and red) vinyl
+
+  Catalogue number: SGVNY168
+
+  Barcode: 5 061074 740587
+
+  Limited edition of 500 hand-numbered copies
+
+  The first 10 copies include a numbered certificate in a plain white envelope with only the number stamped on the front,
+  the certificate reads:
+
+  Number ___  (the number is stamped) of 500 Release date: 28/04/2025 Stylus Groove hereby affirm the authenticity of this
+  album with this certificate.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Splatter
+    matrices:
+    - 'Barcode: 5 061074 740587'
+    - 'Rights Society: mcps'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Bootlegs - A.xlsx

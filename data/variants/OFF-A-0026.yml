@@ -1,0 +1,30 @@
+variant_id: OFF-A-0026
+release_type: officiel
+canonical_title: Atmosphere 1979
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos7.htm
+country_or_pressing_place: UK
+notes: Factory ‎– Fac213/7. Run off matrices on sides A and B match UK white label 7" pressing here.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Barcode: 5 016839 102131'
+    - 'Matrix / Runout (Side A): FAC-213-7 A1 ✱ TOWNHOUSE MAX'
+    - 'Matrix / Runout (Side B): FAC-213-7 B1 ✱ TOWNHOUSE MAX'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 7_ - Atmosphere 1979.xlsx

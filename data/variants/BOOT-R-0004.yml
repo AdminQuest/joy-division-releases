@@ -1,0 +1,39 @@
+variant_id: BOOT-R-0004
+release_type: bootleg
+canonical_title: Radio Transmissions
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: R
+joydiv_url: http://joydiv.org/R11.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BR2
+  group_role: color_variation
+notes: '2023 reissue with different sleeve images
+
+  No stickered plastic outer sleeve
+
+  Inner sleeve is plain black
+
+  Matrix numbers and labels the same as the previous versions above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Different, stamped, matrix numbers:'
+    - DIV01 A
+    - DIV01 B
+_legacy_code:
+  segments:
+  - B
+  - R
+  - '2'
+  - c
+  reconstructed: BR2c
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Bootlegs - R.xlsx

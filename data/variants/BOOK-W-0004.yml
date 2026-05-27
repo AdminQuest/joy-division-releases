@@ -1,0 +1,30 @@
+variant_id: BOOK-W-0004
+release_type: livre
+canonical_title: Who Killed Martin Hannett?
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: needs_review
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/bk55.htm
+format_details:
+  type: book
+  authors:
+  - Colin Sharp
+  publisher: Aurum Press Ltd.
+  publication_year: 2007
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 1-84513-174-6
+  page_count: 250
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 114
+  source_xlsx: Livres -.xlsx

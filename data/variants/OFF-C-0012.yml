@@ -1,0 +1,39 @@
+variant_id: OFF-C-0012
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: New Zealand
+notes: 'Factory ‎– FACT 25, Factory ‎– FACT XXV
+
+  First New Zealand release.
+
+  Rear of inner sleeve:
+
+  RTC Logo & "Marketed by RTC, P.O. Box 3825 Auckland".
+
+  Printed on coarser and lighter-weight card than the 1980 UK edition.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A Variant 1): FACT 25 A ...'
+    - 'Matrix / Runout (Side B Variant 1): FACT 25 B ..'
+    - 'Matrix / Runout (Side A Variant 2): FACT 25 A ....'
+    - 'Matrix / Runout (Side B Variant 2): FACT 25 B ...'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Officiels et pirates - Closer.xlsx

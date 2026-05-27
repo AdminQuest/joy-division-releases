@@ -1,0 +1,35 @@
+variant_id: OFF-S-0033
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/release/76440-Joy-Division-Substance
+notes: 'Factory – Fact250
+
+  Different matrix numbers'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Code-barres: 5 016839 302500'
+    - 'Informations sur la matrice (Runout side A variation 1, etched): FACT 250 A2 TOWNHOUSE 2 LYN - 20891'
+    - 'Informations sur la matrice (Runout side B variation 1, etched): FACT 250 ·B·4 3 TOWNHOUSE LYN - 20892 B'
+    - 'Informations sur la matrice (Runout side A variation 2, etched): FACT 250 A2 TOWNHOUSE'
+    - 'Informations sur la matrice (Runout side B variation 2, etched): FACT 250 ·B·4 4 LYN 20892 TOWNHOUSE'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - null
+  reconstructed: OAS
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

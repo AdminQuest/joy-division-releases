@@ -1,0 +1,40 @@
+variant_id: BOOT-S-0030
+release_type: bootleg
+canonical_title: Soul and Heart
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/S14.htm
+country_or_pressing_place: Asia
+variant_group:
+  group_id: BS9
+  group_role: color_variation
+notes: '[]Red Sun Music - Asia 2008 : This LP appeared in 2008 (sticker on sleeve states 2006)
+
+  100 hand-numbered copies on yellow vinyl
+
+  Plain white sleeve with stickers
+
+  This is identical to the yellow vinyl version of the LP above but in a different sleeve. This could be a re-press or, more
+  likely, they had more records than sleeves so they made these'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: yellow
+    matrices:
+    - 'Side A: JB-‘A'''
+    - 'Side B: J.B.-''B'''
+_legacy_code:
+  segments:
+  - B
+  - S
+  - '9'
+  - f
+  reconstructed: BS9f
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Bootlegs - S.xlsx

@@ -1,0 +1,41 @@
+variant_id: BOOK-E-0002
+release_type: livre
+canonical_title: 'Excessive Flashpoints, Solitary Demands, Darkest Corners: Ian Curtis, Joy Division, Critical Theory, and
+  Me'
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: needs_review
+joydiv_letter: E
+joydiv_url: https://joydiv.org/bk114.htm
+country_or_pressing_place: UK
+notes: '"In Excessive Flashpoints, Solitary Demands, Darkest Corners: Ian Curtis, Joy Division, Critical Theory, and Me I
+  inquire into issues of fundamental and ultimate concern: the meaning, value, and purpose of existence; our responsibility
+  to and for others; human beings as complex, multiple, contradictory, and dynamic; the challenge of intimacy and the power
+  of love; the quest for authenticity and the struggle for integrity; what it means to be included and excluded along with
+  how as well as why this occurs; how social change happens along with what can be the contribution of artistic and cultural
+  work toward this transformation; and the ethical responsibility to confront myriad metaphorical ''darknesses'' in our individual
+  and social lives, despite how challenging, difficult, and painful such confrontation can so often be. I pursue this inquiry
+  by staging a dialogue between critical theory and popular music. I explore how intelligent, sensitive popular music engages
+  the same issues as does'
+format_details:
+  type: book
+  authors:
+  - Bob Nowlan
+  publisher: Left Edge Books
+  publication_year: 2024
+  language: en
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 979-821851237
+  page_count: 1196
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 139
+  source_xlsx: Livres -.xlsx

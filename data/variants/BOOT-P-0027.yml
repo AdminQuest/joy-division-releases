@@ -1,0 +1,41 @@
+variant_id: BOOT-P-0027
+release_type: bootleg
+canonical_title: Peel Sessions
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/P6.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BP6
+  group_role: color_variation
+notes: 'US counterfeit copy of the official release
+
+  180 gram heavy vinyl. Pressed in many different colours including:
+
+  []Red (could be orange) vinyl, USA 2009
+
+
+  The best way to identify the counterfeit is the plain white inner with rounded corners. The original had a custom printed
+  inner with information about the other Strange Fruit label releases.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - The matrix numbers look very similar to the original pressing, On the counterfeit there is an additional short wavy
+      line after the last "B" in the matrix on side 2 which is not present on the original.
+_legacy_code:
+  segments:
+  - B
+  - P
+  - '6'
+  - a
+  reconstructed: BP6a
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Bootlegs - P.xlsx

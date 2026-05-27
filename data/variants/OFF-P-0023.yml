@@ -1,0 +1,34 @@
+variant_id: OFF-P-0023
+release_type: officiel
+canonical_title: Peel sessions
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://www.joydiv.org/pe.htm
+discogs_url: https://www.discogs.com/fr/release/1190101-Joy-Division-Peel-Sessions
+country_or_pressing_place: France
+notes: "Strange Fruit ‎– 642201. ℗ 1990 BBC Enterprise Ltd. © 1991. Fabriqué par MPO France. cat # is 642201 on CD and on\
+  \ back sleeve and WMD 642201 on spine. \nComes in standard jewel case, black tray including a 4 page insert."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Barcode (Text): 3 383006 422012'
+    - 'Barcode (Scanned): 3383006422012'
+    - 'Matrix / Runout: JUSTIN 642201 MPO 01 @@'
+    - 'Rights Society: SACEM SDRM SACD SGDL'
+    - 'Price Code: WM 326'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 3
+  source_xlsx: Officiels et pirates - Radio sessions.xlsx
+  op_inferred_from_filename: true

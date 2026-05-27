@@ -1,0 +1,28 @@
+variant_id: OFF-S-0025
+release_type: officiel
+canonical_title: Still 1981.
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/st.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Still/release/5274256
+country_or_pressing_place: Europe
+notes: CD 2007 edition collector (London Records - 2564 69779 0, Factory - FACD.40). Le CD1 = titres studio + live Birmingham
+  University 2/5/80 + Sister Ray Moonlight Club London 3/4/80 ; le CD 2 = High Wycombe Hall Live 20 février 1980
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 21
+  source_xlsx: Officiels et pirates - Still.xlsx
+  op_inferred_from_filename: true

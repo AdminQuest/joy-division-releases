@@ -1,0 +1,38 @@
+variant_id: BOOT-B-0032
+release_type: bootleg
+canonical_title: Black Souls 02.08.80
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: B
+country_or_pressing_place: Denmark
+variant_group:
+  group_id: BB3
+  group_role: pressing_variation
+notes: 'Made in Denmark November 1984. Less than 50 copies! Plain white cover with Joy Division Black souls handwritten on
+  it.
+
+  Source: Live.
+
+  Side 1 begins with a recording of a Gregorian Chant and side 2 ends with one.
+
+
+
+  This is a mispress of the album listed above - and was later issued under other names : shades of Division - The Black Souls
+  mispressing album LP & Space LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '3'
+  - b
+  reconstructed: BB3b
+  has_suffix: false
+  source_row: 33
+  source_xlsx: Bootlegs - B.xlsx

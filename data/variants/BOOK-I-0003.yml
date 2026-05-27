@@ -1,0 +1,45 @@
+variant_id: BOOK-I-0003
+release_type: livre
+canonical_title: Ian Curtis - Twenty-Four Hours
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/bk88.htm
+country_or_pressing_place: France
+notes: 'Ian Curtis, avec son groupe, Joy Division, a marqué définitivement son empreinte dans l’industrie musicale.
+
+  Banlieusard de Manchester, Ian Curtis, avec ses acolytes de Joy Division, choisit d’emprunter dès 1976 une destinée punk.
+  Après quelques tatonnements, il crééra un univers inédit dans la rock. Précurseur du mouvement dit post-punk, il influencera
+  le courant cold wave, new wave, etc.
+
+  Mais le jeune Ian, en proie à ses doutes, ses errances, et d’une santé, aussi bien mentale que physique fragile, son introspection
+  dans la noirceur du monde le poussera à commettre l’acte radical le 18 mai 1980. A 23 ans, sa femme, Deborah, le découvre
+  pendu dans la cuisine, la veille d’une tournée américaine qui s’annonçait légendaire.
+
+  Le groupe laisse en héritage deux albums (dont un posthume), et ouvre la voie au groupe New Order, fondé par les membres
+  de Joy Division.'
+format_details:
+  type: book
+  authors:
+  - Diego Gil
+  publisher: 'Le Boulon
+
+    Éditions Du Layeur'
+  publication_year: 2020
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_13: 978-291512-668-6
+  page_count: 152
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Livres -.xlsx

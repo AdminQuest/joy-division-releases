@@ -1,0 +1,35 @@
+variant_id: OFF-A-0014
+release_type: officiel
+canonical_title: Atmosphere
+canonical_artist: Joy Division
+year: 1982
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/atmos12.htm
+country_or_pressing_place: Spain
+notes: "Factory ‎– 31-006 M, Nuevos Medios ‎– 31-006 M \nPublished by Fractured Music\nCat# on labels : 31-006\nCat# on back\
+  \ cover : 31-006 M\nDate on labels: 2/9/80\nFABRICADO EN ESPAÑA POR COFASA, AV. DE AMERICA, S/N. MADRID-27. PERM. 6421 (labels)\n\
+  Nuevos Medios, S.A./Salustiano Olozaga, 12/Madrid-1 (back cover)\nImpreso en España por FOCO, S.A. - Avda. América, s/n\
+  \ - Madrid (back cover)."
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): 850 31 006*A*1'
+    - 'Matrix / Runout (Side B): 850 31 006*B*1'
+    - 'Depósito Legal: M-10426-82'
+    - 'Rights Society: S.G.A.E.'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Officiels et pirates - 12_ - Atmosphere.xlsx
+  op_inferred_from_filename: true

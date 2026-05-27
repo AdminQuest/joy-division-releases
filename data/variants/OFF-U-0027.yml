@@ -1,0 +1,40 @@
+variant_id: OFF-U-0027
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1239418
+country_or_pressing_place: Germany
+notes: 'Factory ‎– RTD 67, Rough Trade ‎– RTD 67
+
+  Very glossy outer sleeve
+
+  No inner sleeve
+
+  Song titles, timings and credits printed on label
+
+  Black and white labels like the UK version - overprinted with credits'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: RTD 67 A G. Pauler'
+    - 'Matrix / Runout: RTD 67 B G. Pauler'
+    - 'Label Code: LC 5661'
+    - 'Rights Society: GEMA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 28
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

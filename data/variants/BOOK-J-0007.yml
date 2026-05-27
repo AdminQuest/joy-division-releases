@@ -1,0 +1,36 @@
+variant_id: BOOK-J-0007
+release_type: livre
+canonical_title: Joy Division, paroles et carnets de notes
+canonical_artist: Joy Division
+year: 2014
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk74.htm
+country_or_pressing_place: France
+notes: 'Version française de So This Is Permanence
+
+
+  J''ai la version anglaise en numérique'
+format_details:
+  type: book
+  authors:
+  - Ian CURTIS (Auteur)
+  - Isabelle CHELLEY (Traduction)
+  publisher: Robert Laffont
+  publication_year: 2014
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: '2221144880'
+  page_count: 320
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 13
+  source_xlsx: Livres -.xlsx

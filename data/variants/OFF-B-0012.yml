@@ -1,0 +1,36 @@
+variant_id: OFF-B-0012
+release_type: officiel
+canonical_title: Les Bains Douches
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/bains.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Les-Bains-Douches/release/692304
+country_or_pressing_place: Italy
+notes: 'Re-released as a double LP by Get Back Records (Italy) black vinyl 2006 cat.no: GET 79'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    color: Black
+    matrices:
+    - 'Barcode (Text): 8 013252 317910'
+    - 'Matrix / Runout (Side A - Variant 1): AE 47827/A www.gzvinyl.com'
+    - 'Matrix / Runout (Side A - Variant 2): AE 47827/B www.gzvinyl.com'
+    - 'Matrix / Runout (Side B): AE 47828/A'
+    - 'Matrix / Runout (Side C): AE 47829/A www.gzvinyl.com'
+    - 'Matrix / Runout (Side D): AE 47830/A'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 12
+  source_xlsx: Officiels et pirates - Les Bains-Douches.xlsx
+  op_inferred_from_filename: true

@@ -1,0 +1,47 @@
+variant_id: BOOT-E-0041
+release_type: bootleg
+canonical_title: Exhibition - Paradiso Amsterdam 11th january 1980
+canonical_artist: Joy Division
+year: 2024
+documentation_quality: verified
+joydiv_letter: E
+country_or_pressing_place: Europe
+notes: 'Stylus Groove SGVNY139  2024
+
+  European LP
+
+  Released 2024
+
+  Label: Stylus Groove
+
+  Catalogue number: SGVNY139
+
+  Pressed on red and white vinyl
+
+  500 hand-numbered copies, the individual number is written inside a white square in the bottom left corner on the back cover:
+  "This edition ___/500".
+
+  Barcode on back cover:   5 060918 814538
+
+  Copies numbered 01-10 issued with a certificate of authenticity inside a plain white envelope with only the number stamped
+  on the front.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: red
+    matrices:
+    - 14802-108859 A
+    - 14802-108859 B
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '12'
+  - null
+  reconstructed: BE12
+  has_suffix: false
+  source_row: 43
+  source_xlsx: Bootlegs - E.xlsx

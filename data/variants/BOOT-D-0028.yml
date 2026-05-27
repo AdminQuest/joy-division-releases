@@ -1,0 +1,31 @@
+variant_id: BOOT-D-0028
+release_type: bootleg
+canonical_title: Dead Souls
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: D
+joydiv_url: https://www.joydiv.org/D3.htm
+country_or_pressing_place: UK
+notes: 'Soundsville International ‎– JD / J 016 Promo. Colour cover. 400 copies.
+
+  Speed is slowed down.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: JD / J 016 - A'
+    - 'Matrix / Runout: JD / J 016 - B'
+_legacy_code:
+  segments:
+  - B
+  - D
+  - '7'
+  - null
+  reconstructed: BD7
+  has_suffix: false
+  source_row: 29
+  source_xlsx: Bootlegs - D.xlsx

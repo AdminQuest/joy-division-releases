@@ -1,0 +1,36 @@
+variant_id: OFF-K-0004
+release_type: officiel
+canonical_title: Komakino
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/kom7.htm
+country_or_pressing_place: UK
+notes: 'Matrix numbers are the same as the regular UK issue,
+
+  This appears to be a test pressing or perhaps an unofficial press made by a Lyntone employee.
+
+  It would appear that only a handful were pressed.
+
+  Released 1980
+
+  There is also a black vinyl version of this test pressing which is much rarer than the green one'
+format_details:
+  type: audio
+  supports:
+  - support_type: flexi
+    size: 7"
+    count: 1
+    matrices:
+    - LYN 8188-IS / LYN 8187-IS
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 7_ flexi - Komakino.xlsx

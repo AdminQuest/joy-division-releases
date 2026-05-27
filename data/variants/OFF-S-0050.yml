@@ -1,0 +1,35 @@
+variant_id: OFF-S-0050
+release_type: officiel
+canonical_title: Substance 1988.
+canonical_artist: Joy Division
+year: 1988
+documentation_quality: verified
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/su.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Substance/release/2248259?
+country_or_pressing_place: Scandinavia
+notes: 'Factory ‎– Fact250, MNW ‎
+
+  Scandinavian edition.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode: 5 016839 302500'
+    - 'Matrix / Runout (Side A): FACT-250-A1 * MAX TOWNHOUSE'
+    - 'Matrix / Runout (Side B): FACT-250-B * MAX TOWNHOUSE'
+    - 'Rights Society: BIEM/n©b'
+_legacy_code:
+  segments:
+  - O
+  - A
+  - S
+  - '2'
+  reconstructed: OAS2
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - Substance 1988.xlsx
+  op_inferred_from_filename: true

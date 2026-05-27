@@ -1,0 +1,29 @@
+variant_id: BOOT-J-0001
+release_type: bootleg
+canonical_title: John Peel Sessions 1979-1980
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/J2.htm
+notes: 'Poor quality insert with photo of Ian Curtis. It lists the song titles with the words "Rare singles" under the list
+  of side one and "John Peel sessions 1979-1980" under side two.
+
+  No matrix numbers. Plain white labels.
+
+  These were some of the first JD boots released and are extremely rare (and amateurish).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - J
+  - '1'
+  - null
+  reconstructed: BJ1
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - J.xlsx

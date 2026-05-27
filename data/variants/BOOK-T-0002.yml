@@ -1,0 +1,40 @@
+variant_id: BOOK-T-0002
+release_type: livre
+canonical_title: 'Torn Apart: The Life Of Ian Curtis'
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: needs_review
+joydiv_letter: T
+joydiv_url: http://joydiv.org/bk2.htm
+country_or_pressing_place: UK
+notes: 'VF : Ian Curtis, L''âme damnée de Joy Division
+
+  Ian Curtis biography by Mick Middles / Lindsay Reade.
+
+  Includes a lot of previously unrecorded accounts from Ian’s family and friends, including Annik Honore. Lots of information
+  right from Ian''s childhood up to his relationship with Annik, including transcripts of letters. This is the most comprehensive
+  account of Ian''s life so far - including previously unseen photographs.
+
+  Je l''ai en numérique'
+format_details:
+  type: book
+  authors:
+  - Mick Middles
+  - Lindsay Reade
+  publisher: Omnibus Press
+  publication_year: 2006
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 400
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 78
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,33 @@
+variant_id: BOOT-U-0008
+release_type: bootleg
+canonical_title: Unknown Pleasures in Concert
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://joydiv.org/U7.htm
+country_or_pressing_place: UK
+notes: 'Stylus Groove SGVNY169 2025
+
+  Reissue of the above from September 2025
+
+  Blue and white splatter vinyl
+
+  Otherwise identical to the listing above'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Blue
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 9
+  source_xlsx: Bootlegs - U.xlsx

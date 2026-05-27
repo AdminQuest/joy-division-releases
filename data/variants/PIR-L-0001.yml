@@ -1,0 +1,30 @@
+variant_id: PIR-L-0001
+release_type: pirate
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: USA
+notes: 'Cleopatra ‎– CLP 3828 officiel ou bootleg ?? Sleeve states: "Alternate versions mastered from the Martin Hannett tapes
+  1980", which is wrong.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout: CLP 3828 A S-82774'
+    - 'Matrix / Runout: CLP 3828 B S-82775'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 20
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

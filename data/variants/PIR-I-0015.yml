@@ -1,0 +1,44 @@
+variant_id: PIR-I-0015
+release_type: pirate
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: UK
+notes: 'V3 : Counterfeit copies of the official 7" release on Enigma.
+
+  (1) Fakes released in the 1980s ... see scans (opens new window)
+
+  Identical to the official release with a 14" x 14" fold out sleeve except:
+
+  * The fakes do not have the serrated edge around the label.
+
+  * The matrix numbers are the same on both the original and the copy - however, on the original the matrix numbers in the
+  run off grooves are "signed" by the person who did them - "EG". If it doesn''t have "EG" then it''s the fake. Beware: we
+  have heard of someone scratching "EG" onto a counterfeit to make it look like the original.
+
+  * The pictures on the folded poster cover are slightly out of focus. It actually looks as if it is copied.
+
+  * The matrix numbers on the copy are in quite large hand written characters - where the original had very small hand written
+  matrix numbers.
+
+  * The label on the original is absolutely black and not shiny at all.
+
+  * There should be only about 1 mm between the copyright message on the edge of the label'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

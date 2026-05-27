@@ -1,0 +1,32 @@
+variant_id: BOOT-F-0014
+release_type: bootleg
+canonical_title: Failures
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: F
+joydiv_url: https://www.joydiv.org/F1.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BF4
+  group_role: color_variation
+notes: In 2023 we came across a copy with TAKRL style labels. Otherwise it's identical - the same matrix numbers, sleeve etc
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: black
+    matrices:
+    - TROPO-315-A L-32054
+    - TROPO-315-B L-32054 X
+_legacy_code:
+  segments:
+  - B
+  - F
+  - '4'
+  - b
+  reconstructed: BF4b
+  has_suffix: false
+  source_row: 15
+  source_xlsx: Bootlegs - F.xlsx

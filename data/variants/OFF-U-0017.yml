@@ -1,0 +1,34 @@
+variant_id: OFF-U-0017
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/1203292
+country_or_pressing_place: Spain
+notes: "Factory ‎– FACT 10, Edigsa ‎– 19L0106\nReleased with a textured cover and a thick cardboard printed inner sleeve.\
+  \ \nAlthough the tracklisting is correct, the label faces are swapped: A - Inside / B - Outside. Can be found both with\
+  \ text on the spine of the sleeve as well as without any spine print.\nRecorded at Strawberry Studios, Stockport.\nManufactured\
+  \ in Spain by EMI-Odeon España, S.A. ℗ 1981\nversion Iberofon"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout Side A - Stamped): 1 19L-0106-A GI'
+    - 'Matrix / Runout (Runout Side B - Stamped): 1 19L-0106-B GI'
+    - 'Depósito Legal: B. 5204-1981'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 18
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

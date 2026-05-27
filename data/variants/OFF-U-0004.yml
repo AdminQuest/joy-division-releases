@@ -1,0 +1,35 @@
+variant_id: OFF-U-0004
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/14290965
+country_or_pressing_place: Italy
+notes: "Comes in textured sleeve with printed inner sleeve. Tracklisting on inner sleeve only, not on labels.\n1st pressing\
+  \ has Base Records address as \"Via Castiglione ...\" \nLabels look like UK copy with \"Factory Record 1980\" and \"Made\
+  \ in Italy Fact 10\" added\nCoarse paper inner sleeve\nNote: The first 500 copies credited \"Factori\" records on the label\
+  \ instead of \"Factory\"\nLabels read:\nFactory Record 1980 / Made in Italy - FACT. 10\nInner sleeve reads:\nFACT 10 . A\
+  \ Factory Records Product\nOuter sleeve reads:\nSpine: FACT 10 A Factory Records Product\nBack: FACT 10 A Factory Records\
+  \ Product\nProdotto: Base Record Via Castiglione 109 Bologna tel 051/237528\n2nd pressing has Base Records address as \"\
+  Via Collamarini...\". \"Joy Division - Unknown Pleasure - Inside 33 1/3\" text moved to top of label. Song title and timings\
+  \ on labels. Inner sleeve is plain white card with die-cut label hole"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Misprint
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 5
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

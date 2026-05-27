@@ -1,0 +1,23 @@
+variant_id: VID-J-0003
+release_type: video
+canonical_title: Joy Division (Grant Gee)
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/jddoc.htm
+country_or_pressing_place: Australia
+format_details:
+  type: video
+  supports:
+  - support_type: dvd
+    count: 1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 19
+  source_xlsx: Officiels et pirates - VHS & DVD.xlsx

@@ -1,0 +1,31 @@
+variant_id: PIR-L-0005
+release_type: pirate
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 2020
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: USA
+notes: '[x]Cleopatra ‎– CLO1690, splatter'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter black
+    matrices:
+    - 'Barcode: 889466169014'
+    - 'Matrix / Runout (Side A): CLO-1690-A RS'
+    - 'Matrix / Runout (Side B): CLO-1690-B RS'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

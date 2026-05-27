@@ -1,0 +1,47 @@
+variant_id: OFF-U-0030
+release_type: officiel
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 1992
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/618802
+country_or_pressing_place: Lithuania
+notes: 'Factory ‎– FACT10, Zona Records ‎– ZN 006
+
+  Published by Fractured Music
+
+  Recorded at Strawberry Studios Stockport.
+
+  A Factory Records Product
+
+  Released under license by Zona Records
+
+  ℗ 1980 Factory Records
+
+  Released with plain white inner sleeve,
+
+  original inner sleeve (with tracklisting and credits on one side and picture of halfopen door on other side) is given as
+  single 12 x 12 inch sheet
+
+  Same copies come with promo sheet. Black on white labels both sides stating OUTSIDE and INSIDE'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A runout machine etched): ZN 006/1'
+    - 'Matrix / Runout (Side B runout machine etched): ZN 006/2'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 31
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

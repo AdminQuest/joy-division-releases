@@ -1,0 +1,32 @@
+variant_id: BOOT-E-0039
+release_type: bootleg
+canonical_title: Exercise One
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: http://joydiv.org/E14.htm
+country_or_pressing_place: Asia
+notes: "[]V3 : Asian bootleg released 2021\nPicture sleeve\nLimited edition on coloured vinyl and picture disc:\n- four different\
+  \ splatter vinyl versions all with clear base, the splatter colours are:\n - yellowish-green, 15 copies\n - blue, 15 copies\n\
+  \ - red, 15 copies\n - multicolour (red/blue/yellowish-green), 15 copies\n- clear vinyl, 15 copies\n- picture disc, 66 copies"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: clear
+    matrices:
+    - 14802-108859 A
+    - 14802-108859 B
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '12'
+  - null
+  reconstructed: BE12
+  has_suffix: false
+  source_row: 41
+  source_xlsx: Bootlegs - E.xlsx

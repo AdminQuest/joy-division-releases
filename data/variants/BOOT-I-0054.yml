@@ -1,0 +1,35 @@
+variant_id: BOOT-I-0054
+release_type: bootleg
+canonical_title: In the Studio With Martin Hannett
+canonical_artist: Joy Division
+year: 2008
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I11.htm
+country_or_pressing_place: UK
+variant_group:
+  group_id: BI13
+  group_role: color_variation
+notes: '[]CD :  Interstate Records UK ‎– 10798, Dandelion Records ‎– 10798
+
+  Interstate contend this is a legitimate release under the terms of a contract Martin Hannett and Joy Division signed decades
+  ago. Peter Hook has condemned it on his blog saying "This is a bootleg, from what I hear a bad bootleg too, there was no
+  agreement". Prime Management have stated "We haven''t authorised any recordings from Interstate".'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 2
+    matrices:
+    - 'Matrix / Runout (CD1): OZITCD10798DISC1 01'
+    - 'Matrix / Runout (CD2): Sony DADC OZITCD10798DISC2 02'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '13'
+  - a
+  reconstructed: BI13a
+  has_suffix: false
+  source_row: 61
+  source_xlsx: Bootlegs - I.xlsx

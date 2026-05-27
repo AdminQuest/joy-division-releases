@@ -1,0 +1,36 @@
+variant_id: BOOT-L-0015
+release_type: bootleg
+canonical_title: Let The Movie Begin
+canonical_artist: Joy Division
+year: 2023
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/L18.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BL8
+  group_role: color_variation
+notes: "2007, (2LP) Ozit LP 8795 Ozit Morpheus Records European LP. \nHand-numbered limited edition of []1.000 on black vinyl\
+  \ \nReissued on hand numbered vinyl colours : Blue, Green, Red, Purple"
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 2
+    matrices:
+    - 'Barcode: 6 8949207391 6'
+    - 'Matrix / Runout: OZITLP8795 - A 74107E1/B'
+    - 'Matrix / Runout: OZITLP8795 - B 74107E2/B'
+    - 'Matrix / Runout: OZITLP8795 - C 74107E3/B'
+    - 'Matrix / Runout: OZITLP8795 - D 74107E4/B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '8'
+  - f
+  reconstructed: BL8f
+  has_suffix: false
+  source_row: 17
+  source_xlsx: Bootlegs - L.xlsx

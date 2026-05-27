@@ -1,0 +1,29 @@
+variant_id: BOOK-H-0005
+release_type: livre
+canonical_title: A History In Cuttings – Part 2, Updates & Additions
+canonical_artist: Joy Division
+documentation_quality: needs_review
+joydiv_letter: H
+joydiv_url: http://joydiv.org/bk13.htm
+notes: 6th(?) edition, 160 pages. Includes cassette file pages. Mid-1980s.
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1900
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 160
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 92
+  source_xlsx: Livres -.xlsx

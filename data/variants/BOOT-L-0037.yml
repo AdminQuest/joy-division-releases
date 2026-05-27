@@ -1,0 +1,42 @@
+variant_id: BOOT-L-0037
+release_type: bootleg
+canonical_title: Live At Malvern Winter Gardens, April 5th 1984
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: ??
+variant_group:
+  group_id: BL16
+  group_role: pressing_variation
+notes: '2022 reissue of the above with the same title, track listing and matrix numbers
+
+  66 numbered copies, all on splatter vinyl
+
+  The title on the front cover is Live at Malvern Winter Gardens, April 5th 1980, but on the labels the title is Twenty Four
+  Hours, catalogue number STIFF01
+
+  LP is the same as the above and the Twenty Four Hours LP
+
+  The back cover has a track listing and "Live at Malvern Winter Gardens U.K. April 5th 1980", "Track 10 jam with Section
+  25", "Remastered from the original tape 2019" and "All rights reserved" printed on it in red.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter
+    matrices:
+    - 'Matrix / Runout: M80 A'
+    - 'Matrix / Runout: M80 B'
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '16'
+  - e
+  reconstructed: BL16e
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - L.xlsx

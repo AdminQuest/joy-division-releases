@@ -1,0 +1,35 @@
+variant_id: PIR-U-0023
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+discogs_url: https://www.discogs.com/fr/release/2961623-Joy-Division-Unknown-Pleasures
+country_or_pressing_place: UK ?
+notes: 'N° 8 : FACT 10 Factory Records/Stiletto 2010. UK pirate copy of Unknown Pleasures released 2010 and reissued in 2012
+  and 2013. Released on marbled coloured vinyl: white, orangey-red, orangey-yellow, purple, pink, and pale blue vinyl
+
+  Song titles and credits on back cover have been copied from the official 1980s Brazilian release. The dying star logo on
+  the front is wider than on the reissue below and the spine text is larger'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Purple marbled
+    matrices:
+    - FACT 10-P A1
+    - FACT 10-P B1
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 57
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

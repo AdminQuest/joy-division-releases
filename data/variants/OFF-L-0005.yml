@@ -1,0 +1,70 @@
+variant_id: OFF-L-0005
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1983
+documentation_quality: verified
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua12.htm
+country_or_pressing_place: Australia
+notes: 'GAP Records ‎– FAC 23/12 : Promo edition with white labels instead of black labels.
+
+  Labels:
+
+  This record is manufactured for the prpose of promotion only. It remains the property of Gap Records and is not for sale.
+
+  A Fractured Music
+
+  A Factory Record
+
+  Side A: For ∙ ML
+
+  Side B: 18 4 80
+
+  Reverse cover:
+
+  FAC.XXIII.XII A Factory Records Product.
+
+  Released in Australia by GAP Records under licence
+
+  Manufactured and Distributed by CBS Records Australia Limited
+
+  Stamp on top left of the back cover "Promotion Only Not For Sale".
+
+
+  Factory ‎– FAC 23/12 : regular version
+
+  Release date : 31 October 1983
+
+  A Fractured Music
+
+  A Factory Record
+
+  Side A: For ∙ ML
+
+  Side B: 18 4 80
+
+  FAC.XXIII.XII A Factory Records Product.
+
+  Released in Australia by GAP Records under licence
+
+  Manufactured and Distributed by CBS Records Australia Limited'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): FAC 2312-1 Δ MX 203339'
+    - 'Matrix / Runout (Runout side B): FAC 2312-2 Δ MX 203340'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Officiels et pirates - 12_ - LWTUA.xlsx

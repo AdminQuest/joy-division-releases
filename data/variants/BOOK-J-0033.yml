@@ -1,0 +1,31 @@
+variant_id: BOOK-J-0033
+release_type: livre
+canonical_title: Joy Division Ian Curtis Canciones
+canonical_artist: Joy Division
+year: 1994
+documentation_quality: needs_review
+joydiv_letter: J
+joydiv_url: https://www.joydiv.org/bk30.htm
+notes: "8\" X 4.5\" pocket size paperback book featuring Joy Division lyrics\nin English and Spanish.\n\n123 pages with 6\
+  \ page introduction in Spanish. \nNon glossy paper."
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1994
+  language: es
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 123
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 129
+  source_xlsx: Livres -.xlsx

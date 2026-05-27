@@ -1,0 +1,26 @@
+variant_id: PARA-P-0001
+release_type: para
+canonical_title: Peter Hook Signature Collection (auction catalogue)
+canonical_artist: Joy Division
+year: 2018
+documentation_quality: needs_review
+joydiv_letter: P
+joydiv_url: http://joydiv.org/bk79.htm
+country_or_pressing_place: UK
+format_details:
+  type: para
+  parent_object: misc
+  object_description: 'Auction catalogue: Peter Hook Signature Collection (auction catalogue)'
+  embedded_supports: []
+  parent_title: Peter Hook Signature Collection (auction catalogue)
+  parent_year: 2018
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 71
+  source_xlsx: Livres -.xlsx

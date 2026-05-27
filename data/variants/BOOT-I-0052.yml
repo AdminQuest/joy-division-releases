@@ -1,0 +1,33 @@
+variant_id: BOOT-I-0052
+release_type: bootleg
+canonical_title: Interzone
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I7.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BI12
+  group_role: color_variation
+notes: The Amazing Kornyfone Record Label ‎– TAKRL 1406. 500 copies. Photocopied insert details other releases on the same
+  label.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: blue
+    matrices:
+    - 'Matrix / Runout: TAKRL-1406-A'
+    - 'Matrix / Runout: TAKRL-1406-B'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '12'
+  - a
+  reconstructed: BI12a
+  has_suffix: false
+  source_row: 59
+  source_xlsx: Bootlegs - I.xlsx

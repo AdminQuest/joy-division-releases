@@ -1,0 +1,29 @@
+variant_id: BOOT-I-0053
+release_type: bootleg
+canonical_title: Interzone
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I7.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BI12
+  group_role: color_variation
+notes: Copy of the above in a different sleeve with insert - the LP is identical.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: brown
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '12'
+  - b
+  reconstructed: BI12b
+  has_suffix: false
+  source_row: 60
+  source_xlsx: Bootlegs - I.xlsx

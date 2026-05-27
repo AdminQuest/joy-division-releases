@@ -1,0 +1,38 @@
+variant_id: BOOT-P-0048
+release_type: bootleg
+canonical_title: Pictures in My Mind
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: P
+joydiv_url: https://joydiv.org/P13.htm
+country_or_pressing_place: USA
+notes: 'Warehouse Productions USA JDP22
+
+  Limited to around 30 copies pressed on various coloured splatter vinyl, also on marbled white vinyl
+
+  Black label with white text, which reads "Special Edition" and catalogue number "JDP22", copyright message around the outer
+  edge reads "A Fractured Music" and "A Factory Record"
+
+  Some copies have plain black labels.
+
+  Back cover states"Manufactured under license from Warehouse Productions USA   All rights reserved"'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - MISA
+    - MISB
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 49
+  source_xlsx: Bootlegs - P.xlsx

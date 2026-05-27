@@ -1,0 +1,42 @@
+variant_id: BOOT-T-0005
+release_type: bootleg
+canonical_title: Tear Us Apart
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://joydiv.org/T13.htm
+country_or_pressing_place: USA
+notes: 'American LP released 2022
+
+  Previously released as Live at Malvern Winter Gardens, April 5th 1980 (2021, 2022) and Twenty Four Hours (2019) with the
+  same matrix numbers
+
+  Released on at least three different colours of splattered vinyl
+
+  Plain white sleeve with A4 paper inserts front & back , front insert on white paper has the band name, title
+
+  Back insert has a track listing, Live at the Winter Gardens, Malvern UK April 5th 1980 and For promotional use only Limited
+  edition splatter vinyl printed on it
+
+  Plain black labels'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    color: splatter
+    count: 1
+    matrices:
+    - M80 A
+    - M80 B
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 2
+  source_xlsx: Bootlegs - T.xlsx

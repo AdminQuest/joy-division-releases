@@ -1,0 +1,38 @@
+variant_id: BOOT-E-0024
+release_type: bootleg
+canonical_title: The European Radio Broadcasts
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: E
+joydiv_url: https://www.joydiv.org/E15.htm
+country_or_pressing_place: USA
+variant_group:
+  group_id: BE10
+  group_role: color_variation
+notes: 'FIC XIX 2021
+
+  US bootleg released 2021
+
+  At least two vinyl colours: clear (mine), and green
+
+  Live and studio: all tracks previously released officially on the Heart and Soul box set discs 3 and 4
+
+  Same tracks as Autosuggestion bootleg LP'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green
+_legacy_code:
+  segments:
+  - B
+  - E
+  - '10'
+  - b
+  reconstructed: BE10b
+  has_suffix: false
+  source_row: 26
+  source_xlsx: Bootlegs - E.xlsx

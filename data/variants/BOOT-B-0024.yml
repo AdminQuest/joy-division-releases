@@ -1,0 +1,52 @@
+variant_id: BOOT-B-0024
+release_type: bootleg
+canonical_title: Beginning Of The End
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: B
+joydiv_url: https://www.joydiv.org/B7.htm
+country_or_pressing_place: USA
+notes: 'V6c : American LP released 2021
+
+  Same pressing as the 2020 release listed above released in a different sleeve
+
+  Limited edition 50 copies
+
+  Pressed on 3 different vinyl colours:
+
+  Green/aqua
+
+  Dark blue
+
+  Blueish lilac / purple
+
+  Two label designs:
+
+  Factory Style
+
+  Generic black labels with capital A (or B)
+
+  Picture insert
+
+  Pink reproduction ticket insert'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: green
+    matrices:
+    - JD_BOTE A
+    - JD_BOTE B
+_legacy_code:
+  segments:
+  - B
+  - B
+  - '2'
+  - v
+  reconstructed: BB2v
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Bootlegs - B.xlsx

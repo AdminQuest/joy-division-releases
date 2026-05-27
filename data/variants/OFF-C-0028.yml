@@ -1,0 +1,41 @@
+variant_id: OFF-C-0028
+release_type: officiel
+canonical_title: Closer
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: C
+joydiv_url: https://www.joydiv.org/cl.htm
+country_or_pressing_place: Lithuania
+notes: 'Factory ‎– FACT·XXV, Zona Records ‎– ZN 007, Zona Records ‎– ZN VII
+
+  Produced [...] at Brittania Row
+
+  A Factory Records Product
+
+  Released under license by Zona Records
+
+  ℗ 1980 Factory Records
+
+  Catalog number "ZN 007" on labels and spine, "ZN VII" on rear cover
+
+  Some copies come with promo sheet.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout Side A, stamped): ZN 007/1'
+    - 'Matrix / Runout (Runout Side B, stamped): ZN 007/2'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 30
+  source_xlsx: Officiels et pirates - Closer.xlsx

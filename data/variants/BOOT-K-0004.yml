@@ -1,0 +1,38 @@
+variant_id: BOOT-K-0004
+release_type: bootleg
+canonical_title: Komackino
+canonical_artist: Joy Division
+year: 1981
+documentation_quality: verified
+joydiv_letter: K
+joydiv_url: https://www.joydiv.org/K2.htm
+country_or_pressing_place: Italy
+variant_group:
+  group_id: BK1
+  group_role: color_variation
+notes: 'V1 : 1981, Records Product 01. The original issue. Italian bootleg. Matrix numbers: No matrix numbers or grrove notations.
+  Labels are on the wrong sides of the LP
+
+  Original 1981 issue in matte sleeve, no matrix numbers in the runout nor on the label.
+
+  The photo on label A is an excerpt of the one on the front sleeve.
+
+  Die-cut plain white paper inner.
+
+  NOTE: the labels are inverted (side labeled A-Inside is actually B-Outside etc).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+_legacy_code:
+  segments:
+  - B
+  - K
+  - '1'
+  - a
+  reconstructed: BK1a
+  has_suffix: false
+  source_row: 10
+  source_xlsx: Bootlegs - K.xlsx

@@ -1,0 +1,36 @@
+variant_id: BOOT-W-0006
+release_type: bootleg
+canonical_title: Warsaw 7''
+canonical_artist: Joy Division
+year: 1985
+documentation_quality: verified
+joydiv_letter: W
+joydiv_url: https://www.joydiv.org/w27.htm
+discogs_url: https://www.discogs.com/fr/Warsaw-Warsaw/release/942011
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BW3
+  group_role: color_variation
+notes: 'V1 ANON A/B : Side B depicts a detail of "Ecstasy of Saint Theresa", sculpted by Gian Lorenzo Bernini. At least one
+  copy came with a photocopied insert. This was a page from a book showing where the picture on the B side came from. We don''t
+  know if it was released like this or if someone just put one photocopy in one sleeve.'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    color: Picture disc
+    matrices:
+    - 'Matrix / Runout (Runout side A): ANON - A1'
+    - 'Matrix / Runout (Runout side B): ANON - B1'
+_legacy_code:
+  segments:
+  - B
+  - W
+  - '3'
+  - a
+  reconstructed: BW3a
+  has_suffix: false
+  source_row: 8
+  source_xlsx: Bootlegs - W.xlsx

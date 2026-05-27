@@ -1,0 +1,34 @@
+variant_id: BOOT-I-0028
+release_type: bootleg
+canonical_title: Inside The Line
+canonical_artist: Joy Division
+year: 2002
+documentation_quality: verified
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I10.htm
+country_or_pressing_place: ??
+variant_group:
+  group_id: BI9
+  group_role: color_variation
+notes: 'Retropop ‎– 101 001
+
+  V1 : Original on black vinyl 2002'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - None of the releases have matrix numbers or groove notations
+    - 'Barcode: 4 005546 102009'
+_legacy_code:
+  segments:
+  - B
+  - I
+  - '9'
+  - a
+  reconstructed: BI9a
+  has_suffix: false
+  source_row: 35
+  source_xlsx: Bootlegs - I.xlsx

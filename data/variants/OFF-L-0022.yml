@@ -1,0 +1,38 @@
+variant_id: OFF-L-0022
+release_type: officiel
+canonical_title: Love Will Tear Us Apart
+canonical_artist: Joy Division
+year: 1980
+documentation_quality: needs_review
+joydiv_letter: L
+joydiv_url: https://www.joydiv.org/lwtua.htm
+country_or_pressing_place: Portugal
+notes: 'Factory ‎– VFACT 110-3. Side A plays at 45 RPM, side B at 33⅓ RPM. B2 is not listed on sleeve or label. A Fractured
+  Music A Factory Record. Editado sob Licença por Vimúsica, Lda.
+
+  The cover is similar to the original 12'''' (with a detail of the Ribaudo family tomb in the Staglieno Cemetery in Genova,
+  Italy) but in white background. In the back it has a Vimúsica logo in it, also says "PROIBIDA A VENDA" "PROMOÇÃO" ("SALE
+  FORBIDDEN" "PROMOTION"), because this was a edition for the radio stations to promote the record.
+
+  Also in the back "Printed by Tózé - Artes Gráficas - Camarate" (the same as the comercial version but whit location - Camarate
+  - added).'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Side A): VFACT-110-3 A'
+    - 'Matrix / Runout (Side B): VFACT 110-3 B'
+    - 'Rights Society: SPA'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 4
+  source_xlsx: Officiels et pirates - 7_ - LWTUA.xlsx

@@ -1,0 +1,36 @@
+variant_id: BOOT-A-0054
+release_type: bootleg
+canonical_title: Atrocity Exhibition
+canonical_artist: Joy Division
+year: 1984
+documentation_quality: verified
+joydiv_letter: A
+joydiv_url: https://www.joydiv.org/A4.htm
+country_or_pressing_place: Germany
+variant_group:
+  group_id: BA16
+  group_role: color_variation
+notes: 'Fäct 600. The original record was released in at least two covers. The front was the same on them, but there were
+  different back covers. In the right hand bottom corner there is a picture of a rotting corpse. That picture is not the same
+  on the various covers. There is also a reissue in a plain white cover with a xeroxed wraparound. No labels on the LP.
+
+  4 editions: Edition with printed labels and mummy with swastika'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    matrices:
+    - 'Barcode (Runout side A): JD-1'
+    - 'Barcode (Runout side B): JD-2'
+_legacy_code:
+  segments:
+  - B
+  - A
+  - '16'
+  - a
+  reconstructed: BA16a
+  has_suffix: false
+  source_row: 77
+  source_xlsx: Bootlegs - A.xlsx

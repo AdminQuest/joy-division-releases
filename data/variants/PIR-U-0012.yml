@@ -1,0 +1,36 @@
+variant_id: PIR-U-0012
+release_type: pirate
+canonical_title: Unknown Pleasures
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: U
+joydiv_url: https://www.joydiv.org/up.htm
+country_or_pressing_place: ??
+notes: 'N° 5 : SX-T 107 2009. Pirate copy of Unknown Pleasures released 2009.
+
+  Single sheet insert with printing on both sides, one side has the song lyrics. It''s easy to tell this fake from any official
+  pressing as none of the legitimate issues have a lyric insert. Issued on various colours, some marbled, including black,
+  grey, byzantium purple, red
+
+  The sleeve appears to have been copied from the official late 1980''s Polish issue and credits the label Tonpress, the cat.no
+  is SX-T 107, the same as on the old Polish pressing'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: Purple
+    matrices:
+    - pas trouvé
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 46
+  source_xlsx: Officiels et pirates - Unknown Pleasures.xlsx

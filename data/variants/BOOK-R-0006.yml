@@ -1,0 +1,39 @@
+variant_id: BOOK-R-0006
+release_type: livre
+canonical_title: Rock Serwis
+canonical_artist: Joy Division
+year: 1986
+documentation_quality: needs_review
+joydiv_letter: R
+joydiv_url: https://www.joydiv.org/bk33.htm
+notes: 'Published in Krakow, Poland 1986
+
+  Writen by Zbigniew Szalankiewicz & Piotr Kosinski
+
+  A5 50 pages
+
+
+  Underground publishing at its best. Printed when Poland was still under
+
+  communist regime - issued on desperately poor quality paper.'
+format_details:
+  type: book
+  authors:
+  - Inconnu
+  publisher: Inconnu
+  publication_year: 1986
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  page_count: 50
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 108
+  source_xlsx: Livres -.xlsx

@@ -1,0 +1,31 @@
+variant_id: OFF-I-0020
+release_type: officiel
+canonical_title: An Ideal For Living 7''
+canonical_artist: Joy Division
+year: 2011
+documentation_quality: needs_review
+joydiv_letter: I
+joydiv_url: https://www.joydiv.org/I3.htm
+country_or_pressing_place: UK
+notes: '[x]Hand numbered edition 7" picture disc of 250 only. Number is written on blanc 7x7 insert. Some copies also have
+  a copy of the picture as an insert. Je n’ai pas l’insert numéroté'
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Pic disc :'
+    - 'Matrix / Runout: JD A'
+    - 'Matrix / Runout: JD B'
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 25
+  source_xlsx: Officiels et pirates - 7_ - An Ideal For Living.xlsx

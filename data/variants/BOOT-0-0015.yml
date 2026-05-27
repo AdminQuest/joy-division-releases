@@ -1,0 +1,37 @@
+variant_id: BOOT-0-0015
+release_type: bootleg
+canonical_title: '1980'
+canonical_artist: Joy Division
+year: 2021
+documentation_quality: verified
+joydiv_letter: '0'
+joydiv_url: https://www.joydiv.org/N5.htm
+country_or_pressing_place: USA
+notes: 'US 4 CD box set released 2021 featuring a collection of previously released CDs:
+
+  Amsterdam
+
+  Eindhoven
+
+  Lyceum
+
+  The Moonlight Club
+
+  Limted edition: 50 copies'
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 4
+    matrices:
+    - 'Catalogue number: 4CD21'
+_legacy_code:
+  segments:
+  - B
+  - +
+  - '4'
+  - null
+  reconstructed: B+4
+  has_suffix: false
+  source_row: 16
+  source_xlsx: Bootlegs - +-1.xlsx

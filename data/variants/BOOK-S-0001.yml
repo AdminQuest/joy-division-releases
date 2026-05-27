@@ -1,0 +1,32 @@
+variant_id: BOOK-S-0001
+release_type: livre
+canonical_title: Sordide Sentimental - Lumières et ténèbres
+canonical_artist: Joy Division
+year: 2005
+documentation_quality: needs_review
+joydiv_letter: S
+joydiv_url: https://www.joydiv.org/bk29.htm
+country_or_pressing_place: France
+notes: In French and appears to centre around the Sordide Sentimental label and the work of Mr J.P. Turmel in particular
+format_details:
+  type: book
+  authors:
+  - Christian Eudeline
+  - Jean-Pierre Turmel
+  publisher: Camion Blanc
+  publication_year: 2005
+  language: fr
+  format_physical: softcover
+  illustrations: true
+  has_appendices: false
+  isbn_10: 2-910196-93-3
+_legacy_code:
+  segments:
+  - null
+  - null
+  - null
+  - null
+  reconstructed: ''
+  has_suffix: false
+  source_row: 6
+  source_xlsx: Livres -.xlsx

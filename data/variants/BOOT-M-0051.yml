@@ -1,0 +1,32 @@
+variant_id: BOOT-M-0051
+release_type: bootleg
+canonical_title: The Moonlight Club
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: M
+joydiv_url: https://www.joydiv.org/M6.htm
+country_or_pressing_place: Australia
+variant_group:
+  group_id: BM12
+  group_role: color_variation
+notes: "SCD-42. Australian CD released May 2004 Limited edition of 150 copies / non-limited edition. \nThis is basically a\
+  \ re-issue of the Factory By The Moonlight 2LP, but without the songs from the 4th April 1980 gig. All copies of this CD\
+  \ have a glitch at the end."
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+    matrices:
+    - 'Matrix / Runout: 7017'
+_legacy_code:
+  segments:
+  - B
+  - M
+  - '12'
+  - a
+  reconstructed: BM12a
+  has_suffix: false
+  source_row: 54
+  source_xlsx: Bootlegs - M.xlsx

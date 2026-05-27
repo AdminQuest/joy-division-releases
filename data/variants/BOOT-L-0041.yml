@@ -1,0 +1,28 @@
+variant_id: BOOT-L-0041
+release_type: bootleg
+canonical_title: Live At Malvern Winter Gardens, April 5th 1988
+canonical_artist: Joy Division
+year: 2022
+documentation_quality: verified
+joydiv_letter: L
+country_or_pressing_place: ??
+variant_group:
+  group_id: BL16
+  group_role: pressing_variation
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 12"
+    count: 1
+    color: splatter
+_legacy_code:
+  segments:
+  - B
+  - L
+  - '16'
+  - i
+  reconstructed: BL16i
+  has_suffix: false
+  source_row: 44
+  source_xlsx: Bootlegs - L.xlsx

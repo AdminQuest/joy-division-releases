@@ -1,0 +1,28 @@
+variant_id: BOOT-T-0043
+release_type: bootleg
+canonical_title: Transmission
+canonical_artist: Joy Division
+documentation_quality: verified
+joydiv_letter: T
+joydiv_url: https://photos.google.com/share/AF1QipO4ZZVRbAbreOkpL8vS9GbiH5chZe3Mb-r3_6i_6zTZkxJ5vYESbKvhh5c0LU9KBg/photo/AF1QipOAA94KnlSzqUZVRdu0D1or8GuY1PafSyWoUvDu?key=MkFCLTJtOGg4ZmlfY01uZHJONS1YbUprYnlwa2pR
+country_or_pressing_place: ??
+notes: MW lll, Black label.
+format_details:
+  type: audio
+  supports:
+  - support_type: vinyl
+    size: 7"
+    count: 1
+    matrices:
+    - 'Matrix / Runout (Runout side A): MW III MADE IN U.K.'
+    - 'Matrix / Runout (Runout side B): MW III MADE IN U.K. I LOVE JANE.'
+_legacy_code:
+  segments:
+  - B
+  - T
+  - '9'
+  - null
+  reconstructed: BT9
+  has_suffix: false
+  source_row: 40
+  source_xlsx: Bootlegs - T.xlsx
