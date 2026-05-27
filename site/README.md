@@ -26,15 +26,48 @@ remontent par PR sur les YAML sources.
    script), et produit `site/data/all-variants.json`.
 2. `.github/workflows/deploy-pages.yml` exécute ce script sur chaque
    push vers `main`, puis publie le contenu de `site/` (HTML + CSS + JS
-   + JSON) comme artefact GitHub Pages, déployé sur l'URL Pages du repo.
+   + JSON + covers) comme artefact GitHub Pages, déployé sur l'URL
+   Pages du repo.
 3. Côté navigateur, `site/app.js` charge `data/all-variants.json` au
    démarrage et expose les filtres + tri + sélection via un store
-   Alpine.js.
+   Alpine.js. Il charge aussi `data/covers-index.json` en parallèle
+   pour afficher les pochettes Discogs (vignette 48 px dans le tableau,
+   image 240 px dans le panneau de détail).
 
 Le JSON consolidé **n'est pas commit** (cf. `.gitignore`) : il se
 régénère à chaque build, ce qui évite que le repo grossisse à chaque
 modification de YAML, et garantit que ce qui est servi correspond
 toujours aux YAML actuellement sur `main`.
+
+### Pipeline des covers (découplé)
+
+Les pochettes Discogs ne sont **pas** re-téléchargées par le workflow
+Pages : les images vivent dans `site/covers/{release_id}.{ext}` et
+l'index dans `site/data/covers-index.json`, **commités au repo**.
+Cela évite d'attendre l'API Discogs à chaque déploiement et permet de
+faire tourner Pages sans accès réseau sortant configuré.
+
+Pour régénérer (à faire quand de nouvelles entrées `discogs_url`
+apparaissent dans les YAML) :
+
+```bash
+python scripts/fetch_discogs_covers.py
+git add site/covers/ site/data/covers-index.json
+git commit -m "Refresh Discogs covers (+N)"
+```
+
+Le script `scripts/fetch_discogs_covers.py` :
+
+- déduplique sur `release_id` (plusieurs variantes peuvent référencer
+  la même release) ;
+- est **idempotent** — il passe en cache toutes les covers déjà
+  présentes localement ;
+- respecte le quota anonyme Discogs (25 req/min, soit 2,5 s entre
+  appels) avec backoff sur 429 ;
+- est résilient aux erreurs SSL/réseau transitoires (3 retries avec
+  backoff 2/4/8 s) ;
+- imprime un rapport final avec le détail des échecs (404 sur release
+  supprimée côté Discogs, etc.).
 
 ## Exécution locale (développement)
 

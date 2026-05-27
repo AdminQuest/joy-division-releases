@@ -1,5 +1,16 @@
 name: Build and deploy registry site
 
+# Pipeline 'covers' decouple : ce workflow ne re-telecharge PAS les
+# pochettes Discogs a chaque deploiement. Les images vivent dans
+# site/covers/ (commitees au repo) et l'index dans
+# site/data/covers-index.json (egalement commit). La regeneration est
+# manuelle, via 'python scripts/fetch_discogs_covers.py' depuis un
+# environnement avec acces a api.discogs.com et i.discogs.com -- a
+# faire ponctuellement quand de nouvelles entrees discogs_url sont
+# ajoutees aux YAML, suivi d'un commit du delta.
+# Le workflow se contente donc de generer all-variants.json puis de
+# publier site/ tel quel (covers comprises) comme artefact Pages.
+
 on:
   push:
     branches: [main]
