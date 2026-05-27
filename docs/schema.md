@@ -207,6 +207,26 @@ L'extra `[format]` installe `rfc3339-validator`, `rfc3987`, etc. —
 nécessaires pour que le `FORMAT_CHECKER` puisse réellement valider les
 `format` standards (`date`, `date-time`, `uri`, …).
 
+## Interface de consultation
+
+Le dossier `site/` contient l'interface web statique (vanilla HTML +
+Alpine.js) qui rend ce registre consultable publiquement sur GitHub
+Pages. Les données servies sont issues d'un build automatique :
+`scripts/build_site_data.py` consolide `data/variants/*.yml` en un
+unique `site/data/all-variants.json` après application d'un filtre de
+visibilité publique (cf. `public_view()` dans le script).
+
+Champs filtrés à la publication :
+
+- les champs préfixés par `_` sont retirés **sauf** `_legacy_code`
+  dont seule la sous-clé `reconstructed` est conservée (les segments
+  bruts et les métadonnées de source legacy ne sont pas publiés) ;
+- aucun champ de possession (le repo public n'en contient pas, mais
+  le filtre est défensif et le restera).
+
+Le déploiement est piloté par `.github/workflows/deploy-pages.yml` à
+chaque push sur `main`. Détails dans [`site/README.md`](../site/README.md).
+
 ## Notes pour les contributeurs
 
 - Toujours quoter en YAML les durées `mm:ss`, les `aspect_ratio` style `4:3`
