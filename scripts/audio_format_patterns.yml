@@ -1,0 +1,142 @@
+# Patterns regex pour parser les chaines libres "Format" du legacy.
+# Le matching est ordonne : le premier pattern qui matche gagne.
+# Les patterns mixtes audio+video (CD + DVD, etc.) sont reclasses
+# en coffret_skip via la cle mixed_audio_video_patterns.
+#
+# Quand aucun pattern ne matche, le variant est produit en
+# documentation_quality: needs_review avec un support audio generique
+# (vinyl x1) a corriger manuellement.
+
+patterns:
+  # Disques vinyles : N LP, 2 LP, LP, etc.
+  - regex: '(?i)^(\d+)\s*[xX]?\s*LP\b'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count_group: 1
+  - regex: '(?i)^LP\b'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count: 1
+
+  # CD : N CD, 2 CD, CD
+  - regex: '(?i)^(\d+)\s*[xX]?\s*CD\b'
+    result:
+      support_type: cd
+      count_group: 1
+  - regex: '(?i)^CD\b'
+    result:
+      support_type: cd
+      count: 1
+
+  # Cassettes : K7 / cassette / N K7 / N cassette
+  - regex: '(?i)^(\d+)\s*[xX]?\s*(?:K7|cassette)'
+    result:
+      support_type: cassette
+      count_group: 1
+  - regex: '(?i)^(?:K7|cassette)'
+    result:
+      support_type: cassette
+      count: 1
+
+  # Vinyles taille specifique : 7", 10", 12" (avec flexi en sous-cas)
+  - regex: '(?i)^(\d+)\s*[xX]?\s*7["’”''"]+\s*(?:SP\s*)?flexi'
+    result:
+      support_type: flexi
+      size: '7"'
+      count_group: 1
+  - regex: '(?i)^7["’”''"]+\s*(?:SP\s*)?flexi'
+    result:
+      support_type: flexi
+      size: '7"'
+      count: 1
+  - regex: '(?i)flexi'
+    result:
+      support_type: flexi
+      count: 1
+
+  - regex: '(?i)^(\d+)\s*[xX]?\s*7["’”''"]'
+    result:
+      support_type: vinyl
+      size: '7"'
+      count_group: 1
+  - regex: '(?i)^7["’”''"]'
+    result:
+      support_type: vinyl
+      size: '7"'
+      count: 1
+
+  - regex: '(?i)^(\d+)\s*[xX]?\s*10["’”''"]'
+    result:
+      support_type: vinyl
+      size: '10"'
+      count_group: 1
+  - regex: '(?i)^10["’”''"]'
+    result:
+      support_type: vinyl
+      size: '10"'
+      count: 1
+
+  - regex: '(?i)^(\d+)\s*[xX]?\s*12["’”''"]'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count_group: 1
+  - regex: '(?i)^12["’”''"]'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count: 1
+
+  # EP / SP / Maxi : suppose 12" vinyl par defaut
+  - regex: '(?i)^EP\b'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count: 1
+  - regex: '(?i)^SP\b'
+    result:
+      support_type: vinyl
+      size: '7"'
+      count: 1
+  - regex: '(?i)^maxi'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count: 1
+
+  # Picture disc et test pressing : variantes de vinyl
+  - regex: '(?i)pic(?:ture)?\s*disc'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count: 1
+      color: 'picture disc'
+  - regex: '(?i)test\s*pressing'
+    result:
+      support_type: vinyl
+      size: '12"'
+      count: 1
+      color: 'test pressing'
+
+# Formats mixtes : audio + video sur une meme ligne.
+# Ces lignes sont reclassees en coffret_skip (traitees manuellement
+# en seconde passe).
+mixed_audio_video_patterns:
+  - '(?i)CD\s*\+\s*DVD'
+  - '(?i)LP\s*\+\s*DVD'
+  - '(?i)CD\s*\+\s*VHS'
+  - '(?i)CD\s*\+\s*Blu[\s-]?ray'
+  - '(?i)DVD\s*\+\s*CD'
+
+# Patterns pour identifier le type video dans les fichiers VHS & DVD.
+video_patterns:
+  - regex: '(?i)Blu[\s-]?ray'
+    support_type: bluray
+  - regex: '(?i)DVD'
+    support_type: dvd
+  - regex: '(?i)VHS'
+    support_type: vhs
+  - regex: '(?i)UMD'
+    support_type: umd
