@@ -125,7 +125,23 @@ couverte :
 
 - **Validation** : `python3 tests/validate_fixtures.py` valide le méta-schéma
   puis les fixtures (`tests/fixtures/valid/` doivent passer,
-  `tests/fixtures/invalid/` doivent échouer).
+  `tests/fixtures/invalid/` doivent échouer). Le validateur active
+  explicitement le `FORMAT_CHECKER` du draft 2020-12 : `format: uri`,
+  `format: date`, etc. sont des annotations purement informatives par
+  défaut dans `jsonschema` et ne sont enforced qu'avec un format checker
+  explicite — sans lui, un `joydiv_url` ou `discogs_url` malformé passerait
+  silencieusement.
+
+### Installation locale
+
+```bash
+pip install 'jsonschema[format]' pyyaml
+python3 tests/validate_fixtures.py
+```
+
+L'extra `[format]` installe `rfc3339-validator`, `rfc3987`, etc. —
+nécessaires pour que le `FORMAT_CHECKER` puisse réellement valider les
+`format` standards (`date`, `date-time`, `uri`, …).
 
 ## Notes pour les contributeurs
 
