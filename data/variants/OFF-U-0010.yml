@@ -6,8 +6,10 @@ year: 1981
 documentation_quality: verified
 joydiv_letter: U
 joydiv_url: https://www.joydiv.org/up.htm
-discogs_url: https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/2338954
+discogs_url:
 country_or_pressing_place: Benelux
+notes: 'Reference Discogs initiale (release_id 2338954) supprimee par le contributeur Discogs (verifie 404 au 2026-05-27).
+  URL initiale : https://www.discogs.com/fr/Joy-Division-Unknown-Pleasures/release/2338954.'
 format_details:
   type: audio
   supports:
@@ -16,10 +18,10 @@ format_details:
     count: 1
 _legacy_code:
   segments:
-  - null
-  - null
-  - null
-  - null
+  - 
+  - 
+  - 
+  - 
   reconstructed: ''
   has_suffix: false
   source_row: 11

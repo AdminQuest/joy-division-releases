@@ -6,13 +6,18 @@ year: 2010
 documentation_quality: verified
 joydiv_letter: U
 joydiv_url: https://www.joydiv.org/up.htm
-discogs_url: https://www.joydiv.org/U2.htm
+discogs_url:
+other_sources:
+- https://www.joydiv.org/U2.htm
 country_or_pressing_place: UK ?
 notes: 'N° 8 : FACT 10 Factory Records/Stiletto 2010. UK pirate copy of Unknown Pleasures released 2010 and reissued in 2012
   and 2013. Released on marbled coloured vinyl: white, orangey-red, orangey-yellow, purple, pink, and pale blue vinyl
 
   Song titles and credits on back cover have been copied from the official 1980s Brazilian release. The dying star logo on
-  the front is wider than on the reissue below and the spine text is larger'
+  the front is wider than on the reissue below and the spine text is larger
+
+  Champ discogs_url nettoye : contenait par erreur une URL joydiv.org (U2.htm) lors de la migration depuis le legacy. URL
+  conservee dans other_sources pour tracabilite documentaire.'
 format_details:
   type: audio
   supports:
@@ -24,10 +29,10 @@ format_details:
     - pas trouvé
 _legacy_code:
   segments:
-  - null
-  - null
-  - null
-  - null
+  - 
+  - 
+  - 
+  - 
   reconstructed: ''
   has_suffix: false
   source_row: 58
