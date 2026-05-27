@@ -77,7 +77,7 @@ function yamlScalar(v) {
   return String(v);
 }
 
-document.addEventListener("alpine:init", () => {
+function registerRegistryStore() {
   Alpine.store("registry", {
     // ===== etat brut =====
     data: null,
@@ -334,4 +334,15 @@ document.addEventListener("alpine:init", () => {
 
   // Bootstrap : charge les donnees des l'initialisation du store.
   Alpine.store("registry").init();
-});
+}
+
+// Pattern d'enregistrement defensif : si Alpine est deja initialise au
+// moment ou ce script s'execute (peut arriver selon l'ordre des balises
+// <script> ou le mode de chargement), on enregistre immediatement ;
+// sinon on attend l'evenement 'alpine:init' qui se declenche AVANT que
+// Alpine ne process le DOM.
+if (window.Alpine) {
+  registerRegistryStore();
+} else {
+  document.addEventListener("alpine:init", registerRegistryStore);
+}
