@@ -3,6 +3,10 @@
 - Verifie d'abord que le schema lui-meme est conforme au meta-schema 2020-12.
 - Toutes les fixtures sous tests/fixtures/valid/ doivent valider.
 - Toutes les fixtures sous tests/fixtures/invalid/ doivent echouer.
+- Le validateur active explicitement le FORMAT_CHECKER du draft 2020-12 :
+  `format: uri`, `format: date`, etc. sont des annotations purement
+  informatives par defaut dans jsonschema et ne sont enforced qu'avec
+  un format checker explicite.
 - Sortie code 0 si tout est conforme, 1 sinon.
 """
 
@@ -24,7 +28,9 @@ INVALID_DIR = ROOT / "tests" / "fixtures" / "invalid"
 def main() -> int:
     schema = json.loads(SCHEMA_PATH.read_text())
     Draft202012Validator.check_schema(schema)
-    validator = Draft202012Validator(schema)
+    validator = Draft202012Validator(
+        schema, format_checker=Draft202012Validator.FORMAT_CHECKER
+    )
     print(f"[meta-schema] OK ({SCHEMA_PATH.relative_to(ROOT)})")
 
     failures: list[str] = []
