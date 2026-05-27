@@ -5,7 +5,9 @@ canonical_artist: Joy Division
 documentation_quality: verified
 joydiv_letter: U
 joydiv_url: https://www.joydiv.org/up.htm
-discogs_url: https://www.joydiv.org/U2.htm
+discogs_url:
+other_sources:
+- https://www.joydiv.org/U2.htm
 country_or_pressing_place: Europe
 notes: 'N° 14 : European pressing
 
@@ -20,7 +22,10 @@ notes: 'N° 14 : European pressing
   No printed inner, the back cover has the details from the original inner sleeve (song titles with track timings etc) printed
   in white
 
-  Labels have "1980 Factory Records" printed on them.'
+  Labels have "1980 Factory Records" printed on them.
+
+  Champ discogs_url nettoye : contenait par erreur une URL joydiv.org (U2.htm) lors de la migration depuis le legacy. URL
+  conservee dans other_sources pour tracabilite documentaire.'
 format_details:
   type: audio
   supports:
@@ -33,10 +38,10 @@ format_details:
     - These match one of the official German Metronome pressings (but the sleeve and labels don't)
 _legacy_code:
   segments:
-  - null
-  - null
-  - null
-  - null
+  - 
+  - 
+  - 
+  - 
   reconstructed: ''
   has_suffix: false
   source_row: 81
