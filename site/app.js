@@ -108,6 +108,20 @@ function detectFormat(variant) {
       if (sizeSlot === "7") return "vinyl-7-colored";
       return sizeSlot === "10" ? "vinyl-10-clear" : "vinyl-12-clear";
     }
+    // Detection explicite d'une couleur ou d'un pattern colore. Necessaire
+    // pour les splatters et mixtes type "splatter green black" ou
+    // "black silver" qui contiennent "black" mais sont visuellement des
+    // disques colores -- la branche "black par defaut" plus bas les
+    // capturait a tort.
+    const COLOR_KEYWORDS = [
+      "orange", "red", "yellow", "green", "blue", "purple", "pink",
+      "violet", "turquoise", "magenta", "amber", "gold", "silver",
+      "white", "brown",
+      "swirl", "splatter", "marble", "marbled",
+    ];
+    if (color && COLOR_KEYWORDS.some(kw => color.includes(kw))) {
+      return `vinyl-${sizeSlot}-colored`;
+    }
     if (color && !color.includes("black") && !color.includes("noir")) {
       return `vinyl-${sizeSlot}-colored`;
     }
