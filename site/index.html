@@ -159,7 +159,8 @@
               <td class="col-year" x-text="row.year ?? ''"></td>
               <td class="col-country" x-text="row.country ?? ''"></td>
               <td class="col-pictogram">
-                <span class="format-icon" :title="row.formatLabel" x-html="row.formatIcon"></span>
+                <span class="format-icon" :title="row.formatLabel"
+                      x-effect="$store.registry.injectSvg($el, row.formatIcon)"></span>
               </td>
               <td class="col-format" x-text="row.formatSummary"></td>
               <td class="col-links" @click.stop>
