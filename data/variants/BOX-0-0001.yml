@@ -1,0 +1,56 @@
+variant_id: BOX-0-0001
+release_type: coffret
+canonical_title: 1977-1980 Japan Box Set
+canonical_artist: Joy Division
+year: 1991
+documentation_quality: verified
+joydiv_letter: '0'
+country_or_pressing_place: Japan
+distribution:
+  channel: commercial
+  notes: 'Factory Japan, distribution Columbia Music Entertainment (Coca/COCY). Cote de référence indicative : 243 CHF.'
+notes: 'Coffret japonais 1991 (Factory COCY-9329 à COCY-9332 + TCD-7). 5 CDs : Unknown Pleasures, Closer, Still, Substance,
+  et Atmosphere TCD-7 (exclusif au coffret). Livret avec biographie en japonais et paroles en japonais et anglais. Le CD 5
+  (Atmosphere TCD-7) n''est disponible que dans ce coffret.'
+format_details:
+  type: box
+  catalog_number: COCY-9329 → COCY-9332 + TCD-7 (Barcode 4 988001 176473)
+  components:
+  - role: Audio — Unknown Pleasures (CD 1, 10 pistes)
+    inline:
+      type: cd
+      catalog_number: COCY-9329
+      description: Édition japonaise d'Unknown Pleasures, COCY-9329. Matrice CY-3101 2A2 14 18 X. Cf. série OFF-U-* pour les
+        éditions standalone.
+  - role: Audio — Closer (CD 2, 9 pistes)
+    inline:
+      type: cd
+      catalog_number: COCY-9330
+      description: Édition japonaise de Closer, COCY-9330. Matrice CY-3102 1B1 C 05. Cf. série OFF-C-* pour les éditions standalone.
+  - role: Audio — Still (CD 3, 20 pistes)
+    inline:
+      type: cd
+      catalog_number: COCY-9331
+      description: Édition japonaise de Still, COCY-9331. Matrice CY-9331 1A1 C 1X. Cf. série OFF-S-* pour les éditions standalone.
+  - role: Audio — Substance (CD 4, 17 pistes)
+    inline:
+      type: cd
+      catalog_number: COCY-9332
+      description: Édition japonaise de Substance 1988, COCY-9332. Matrice CY-2281 1A10 C 14. Cf. série OFF-S-* pour les éditions
+        standalone.
+  - role: Audio — Atmosphere TCD-7 (CD 5, 2 pistes — EXCLUSIF AU COFFRET)
+    inline:
+      type: cd
+      catalog_number: TCD-7
+      description: EXCLUSIF AU COFFRET. 5-1 Atmosphere (Original Mix) 4:08, 5-2 She's Lost Control 4:45. Matrice TCD-7 2A1
+        C 1X. Pas d'existence commerciale autonome.
+  additional_items:
+  - type: booklet
+    description: Livret avec biographie en japonais et paroles en japonais et anglais.
+  - type: packaging
+    description: Rights Society JASRAC. Barcode 4 988001 176473.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-5
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 6

@@ -1,0 +1,63 @@
+variant_id: BOX-K-0004
+release_type: coffret
+canonical_title: The King's Chamber — Tote Bag Version 1
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: K
+country_or_pressing_place: USA
+edition:
+  is_limited: true
+  total_copies: null
+  numbered: true
+  notes: Très peu d'exemplaires, numérotés quelque part dans la plage 41-50 (la plupart des numéros de cette plage allant
+    à Box Set Version 3).
+distribution:
+  channel: private_pressing
+  notes: Factory Communications USA — Promotional Only Release.
+variant_group:
+  group_id: BX-K1
+  group_role: pressing_variation
+  group_description: The King's Chamber series — 5 box/tote bag editions of the Volume 1+2+3 collection (2025, USA)
+notes: Similaire au Box Set Version 1 mais en tote bag et sans bonus LPs (ni Valley Of The Kings, ni surprise 2LP). Mix de
+  vinyles clear et clear with black splatter selon les exemplaires.
+format_details:
+  type: box
+  catalog_number: JDP22 / KC01-KC03
+  components:
+  - role: Volume 1 — 2LP
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear ou clear with black splatter
+      description: 2LP, couleur variant selon exemplaire.
+  - role: Volume 2 — 2LP (Asylum Doors / London Lyceum repressing)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear ou clear with black splatter
+      description: 2LP repressing of Asylum Doors (also London Lyceum), couleur variant selon exemplaire.
+  - role: Volume 3 — 2LP
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear ou clear with black splatter
+      description: 2LP, couleur variant selon exemplaire.
+  - role: Audio — The Moonlight Club CD
+    inline:
+      type: cd
+      description: The Moonlight Club CD (2019).
+  additional_items:
+  - type: tote_bag
+    description: White / tan tote bag with band name, title and Fractured Music 'f' logo printed in black on the front.
+  - type: postcard
+    description: Black postcard (identique à Box Set V1).
+  - type: slipmat
+    description: Slip mat identique à Box Set V1.
+  - type: insert
+    description: Insert identique à Box Set V1.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-13
+_legacy_code:
+  source_xlsx: Bootlegs - K.xlsx
+  source_row: 5

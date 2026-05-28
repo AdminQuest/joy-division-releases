@@ -1,0 +1,37 @@
+variant_id: BOX-0-0004
+release_type: coffret
+canonical_title: + - (plus minus) [pirate]
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: verified
+joydiv_letter: '0'
+country_or_pressing_place: UK
+distribution:
+  channel: private_pressing
+  notes: Copie pirate (Warner Music UK Ltd. — none) du coffret officiel 2010 7" & CD.
+notes: Re-classification documentaire du variant historique BOOT-0-0018 (gardé en place pour la traçabilité de l'ownership
+  own-2000-006 ; voir notes de BOOT-0-0018 pour la mention de bascule). Pirate UK 2010, 2 LPs identiques au coffret officiel
+  +- mais en plain white sleeve avec inserts papier collés devant/derrière (copiés du coffret officiel 2010) plus insert imprimé
+  double-face. Le titre porte '+ -' (avec espace). Parfois passé en faux vinyl promo officiel pour le coffret — ce n'en est
+  pas un.
+format_details:
+  type: box
+  components:
+  - role: Audio — 2 LP pirate (copie du coffret officiel)
+    inline:
+      type: vinyl
+      format: 12"
+      description: '2 LPs identiques au pressage officiel du coffret +- 2010, en plain white sleeve avec inserts papier collés
+        copiés du coffret officiel. Matrices runout : JOYDIVLP 001 A-1 / B-1 / C-1 / XXXXX-D-1.'
+  additional_items:
+  - type: packaging
+    description: Plain white sleeve avec inserts papier collés devant/derrière (photocopies des éléments du coffret officiel
+      2010).
+  - type: insert
+    description: Insert imprimé double-face.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-9
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 10
+  reclassifies: BOOT-0-0018

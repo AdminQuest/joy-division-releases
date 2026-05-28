@@ -1,0 +1,46 @@
+variant_id: BOX-C-0001
+release_type: coffret
+canonical_title: Les Coffret Cultes FNAC (CD + DVD)
+canonical_artist: Joy Division
+year: 2009
+documentation_quality: verified
+joydiv_letter: C
+country_or_pressing_place: France
+distribution:
+  channel: commercial
+  notes: Édition exclusive Fnac (collector's series). ISBN 2-630033-507665.
+notes: 'Coffret français Fnac 2009 (Les Coffrets Cultes) regroupant le documentaire Grant Gee ''Joy Division'' (DVD) et l''album
+  Closer (CD). Boîte 26,5 × 29 cm avec 20 photos A4 bord blanc (mostly N&B, quelques couleurs ; photographes Kevin Cummins,
+  Chris Mills, Martin O''Neill, Lex van Rossen, Rob Verhorst). Front : Ian Curtis à Brussels Plan K 16/10/1979 par Philippe
+  Carly. Inclut un livret 24×27,5 cm 8 pages en français (non agrafé) et un dépliant promo A5 4 pages. Les disques sont fournis
+  sans leurs pochettes individuelles.'
+format_details:
+  type: box
+  catalog_number: Barcode 2630033507665
+  components:
+  - role: Audio — Closer (CD, 9 pistes)
+    inline:
+      type: cd
+      description: Closer (édition CD française du coffret) — 1 Atrocity Exhibition, 2 Isolation, 3 Passover, 4 Colony, 5
+        A Means To An End, 6 Heart And Soul, 7 Twenty Four Hours, 8 The Eternal, 9 Decades. Disc only (sans pochette individuelle).
+        Cf. série OFF-C-* pour les éditions standalone de Closer.
+  - role: Video — Joy Division (Grant Gee, 2007), documentaire 93 min
+    inline:
+      type: dvd
+      description: DVD du documentaire 'Joy Division - Un Documentaire De Grant Gee' (93:00). Disc only (sans pochette individuelle).
+        Édition française à confirmer ; cf. VID-J-0001/0002/0003 pour les éditions standalone UK/USA/Australia.
+  additional_items:
+  - type: photos
+    description: '20 photos A4 bord blanc (mostly N&B, quelques couleurs). Photographes : Kevin Cummins, Chris Mills, Martin
+      O''Neill, Lex van Rossen, Rob Verhorst. Cover du devant = Ian Curtis Brussels Plan K 16/10/1979 par Philippe Carly.'
+  - type: booklet
+    description: Livret 24 × 27,5 cm 8 pages en français, non agrafé.
+  - type: promo_folder
+    description: Dépliant promo A5 4 pages annonçant les autres box-sets de la série collector Fnac.
+  - type: box
+    description: Boîte 26,5 × 29 cm. ISBN 2-630033-507665.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-3
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 4

@@ -1,0 +1,49 @@
+variant_id: BOX-R-0001
+release_type: coffret
+canonical_title: Re-Fractured box set
+canonical_artist: Joy Division
+year: 2004
+documentation_quality: verified
+joydiv_letter: R
+country_or_pressing_place: UK
+edition:
+  is_limited: true
+  total_copies: 3000
+  numbered: true
+  notes: 'Tirage numéroté 1-3000 (exemplaire de référence : #1500/3000).'
+distribution:
+  channel: commercial
+  notes: Coffret 3 CDs officiel avec poster et T-Shirt.
+notes: 'Coffret 2004 3 CDs : CD 1 = Preston (28/2/1980) + Eindhoven, CD 2 + 3 (même boîtier) = Les Bains-Douches (Paris 18/12/79)
+  + Paradiso (Amsterdam 11/1/80). Inclut poster + T-shirt.'
+format_details:
+  type: box
+  catalog_number: Barcode 8 00945 42622 0 (Box) / 8 0094590022 5 (CDs)
+  components:
+  - role: Audio — Preston 28/2/1980 + Eindhoven (CD 1, 16 pistes)
+    inline:
+      type: cd
+      description: Live Preston 28/2/1980 + Eindhoven. 1-01 Incubation à 1-16 Atmosphere. Cf. PIR/OFF Preston pour éditions
+        standalone.
+  - role: Audio — Les Bains-Douches Paris 18/12/79 (CD 2, 9 pistes)
+    inline:
+      type: cd
+      description: Live Bains-Douches Paris 18/12/79. 2-01 Disorder à 2-09 A Means To An End. Cf. série OFF-B-* / PIR-B-*
+        pour éditions standalone.
+  - role: Audio — Paradiso Amsterdam 11/1/80 (CD 3, 17 pistes)
+    inline:
+      type: cd
+      description: Live Paradiso Amsterdam 11/1/80. 3-01 Passover à 3-17 Interzone. Set inclut She's Lost Control Again 3-14.
+        Pas de variant standalone identifié dans le registre actuel.
+  additional_items:
+  - type: poster
+    description: Poster officiel inclus.
+  - type: t_shirt
+    description: T-Shirt officiel inclus.
+  - type: packaging
+    description: CD 2 et CD 3 partagent le même boîtier.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-7
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 8

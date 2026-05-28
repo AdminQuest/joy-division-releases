@@ -1,0 +1,95 @@
+variant_id: BOX-K-0001
+release_type: coffret
+canonical_title: The King's Chamber — Box Set Version 1 (clear)
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: K
+country_or_pressing_place: USA
+edition:
+  is_limited: true
+  total_copies: 25
+  numbered: true
+  notes: Numérotés 1-25 sur 50 (séries combinées Box Set V1+V2+V3+Tote Bag V1, 80 sets au total avec Tote Bag V2 numérotés
+    à part 1-30).
+distribution:
+  channel: private_pressing
+  notes: Factory Communications USA — A Factory Communications Promotional Only Release.
+variant_group:
+  group_id: BX-K1
+  group_role: pressing_variation
+  group_description: The King's Chamber series — 5 box/tote bag editions of the Volume 1+2+3 collection (2025, USA)
+notes: Coffret US 2025, catalogué Factory Communications USA JDP22. Core de 7 LPs clear + 1 LP bonus clear + 1 unlisted bonus
+  2LP + 1 CD. Box card finition or, stickers 15×21 cm avant/arrière.
+format_details:
+  type: box
+  catalog_number: JDP22 / KC01-KC03
+  components:
+  - role: Volume 1 — LP1 (Alternate Still repressing)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: Clear vinyl repressing of Alternate Still.
+  - role: Volume 1 — LP2 (Misplaced LP2 repressing)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: Clear vinyl repressing of LP2 from the Misplaced 2LP.
+  - role: Volume 2 — 2LP (Asylum Doors / London Lyceum repressing)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: 2LP clear vinyl repressing of Asylum Doors 2LP (also released as Live At The London Lyceum 2LP).
+  - role: Volume 3 — LP1 (Malvern Winter Gardens 5/4/80 repressing)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: Clear vinyl repressing of Live at Malvern Winter Gardens 5/4/80 2LP (also released as Twenty Four Hours
+        2LP).
+  - role: Volume 3 — LP2 (Beginning Of The End repressing)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: Clear vinyl repressing of the Beginning Of The End LP.
+  - role: Bonus — The Valley Of The Kings LP (Misplaced LP1)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: Clear vinyl repressing of LP1 from Misplaced. Plain black labels, plain black sleeve with loose A4 insert
+        mentionnant 'Studio Recordings 1978 to 1979 Limited edition 25 copies 2024 The Kings Chamber Muysic GMBH'.
+  - role: Bonus surprise — 2LP
+    inline:
+      type: vinyl
+      format: 12"
+      description: Unlisted bonus 2LP différent par exemplaire (ex. Warsaw - The Lost 2LP, Moonlight Club Complete Recordings
+        2LP).
+  - role: Audio — The Moonlight Club CD (2019)
+    inline:
+      type: cd
+      description: The Moonlight Club CD, version 2019, disc only in clear plastic wallet.
+  additional_items:
+  - type: box
+    description: Plain card box with attached lid, finition or. Stickers 15×21 cm avant (Fractured 'f' logo + 'The King's
+      Chamber') et arrière ('Limited edition 6 LP* vinyl set, Moonlight Club CD, vinyl mat, 12" insert, numbered postcard'
+      — *9 LPs en réalité avec les bonus).
+  - type: postcard
+    description: Black postcard with Fractured 'f' logo, band name et titre. Verso numéroté à la main sur 50.
+  - type: slipmat
+    description: Black 12 inch slip-mat.
+  - type: insert
+    description: Black 29,5 × 29,5 cm double-sided insert (track listing sides A à L, sides E/F/G/H = London Lyceum 29/2/80).
+      Mentions 'For historical purposes only' et 'A property of the world music alternative archives'.
+  - type: packaging
+    description: All LPs in clear resealable outer bag, brown corner sticker 'Joy Division The King's Chamber Limited Edition
+      Volume 1/2/3' numéroté /50.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-10
+_legacy_code:
+  source_xlsx: Bootlegs - K.xlsx
+  source_row: 2

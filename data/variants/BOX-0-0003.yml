@@ -1,0 +1,42 @@
+variant_id: BOX-0-0003
+release_type: coffret
+canonical_title: +- (plus minus) box set Singles 1978-80
+canonical_artist: Joy Division
+year: 2010
+documentation_quality: needs_review
+joydiv_letter: '0'
+country_or_pressing_place: Europe
+edition:
+  is_limited: true
+  total_copies: 5000
+  numbered: true
+  notes: 'Édition standard 5000 exemplaires numérotés 1-5000 (référence #4912/5000). Numéros 1-500 disponibles en super deluxe
+    avec art piece Peter Saville + 2 CDs promo exclusifs ''+'' et ''-''.'
+distribution:
+  channel: commercial
+  notes: Coffret officiel 2010, art Peter Saville pour les copies 1-500.
+notes: Coffret officiel européen 2010 réunissant les singles 1978-1980 (7" SP). Le contenu détaillé du coffret est documenté
+  sur Discogs ('cf discogs' dans le XLSX legacy) — composants non décomposés ici, à compléter lors d'une session ultérieure
+  avec accès Discogs autorisé. Existe en édition standard (5000) et super deluxe (500 premiers numéros, avec art piece Peter
+  Saville + 2 CDs promo exclusifs '+' et '-').
+format_details:
+  type: box
+  components:
+  - role: Audio — Singles 1978-80 (7" SP, composition à compléter depuis Discogs)
+    inline:
+      type: vinyl
+      format: 7"
+      description: Box set numéroté de singles 7". Composition piste-par-piste à compléter depuis Discogs (XLSX legacy mentionne
+        'cf discogs').
+  additional_items:
+  - type: art_piece
+    description: '(Édition super deluxe #1-500 uniquement) Limited edition Peter Saville art piece.'
+  - type: promo_cd
+    description: '(Édition super deluxe #1-500 uniquement) 2 CDs promo exclusifs intitulés ''+'' et ''-''.'
+sources:
+- data/_migration/coffrets_dossier.md#coffret-8
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 9
+  review_reason: Composants 7" SP à compléter depuis Discogs (legacy mentionne 'cf discogs'). Pas d'accès Discogs autorisé
+    dans cette session.

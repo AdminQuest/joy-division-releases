@@ -1,0 +1,60 @@
+variant_id: BOX-0-0002
+release_type: coffret
+canonical_title: 2007 In Memory LP Box Set
+canonical_artist: Joy Division
+year: 2007
+documentation_quality: verified
+joydiv_letter: '0'
+country_or_pressing_place: UK & Europe
+edition:
+  is_limited: true
+  total_copies: 3000
+  numbered: false
+  notes: Limited Edition de 3000 exemplaires (non numérotés individuellement).
+distribution:
+  channel: commercial
+  notes: FACT 10 / FACT 25 / FACT 40 — réédition vinyle 2007.
+notes: 'Coffret vinyle 2007 réunissant Unknown Pleasures (FACT 10), Closer (FACT 25) et Still (FACT 40 — version 2LP, inclut
+  ''Twenty Four Hours'' en piste bonus non mentionnée sur le tracklist imprimé). Artwork minimaliste : aucun texte ni logo
+  sur la boîte, les pochettes ou les étiquettes. Boîte extérieure en hessian gris. Pochettes en stock papier d''origine (texturé
+  noir pour UP, blanc plain pour Closer, gris hessian hardback fold-out avec ruban blanc pour Still).'
+format_details:
+  type: box
+  catalog_number: Barcode 8 25646 99291 1
+  components:
+  - role: Audio — Unknown Pleasures (LP, FACT 10)
+    inline:
+      type: vinyl
+      format: 12"
+      catalog_number: FACT 10
+      description: 'LP Unknown Pleasures, pochette textured plain black sleeve sans texte. Matrice runout A : ''FACT I0 OUTSIDE
+        - I JD 2565640I5I A-2 THIS IS THE WAY'' ; B : ''FACT I0 INSIDE - I B2 2565640I5I B-2 STEP''. Cf. série OFF-U-* pour
+        les éditions standalone.'
+  - role: Audio — Closer (LP, FACT 25)
+    inline:
+      type: vinyl
+      format: 12"
+      catalog_number: FACT 25
+      description: 'LP Closer, pochette plain white sleeve sans texte. Matrices runout C/D : ''FACT 25 AI 2564640I4I A-I OLD
+        BLUE.?'' / ''FACT 25 BI 2564640I4I B-I''. Cf. série OFF-C-* pour les éditions standalone.'
+  - role: Audio — Still (2LP, FACT 40)
+    inline:
+      type: vinyl
+      format: 12"
+      catalog_number: FACT 40
+      description: '2LP Still en plain grey hessian hardback cover/fold-out sleeve avec ribbon blanc. Cette version 2007 inclut
+        ''Twenty Four Hours'' en piste bonus non mentionnée sur le tracklist imprimé. Matrices runout E/F/G/H : ''FACT 4Ø
+        A-I EG THE CHICKEN WONT STOP P2 2564640321 A-I'' / ''FACT 4Ø BI EG P2 256464032I B-I -< -< -< -< -< -<'' / ''FACT
+        4Ø CI -< -< -< -< EG 2564640321 C-I'' / ''FACT 4Ø DI EG THE CHICKEN STOPS HERE 256464032I D-I''.'
+  additional_items:
+  - type: box
+    description: Outer box en hessian gris. Aucun texte ni logo sur la boîte.
+  - type: inlet
+    description: Cardboard inlet 12" × 12" noir imprimé avec tracklist au dos.
+  - type: sticker
+    description: Sticker N&B sur le shrink-wrap d'origine.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-2
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 3

@@ -1,0 +1,40 @@
+variant_id: BOX-S-0001
+release_type: coffret
+canonical_title: La Sélection Idéale (3 CD set)
+canonical_artist: Joy Division
+year: 2012
+documentation_quality: verified
+joydiv_letter: S
+country_or_pressing_place: France
+distribution:
+  channel: commercial
+  notes: Warner Music France 5310533385, Wea Music 5310533385, Rhino Records (2) 5310533385.
+notes: Compilation française 2012 'La Sélection Idéale' — 3 CD = Unknown Pleasures + Closer + Still. Présenté en gatefold
+  digisleeve format DVD-case. Les pistes 3-11 à 3-20 sont manquantes du tracklist imprimé au dos (erreur d'impression).
+format_details:
+  type: box
+  catalog_number: 5310533385 (Barcode 5 053105 333854)
+  components:
+  - role: Audio — Unknown Pleasures (CD 1, 10 pistes)
+    inline:
+      type: cd
+      description: Unknown Pleasures édition CD française 2012. 1-1 Disorder à 1-10 I Remember Nothing. Cf. série OFF-U-*
+        pour les éditions standalone.
+  - role: Audio — Closer (CD 2, 9 pistes)
+    inline:
+      type: cd
+      description: Closer édition CD française 2012. 2-1 Atrocity Exhibition à 2-9 Decades. Cf. série OFF-C-* pour les éditions
+        standalone.
+  - role: Audio — Still (CD 3, 20 pistes)
+    inline:
+      type: cd
+      description: Still édition CD française 2012, intégrale 20 pistes (3-1 Exercise One à 3-20 Digital). Les pistes 3-11
+        à 3-20 sont absentes du tracklist imprimé au dos du boîtier mais présentes sur le disque.
+  additional_items:
+  - type: packaging
+    description: Gatefold digisleeve au format DVD-case.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-4
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 5
