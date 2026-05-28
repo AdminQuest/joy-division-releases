@@ -129,6 +129,7 @@
             <th class="col-type">Type</th>
             <th class="col-year">Année</th>
             <th class="col-country">Pays</th>
+            <th class="col-pictogram" aria-label="Pictogramme de format"></th>
             <th class="col-format">Format</th>
             <th class="col-links">Liens</th>
           </tr>
@@ -157,6 +158,9 @@
               </td>
               <td class="col-year" x-text="row.year ?? ''"></td>
               <td class="col-country" x-text="row.country ?? ''"></td>
+              <td class="col-pictogram">
+                <span class="format-icon" :title="row.formatLabel" x-html="row.formatIcon"></span>
+              </td>
               <td class="col-format" x-text="row.formatSummary"></td>
               <td class="col-links" @click.stop>
                 <template x-if="row.variant?.joydiv_url">
