@@ -398,14 +398,31 @@
           "items": {
             "type": "object",
             "additionalProperties": false,
-            "required": ["variant_id_ref", "role"],
+            "required": ["role"],
             "properties": {
               "variant_id_ref": {
                 "type": "string",
                 "pattern": "^(OFF|PIR|BOOT|VID|BOX|BOOK|PARA)-[A-Z0]-[0-9]{4}$"
               },
+              "inline": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["description"],
+                "properties": {
+                  "type": {"type": "string"},
+                  "description": {"type": "string"},
+                  "format": {"type": ["string", "null"]},
+                  "catalog_number": {"type": ["string", "null"]},
+                  "color": {"type": ["string", "null"]},
+                  "tracklist_summary": {"type": ["string", "null"]}
+                }
+              },
               "role": {"type": "string"}
-            }
+            },
+            "oneOf": [
+              {"required": ["variant_id_ref"]},
+              {"required": ["inline"]}
+            ]
           }
         },
         "additional_items": {
