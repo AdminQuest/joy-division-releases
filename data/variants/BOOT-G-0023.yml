@@ -1,0 +1,30 @@
+variant_id: BOOT-G-0023
+release_type: bootleg
+canonical_title: Good Evening We're Joy Division (boxed CD)
+canonical_artist: Joy Division
+year: 2006
+documentation_quality: verified
+joydiv_letter: G
+country_or_pressing_place: Australia
+edition:
+  is_limited: true
+  total_copies: 50
+  numbered: true
+  notes: "Tirage main /50. Probablement home-made (photocopies couleur de l'artwork collées sur boîte cartonnée)."
+distribution:
+  channel: private_pressing
+  notes: "VOODOO SOUNDS 2006 — boxed CD home-made dérivé de BOOT-G-0002."
+notes: |
+  Boxed CD VOODOO SOUNDS 2006, version /50 numérotée à la main de l'édition BOOT-G-0002 (CD VOODOO SOUNDS 2005, BG2a). Probablement home-made : photocopies couleur de l'artwork collées sur une boîte cartonnée. Toutes les pistes sont disponibles sur Heart and Soul 4CD set (BOX-H-0001). Source : Mainly studio with three live tracks at the end.
+
+  Conservé comme bootleg standalone (non promu en coffret) — bundling DIY autour d'un CD préexistant, sans pressage neuf ni composant additionnel substantiel.
+format_details:
+  type: audio
+  supports:
+  - support_type: cd
+    count: 1
+sources:
+- "data/_migration/coffrets_dossier.md#coffret-15"
+_legacy_code:
+  source_xlsx: "Bootlegs - G.xlsx"
+  source_row: 4

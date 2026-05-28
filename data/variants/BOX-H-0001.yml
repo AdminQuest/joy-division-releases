@@ -1,0 +1,63 @@
+variant_id: BOX-H-0001
+release_type: coffret
+canonical_title: Heart and Soul (4 CD set)
+canonical_artist: Joy Division
+year: 1997
+documentation_quality: verified
+joydiv_letter: H
+joydiv_url: https://www.joydiv.org/heart.htm
+country_or_pressing_place: UK
+distribution:
+  channel: commercial
+  notes: Coffret officiel London Records.
+notes: 'Coffret officiel UK 1997. Re-classification documentaire du variant historique OFF-H-0001 (gardé en place pour la
+  traçabilité de l''ownership own-2000-395 ; voir notes d''OFF-H-0001 pour la mention de bascule). Les 4 CDs n''ont jamais
+  eu d''existence commerciale autonome — uniquement disponibles dans ce coffret. Twofold Digibook with clear trays, 84-page
+  booklet. Au dos : ''81 track compilation'' (la 4e de couverture annonce 80 par erreur). Liner notes : Paul Morley (London
+  23/10/97), Jean-Pierre Turmel (Licht und Blindheit, Nov/Déc 79), Jon Savage (Good evening, we''re Joy Division, London/Bethesda
+  mai-juin 1994).'
+format_details:
+  type: box
+  catalog_number: 828968-2 (Barcode 0 42282 89682 7)
+  components:
+  - role: Disc 1 — Singles & A Factory Sample & Unknown Pleasures + outtakes (21 pistes)
+    inline:
+      type: cd
+      catalog_number: 8289682/1
+      description: 21 tracks. Sessions Cargo Studios (A Factory Sample 1/1979), Strawberry Studios (Unknown Pleasures 5/1979,
+        Transmission 10/1979, Autosuggestion 10/1979 sur Earcom 2), Central Sound Manchester (Still 10/1981). Pistes 1-1 'Digital'
+        à 1-21 'From Safety To Where...?'.
+  - role: Disc 2 — Atmosphere, Closer & singles (17 pistes)
+    inline:
+      type: cd
+      catalog_number: 8289682/2
+      description: 17 tracks. Strawberry Studios (Atmosphere 12" 9/1980, Love Will Tear Us Apart 6/1980), Pennine Sound Studios,
+        Cargo Studios (Licht Und Blindheit 3/1980), Britannia Row London (Komakino Flexi 4/1980 + Closer 7/1980). Pistes 2-1
+        'She's Lost Control (12")' à 2-17 'These Days'.
+  - role: Disc 3 — Warsaw / RCA / Peel Sessions / Eden Studios / outtakes (24 pistes)
+    inline:
+      type: cd
+      catalog_number: 8289682/3
+      description: 24 tracks dont An Ideal For Living 6/1978, RCA demos non publiés précédemment, John Peel Radio Show (2/1979,
+        12/1979), Eden Studios Genetic Records Sessions, Piccadilly Radio Sessions, Britannia Row (As You Said sur Komakino
+        Flexi uncredited), Graveyard Studios (Ceremony, In A Lonely Place Detail).
+  - role: Disc 4 — Live recordings 1979-1980 (19 pistes, toutes inédites)
+    inline:
+      type: cd
+      catalog_number: 8289682/4
+      description: 19 tracks live, toutes inédites avant ce coffret. The Factory Hulme, Prince of Wales Conference Centre
+        YMCA London, Winter Gardens Bournemouth, Lyceum Ballroom London.
+  additional_items:
+  - type: booklet
+    description: 84-page booklet inclus dans le Digibook clear-trays. Liner notes Paul Morley (Listen To The Silence, 23/10/97),
+      Jean-Pierre Turmel (Licht und Blindheit, Nov/Déc 79), Jon Savage (Good evening, we're Joy Division, mai-juin 1994).
+  - type: packaging
+    description: Twofold Digibook avec clear trays. Cover Peter Saville. Matrices PMDC UK avec multiples variants 1/2 sur
+      SID codes (CD1 IFPI 0452/0432, CD2 IFPI 0400/0446, CD3 IFPI 0452/0462, CD4 IFPI 0432/0454). Mastering SID Codes IFPI
+      L132 (CD1/3/4) et L134 (CD2). Label Code LC7654. Price Code PY914. Rights Society BIEM/MCPS.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-1
+_legacy_code:
+  source_xlsx: Officiels et pirates - Coffrets.xlsx
+  source_row: 2
+  reclassifies: OFF-H-0001

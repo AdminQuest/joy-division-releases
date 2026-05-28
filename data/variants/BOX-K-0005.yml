@@ -1,0 +1,59 @@
+variant_id: BOX-K-0005
+release_type: coffret
+canonical_title: The King's Chamber — Tote Bag Version 2 (gold)
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: K
+country_or_pressing_place: USA
+edition:
+  is_limited: true
+  total_copies: 30
+  numbered: true
+  notes: '30 exemplaires individuellement numérotés (numérotation séparée 1-30, distincte de la série 1-50 des autres éditions).
+    Exemplaire #36/50 référencé en source — la mention /50 dans le legacy est ambiguë (likely typo, dossier mentionne 30 exemplaires).'
+distribution:
+  channel: private_pressing
+  notes: Factory Communications USA — Promotional Only Release. Certains exemplaires vendus sans tote bag.
+variant_group:
+  group_id: BX-K1
+  group_role: pressing_variation
+  group_description: The King's Chamber series — 5 box/tote bag editions of the Volume 1+2+3 collection (2025, USA)
+notes: Similaire au Box Set Version 1 en tote bag, tous LPs sur gold vinyl, sans le Unlisted surprise bonus LP. Les Volumes
+  1/2/3 sur gold vinyl correspondent aux variants standalone BOOT-K-0001/0002/0003 déjà au registre (mêmes pressages). Postcard
+  brown au lieu de black sur les autres éditions. Labels sans indication de side (juste 'I' identique partout).
+format_details:
+  type: box
+  catalog_number: JDP22 / KC01-KC03
+  components:
+  - role: Volume 1 — 2LP gold
+    variant_id_ref: BOOT-K-0001
+  - role: Volume 2 — 2LP gold (Asylum Doors / London Lyceum repressing)
+    variant_id_ref: BOOT-K-0002
+  - role: Volume 3 — 2LP gold
+    variant_id_ref: BOOT-K-0003
+  - role: Bonus — The Valley Of The Kings LP
+    inline:
+      type: vinyl
+      format: 12"
+      color: gold
+      description: LP gold vinyl, repressing of Misplaced LP1.
+  - role: Audio — The Moonlight Club CD
+    inline:
+      type: cd
+      description: The Moonlight Club CD (2019).
+  additional_items:
+  - type: tote_bag
+    description: 'White / tan tote bag avec band name, titre et logo Fractured Music ''f'' en noir devant. Optionnel : certains
+      exemplaires vendus sans la tote bag.'
+  - type: postcard
+    description: Brown postcard sur le devant (les autres éditions ont un postcard black).
+  - type: slipmat
+    description: Slip mat identique à Box Set V1.
+  - type: insert
+    description: Insert identique à Box Set V1.
+sources:
+- data/_migration/coffrets_dossier.md#coffret-14
+_legacy_code:
+  source_xlsx: Bootlegs - K.xlsx
+  source_row: 6

@@ -1,0 +1,76 @@
+variant_id: BOX-K-0003
+release_type: coffret
+canonical_title: The King's Chamber — Box Set Version 3 (clear, alt. Volume 2)
+canonical_artist: Joy Division
+year: 2025
+documentation_quality: verified
+joydiv_letter: K
+country_or_pressing_place: USA
+edition:
+  is_limited: true
+  total_copies: 10
+  numbered: true
+  notes: 10 copies numérotées dans la plage 41-50 (certains numéros de cette plage ont été alloués à Tote Bag Version 1).
+distribution:
+  channel: private_pressing
+  notes: Factory Communications USA — Promotional Only Release.
+variant_group:
+  group_id: BX-K1
+  group_role: pressing_variation
+  group_description: The King's Chamber series — 5 box/tote bag editions of the Volume 1+2+3 collection (2025, USA)
+notes: Identique au Box Set Version 1 sauf le Volume 2 qui est un 2LP différent à cause d'un problème de plaque de pressage.
+  Volume 2 = Plan K 2LP (aka Au Plan K 2LP) au lieu d'Asylum Doors. Insert différent en conséquence (sides E/F/G/H = Brussels
+  Plan K 17/01/80).
+format_details:
+  type: box
+  catalog_number: JDP22 / KC01-KC03
+  components:
+  - role: Volume 1 — 2LP
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: 2LP clear vinyl (Alternate Still + Misplaced LP2).
+  - role: Volume 2 — 2LP (Plan K / Au Plan K repressing — SUBSTITUTION)
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: 2LP clear vinyl repressing of Plan K 2LP (also released as Au Plan K 2LP), substitué à Asylum Doors pour
+        cause de problème de plaque de pressage.
+  - role: Volume 3 — 2LP
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: 2LP clear vinyl (Malvern 5/4/80 + Beginning Of The End).
+  - role: Bonus — The Valley Of The Kings LP
+    inline:
+      type: vinyl
+      format: 12"
+      color: clear
+      description: LP clear vinyl (Misplaced LP1).
+  - role: Bonus surprise — 2LP
+    inline:
+      type: vinyl
+      format: 12"
+      description: Unlisted bonus 2LP différent par exemplaire.
+  - role: Audio — The Moonlight Club CD
+    inline:
+      type: cd
+      description: The Moonlight Club CD (2019).
+  additional_items:
+  - type: box
+    description: Même boîte card finition or.
+  - type: postcard
+    description: Black postcard numéroté /50.
+  - type: slipmat
+    description: Black 12 inch slip-mat.
+  - type: insert
+    description: Insert blanc 29,5 × 27 cm double-sided, sides E/F/G/H = Brussels Plan K 17/01/80 (au lieu de London Lyceum
+      sur V1/V2).
+sources:
+- data/_migration/coffrets_dossier.md#coffret-12
+_legacy_code:
+  source_xlsx: Bootlegs - K.xlsx
+  source_row: 4
