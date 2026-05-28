@@ -14,19 +14,25 @@ const RELEASE_ID_RE = /\/(?:release|master)\/(\d+)/;
 // Pictogrammes de format
 // ==========================================================================
 //
-// 13 SVG monochromes inline (style Lucide : viewBox 24x24, stroke 1.5px,
-// currentColor). Inlines dans le DOM via x-html ; herite la couleur du
-// texte ambiant et s'adapte au theme de l'interface.
+// 16 SVG monochromes ou couleur representative inline (style Lucide :
+// viewBox 24x24, stroke 1.5px). Pour le vinyle, le DISQUE porte une
+// couleur de remplissage representative (ambre pour les colores, bleu
+// pale a 60 % pour les transparents, pourpre pour les picture discs) ;
+// le contour reste en currentColor pour s'adapter au theme. Tous les
+// autres pictos restent strictement monochromes (currentColor).
 //
 // Cles utilisees par detectFormat() ci-dessous.
 
 const FORMAT_ICONS = {
   "vinyl-12-black": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0Zm-7.2 0a2.8 2.8 0 1 0-5.6 0 2.8 2.8 0 0 0 5.6 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/></svg>`,
-  "vinyl-12-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0Zm-7.2 0a2.8 2.8 0 1 0-5.6 0 2.8 2.8 0 0 0 5.6 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/><rect x="13.5" y="10" width="1.4" height="4" rx="0.3" fill="currentColor"/></svg>`,
-  "vinyl-12-clear": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="2.8" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/></svg>`,
-  "vinyl-12-picture": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="10.3" cy="10.4" r="0.9" fill="currentColor"/><path d="M8 14.5 L10.3 12.3 L12.2 14 L14 12.5 L16 14.5 Z" fill="currentColor"/></svg>`,
+  "vinyl-12-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0Zm-7.2 0a2.8 2.8 0 1 0-5.6 0 2.8 2.8 0 0 0 5.6 0Z" fill="#d97706" fill-opacity="0.8" stroke="currentColor" stroke-width="1" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/></svg>`,
+  "vinyl-12-clear": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="#93c5fd" fill-opacity="0.6" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="2.8" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/></svg>`,
+  "vinyl-12-picture": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="#7c3aed" fill-opacity="0.75" stroke="currentColor" stroke-width="1.5"/><circle cx="10.3" cy="10.4" r="0.9" fill="currentColor"/><path d="M8 14.5 L10.3 12.3 L12.2 14 L14 12.5 L16 14.5 Z" fill="currentColor"/></svg>`,
+  "vinyl-10-black": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M20.5 12a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0Zm-6.1 0a2.4 2.4 0 1 0-4.8 0 2.4 2.4 0 0 0 4.8 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.7" fill="currentColor"/></svg>`,
+  "vinyl-10-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M20.5 12a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0Zm-6.1 0a2.4 2.4 0 1 0-4.8 0 2.4 2.4 0 0 0 4.8 0Z" fill="#d97706" fill-opacity="0.8" stroke="currentColor" stroke-width="1" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.7" fill="currentColor"/></svg>`,
+  "vinyl-10-clear": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="#93c5fd" fill-opacity="0.6" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="2.4" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="12" cy="12" r="0.7" fill="currentColor"/></svg>`,
   "vinyl-7-black": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Zm-5.5 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/></svg>`,
-  "vinyl-7-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Zm-5.5 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/><rect x="13.2" y="10.5" width="1.1" height="3" rx="0.3" fill="currentColor"/></svg>`,
+  "vinyl-7-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Zm-5.5 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0Z" fill="#d97706" fill-opacity="0.8" stroke="currentColor" stroke-width="1" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/></svg>`,
   "cd": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1"/><circle cx="12" cy="12" r="2" fill="none" stroke="currentColor" stroke-width="1"/></svg>`,
   "dvd": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1"/><rect x="10.5" y="10.5" width="3" height="3" fill="currentColor"/></svg>`,
   "cassette-audio": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="3" y="6" width="18" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8.5" cy="12" r="2.2" fill="none" stroke="currentColor" stroke-width="1.2"/><circle cx="15.5" cy="12" r="2.2" fill="none" stroke="currentColor" stroke-width="1.2"/><circle cx="8.5" cy="12" r="0.6" fill="currentColor"/><circle cx="15.5" cy="12" r="0.6" fill="currentColor"/></svg>`,
@@ -42,6 +48,9 @@ const FORMAT_LABELS = {
   "vinyl-12-colored": "Vinyle 12\" coloré",
   "vinyl-12-clear": "Vinyle 12\" transparent",
   "vinyl-12-picture": "Picture disc 12\"",
+  "vinyl-10-black": "Vinyle 10\" noir",
+  "vinyl-10-colored": "Vinyle 10\" coloré",
+  "vinyl-10-clear": "Vinyle 10\" transparent",
   "vinyl-7-black": "Vinyle 7\" noir",
   "vinyl-7-colored": "Vinyle 7\" coloré",
   "cd": "CD",
@@ -72,7 +81,7 @@ function detectFormat(variant) {
   // Audio : detail par support_type
   const sup = (fd.supports && fd.supports[0]) || {};
   const support = (sup.support_type || "").toLowerCase();
-  const size = sup.size; // typiquement '12"', '7"', '10"' ou null
+  const size = sup.size; // typiquement '12"', '10"', '7"' ou null
   const color = (sup.color || "").toLowerCase();
 
   if (support === "cassette") return "cassette-audio";
@@ -82,17 +91,27 @@ function detectFormat(variant) {
   if (support === "dvd" || support === "bluray" || support === "vhs") return "cassette-video";
 
   if (support === "vinyl" || support === "flexi") {
+    // Detection de taille -- 14 variants en 10" tombaient sur vinyl-12-*
+    // dans la version initiale, d'ou une contradiction picto/texte format.
     const is7 = size === "7\"" || size === '7"' || size === "7";
+    const is10 = size === "10\"" || size === '10"' || size === "10";
+    const sizeSlot = is7 ? "7" : is10 ? "10" : "12";
+
+    // Picture disc et clear ne sont pas distingues en 7"/10" : rabattus
+    // sur "-colored" en 7" (peu de cas) et sur "-clear" en 10" (cas
+    // "clear" represente, "picture" absent du jeu de donnees).
     if (color.includes("picture")) {
-      return is7 ? "vinyl-7-colored" : "vinyl-12-picture";
+      if (sizeSlot === "12") return "vinyl-12-picture";
+      return sizeSlot === "7" ? "vinyl-7-colored" : "vinyl-10-colored";
     }
     if (color.includes("clear") || color.includes("transparent")) {
-      return is7 ? "vinyl-7-colored" : "vinyl-12-clear";
+      if (sizeSlot === "7") return "vinyl-7-colored";
+      return sizeSlot === "10" ? "vinyl-10-clear" : "vinyl-12-clear";
     }
     if (color && !color.includes("black") && !color.includes("noir")) {
-      return is7 ? "vinyl-7-colored" : "vinyl-12-colored";
+      return `vinyl-${sizeSlot}-colored`;
     }
-    return is7 ? "vinyl-7-black" : "vinyl-12-black";
+    return `vinyl-${sizeSlot}-black`;
   }
 
   return "generic";
