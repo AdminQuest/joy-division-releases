@@ -109,14 +109,18 @@ function detectFormat(variant) {
       return sizeSlot === "10" ? "vinyl-10-clear" : "vinyl-12-clear";
     }
     // Detection explicite d'une couleur ou d'un pattern colore. Necessaire
-    // pour les splatters et mixtes type "splatter green black" ou
-    // "black silver" qui contiennent "black" mais sont visuellement des
-    // disques colores -- la branche "black par defaut" plus bas les
-    // capturait a tort.
+    // pour les splatters et mixtes type "splatter green black" qui
+    // contiennent "black" mais sont visuellement des disques colores --
+    // la branche "black par defaut" plus bas les capturait a tort.
+    //
+    // 'silver' et 'gold' deliberement exclus : ils designent presque
+    // toujours les labels/sleeves, pas le vinyle lui-meme (ex.
+    // BOOT-A-0065 "black silver" -> notes confirment "Plain silver
+    // labels" + "Black vinyl"). Un nettoyage du champ color (disc_color
+    // vs label_color vs sleeve_color) est a planifier separement.
     const COLOR_KEYWORDS = [
       "orange", "red", "yellow", "green", "blue", "purple", "pink",
-      "violet", "turquoise", "magenta", "amber", "gold", "silver",
-      "white", "brown",
+      "violet", "turquoise", "magenta", "white", "brown",
       "swirl", "splatter", "marble", "marbled",
     ];
     if (color && COLOR_KEYWORDS.some(kw => color.includes(kw))) {
