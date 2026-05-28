@@ -479,6 +479,30 @@ function registerRegistryStore() {
     yamlFor(obj) {
       return yamlDump(obj);
     },
+
+    // Injecte une chaine SVG dans l'element fourni en garantissant le
+    // namespace SVG. Necessaire parce que `el.innerHTML = svgString`
+    // (utilise par Alpine x-html) depose un <svg> sans ses enfants :
+    // le parseur HTML5 ne bascule pas systematiquement en foreign
+    // content mode quand on l'invoque hors du parse initial du document,
+    // et les <path> / <circle> / <rect> disparaissent silencieusement.
+    // DOMParser avec MIME 'image/svg+xml' force la creation des noeuds
+    // dans le namespace SVG correct.
+    injectSvg(el, svgString) {
+      if (!el) return;
+      while (el.firstChild) el.removeChild(el.firstChild);
+      if (!svgString) return;
+      try {
+        const doc = new DOMParser().parseFromString(svgString, "image/svg+xml");
+        const root = doc.documentElement;
+        if (root && root.tagName && root.tagName.toLowerCase() === "svg") {
+          el.appendChild(root);
+        }
+      } catch (e) {
+        // Cellule vide plutot que rendu casse -- detection visuelle a
+        // la relecture, pas de plantage de l'interface.
+      }
+    },
   });
 
   // Bootstrap : charge les donnees des l'initialisation du store.
