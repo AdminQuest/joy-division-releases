@@ -1,5 +1,16 @@
 # Rapport de migration v2 — 2026-05-27T17:17:56
 
+> **Mise à jour 2026-05-28** : les 15 coffrets listés ci-dessous (section
+> « Coffrets identifies pour seconde passe ») sont désormais traités sur la
+> branche `claude/coffrets-second-pass`. Voir le rapport détaillé
+> [`coffrets_second_pass_report.md`](coffrets_second_pass_report.md).
+>
+> Bilan : 14 BOX-* créés (dont 5 King's Chamber regroupés par
+> `variant_group: BX-K1`), 2 reclassifications avec notes (OFF-H-0001 →
+> BOX-H-0001 ; BOOT-0-0018 → BOX-0-0004), 1 BOOT-G-0023 nouveau (Good
+> Evening boxed CD, non promu en coffret). Préfixe BOX passe ainsi de 0 à
+> 14 variantes.
+
 ## Synthese
 
 - XLSX lus : **55**
