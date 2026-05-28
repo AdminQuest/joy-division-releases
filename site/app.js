@@ -10,6 +10,94 @@ const ARTICLES = ["the ", "a ", "an ", "le ", "la ", "les ", "l'", "un ", "une "
 // Couvre les deux formes : .../release/{id}-Slug et .../Slug/release/{id}.
 const RELEASE_ID_RE = /\/(?:release|master)\/(\d+)/;
 
+// ==========================================================================
+// Pictogrammes de format
+// ==========================================================================
+//
+// 13 SVG monochromes inline (style Lucide : viewBox 24x24, stroke 1.5px,
+// currentColor). Inlines dans le DOM via x-html ; herite la couleur du
+// texte ambiant et s'adapte au theme de l'interface.
+//
+// Cles utilisees par detectFormat() ci-dessous.
+
+const FORMAT_ICONS = {
+  "vinyl-12-black": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0Zm-7.2 0a2.8 2.8 0 1 0-5.6 0 2.8 2.8 0 0 0 5.6 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/></svg>`,
+  "vinyl-12-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0Zm-7.2 0a2.8 2.8 0 1 0-5.6 0 2.8 2.8 0 0 0 5.6 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/><rect x="13.5" y="10" width="1.4" height="4" rx="0.3" fill="currentColor"/></svg>`,
+  "vinyl-12-clear": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="2.8" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="12" cy="12" r="0.8" fill="currentColor"/></svg>`,
+  "vinyl-12-picture": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="10.3" cy="10.4" r="0.9" fill="currentColor"/><path d="M8 14.5 L10.3 12.3 L12.2 14 L14 12.5 L16 14.5 Z" fill="currentColor"/></svg>`,
+  "vinyl-7-black": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Zm-5.5 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/></svg>`,
+  "vinyl-7-colored": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Zm-5.5 0a2 2 0 1 0-4 0 2 2 0 0 0 4 0Z" fill="currentColor" fill-rule="evenodd"/><circle cx="12" cy="12" r="0.6" fill="currentColor"/><rect x="13.2" y="10.5" width="1.1" height="3" rx="0.3" fill="currentColor"/></svg>`,
+  "cd": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1"/><circle cx="12" cy="12" r="2" fill="none" stroke="currentColor" stroke-width="1"/></svg>`,
+  "dvd": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1"/><rect x="10.5" y="10.5" width="3" height="3" fill="currentColor"/></svg>`,
+  "cassette-audio": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="3" y="6" width="18" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8.5" cy="12" r="2.2" fill="none" stroke="currentColor" stroke-width="1.2"/><circle cx="15.5" cy="12" r="2.2" fill="none" stroke="currentColor" stroke-width="1.2"/><circle cx="8.5" cy="12" r="0.6" fill="currentColor"/><circle cx="15.5" cy="12" r="0.6" fill="currentColor"/></svg>`,
+  "cassette-video": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><rect x="6.5" y="9" width="11" height="6" rx="0.5" fill="none" stroke="currentColor" stroke-width="1.2"/><circle cx="9.5" cy="12" r="0.7" fill="currentColor"/><circle cx="14.5" cy="12" r="0.7" fill="currentColor"/></svg>`,
+  "book": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M5 3 h11 a3 3 0 0 1 3 3 v15 a2 2 0 0 0 -2 -2 h-12 z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M5 3 v16" stroke="currentColor" stroke-width="1.5"/><path d="M5 19 h12" stroke="currentColor" stroke-width="1.3"/></svg>`,
+  "magazine": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="4" y="3.5" width="16" height="17" rx="1" fill="none" stroke="currentColor" stroke-width="1.5"/><line x1="7" y1="8" x2="17" y2="8" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="11" x2="17" y2="11" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/><line x1="7" y1="14" x2="14" y2="14" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>`,
+  "generic": `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="2 1.6"/></svg>`,
+};
+
+// Libelles humains pour le tooltip (attribut title) sur le picto.
+const FORMAT_LABELS = {
+  "vinyl-12-black": "Vinyle 12\" noir",
+  "vinyl-12-colored": "Vinyle 12\" coloré",
+  "vinyl-12-clear": "Vinyle 12\" transparent",
+  "vinyl-12-picture": "Picture disc 12\"",
+  "vinyl-7-black": "Vinyle 7\" noir",
+  "vinyl-7-colored": "Vinyle 7\" coloré",
+  "cd": "CD",
+  "dvd": "DVD",
+  "cassette-audio": "Cassette audio",
+  "cassette-video": "Vidéo (VHS / DVD / Blu-ray)",
+  "book": "Livre",
+  "magazine": "Magazine / fanzine",
+  "generic": "Format indéterminé",
+};
+
+// Detecte la categorie de pictogramme a afficher pour une variante.
+// release_type est l'autorite pour les categories non-musique (livre,
+// magazine, video). Pour l'audio, on inspecte format_details.supports[0]
+// (le dataset n'a aucun variant avec >1 support a ce jour).
+function detectFormat(variant) {
+  if (!variant) return "generic";
+  const rt = variant.release_type;
+  const fd = variant.format_details || {};
+
+  // Imprimes
+  if (rt === "livre" || fd.type === "book") return "book";
+  if (rt === "para" || fd.type === "para") return "magazine";
+
+  // Video (tous supports VHS/DVD/Blu-ray simplifies en un picto)
+  if (rt === "video" || fd.type === "video") return "cassette-video";
+
+  // Audio : detail par support_type
+  const sup = (fd.supports && fd.supports[0]) || {};
+  const support = (sup.support_type || "").toLowerCase();
+  const size = sup.size; // typiquement '12"', '7"', '10"' ou null
+  const color = (sup.color || "").toLowerCase();
+
+  if (support === "cassette") return "cassette-audio";
+  if (support === "cd") return "cd";
+  // DVD/Bluray ne devraient pas tomber ici (couvert par video plus haut)
+  // mais filet pour les rares cas mixtes
+  if (support === "dvd" || support === "bluray" || support === "vhs") return "cassette-video";
+
+  if (support === "vinyl" || support === "flexi") {
+    const is7 = size === "7\"" || size === '7"' || size === "7";
+    if (color.includes("picture")) {
+      return is7 ? "vinyl-7-colored" : "vinyl-12-picture";
+    }
+    if (color.includes("clear") || color.includes("transparent")) {
+      return is7 ? "vinyl-7-colored" : "vinyl-12-clear";
+    }
+    if (color && !color.includes("black") && !color.includes("noir")) {
+      return is7 ? "vinyl-7-colored" : "vinyl-12-colored";
+    }
+    return is7 ? "vinyl-7-black" : "vinyl-12-black";
+  }
+
+  return "generic";
+}
+
 function extractReleaseId(url) {
   if (!url) return null;
   const m = RELEASE_ID_RE.exec(url);
@@ -307,6 +395,7 @@ function registerRegistryStore() {
     },
 
     _variantRow(v, isMember = false) {
+      const fmtKey = detectFormat(v);
       return {
         key: `v-${v.variant_id}`,
         isGroup: false,
@@ -317,6 +406,8 @@ function registerRegistryStore() {
         year: v.year,
         country: v.country_or_pressing_place,
         formatSummary: formatSummary(v),
+        formatIcon: FORMAT_ICONS[fmtKey] || FORMAT_ICONS.generic,
+        formatLabel: FORMAT_LABELS[fmtKey] || FORMAT_LABELS.generic,
         cover: this.coverFor(v),
       };
     },
@@ -359,6 +450,8 @@ function registerRegistryStore() {
         year: first.year,
         country: first.country_or_pressing_place,
         formatSummary: formatSummary(first),
+        formatIcon: FORMAT_ICONS[detectFormat(first)] || FORMAT_ICONS.generic,
+        formatLabel: FORMAT_LABELS[detectFormat(first)] || FORMAT_LABELS.generic,
         cover: this.coverFor(coverMember),
         toggleExpand() { store.toggleGroup(gid); },
       };
