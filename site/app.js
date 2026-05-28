@@ -481,26 +481,43 @@ function registerRegistryStore() {
     },
 
     // Injecte une chaine SVG dans l'element fourni en garantissant le
-    // namespace SVG. Necessaire parce que `el.innerHTML = svgString`
-    // (utilise par Alpine x-html) depose un <svg> sans ses enfants :
-    // le parseur HTML5 ne bascule pas systematiquement en foreign
-    // content mode quand on l'invoque hors du parse initial du document,
-    // et les <path> / <circle> / <rect> disparaissent silencieusement.
-    // DOMParser avec MIME 'image/svg+xml' force la creation des noeuds
-    // dans le namespace SVG correct.
+    // namespace SVG. La technique : creer un conteneur <svg> via
+    // createElementNS (donc dans le bon namespace ET dans le document
+    // courant -- pas de cross-document transfer), recopier les
+    // attributs racine du source, puis poser le contenu enfant via
+    // innerHTML SUR L'ELEMENT SVG. Quand le parent est SVG-namespaced,
+    // le parser HTML5 bascule en regles SVG pour les enfants, donc
+    // <path>/<circle>/<rect> sont correctement crees dans le namespace
+    // SVG. C'est l'approche standard pour injection SVG dynamique
+    // (utilisee par svg.js, raphaeljs, lit-html, etc.).
+    //
+    // Historique : x-html (innerHTML direct sur un span) deposait un
+    // <svg> sans ses enfants ; DOMParser + appendChild cross-document
+    // donnait un <svg> sans rendu visible. Cette approche contourne
+    // les deux pieges.
     injectSvg(el, svgString) {
       if (!el) return;
       while (el.firstChild) el.removeChild(el.firstChild);
       if (!svgString) return;
+      const ns = "http://www.w3.org/2000/svg";
       try {
-        const doc = new DOMParser().parseFromString(svgString, "image/svg+xml");
-        const root = doc.documentElement;
-        if (root && root.tagName && root.tagName.toLowerCase() === "svg") {
-          el.appendChild(root);
+        const svg = document.createElementNS(ns, "svg");
+        const attrMatch = /<svg\b([^>]*)>/i.exec(svgString);
+        if (attrMatch) {
+          const attrRe = /([a-zA-Z_][\w:-]*)\s*=\s*"([^"]*)"/g;
+          let m;
+          while ((m = attrRe.exec(attrMatch[1])) !== null) {
+            // xmlns deja porte par createElementNS, on le saute.
+            if (m[1].toLowerCase() !== "xmlns") svg.setAttribute(m[1], m[2]);
+          }
         }
+        const innerMatch = /<svg\b[^>]*>([\s\S]*)<\/svg>/i.exec(svgString);
+        if (innerMatch) svg.innerHTML = innerMatch[1];
+        el.appendChild(svg);
       } catch (e) {
-        // Cellule vide plutot que rendu casse -- detection visuelle a
-        // la relecture, pas de plantage de l'interface.
+        // Visible en console pour reperer une regression future, mais
+        // sans casser le rendu de la table -- la cellule reste vide.
+        console.warn("injectSvg failed:", e);
       }
     },
   });
